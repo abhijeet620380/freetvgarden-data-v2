@@ -500,7 +500,7 @@ https://rt-srb.rttv.com/dvr/rtbalkan/playlist.m3u8
 #EXTINF:-1 tvg-id="RTDocumentary.ru" tvg-country="RU" tvg-language="English" tvg-logo="https://i.imgur.com/aeu5zIC.png" tvg-status="live" group-title="Documentary",RT Documentary
 https://rt-doc.rttv.com/dvr/rtdru/playlist.m3u8
 #EXTINF:-1 tvg-id="RTenEspanol.ru" tvg-country="RU" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/960px-Russia-today-logo.svg.png" tvg-status="live" group-title="News",RT en Espanol
-https://live-evg10.tv360.bitel.com.pe/bitel/rt/playlist.m3u8
+http://15.204.246.24:8080/RTHD/index.m3u8
 #EXTINF:-1 tvg-id="RTGint.ru" tvg-country="RU" tvg-language="English" tvg-logo="https://i.imgur.com/ZpUNou4.png" tvg-status="down" group-title="Travel",RTG int. (Offline)
 http://213.91.179.28:8000/play/a0bw
 #EXTINF:-1 tvg-id="RTGTV.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/ZMKPAho.png" tvg-status="live" group-title="Travel",RTG TV
@@ -811,19 +811,19 @@ https://rfe-ingest.akamaized.net/hls/live/2033043/tvmc05/master.m3u8
 https://cdn-euronews.akamaized.net/live/eds/euronews-ru/25071/index.m3u8
 #EXTINF:-1 tvg-id="famelack-fAUqob7LIqewI8" tvg-country="RU" tvg-language="" tvg-logo="" tvg-status="live" group-title="General",Fon Music
 https://tntm.mediacdn.ru/cdn/tntmusic/playlist.m3u8
-#EXTINF:-1 tvg-id="famelack-oXgJOEwrL2XNcq" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-status="live" group-title="General",Fox
+#EXTINF:-1 tvg-id="famelack-oXgJOEwrL2XNcq" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-status="down" group-title="General",Fox (Offline)
 https://stream.mcquack.net/182/index.m3u8
-#EXTINF:-1 tvg-id="famelack-JecIpXSXe0rzpH" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-status="live" group-title="General",Fox Life
+#EXTINF:-1 tvg-id="famelack-JecIpXSXe0rzpH" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-status="down" group-title="General",Fox Life (Offline)
 https://stream.mcquack.net/129/index.m3u8
 #EXTINF:-1 tvg-id="famelack-nXaeivkDQS2yX6" tvg-country="RU" tvg-language="English" tvg-logo="" tvg-status="live" group-title="General",Insayt TV 4K
-https://stream8.cinerama.uz/1416/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="famelack-RQT4a6XQReMGRa" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-status="live" group-title="General",Match! Ultra 4K
+https://stream.mcquack.net/361/index.m3u8
+#EXTINF:-1 tvg-id="famelack-RQT4a6XQReMGRa" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-status="down" group-title="General",Match! Ultra 4K (Offline)
 https://stream.mcquack.net/169/index.m3u8
-#EXTINF:-1 tvg-id="famelack-rUBOp3vu7PP55S" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-status="live" group-title="General",Mir Kazakhstan
+#EXTINF:-1 tvg-id="famelack-rUBOp3vu7PP55S" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-status="down" group-title="General",Mir Kazakhstan (Offline)
 https://tvcdn01.esilnet.kz/tv/mir/index.m3u8
-#EXTINF:-1 tvg-id="famelack-jDb8tgaBS3dpwH" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-status="live" group-title="General",National Geographic
+#EXTINF:-1 tvg-id="famelack-jDb8tgaBS3dpwH" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-status="down" group-title="General",National Geographic (Offline)
 https://stream.mcquack.net/116/index.m3u8
-#EXTINF:-1 tvg-id="famelack-rXHwmhULYyEgNr" tvg-country="RU" tvg-language="English" tvg-logo="" tvg-status="live" group-title="General",Nickelodeon
+#EXTINF:-1 tvg-id="famelack-rXHwmhULYyEgNr" tvg-country="RU" tvg-language="English" tvg-logo="" tvg-status="down" group-title="General",Nickelodeon (Offline)
 https://stream.mcquack.net/443/index.m3u8
 #EXTINF:-1 tvg-id="famelack-09uQ7FKPOtwjwc" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-status="live" group-title="General",Nicktoons CIS
 https://stream8.cinerama.uz/1502/playlist.m3u8
