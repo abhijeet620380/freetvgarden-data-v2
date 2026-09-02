@@ -29,7 +29,7 @@ https://video2.getstreamhosting.com:19360/8092/8092.m3u8
 https://cablered.iptvperu.tv:1936/cablered/bitme-srt_new/playlist.m3u8
 #EXTINF:-1 tvg-id="bitMeLatinAmerica.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/JgXQz6c.png" tvg-status="down" group-title="Entertainment",bitMe Latin America (Offline)
 https://cablered.iptvperu.tv:1936/cablered/bitme_new/playlist.m3u8
-#EXTINF:-1 tvg-id="CaliforniaMediosTV.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/IDvpRNI.png" tvg-status="down" group-title="General",California Medios TV (Offline)
+#EXTINF:-1 tvg-id="CaliforniaMediosTV.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/IDvpRNI.png" tvg-status="live" group-title="General",California Medios TV
 https://s5.mexside.net:1936/medios/medios/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal5.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/cBC2Jre.png" tvg-status="live" group-title="General",Canal 5
 http://45.181.87.106/CANAL5HD/index.m3u8
@@ -37,7 +37,7 @@ http://45.181.87.106/CANAL5HD/index.m3u8
 https://video0.rogohosting.com:19360/tvcozumel/tvcozumel.m3u8
 #EXTINF:-1 tvg-id="Canal10Cancun.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/TvTn3hO.png" tvg-status="down" group-title="General",Canal 10 Cancun (Offline)
 http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal10Durango.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/H34quHQ.png" tvg-status="down" group-title="General",Canal 10 Durango (Offline)
+#EXTINF:-1 tvg-id="Canal10Durango.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/H34quHQ.png" tvg-status="live" group-title="General",Canal 10 Durango
 https://5e50264bd6766.streamlock.net/canal10durango/videocanal10durango/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal13Bajio.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/SlycKgZ.png" tvg-status="down" group-title="General",Canal 13 Bajio (Offline)
 https://stream-207963.castr.net/65313d270e749722b6474684/live_1c690d40dfb711eeabd66ba1b9ba93a1/index.fmp4.m3u8
@@ -89,7 +89,7 @@ http://181.119.66.28:8081/DE-PELICULA/index.m3u8
 https://video2.lhdserver.es/despiertatv/live.m3u8
 #EXTINF:-1 tvg-id="DistritoComedia.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/DistritoComediaLOGO2018.png/960px-DistritoComediaLOGO2018.png" tvg-status="live" group-title="Comedy",Distrito Comedia
 http://181.119.66.28:8081/DISTRITO-COMEDIA/index.m3u8
-#EXTINF:-1 tvg-id="EclipseTV.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/GiDD8xG.jpg" tvg-status="down" group-title="General",Eclipse TV (Offline)
+#EXTINF:-1 tvg-id="EclipseTV.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/GiDD8xG.jpg" tvg-status="live" group-title="General",Eclipse TV
 https://vdo6.instainternet.com:3272/live/jobetalborezlive.m3u8
 #EXTINF:-1 tvg-id="ElChavoTV.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://gia.tv/streams/pptv/211465.png" tvg-status="live" group-title="Kids",El Chavo TV
 https://live20.bozztv.com/giatvplayout7/giatv-211465/playlist.m3u8
@@ -109,7 +109,7 @@ http://38.19.41.46:8081/GOLDENEDGE/index.m3u8
 https://5fc584f3f19c9.streamlock.net/icrtvcolima/smil:icrtvcolima.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="IERTBCSCanal82.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/R3icGuG.png" tvg-status="live" group-title="Entertainment",IERTBCS Canal 8.2
 https://s5.mexside.net:1936/xhbzc82/xhbzc82/playlist.m3u8
-#EXTINF:-1 tvg-id="ILCECanal15SummaSaberes.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/r7czgOc.png" tvg-status="down" group-title="Education",ILCE Canal 15 Summa Saberes (Offline)
+#EXTINF:-1 tvg-id="ILCECanal15SummaSaberes.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/r7czgOc.png" tvg-status="live" group-title="Education",ILCE Canal 15 Summa Saberes
 https://live-ilce.ovp-vivaro.digital/ovp-origin-abr/ngrp:6359ef999f3fb_all/playlist.m3u8
 #EXTINF:-1 tvg-id="ImagenTV.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/lKrRvtS.png" tvg-status="live" group-title="General",Imagen TV
 https://igd-it-runtime.otteravision.com/igd/it/it.m3u8
@@ -197,15 +197,15 @@ https://stream.oursnetworktv.com/latin/encoder53/playlist.m3u8
 https://jmp2.uk/plu-63d2c140c111bc0008cb890b.m3u8
 #EXTINF:-1 tvg-id="TelehitMusica.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/CofYjWh.png" tvg-status="live" group-title="Music",Telehit Musica
 http://181.119.66.28:8081/TELEHIT-MUSICA/index.m3u8
-#EXTINF:-1 tvg-id="famelack-CV0J6mHYbHQoth" tvg-country="MX" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="General",Teleplay Sureste
+#EXTINF:-1 tvg-id="TeleplaySureste.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/MeV5N08.png" tvg-status="live" group-title="Entertainment",Teleplay Sureste
 https://player.tvstream.mx/livestream/teleplay/livehd/playlist.m3u8
 #EXTINF:-1 tvg-id="Teleritmo.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/9s380Bz.png" tvg-status="down" group-title="General",Teleritmo (Offline)
 https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
 #EXTINF:-1 tvg-id="TeleSaltillo.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/PgBtvgO.png" tvg-status="live" group-title="General",Tele Saltillo
 https://servilive.com:3879/live/telesaltillolive.m3u8
-#EXTINF:-1 tvg-id="TeleUV.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/8MdUH69.jpeg" tvg-status="down" group-title="Education",Tele UV (Offline)
+#EXTINF:-1 tvg-id="TeleUV.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/8MdUH69.jpeg" tvg-status="live" group-title="Education",Tele UV
 https://58fe359775f31.streamlock.net/tvuv/myStream/playlist.m3u8
-#EXTINF:-1 tvg-id="TlaxcalaTV.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/5vaEhfy.png" tvg-status="down" group-title="General",Tlaxcala TV (Offline)
+#EXTINF:-1 tvg-id="TlaxcalaTV.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/5vaEhfy.png" tvg-status="live" group-title="General",Tlaxcala TV
 https://vid26.mega00.com:5443/live/streams/qNmc7nulmq8zPYZE1582752735050.m3u8
 #EXTINF:-1 tvg-id="TlnovelasLatinAmerica.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/Rvm38Mu.png" tvg-status="down" group-title="Series",Tlnovelas Latin America (Offline)
 http://209.14.115.253:8081/TELENOVELAS/index.m3u8

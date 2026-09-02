@@ -47,7 +47,7 @@ http://rtmp.info:1935/soltv/envivo/playlist.m3u8
 http://45.167.2.101:8000/play/a0qx/index.m3u8
 #EXTINF:-1 tvg-id="TribunaTV.sv" tvg-country="SV" tvg-language="Spanish" tvg-logo="https://i.imgur.com/C5vHpd0.png" tvg-status="down" group-title="News",Tribuna TV (Offline)
 https://cloudflare.streamgato.us:3300/live/tribunatvlive.m3u8
-#EXTINF:-1 tvg-id="TVCa.sv" tvg-country="SV" tvg-language="Spanish" tvg-logo="https://i.imgur.com/uPWWtCA.png" tvg-status="down" group-title="Religious",TVCa (Offline)
+#EXTINF:-1 tvg-id="TVCa.sv" tvg-country="SV" tvg-language="Spanish" tvg-logo="https://i.imgur.com/uPWWtCA.png" tvg-status="live" group-title="Religious",TVCa
 https://live20.bozztv.com/akamaissh101/ssh101/tvcaelsalvador/playlist.m3u8
 #EXTINF:-1 tvg-id="TVCNetwork.sv" tvg-country="SV" tvg-language="Spanish" tvg-logo="https://i.imgur.com/S1xiWB3.png" tvg-status="live" group-title="General",TVC Network
 https://stream.castr.com/643880749cf895435bf8eadf/live_d0b3cf70e24111ed8ed2951b4c7d1b75/index.m3u8
@@ -59,7 +59,7 @@ https://serversv.com:8080/hls/tvgetsemani.m3u8
 https://6110f70ea8d0e.streamlock.net/1838/1838/playlist.m3u8
 #EXTINF:-1 tvg-id="TVMElSalvador.sv" tvg-country="SV" tvg-language="Spanish" tvg-logo="https://i.imgur.com/fyCC8R6.png" tvg-status="down" group-title="News",TVM El Salvador (Offline)
 https://twitch-m3u8.bastypro112.workers.dev/tvm_esa/index.m3u8
-#EXTINF:-1 tvg-id="TVOCanal23.sv" tvg-country="SV" tvg-language="Spanish" tvg-logo="https://i.imgur.com/nsXXEUZ.png" tvg-status="down" group-title="General",TVO Canal 23 (Offline)
+#EXTINF:-1 tvg-id="TVOCanal23.sv" tvg-country="SV" tvg-language="Spanish" tvg-logo="https://i.imgur.com/nsXXEUZ.png" tvg-status="live" group-title="General",TVO Canal 23
 http://45.167.2.101:8000/play/a0qo/index.m3u8
 #EXTINF:-1 tvg-id="WOWTV.sv" tvg-country="SV" tvg-language="Spanish" tvg-logo="https://i.imgur.com/dHxaWyp.png" tvg-status="down" group-title="General",WOW TV (Offline)
 https://cdn-edge1.cef-technology.com/wow/wow_tv/playlist.m3u8
