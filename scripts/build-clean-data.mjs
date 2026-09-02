@@ -11,13 +11,19 @@
 //      A channel only flips to "down" after 3 CONSECUTIVE failed runs
 //      (not one bad check), and flips back to "live" the moment it
 //      passes again. This directly fixes "I lost many working channels."
-//   4. Writes BOTH:
-//        - iptv/*.m3u        (all channels, always — even ones marked
-//                              "down" — tagged with a custom
-//                              tvg-status="live"/"down" attribute AND
-//                              "(Offline)" appended to the display name
-//                              as a plain-text fallback for players that
-//                              ignore custom attributes)
+//   4. Writes:
+//        - iptv/countries/{cc}.m3u   (one file per 2-letter country code)
+//        - iptv/categories/{slug}.m3u (one file per category)
+//        - iptv/languages/{code}.m3u (one file per language code — matches
+//                              the same code space app.js already gets
+//                              independently from iptv-org's languages.json;
+//                              channels with no known language are skipped
+//                              here, not dumped into a bogus "" file)
+//        - iptv/index.m3u    (all channels combined)
+//        All of the above include channels marked "down", tagged with a
+//        custom tvg-status="live"/"down" attribute AND "(Offline)" appended
+//        to the display name as a plain-text fallback for players that
+//        ignore custom attributes.
 //        - iptv/status.json  (channel id -> status, source, fail count —
 //                              this is what your WEBSITE should read to
 //                              actually show a live/down badge in the UI,
@@ -102,7 +108,7 @@ function normalizeFamelackEntry(raw) {
     id: `famelack-${raw.nanoid}`,
     name: raw.name,
     country: (raw.country || "").toUpperCase(),
-    languageCode: (raw.languages && raw.languages[0]) || "", // resolved to a name later, once we have iptv-org's language list loaded
+    languageCode: ((raw.languages && raw.languages[0]) || "").toLowerCase(), // resolved to a name later, once we have iptv-org's language list loaded
     logo: "", // confirmed: not present in this dataset
     group: "General", // confirmed: no per-channel category in this file
     categories: [],
@@ -269,6 +275,13 @@ async function main() {
     const code = langByChannelMain.get(channelId) || langByChannel.get(channelId);
     return code ? languageNameByCode.get(code) || "" : "";
   }
+  // Raw code (e.g. "eng"), not the resolved display name — this is what
+  // the languages/{code}.m3u filenames are keyed by, matching the same
+  // code space app.js already gets independently from iptv-org's own
+  // languages.json (fetched client-side, unrelated to this repo).
+  function getLanguageCode(channelId) {
+    return (langByChannelMain.get(channelId) || langByChannel.get(channelId) || "").toLowerCase();
+  }
 
   // Group iptv-org streams by channel (dedupe to one row per channel,
   // with mirrors as internal fallback candidates)
@@ -307,6 +320,7 @@ async function main() {
       name: ch.name,
       country: ch.country || "",
       language: getLanguage(ch.id),
+      languageCode: getLanguageCode(ch.id),
       logo: getLogo(ch.id),
       group: (ch.categories && ch.categories[0] && categoryNameById.get(ch.categories[0])) || "General",
       categories: ch.categories || [],
@@ -414,6 +428,17 @@ async function main() {
     await fs.writeFile(path.join(OUT_DIR, "categories", `${cat}.m3u`), toM3U(list));
   }
 
+  const byLanguage = {};
+  for (const ch of finalChannels) {
+    const code = (ch.languageCode || "").trim();
+    if (!code) continue; // no language info for this channel (e.g. curated YouTube entries) — skip rather than dump into a bogus "" file
+    (byLanguage[code] = byLanguage[code] || []).push(ch);
+  }
+  await fs.mkdir(path.join(OUT_DIR, "languages"), { recursive: true });
+  for (const [code, list] of Object.entries(byLanguage)) {
+    await fs.writeFile(path.join(OUT_DIR, "languages", `${code}.m3u`), toM3U(list));
+  }
+
   await fs.writeFile(path.join(OUT_DIR, "index.m3u"), toM3U(finalChannels));
 
   // status.json: THIS is what your website should read to show live/down
@@ -449,9 +474,11 @@ async function main() {
   const liveCount = finalChannels.filter(c => c.status === "live").length;
   const downCount = finalChannels.filter(c => c.status === "down").length;
   console.log(`Done. ${finalChannels.length} total channels published (${liveCount} live, ${downCount} down, none deleted).`);
+  console.log(`Wrote ${Object.keys(byCountry).length} country files, ${Object.keys(byCategory).length} category files, ${Object.keys(byLanguage).length} language files.`);
 }
 
 main().catch(e => {
   console.error(e);
   process.exit(1);
 });
+      
