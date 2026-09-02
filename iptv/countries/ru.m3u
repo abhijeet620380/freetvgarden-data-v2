@@ -500,7 +500,7 @@ https://rt-srb.rttv.com/dvr/rtbalkan/playlist.m3u8
 #EXTINF:-1 tvg-id="RTDocumentary.ru" tvg-country="RU" tvg-language="English" tvg-logo="https://i.imgur.com/aeu5zIC.png" tvg-status="live" group-title="Documentary",RT Documentary
 https://rt-doc.rttv.com/dvr/rtdru/playlist.m3u8
 #EXTINF:-1 tvg-id="RTenEspanol.ru" tvg-country="RU" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/960px-Russia-today-logo.svg.png" tvg-status="live" group-title="News",RT en Espanol
-http://15.204.246.24:8080/RTHD/index.m3u8
+https://live-evg10.tv360.bitel.com.pe/bitel/rt/playlist.m3u8
 #EXTINF:-1 tvg-id="RTGint.ru" tvg-country="RU" tvg-language="English" tvg-logo="https://i.imgur.com/ZpUNou4.png" tvg-status="down" group-title="Travel",RTG int.
 http://213.91.179.28:8000/play/a0bw
 #EXTINF:-1 tvg-id="RTGTV.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/ZMKPAho.png" tvg-status="live" group-title="Travel",RTG TV
@@ -611,9 +611,9 @@ http://178.124.179.122:8080/TRO/index.m3u8
 http://hls127.freeott.top:8080/Spas/video.m3u8
 #EXTINF:-1 tvg-id="Sportivnyy.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/ujS6mMo.png" tvg-status="live" group-title="Sports",Sportivnyy
 https://live-3.otcnet.ru/sportivny/index.m3u8
-#EXTINF:-1 tvg-id="famelack-bGtZkBQX1pajI4" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-status="live" group-title="General",Star Cinema
+#EXTINF:-1 tvg-id="famelack-bGtZkBQX1pajI4" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-status="live" group-title="Movies",Star Cinema
 https://dash2.antik.sk/live/test_star_cinema_atktv/playlist.m3u8
-#EXTINF:-1 tvg-id="famelack-HNOf8nkgiaINaY" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-status="live" group-title="General",Star Family
+#EXTINF:-1 tvg-id="StarFamily.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/eGuGHnZ.png" tvg-status="live" group-title="Movies",Star Family
 https://dash2.antik.sk/live/test_star_family_atktv/playlist.m3u8
 #EXTINF:-1 tvg-id="STARTAir.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://images.iptv.rt.ru/images/d60qp8omife4gis72tk0.png" tvg-status="live" group-title="Movies",START Air
 http://stream.mcquack.net/128/index.m3u8
@@ -709,12 +709,12 @@ http://rtmp.tvpro-online.ru/hls/ch1.m3u8
 https://bl.rutube.ru/livestream/5c9327074e25ca86f3111d4085cbbb65/index.m3u8?e=2066519758&s=9cPc1rCGu6M932eqrifRhQ&scheme=https
 #EXTINF:-1 tvg-id="UDAR.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://mt.media/upload/iblock/2b3/2b3cf99141bf7f99cda377eec62ec084.png" tvg-status="live" group-title="Sports",UDAR
 http://5.188.159.128:8070/udar/index.m3u8
-#EXTINF:-1 tvg-id="famelack-HLEoRKBCS06HUI" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-status="live" group-title="General",Ugra-TV
+#EXTINF:-1 tvg-id="UgraTV.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/561FRwI.png" tvg-status="live" group-title="General",Ugra-TV
 https://live-ugratv.cdnvideo.ru/ugratv/ugratv/playlist.m3u8
 #EXTINF:-1 tvg-id="Unikum.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/kSJZjDL.png" tvg-status="live" group-title="General",Unikum
 https://stream8.cinerama.uz/1033/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="UniverTV.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/r3u0mxr.png" tvg-status="live" group-title="General",Univer TV
-https://cdn.universmotri.ru/live/smil:univer.smil/playlist.m3u8
+https://cdn.universmotri.ru/live/smil:mbr.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="UnknownRussia.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/W7ste2f.png" tvg-status="live" group-title="General",Unknown Russia
 http://185.23.80.23:8080/NeizvestnayaRossia/index.m3u8
 #EXTINF:-1 tvg-id="Ural24.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/eoI4KuB.png" tvg-status="down" group-title="General",Ural 24
@@ -801,53 +801,53 @@ http://31.148.48.15/Zoo_TV/index.m3u8
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist.m3u8
 #EXTINF:-1 tvg-id="ZvezdaPlus.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/NNmjD9Z.png" tvg-status="live" group-title="General",Zvezda Plus
 http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist.m3u8
-#EXTINF:-1 tvg-id="famelack-3VqJp1fO3TYTIw" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-status="live" group-title="General",Angel TV Russian
+#EXTINF:-1 tvg-id="famelack-3VqJp1fO3TYTIw" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-status="live" group-title="Religious",Angel TV Russian
 https://janya-digimix.akamaized.net/vglive-sk-955415/russia/ngrp:angelrussia_all/playlist.m3u8
-#EXTINF:-1 tvg-id="famelack-RkE4eVl7ofwaod" tvg-country="RU" tvg-language="Hindi" tvg-logo="" tvg-status="live" group-title="General",Bollywood HD Russia
+#EXTINF:-1 tvg-id="famelack-RkE4eVl7ofwaod" tvg-country="RU" tvg-language="Hindi" tvg-logo="" tvg-status="live" group-title="Movies",Bollywood HD Russia
 https://xykt-fix.github.io/cinerama_edge01/hls/BOLLYWOOD_RU/Movie009.m3u8
-#EXTINF:-1 tvg-id="famelack-2Gi4riOGPwTn6u" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-status="live" group-title="General",Current Time TV
+#EXTINF:-1 tvg-id="famelack-2Gi4riOGPwTn6u" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-status="live" group-title="News",Current Time TV
 https://rfe-ingest.akamaized.net/hls/live/2033043/tvmc05/master.m3u8
-#EXTINF:-1 tvg-id="famelack-AebbSbQ8k1zQps" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-status="live" group-title="General",Euronews Russian
+#EXTINF:-1 tvg-id="famelack-AebbSbQ8k1zQps" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-status="live" group-title="News",Euronews Russian
 https://cdn-euronews.akamaized.net/live/eds/euronews-ru/25071/index.m3u8
 #EXTINF:-1 tvg-id="famelack-fAUqob7LIqewI8" tvg-country="RU" tvg-language="" tvg-logo="" tvg-status="live" group-title="General",Fon Music
 https://tntm.mediacdn.ru/cdn/tntmusic/playlist.m3u8
-#EXTINF:-1 tvg-id="famelack-oXgJOEwrL2XNcq" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-status="down" group-title="General",Fox
+#EXTINF:-1 tvg-id="famelack-oXgJOEwrL2XNcq" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-status="down" group-title="Entertainment",Fox
 https://stream.mcquack.net/182/index.m3u8
-#EXTINF:-1 tvg-id="famelack-JecIpXSXe0rzpH" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-status="down" group-title="General",Fox Life
+#EXTINF:-1 tvg-id="famelack-JecIpXSXe0rzpH" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-status="down" group-title="Series",Fox Life
 https://stream.mcquack.net/129/index.m3u8
 #EXTINF:-1 tvg-id="famelack-nXaeivkDQS2yX6" tvg-country="RU" tvg-language="English" tvg-logo="" tvg-status="live" group-title="General",Insayt TV 4K
 https://stream8.cinerama.uz/1416/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="famelack-EDJsRoJArkwgcL" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-status="live" group-title="General",Jetix
+#EXTINF:-1 tvg-id="famelack-EDJsRoJArkwgcL" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-status="live" group-title="Kids",Jetix
 https://www.youtube-nocookie.com/embed/fvK4CMQRr6Q
-#EXTINF:-1 tvg-id="famelack-RQT4a6XQReMGRa" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-status="down" group-title="General",Match! Ultra 4K
+#EXTINF:-1 tvg-id="famelack-RQT4a6XQReMGRa" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-status="down" group-title="Sports",Match! Ultra 4K
 https://stream.mcquack.net/169/index.m3u8
 #EXTINF:-1 tvg-id="famelack-rUBOp3vu7PP55S" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-status="down" group-title="General",Mir Kazakhstan
 https://tvcdn01.esilnet.kz/tv/mir/index.m3u8
-#EXTINF:-1 tvg-id="famelack-jDb8tgaBS3dpwH" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-status="down" group-title="General",National Geographic
+#EXTINF:-1 tvg-id="famelack-jDb8tgaBS3dpwH" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-status="down" group-title="Documentary",National Geographic
 https://stream.mcquack.net/116/index.m3u8
-#EXTINF:-1 tvg-id="famelack-rXHwmhULYyEgNr" tvg-country="RU" tvg-language="English" tvg-logo="" tvg-status="down" group-title="General",Nickelodeon
+#EXTINF:-1 tvg-id="famelack-rXHwmhULYyEgNr" tvg-country="RU" tvg-language="English" tvg-logo="" tvg-status="down" group-title="Kids",Nickelodeon
 https://stream.mcquack.net/443/index.m3u8
-#EXTINF:-1 tvg-id="famelack-09uQ7FKPOtwjwc" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-status="live" group-title="General",Nicktoons CIS
+#EXTINF:-1 tvg-id="famelack-09uQ7FKPOtwjwc" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-status="live" group-title="Kids",Nicktoons CIS
 https://stream8.cinerama.uz/1502/playlist.m3u8
-#EXTINF:-1 tvg-id="famelack-0mulGVhtSW9kDC" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-status="live" group-title="General",RTД
+#EXTINF:-1 tvg-id="famelack-0mulGVhtSW9kDC" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-status="live" group-title="Documentary",RTД
 https://rt-doc.rttv.com/dvr/rtdru/playlist.m3u8
-#EXTINF:-1 tvg-id="famelack-CliuBv6wjZdpBP" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-status="live" group-title="General",Trace Sport Stars Russia
+#EXTINF:-1 tvg-id="famelack-CliuBv6wjZdpBP" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-status="live" group-title="Sports",Trace Sport Stars Russia
 https://stream8.cinerama.uz/1274/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="famelack-OPwNo7g1vlqU7d" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-status="live" group-title="General",Дембельский альбом: Солдаты
+#EXTINF:-1 tvg-id="famelack-OPwNo7g1vlqU7d" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-status="live" group-title="Series",Дембельский альбом: Солдаты
 https://www.youtube-nocookie.com/embed/1zpCNefHbC0
-#EXTINF:-1 tvg-id="famelack-LDv8j64nAQo1e9" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-status="live" group-title="General",Детское кино International
+#EXTINF:-1 tvg-id="famelack-LDv8j64nAQo1e9" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-status="live" group-title="Movies",Детское кино International
 https://autopilot.catcast.tv/content/38720/index.m3u8
-#EXTINF:-1 tvg-id="famelack-JsbwFfNdUCfjhv" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-status="live" group-title="General",Кино 1 International
-https://kino-1.catcast.tv/content/38617/index.m3u8
-#EXTINF:-1 tvg-id="famelack-J3EJNMTTTwoCfX" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-status="live" group-title="General",Кино Добряк: Сваты и Байки Митяя
+#EXTINF:-1 tvg-id="famelack-JsbwFfNdUCfjhv" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-status="live" group-title="Movies",Кино 1 International
+https://autopilot.catcast.tv/content/38617/index.m3u8
+#EXTINF:-1 tvg-id="famelack-J3EJNMTTTwoCfX" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-status="live" group-title="Series",Кино Добряк: Сваты и Байки Митяя
 https://www.youtube-nocookie.com/embed/ozuhPITB_4g
-#EXTINF:-1 tvg-id="famelack-UptrzheOmTQwWu" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-status="live" group-title="General",Музыка 1 International
-https://kino-1.catcast.tv/content/37745/index.m3u8
-#EXTINF:-1 tvg-id="famelack-UCMJJw8ybEUxDH" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-status="live" group-title="General",Музыка Кино International
+#EXTINF:-1 tvg-id="famelack-UptrzheOmTQwWu" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-status="live" group-title="Music",Музыка 1 International
+https://kino-1.catcast.tv/content/37742/index.m3u8
+#EXTINF:-1 tvg-id="famelack-UCMJJw8ybEUxDH" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-status="live" group-title="Music",Музыка Кино International
 https://kino-1.catcast.tv/content/37739/index.m3u8
 #EXTINF:-1 tvg-id="famelack-MebfmIDc5IgnOG" tvg-country="RU" tvg-language="" tvg-logo="" tvg-status="live" group-title="General",Первый канал Европа
 https://streaming.thestream.cyou/live/210.m3u8
-#EXTINF:-1 tvg-id="famelack-vzPGxRe9XdVwB1" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-status="live" group-title="General",Советское телевидение. ГОСТЕЛЕРАДИОФОНД: Следствие ведут ЗнаТоКи
+#EXTINF:-1 tvg-id="famelack-vzPGxRe9XdVwB1" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-status="live" group-title="Series",Советское телевидение. ГОСТЕЛЕРАДИОФОНД: Следствие ведут ЗнаТоКи
 https://www.youtube-nocookie.com/embed/NFXv2UW-KLI
-#EXTINF:-1 tvg-id="famelack-jf4gPtHjnGADqF" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-status="live" group-title="General",Союзмультфильм: Ну  погоди!
+#EXTINF:-1 tvg-id="famelack-jf4gPtHjnGADqF" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-status="live" group-title="Kids",Союзмультфильм: Ну  погоди!
 https://www.youtube-nocookie.com/embed/ozFiyuUljag

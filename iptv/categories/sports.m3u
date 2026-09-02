@@ -215,7 +215,7 @@ http://138.121.113.175:8000/play/a0ca/index.m3u8
 http://138.121.113.175:8000/play/a0cj/index.m3u8
 #EXTINF:-1 tvg-id="DynamoKyivTV.ua" tvg-country="UA" tvg-language="Ukrainian" tvg-logo="https://i.imgur.com/ymxmyyG.png" tvg-status="live" group-title="Sports",Dynamo Kyiv TV
 http://stream.mcquack.net/396/index.m3u8
-#EXTINF:-1 tvg-id="ElHeddafTV.dz" tvg-country="DZ" tvg-language="Arabic" tvg-logo="https://i.imgur.com/cDkIDIA.png" tvg-status="live" group-title="Sports",El-Heddaf TV
+#EXTINF:-1 tvg-id="famelack-3spET73XcwPAv7" tvg-country="DZ" tvg-language="Arabic" tvg-logo="" tvg-status="live" group-title="Sports",El-Heddaf TV
 https://live.elheddaftv.com:8081/elheddaftv/index.m3u8
 #EXTINF:-1 tvg-id="Equalympic.ua" tvg-country="UA" tvg-language="Ukrainian" tvg-logo="https://i.imgur.com/ixSj4H7.png" tvg-status="live" group-title="Sports",Equalympic
 http://stream.mcquack.net/485/index.m3u8
@@ -602,7 +602,7 @@ https://7nyaler.streamhostingcdn.top/stream/15/index.m3u8
 #EXTINF:-1 tvg-id="Sportitalia.it" tvg-country="IT" tvg-language="Italian" tvg-logo="https://i.imgur.com/0CJGGgd.png" tvg-status="live" group-title="Sports",Sportitalia
 https://edge-001.streamup.eu/sportitalia/sihd_abr/playlist.m3u8
 #EXTINF:-1 tvg-id="SportitaliaSolocalcio.it" tvg-country="IT" tvg-language="Italian" tvg-logo="https://i.imgur.com/hu56Ya5.png" tvg-status="live" group-title="Sports",Sportitalia Solocalcio
-https://italiansport-solocalcio-samsung.amagi.tv/playlist.m3u8
+https://edge-001.streamup.eu/sportitalia/sisolocalcio_abr/playlist.m3u8
 #EXTINF:-1 tvg-id="Sportivnyy.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/ujS6mMo.png" tvg-status="live" group-title="Sports",Sportivnyy
 https://live-3.otcnet.ru/sportivny/index.m3u8
 #EXTINF:-1 tvg-id="SportsGrid.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/ulGKX30.png" tvg-status="live" group-title="Sports",SportsGrid
@@ -633,12 +633,20 @@ https://live-evg8.tv360.bitel.com.pe/bitel/studiotvhuanta/playlist.m3u8
 https://corestream.siteyaptim.live/s-sport2/index.m3u8
 #EXTINF:-1 tvg-id="SSport.tr" tvg-country="TR" tvg-language="Turkish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a9/S_Sport_logo1.png" tvg-status="down" group-title="Sports",S Sport
 https://corestream.siteyaptim.live/s-sport/index.m3u8
+#EXTINF:-1 tvg-id="Stadium.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/SnZOiER.png" tvg-status="live" group-title="Sports",Stadium
+https://aegis-cloudfront-1.tubi.video/74681dcc-e6d0-4add-ad67-a22ad9c152e6/playlist.m3u8
 #EXTINF:-1 tvg-id="StarSports1Hindi.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_1_HINDI/images/LOGO_HD/image.png" tvg-status="down" group-title="Sports",Star Sports 1 Hindi
 http://103.253.18.58:8000/play/a00t
+#EXTINF:-1 tvg-id="StarSports2.in" tvg-country="IN" tvg-language="English" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_2/images/LOGO_HD/image.png" tvg-status="live" group-title="Sports",Star Sports 2
+http://tvsen5.aynascope.net/cXPB2LKkErN9/index.m3u8
+#EXTINF:-1 tvg-id="StarSports2Hindi.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SPORTS18_SYMHYP_1_HD/images/LOGO_HD/image.png" tvg-status="live" group-title="Sports",Star Sports 2 Hindi
+https://tvsen5.aynaott.com/cXPB2LKkErN9/index.m3u8
 #EXTINF:-1 tvg-id="StarSportsKhel.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_KHEL/images/LOGO_HD/LOGO_HD_image.png" tvg-status="down" group-title="Sports",Star Sports Khel
 http://103.175.73.12:8080/live/151/151_0.m3u8
 #EXTINF:-1 tvg-id="StarSportsSelect1.in" tvg-country="IN" tvg-language="English" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_SELECT_1/images/LOGO_HD/image.png" tvg-status="down" group-title="Sports",Star Sports Select 1
 http://tvsen7.aynascope.net/sspts1/index.m3u8
+#EXTINF:-1 tvg-id="StarSportsSelect2.in" tvg-country="IN" tvg-language="English" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_SELECT_2/images/LOGO_HD/image.png" tvg-status="live" group-title="Sports",Star Sports Select 2
+http://tvsen7.aynascope.net/ssport2hd/index.m3u8
 #EXTINF:-1 tvg-id="StartTriumf.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/L9jTieL.png" tvg-status="down" group-title="Sports",Start Triumf
 https://bl.webcaster.pro/media/playlist/free_fe8dc1b768a84b8b0333db826471f17e_hd/33_85479982/1080p/8666c3e935faf6ef47ffd601e8e48868/4821408969.m3u8
 #EXTINF:-1 tvg-id="Strongman.us" tvg-country="US" tvg-language="German" tvg-logo="https://i.imgur.com/bVQBF6R.png" tvg-status="live" group-title="Sports",Strongman
@@ -673,8 +681,8 @@ https://cyclingtv.playout.vju.tv/cyclingtv/main.m3u8
 http://45.5.119.43:4000/play/a05t/index.m3u8
 #EXTINF:-1 tvg-id="TigoSports.py" tvg-country="PY" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Tigo_Sports_2025.png" tvg-status="live" group-title="Sports",Tigo Sports
 https://d3kzwqwnq1f7tq.cloudfront.net/out/v1/0fd608d0807c48edb4713da6b80e8c34/index_6.m3u8?z=b
-#EXTINF:-1 tvg-id="TigoSportsPlus.py" tvg-country="PY" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Tigo_Sports_2025.png/960px-Tigo_Sports_2025.png" tvg-status="live" group-title="Sports",Tigo Sports+
-https://lbgo.bozztv.com/ssh101/ssh101/events2py/playlist.m3u8
+#EXTINF:-1 tvg-id="famelack-b3mt6RVBhhnDwq" tvg-country="PY" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="Sports",Tigo Sports+
+https://stmv7.voxtvhd.com.br/xxvideo/xxvideo/playlist.m3u8
 #EXTINF:-1 tvg-id="TJKTV2.tr" tvg-country="TR" tvg-language="Turkish" tvg-logo="https://i.imgur.com/3zHdkYG.png" tvg-status="down" group-title="Sports",TJK TV 2
 https://tjktv-live.tjk.org/tjktv2/tjktv2.m3u8
 #EXTINF:-1 tvg-id="TJKTV.tr" tvg-country="TR" tvg-language="Turkish" tvg-logo="https://i.imgur.com/3zHdkYG.png" tvg-status="live" group-title="Sports",TJK TV
@@ -732,7 +740,7 @@ http://45.170.130.224:8000/play/a020/index.m3u8
 #EXTINF:-1 tvg-id="UDAR.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://mt.media/upload/iblock/2b3/2b3cf99141bf7f99cda377eec62ec084.png" tvg-status="live" group-title="Sports",UDAR
 http://5.188.159.128:8070/udar/index.m3u8
 #EXTINF:-1 tvg-id="Unbeaten.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/LmkNt3v.png" tvg-status="live" group-title="Sports",Unbeaten
-https://d1t5afz6qed3xk.cloudfront.net/Unbeaten.m3u8
+https://lukentvlive.vgcdn.net/v1/master/cef183924f24adfa3d5d7601c3a17769082c0c2b/UnbeatenSports/playlist.m3u8
 #EXTINF:-1 tvg-id="Unite8Sports1.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_CAFE/images/LOGO_HD/LOGO_HD_5UHAHVIHu_UNITE8-SPORTS-1_264X144.webp" tvg-status="down" group-title="Sports",Unite8 Sports 1
 http://59.103.38.46:8000/play/a125/index.m3u8
 #EXTINF:-1 tvg-id="Unite8Sports2.in" tvg-country="IN" tvg-language="English" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMANDFLIX/images/LOGO_HD/LOGO_HD_BvXTgRk6Y_UNITE8-SPORTS-2_264X144.webp" tvg-status="live" group-title="Sports",Unite8 Sports 2
@@ -777,3 +785,49 @@ http://145.239.5.177/349/index.m3u8
 http://86.87.15.10:8004/play/a02d/index.m3u8
 #EXTINF:-1 tvg-id="ZonaDAZN.it" tvg-country="IT" tvg-language="Italian" tvg-logo="https://i.imgur.com/Jop3Vip.png" tvg-status="down" group-title="Sports",Zona DAZN
 https://7nyaler.streamhostingcdn.top/stream/24/index.m3u8
+#EXTINF:-1 tvg-id="famelack-DkYyR4OdRG7yGO" tvg-country="DE" tvg-language="English" tvg-logo="" tvg-status="live" group-title="Sports",Auto Addiction
+https://www.youtube-nocookie.com/embed/r0HiHmvjj00
+#EXTINF:-1 tvg-id="famelack-ryl2lCtBRetuci" tvg-country="TR" tvg-language="Turkish" tvg-logo="" tvg-status="live" group-title="Sports",beIN SPORTS Türkiye
+https://www.youtube-nocookie.com/embed/i7UpPgxfZZ8
+#EXTINF:-1 tvg-id="famelack-G7PrVny1yyiQQU" tvg-country="US" tvg-language="English" tvg-logo="" tvg-status="live" group-title="Sports",ESPN8 The Ocho
+https://d3b6q2ou5kp8ke.cloudfront.net/ESPNTheOcho.m3u8
+#EXTINF:-1 tvg-id="famelack-buMnowpZSOvaCS" tvg-country="US" tvg-language="English" tvg-logo="" tvg-status="live" group-title="Sports",FIFA+ United States
+https://d2w9q46ikgrcwx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-of5cbk3sav3w5/v1/sysdata_s_p_a_fifa_7/samsungheadend_us/latest/main/hls/playlist.m3u8
+#EXTINF:-1 tvg-id="famelack-Iuaewjg35O2O7W" tvg-country="PT" tvg-language="English" tvg-logo="" tvg-status="live" group-title="Sports",FUEL TV APAC
+https://amg01074-fueltv-fueltvau-samsungau-g09kq.amagi.tv/playlist/amg01074-fueltv-fueltvau-samsungau/playlist.m3u8
+#EXTINF:-1 tvg-id="famelack-q2KimDhflePyDK" tvg-country="PT" tvg-language="English" tvg-logo="" tvg-status="live" group-title="Sports",FUEL TV Europe
+https://amg01074-fueltv-fueltvemeaen-rakuten-b6j62.amagi.tv/hls/amagi_hls_data_rakutenAA-fueltvemeaen/CDN/master.m3u8
+#EXTINF:-1 tvg-id="famelack-w6ttDNPMaglKeI" tvg-country="TR" tvg-language="Turkish" tvg-logo="" tvg-status="live" group-title="Sports",HT Spor
+https://www.youtube-nocookie.com/embed/gcWaPe_LBMc
+#EXTINF:-1 tvg-id="famelack-RQT4a6XQReMGRa" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-status="down" group-title="Sports",Match! Ultra 4K
+https://stream.mcquack.net/169/index.m3u8
+#EXTINF:-1 tvg-id="famelack-xYgLb0tc6pAHED" tvg-country="CH" tvg-language="German" tvg-logo="" tvg-status="live" group-title="Sports",More Than Sports TV
+https://mts1.iptv-playoutcenter.de/mts/mts-web/playlist.m3u8
+#EXTINF:-1 tvg-id="famelack-waNiTP0zBhMtU6" tvg-country="US" tvg-language="English" tvg-logo="" tvg-status="live" group-title="Sports",Pac-12 Insider
+https://pac12-roku-us.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="famelack-T0WISoye0VXycS" tvg-country="IR" tvg-language="Persian" tvg-logo="" tvg-status="live" group-title="Sports",Persiana Fight
+https://fighthls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="famelack-7TX9VjMY1i891b" tvg-country="IT" tvg-language="Italian" tvg-logo="" tvg-status="live" group-title="Sports",QSVS: Top Calcio 24
+https://www.youtube-nocookie.com/embed/smcQvzsh5Qo
+#EXTINF:-1 tvg-id="famelack-PgSQJkjlJAZPaq" tvg-country="PL" tvg-language="English" tvg-logo="" tvg-status="live" group-title="Sports",RACER International FAST
+https://amg00378-mavtv-amg00378c2-rakuten-us-1048.playouts.now.amagi.tv/playlist/amg00378-mavtvfast-motorsportsnetwork-rakutenus/playlist.m3u8
+#EXTINF:-1 tvg-id="famelack-vfExfpKOcJ4kwS" tvg-country="AF" tvg-language="Pashto" tvg-logo="" tvg-status="live" group-title="Sports",RTA Sport
+https://rta-tv.akamaized.net/live/SD/RTA-3/RTA/RTA-3.m3u8
+#EXTINF:-1 tvg-id="famelack-83RIN2z2ujqEoT" tvg-country="EE" tvg-language="English" tvg-logo="" tvg-status="down" group-title="Sports",Sport 1 Baltic
+https://stream.mcquack.net/461/index.m3u8
+#EXTINF:-1 tvg-id="famelack-CliuBv6wjZdpBP" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-status="live" group-title="Sports",Trace Sport Stars Russia
+https://stream8.cinerama.uz/1274/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="famelack-jZEkpGlt5AGs91" tvg-country="US" tvg-language="English" tvg-logo="" tvg-status="live" group-title="Sports",WCW
+https://www.youtube-nocookie.com/embed/Q2w1ZPHIpA0
+#EXTINF:-1 tvg-id="famelack-EZYzbbetjgxX2q" tvg-country="US" tvg-language="English" tvg-logo="" tvg-status="live" group-title="Sports",World Poker Tour 1
+https://www.youtube-nocookie.com/embed/9OfkBpn2e2A
+#EXTINF:-1 tvg-id="famelack-CCEdL436rIG1E6" tvg-country="US" tvg-language="English" tvg-logo="" tvg-status="live" group-title="Sports",World Poker Tour 2
+https://www.youtube-nocookie.com/embed/AatxkgXuaBI
+#EXTINF:-1 tvg-id="famelack-B03jGEe29rjEvW" tvg-country="PL" tvg-language="English" tvg-logo="" tvg-status="live" group-title="Sports",World Poker Tour Poland
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/playlist.m3u8?ads.xumo_channelId=88883102
+#EXTINF:-1 tvg-id="famelack-7TAJrOeAkmgT9J" tvg-country="UK" tvg-language="English" tvg-logo="" tvg-status="live" group-title="Sports",World Poker Tour UK
+https://amg00477-samsungelectron-worldpokertour-samsunguk-81igb.amagi.tv/playlist/amg00477-samsungelectron-worldpokertour-samsunguk/playlist.m3u8
+#EXTINF:-1 tvg-id="famelack-8Ndns6qOA3E0TP" tvg-country="US" tvg-language="English" tvg-logo="" tvg-status="live" group-title="Sports",WWE
+https://www.youtube-nocookie.com/embed/Jy_Nv1GTTbQ
+#EXTINF:-1 tvg-id="famelack-KfPyDEuOOc6z6o" tvg-country="US" tvg-language="English" tvg-logo="" tvg-status="live" group-title="Sports",WWE Vault
+https://www.youtube-nocookie.com/embed/zm_LhcdSmeQ
