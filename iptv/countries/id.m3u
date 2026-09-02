@@ -71,7 +71,7 @@ https://dutatv.siar.us/dutatv/live/playlist.m3u8
 https://live.efarinatv.com/hls/bgtaufikganteng.m3u8
 #EXTINF:-1 tvg-id="EInternational.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://hosting.renderforestsites.com/35126779/1659328/media/1058391c8059a0d092426e145d55951b.png" tvg-status="live" group-title="General",E International
 https://gist.githubusercontent.com/iptvonlinetv/cf56ccf36d1c0827e4dc470db7b7912d/raw/066b1c9755b2496805575f16d413bd1207ca8117/udp315.520.789:8060.m3u8
-#EXTINF:-1 tvg-id="FajarTV.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://i.imgur.com/mkuXxRK.png" tvg-status="live" group-title="Religious",Fajar TV
+#EXTINF:-1 tvg-id="FajarTV.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://i.imgur.com/mkuXxRK.png" tvg-status="down" group-title="Religious",Fajar TV
 http://122.248.43.242:1935/FAJARTV/_definst_/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="FicomChannel.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://i.imgur.com/KMEf0Cc.png" tvg-status="live" group-title="Entertainment",Ficom Channel
 https://v3.siar.us/ficomchannel/live/playlist.m3u8
@@ -155,7 +155,7 @@ http://122.248.43.242:1935/PONTV/_definst_/myStream/playlist.m3u8
 https://pujatv.siar.us/live/pujatv.m3u8
 #EXTINF:-1 tvg-id="RadarLampungTV.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/id/4/42/Logo_RadarTV_Lampung.png" tvg-status="live" group-title="General",Radar Lampung TV
 https://www.streaming.radartv.co.id/hls/test.m3u8
-#EXTINF:-1 tvg-id="RadarTasikmalayaTV.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Logo_Radar_Tasikmalaya_TV.png" tvg-status="live" group-title="General",Radar Tasikmalaya TV
+#EXTINF:-1 tvg-id="RadarTasikmalayaTV.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Logo_Radar_Tasikmalaya_TV.png" tvg-status="down" group-title="General",Radar Tasikmalaya TV
 https://v2.siar.us/radartasikmalaya/live/playlist.m3u8
 #EXTINF:-1 tvg-id="RajawaliTV.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://i.imgur.com/dlsv1sl.png" tvg-status="live" group-title="General",Rajawali TV
 https://rtvstream.rtv.co.id:4555/hls/rtv.m3u8
@@ -225,20 +225,24 @@ https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv.m3u8
 http://ikitv.sqn.at:8000/play/a023/index.m3u8
 #EXTINF:-1 tvg-id="YOYInternational.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://hosting.renderforestsites.com/35126779/1657983/media/3ed50b4273b16759c16450206bec0196.png" tvg-status="live" group-title="General",YOY International
 https://gist.githubusercontent.com/iptvonlinetv/8a6b2f12e5e968537378f1245cea02c9/raw/78bf84476f8e24cc8ea9d5ac24855078c61b18db/udp305.575.530:3030.m3u8
+#EXTINF:-1 tvg-id="famelack-o2PfBDwt7tySj4" tvg-country="ID" tvg-language="English" tvg-logo="" tvg-status="live" group-title="Religious",Angel TV Indonesia
+https://janya-digimix.akamaized.net/vglive-sk-234616/indonesia/ngrp:angelindonesia_all/playlist.m3u8
 #EXTINF:-1 tvg-id="famelack-UWAiuQmeRUZ75q" tvg-country="ID" tvg-language="Indonesian" tvg-logo="" tvg-status="live" group-title="Music",Aquarius Musikindo: Frekuensi
-https://www.youtube-nocookie.com/embed/Tq8KTUlEycQ
+https://www.youtube-nocookie.com/embed/DomFZ-KEGo0
 #EXTINF:-1 tvg-id="famelack-U2wJ3BI8Zw3hJZ" tvg-country="ID" tvg-language="Indonesian" tvg-logo="" tvg-status="live" group-title="General",E International Asia
 https://gist.githubusercontent.com/iptvonlinetv/cf56ccf36d1c0827e4dc470db7b7912d/raw/066b1c9755b2496805575f16d413bd1207ca8117/udp315.520.789:8060.m3u8
 #EXTINF:-1 tvg-id="famelack-2IWnSWLY0ULkRO" tvg-country="ID" tvg-language="Indonesian" tvg-logo="" tvg-status="live" group-title="General",E International Europe
 https://gist.githubusercontent.com/iptvonlinetv/cf56ccf36d1c0827e4dc470db7b7912d/raw/066b1c9755b2496805575f16d413bd1207ca8117/udp410.310.578:2020.m3u8
 #EXTINF:-1 tvg-id="famelack-sGIxGHruoXGkMd" tvg-country="ID" tvg-language="Indonesian" tvg-logo="" tvg-status="live" group-title="Religious",Gazwah TV
 https://www.youtube-nocookie.com/embed/74U0ROQlxfw
-#EXTINF:-1 tvg-id="famelack-zrn3dK1AY8AcF8" tvg-country="ID" tvg-language="Indonesian" tvg-logo="" tvg-status="live" group-title="Religious",Marhaban TV
-https://www.youtube-nocookie.com/embed/AZs2fLMDP4Q
+#EXTINF:-1 tvg-id="famelack-A8yIwT2axQkqtt" tvg-country="ID" tvg-language="Indonesian" tvg-logo="" tvg-status="live" group-title="Religious",Media Sunnah Aceh TV
+https://www.youtube-nocookie.com/embed/E2xkV677crI
 #EXTINF:-1 tvg-id="famelack-AdvqXD9VdsJSYL" tvg-country="ID" tvg-language="Indonesian" tvg-logo="" tvg-status="live" group-title="Religious",MTA TV
 https://www.youtube-nocookie.com/embed/j-cz1y6tL9o
 #EXTINF:-1 tvg-id="famelack-ts73mvVV0P9A9R" tvg-country="ID" tvg-language="Indonesian" tvg-logo="" tvg-status="live" group-title="News",Official iNews
 https://www.youtube-nocookie.com/embed/WHTPYAvakTg
+#EXTINF:-1 tvg-id="famelack-eQt3qfpQWLo9FO" tvg-country="ID" tvg-language="Indonesian" tvg-logo="" tvg-status="live" group-title="News",Serambinews
+https://www.youtube-nocookie.com/embed/m5yjhA-3p2g
 #EXTINF:-1 tvg-id="famelack-ig8Heof5b0HbF8" tvg-country="ID" tvg-language="Indonesian" tvg-logo="" tvg-status="live" group-title="General",Stara TV Bandung
 https://bandung.staratv.id/hls/0/stream.m3u8
 #EXTINF:-1 tvg-id="famelack-KbDB4QEpUzNUxH" tvg-country="ID" tvg-language="Indonesian" tvg-logo="" tvg-status="live" group-title="General",Stara TV Bojonegoro
