@@ -3,7 +3,7 @@
 https://stream.y5.hu/stream/stream_bekescsaba/stream.m3u8
 #EXTINF:-1 tvg-id="16tvBudapest.hu" tvg-country="HU" tvg-language="Hungarian" tvg-logo="https://i.imgur.com/04fCzHl.png" tvg-status="live" group-title="General",16tv Budapest
 https://cloudfront44.lexanetwork.com:1344/freerelay/16tv.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="AlfoldTV.hu" tvg-country="HU" tvg-language="Hungarian" tvg-logo="https://i.imgur.com/W6jg8iM.png" tvg-status="live" group-title="Entertainment",Alfold TV
+#EXTINF:-1 tvg-id="AlfoldTV.hu" tvg-country="HU" tvg-language="Hungarian" tvg-logo="https://i.imgur.com/W6jg8iM.png" tvg-status="down" group-title="Entertainment",Alfold TV (Offline)
 https://cloudfront41.lexanetwork.com:1344/relay01/livestream006.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="ApostolTV.hu" tvg-country="HU" tvg-language="Hungarian" tvg-logo="https://i.imgur.com/C43Cc9N.png" tvg-status="live" group-title="Religious",Apostol TV
 https://live.apostoltv.hu/live/playlist.m3u8
@@ -13,11 +13,11 @@ http://88.212.15.19/live/test_atv_hungary_1200_atk/playlist.m3u8
 http://88.212.15.19/live/test_atv_spirit/playlist.m3u8
 #EXTINF:-1 tvg-id="AXNSpin.hu" tvg-country="HU" tvg-language="Serbian" tvg-logo="https://i.imgur.com/uVFenKm.png" tvg-status="live" group-title="Entertainment",AXN Spin
 https://cronos.mangora1.cfd/spyn/usergencs85ja0j1rrnd.m3u8
-#EXTINF:-1 tvg-id="BajaiTV.hu" tvg-country="HU" tvg-language="Hungarian" tvg-logo="https://i.imgur.com/cyReGWh.png" tvg-status="live" group-title="General",Bajai TV
+#EXTINF:-1 tvg-id="BajaiTV.hu" tvg-country="HU" tvg-language="Hungarian" tvg-logo="https://i.imgur.com/cyReGWh.png" tvg-status="down" group-title="General",Bajai TV (Offline)
 https://cloudfront41.lexanetwork.com:1344/relay01/livestream002.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="BalatonTV.hu" tvg-country="HU" tvg-language="Hungarian" tvg-logo="https://balatontelevizio.hu/wp-content/uploads/2020/05/balaton_tv_logo.png" tvg-status="live" group-title="General",Balaton TV
 https://stream.iptvservice.eu/hls/balatontv.m3u8
-#EXTINF:-1 tvg-id="BerenteTV.hu" tvg-country="HU" tvg-language="Hungarian" tvg-logo="https://i.imgur.com/3H3Ct9f.png" tvg-status="live" group-title="General",Berente TV
+#EXTINF:-1 tvg-id="BerenteTV.hu" tvg-country="HU" tvg-language="Hungarian" tvg-logo="https://i.imgur.com/3H3Ct9f.png" tvg-status="down" group-title="General",Berente TV (Offline)
 https://stream.streaming4u.hu/BerenteTV/index.m3u8
 #EXTINF:-1 tvg-id="BTV.hu" tvg-country="HU" tvg-language="Hungarian" tvg-logo="https://i.imgur.com/0PKqn3V.png" tvg-status="live" group-title="General",BTV
 https://cloudfront44.lexanetwork.com:1344/freerelay/babolnatv.sdp/playlist.m3u8
@@ -25,15 +25,15 @@ https://cloudfront44.lexanetwork.com:1344/freerelay/babolnatv.sdp/playlist.m3u8
 https://cloudfront44.lexanetwork.com:1344/freerelay/bpetv.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="CityTV.hu" tvg-country="HU" tvg-language="Hungarian" tvg-logo="https://i.imgur.com/u0AKhzj.png" tvg-status="live" group-title="General",City TV
 https://citytv.hu/playlist.m3u8
-#EXTINF:-1 tvg-id="CsurgoTV.hu" tvg-country="HU" tvg-language="Hungarian" tvg-logo="https://i.imgur.com/vVOEYuj.png" tvg-status="live" group-title="General",Csurgo TV
+#EXTINF:-1 tvg-id="CsurgoTV.hu" tvg-country="HU" tvg-language="Hungarian" tvg-logo="https://i.imgur.com/vVOEYuj.png" tvg-status="down" group-title="General",Csurgo TV (Offline)
 https://cstv.medialivecdn.hu/csurgotv/27725804dc13aa23b3970414524d2dbf.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="DaruTV.hu" tvg-country="HU" tvg-language="Hungarian" tvg-logo="https://i.imgur.com/0P7QHde.png" tvg-status="live" group-title="General",Daru TV
+#EXTINF:-1 tvg-id="DaruTV.hu" tvg-country="HU" tvg-language="Hungarian" tvg-logo="https://i.imgur.com/0P7QHde.png" tvg-status="down" group-title="General",Daru TV (Offline)
 https://5cd03f21c7193.streamlock.net/darutv/darutvlive/playlist.m3u8
 #EXTINF:-1 tvg-id="DikhTV.hu" tvg-country="HU" tvg-language="Hungarian" tvg-logo="https://i.imgur.com/aAcORTL.png" tvg-status="live" group-title="Culture",Dikh TV
 http://88.212.15.19/live/dikh/index.m3u8
 #EXTINF:-1 tvg-id="DisneyChannel.hu" tvg-country="HU" tvg-language="Hungarian" tvg-logo="https://i.imgur.com/aOa73uT.png" tvg-status="live" group-title="Kids",Disney Channel
 http://88.212.15.19/live/disney_channel_hun/index.m3u8
-#EXTINF:-1 tvg-id="DSTV.hu" tvg-country="HU" tvg-language="Hungarian" tvg-logo="https://i.imgur.com/xKJoN8L.png" tvg-status="live" group-title="General",DSTV
+#EXTINF:-1 tvg-id="DSTV.hu" tvg-country="HU" tvg-language="Hungarian" tvg-logo="https://i.imgur.com/xKJoN8L.png" tvg-status="down" group-title="General",DSTV (Offline)
 http://79.120.178.90:1935/dstv/dstvlive/playlist.m3u8
 #EXTINF:-1 tvg-id="DTV.hu" tvg-country="HU" tvg-language="Hungarian" tvg-logo="https://i.imgur.com/YSpqmSO.png" tvg-status="live" group-title="General",DTV
 http://cloudfront44.lexanetwork.com:1732/hlsrelay003/hls/livestream.sdp.m3u8
@@ -41,7 +41,7 @@ http://cloudfront44.lexanetwork.com:1732/hlsrelay003/hls/livestream.sdp.m3u8
 http://88.212.15.19/live/duna_hun/index.m3u8
 #EXTINF:-1 tvg-id="DunaWorld.hu" tvg-country="HU" tvg-language="Hungarian" tvg-logo="https://i.imgur.com/uOBQJZS.png" tvg-status="live" group-title="General",Duna World
 http://88.212.15.19/live/duna_world_hun/index.m3u8
-#EXTINF:-1 tvg-id="EgykerTV.hu" tvg-country="HU" tvg-language="Hungarian" tvg-logo="https://i.imgur.com/yhMhvPq.png" tvg-status="live" group-title="General",Egyker TV
+#EXTINF:-1 tvg-id="EgykerTV.hu" tvg-country="HU" tvg-language="Hungarian" tvg-logo="https://i.imgur.com/yhMhvPq.png" tvg-status="down" group-title="General",Egyker TV (Offline)
 https://iptv01.eurocable.co.hu/EC-EGYKERTVHD/index.m3u8
 #EXTINF:-1 tvg-id="ESTV.hu" tvg-country="HU" tvg-language="Hungarian" tvg-logo="https://i.imgur.com/OCZ8CfK.png" tvg-status="live" group-title="General",ESTV
 https://cloudfront44.lexanetwork.com:1344/relay01/HDE032.sdp/playlist.m3u8
@@ -57,19 +57,19 @@ http://88.212.15.19/live/film4_hun/index.m3u8
 http://88.212.15.19/live/film_cafe/index.m3u8
 #EXTINF:-1 tvg-id="FilmPlus.hu" tvg-country="HU" tvg-language="Hungarian" tvg-logo="https://i.imgur.com/OWqzJyy.png" tvg-status="live" group-title="Movies",Film+
 http://88.212.15.19/live/film_plus_hun_atk/index.m3u8
-#EXTINF:-1 tvg-id="FIXTV.hu" tvg-country="HU" tvg-language="Hungarian" tvg-logo="https://i.imgur.com/PLhh0Ps.png" tvg-status="live" group-title="General",FIX TV
+#EXTINF:-1 tvg-id="FIXTV.hu" tvg-country="HU" tvg-language="Hungarian" tvg-logo="https://i.imgur.com/PLhh0Ps.png" tvg-status="down" group-title="General",FIX TV (Offline)
 https://fixhd.tv:8082/fix/1080i/playlist.m3u8
 #EXTINF:-1 tvg-id="Galaxy4.hu" tvg-country="HU" tvg-language="Hungarian" tvg-logo="https://i.imgur.com/fTG99xh.png" tvg-status="live" group-title="General",Galaxy4
 https://budapest-cache-1.antik.sk/live/test_galaxy_4_atk_1200/playlist.m3u8
-#EXTINF:-1 tvg-id="GranTV.hu" tvg-country="HU" tvg-language="Hungarian" tvg-logo="https://i.ibb.co/qJN7Qh2/gran-kicsi.png" tvg-status="live" group-title="Religious",Gran TV
+#EXTINF:-1 tvg-id="GranTV.hu" tvg-country="HU" tvg-language="Hungarian" tvg-logo="https://i.ibb.co/qJN7Qh2/gran-kicsi.png" tvg-status="down" group-title="Religious",Gran TV (Offline)
 https://stream.medialive.hu/gran/grantvlive/playlist.m3u8
 #EXTINF:-1 tvg-id="GyongyosiTV.hu" tvg-country="HU" tvg-language="Hungarian" tvg-logo="https://i.imgur.com/RHgaPCk.png" tvg-status="live" group-title="General",Gyongyosi TV
 https://cloudfront44.lexanetwork.com:1344/relay44_1/HDE043.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="HangulatTV.hu" tvg-country="HU" tvg-language="Hungarian" tvg-logo="https://play-lh.googleusercontent.com/uBasB1USS1zI0tdHUbhUg356TwmworMA5P_7UGnhvg3z6LXX6n1bEk7Qj3cE3-yuToA" tvg-status="live" group-title="Lifestyle",Hangulat TV
+#EXTINF:-1 tvg-id="HangulatTV.hu" tvg-country="HU" tvg-language="Hungarian" tvg-logo="https://play-lh.googleusercontent.com/uBasB1USS1zI0tdHUbhUg356TwmworMA5P_7UGnhvg3z6LXX6n1bEk7Qj3cE3-yuToA" tvg-status="down" group-title="Lifestyle",Hangulat TV (Offline)
 https://iptv01.eurocable.co.hu/EC-HANGULATTV/index.m3u8
-#EXTINF:-1 tvg-id="Hatoscsatorna.hu" tvg-country="HU" tvg-language="Hungarian" tvg-logo="https://i.imgur.com/XZqg1Pj.png" tvg-status="live" group-title="General",Hatoscsatorna
+#EXTINF:-1 tvg-id="Hatoscsatorna.hu" tvg-country="HU" tvg-language="Hungarian" tvg-logo="https://i.imgur.com/XZqg1Pj.png" tvg-status="down" group-title="General",Hatoscsatorna (Offline)
 https://hatoscsatorna.hu:8082/Hatoscsatorna/livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="HegyvidekTV.hu" tvg-country="HU" tvg-language="Hungarian" tvg-logo="https://i.imgur.com/t5bw1J1.png" tvg-status="live" group-title="General",Hegyvidek TV
+#EXTINF:-1 tvg-id="HegyvidekTV.hu" tvg-country="HU" tvg-language="Hungarian" tvg-logo="https://i.imgur.com/t5bw1J1.png" tvg-status="down" group-title="General",Hegyvidek TV (Offline)
 https://iptv02.eurocable.co.hu:15400/EC-HEGYVIDEKTV-FTA/index.m3u8
 #EXTINF:-1 tvg-id="HeviziTV.hu" tvg-country="HU" tvg-language="Hungarian" tvg-logo="https://i.imgur.com/zuWQKDm.png" tvg-status="live" group-title="General",Hevizi TV
 https://cloudfront44.lexanetwork.com:1344/relay03/livestream003.sdp/playlist.m3u8
@@ -85,25 +85,25 @@ http://88.212.15.19/live/jim_jam_hun/index.m3u8
 http://88.212.15.19/live/jocky/index.m3u8
 #EXTINF:-1 tvg-id="KanizsaTV.hu" tvg-country="HU" tvg-language="Hungarian" tvg-logo="https://i.imgur.com/l02znlE.png" tvg-status="live" group-title="General",Kanizsa TV
 https://cloudfront44.lexanetwork.com:1344/freerelay/kanizsavtv.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="KaposTV.hu" tvg-country="HU" tvg-language="Hungarian" tvg-logo="https://i.imgur.com/ZMrj2C5.png" tvg-status="live" group-title="General",Kapos TV
+#EXTINF:-1 tvg-id="KaposTV.hu" tvg-country="HU" tvg-language="Hungarian" tvg-logo="https://i.imgur.com/ZMrj2C5.png" tvg-status="down" group-title="General",Kapos TV (Offline)
 https://cloudfront63.lexanetwork.com:1344/relay01/livestream004.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="KarcagTV.hu" tvg-country="HU" tvg-language="Hungarian" tvg-logo="https://i.imgur.com/QcrVj3Q.png" tvg-status="live" group-title="General",Karcag TV
+#EXTINF:-1 tvg-id="KarcagTV.hu" tvg-country="HU" tvg-language="Hungarian" tvg-logo="https://i.imgur.com/QcrVj3Q.png" tvg-status="down" group-title="General",Karcag TV (Offline)
 https://cloudfront41.lexanetwork.com:1344/relay03/livestream003.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="KecskemetiTV.hu" tvg-country="HU" tvg-language="Hungarian" tvg-logo="https://i.imgur.com/yxwrX2N.png" tvg-status="live" group-title="General",Kecskemeti TV
 http://rtmp1.40e.hu:8000/live/ktv.m3u8
-#EXTINF:-1 tvg-id="KiskorosTV.hu" tvg-country="HU" tvg-language="Hungarian" tvg-logo="https://i.imgur.com/Y74Mve1.png" tvg-status="live" group-title="General",Kiskoros TV
+#EXTINF:-1 tvg-id="KiskorosTV.hu" tvg-country="HU" tvg-language="Hungarian" tvg-logo="https://i.imgur.com/Y74Mve1.png" tvg-status="down" group-title="General",Kiskoros TV (Offline)
 https://5cd03f21c7193.streamlock.net/kiskorostv/korostvlive/playlist.m3u8
 #EXTINF:-1 tvg-id="Kolyokklub.hu" tvg-country="HU" tvg-language="Hungarian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/K%C3%B6ly%C3%B6kklub_II.svg/1920px-K%C3%B6ly%C3%B6kklub_II.svg.png" tvg-status="live" group-title="Kids",Kolyokklub
 http://88.212.15.19/live/kolyokklub_atk/index.m3u8
 #EXTINF:-1 tvg-id="KomaromiTelevizio.hu" tvg-country="HU" tvg-language="Hungarian" tvg-logo="https://i.imgur.com/DifVZkz.png" tvg-status="live" group-title="General",Komaromi Televizio
 https://cloudfront44.lexanetwork.com:1344/relay01/HDE017.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="KomlosTV.hu" tvg-country="HU" tvg-language="Hungarian" tvg-logo="https://i.imgur.com/dnITSUz.png" tvg-status="live" group-title="General",Komlos TV
+#EXTINF:-1 tvg-id="KomlosTV.hu" tvg-country="HU" tvg-language="Hungarian" tvg-logo="https://i.imgur.com/dnITSUz.png" tvg-status="down" group-title="General",Komlos TV (Offline)
 https://stream.streaming4u.hu/KomlosTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="LiceumTV.hu" tvg-country="HU" tvg-language="Hungarian" tvg-logo="https://i.imgur.com/Hf122ZD.png" tvg-status="live" group-title="Culture",Liceum TV
 http://193.225.32.62:8890/live.m3u8
 #EXTINF:-1 tvg-id="LifeTV.hu" tvg-country="HU" tvg-language="Hungarian" tvg-logo="https://i.imgur.com/3znYv1N.png" tvg-status="live" group-title="Entertainment",Life TV
 http://88.212.15.19/live/lifetv/index.m3u8
-#EXTINF:-1 tvg-id="Loversenykozvetites.hu" tvg-country="HU" tvg-language="Hungarian" tvg-logo="https://i.imgur.com/IGajR6G.png" tvg-status="live" group-title="Sports",Loverseny kozvetites
+#EXTINF:-1 tvg-id="Loversenykozvetites.hu" tvg-country="HU" tvg-language="Hungarian" tvg-logo="https://i.imgur.com/IGajR6G.png" tvg-status="down" group-title="Sports",Loverseny kozvetites (Offline)
 http://87.229.103.60:1935/liverelay/loverseny2.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="M1.hu" tvg-country="HU" tvg-language="Hungarian" tvg-logo="https://i.imgur.com/r4tgKZK.png" tvg-status="live" group-title="News",M1
 http://88.212.15.19/live/test_m_1_hungary_1200_atk/playlist.m3u8
@@ -155,9 +155,9 @@ http://stream.nmih.hu:7980/live.m3u8
 http://88.212.15.19/live/ozone/index.m3u8
 #EXTINF:-1 tvg-id="Prime.hu" tvg-country="HU" tvg-language="Hungarian" tvg-logo="https://i.imgur.com/VvZEP4s.png" tvg-status="live" group-title="General",Prime
 http://88.212.15.19/live/prime/index.m3u8
-#EXTINF:-1 tvg-id="PVTV.hu" tvg-country="HU" tvg-language="Hungarian" tvg-logo="https://i.imgur.com/eKXPBFb.png" tvg-status="live" group-title="General",PVTV
+#EXTINF:-1 tvg-id="PVTV.hu" tvg-country="HU" tvg-language="Hungarian" tvg-logo="https://i.imgur.com/eKXPBFb.png" tvg-status="down" group-title="General",PVTV (Offline)
 http://78.47.126.198:5080/LiveApp/streams/902003217052313577741820.m3u8?token=null
-#EXTINF:-1 tvg-id="RakosmenteTV.hu" tvg-country="HU" tvg-language="Hungarian" tvg-logo="https://i.imgur.com/n39a2DT.png" tvg-status="live" group-title="General",Rakosmente TV
+#EXTINF:-1 tvg-id="RakosmenteTV.hu" tvg-country="HU" tvg-language="Hungarian" tvg-logo="https://i.imgur.com/n39a2DT.png" tvg-status="down" group-title="General",Rakosmente TV (Offline)
 http://rakosmentetv.hu:8080/hls/rmtv.m3u8
 #EXTINF:-1 tvg-id="RTL.hu" tvg-country="HU" tvg-language="Hungarian" tvg-logo="https://i.imgur.com/ruRshE1.png" tvg-status="live" group-title="General",RTL
 http://88.212.15.19/live/test_rtl_klub_hungary_1200_atk/playlist.m3u8
@@ -173,7 +173,7 @@ http://88.212.15.19/live/rtl_otthon_atk/index.m3u8
 https://cloudfront44.lexanetwork.com:1344/relay01/HDE038.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="SlagerTV.hu" tvg-country="HU" tvg-language="Hungarian" tvg-logo="https://i.imgur.com/qDNRgSQ.png" tvg-status="live" group-title="Music",Slager TV
 http://88.212.15.19/live/test_slager_tv_hungary_1200_atk/playlist.m3u8
-#EXTINF:-1 tvg-id="SoltvadkertiTelevizio.hu" tvg-country="HU" tvg-language="Hungarian" tvg-logo="https://i.imgur.com/ihdk45P.png" tvg-status="live" group-title="General",Soltvadkerti Televizio
+#EXTINF:-1 tvg-id="SoltvadkertiTelevizio.hu" tvg-country="HU" tvg-language="Hungarian" tvg-logo="https://i.imgur.com/ihdk45P.png" tvg-status="down" group-title="General",Soltvadkerti Televizio (Offline)
 http://79.120.178.90:1935/soltvadkerttv/soltvlive/playlist.m3u8
 #EXTINF:-1 tvg-id="Sorozatklub.hu" tvg-country="HU" tvg-language="Hungarian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Sorozatklub.svg/1920px-Sorozatklub.svg.png" tvg-status="live" group-title="Entertainment",Sorozatklub
 http://88.212.15.19/live/sorozatklub_atk/index.m3u8
@@ -195,7 +195,7 @@ http://88.212.15.19/live/sport2_hun/index.m3u8
 http://88.212.15.19/live/story_4_cze_atk/index.m3u8
 #EXTINF:-1 tvg-id="SuperTV2.hu" tvg-country="HU" tvg-language="Hungarian" tvg-logo="https://i.imgur.com/JCu1u2v.png" tvg-status="live" group-title="General",Super TV2
 http://88.212.15.19/live/test_super_tv2_hungary_1200_atk/playlist.m3u8
-#EXTINF:-1 tvg-id="SzecsenyTV.hu" tvg-country="HU" tvg-language="Hungarian" tvg-logo="https://i.imgur.com/ilRmZtF.png" tvg-status="live" group-title="General",Szecseny TV
+#EXTINF:-1 tvg-id="SzecsenyTV.hu" tvg-country="HU" tvg-language="Hungarian" tvg-logo="https://i.imgur.com/ilRmZtF.png" tvg-status="down" group-title="General",Szecseny TV (Offline)
 http://iptv.eurocable.co.hu/EC-SZECSENYTVHD/index.m3u8
 #EXTINF:-1 tvg-id="SzolnokTV.hu" tvg-country="HU" tvg-language="Hungarian" tvg-logo="https://i.imgur.com/Eiab9MP.png" tvg-status="live" group-title="General",Szolnok TV
 https://cloudfront44.lexanetwork.com:1344/relay01/livestream004.sdp/playlist.m3u8
@@ -205,7 +205,7 @@ https://cloudfront44.lexanetwork.com:1344/relay01/broadcast006.sdp/playlist.m3u8
 https://cloudfront44.lexanetwork.com:1344/relay02/livestream004.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="TheFishingHuntingChannel.hu" tvg-country="HU" tvg-language="Czech" tvg-logo="https://i.imgur.com/KcTTnUA.png" tvg-status="live" group-title="Outdoor",The Fishing & Hunting Channel
 http://88.212.15.19/live/fishing_hun/index.m3u8
-#EXTINF:-1 tvg-id="TiszaTV.hu" tvg-country="HU" tvg-language="Hungarian" tvg-logo="https://i.imgur.com/Q2bShnh.png" tvg-status="live" group-title="General",Tisza TV
+#EXTINF:-1 tvg-id="TiszaTV.hu" tvg-country="HU" tvg-language="Hungarian" tvg-logo="https://i.imgur.com/Q2bShnh.png" tvg-status="down" group-title="General",Tisza TV (Offline)
 https://www.tiszatv.hu/onlinetv/tiszatv_1.m3u8
 #EXTINF:-1 tvg-id="TV2.hu" tvg-country="HU" tvg-language="Hungarian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/TV2_2008.svg/960px-TV2_2008.svg.png" tvg-status="live" group-title="General",TV2
 http://88.212.15.19/live/test_tv_2_hungary_1200_atk/playlist.m3u8
@@ -217,7 +217,7 @@ http://88.212.15.19/live/tv2_kids/index.m3u8
 http://88.212.15.19/live/test_lichi_tv_atk_tv/playlist.m3u8
 #EXTINF:-1 tvg-id="TV4.hu" tvg-country="HU" tvg-language="Hungarian" tvg-logo="https://i.imgur.com/cjypCfu.png" tvg-status="live" group-title="General",TV4
 http://88.212.15.19/live/test_tv_4_hun_atk_1200/playlist.m3u8
-#EXTINF:-1 tvg-id="TVBudakalasz.hu" tvg-country="HU" tvg-language="Hungarian" tvg-logo="https://i.imgur.com/97xpqt0.png" tvg-status="live" group-title="General",TV Budakalasz
+#EXTINF:-1 tvg-id="TVBudakalasz.hu" tvg-country="HU" tvg-language="Hungarian" tvg-logo="https://i.imgur.com/97xpqt0.png" tvg-status="down" group-title="General",TV Budakalasz (Offline)
 https://stream.streaming4u.hu/TVBudakalasz/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="TVEger.hu" tvg-country="HU" tvg-language="Hungarian" tvg-logo="https://i.imgur.com/GUVW073.png" tvg-status="live" group-title="General",TV Eger
 http://stream.tveger.hu:8010/live.m3u8
@@ -233,13 +233,13 @@ http://88.212.15.19/live/viasat2/index.m3u8
 http://88.212.15.19/live/viasat3/index.m3u8
 #EXTINF:-1 tvg-id="Viasat6.hu" tvg-country="HU" tvg-language="Hungarian" tvg-logo="https://i.imgur.com/kypSbFX.png" tvg-status="live" group-title="General",Viasat 6
 http://88.212.15.19/live/viasat6/index.m3u8
-#EXTINF:-1 tvg-id="VolgyhidTV.hu" tvg-country="HU" tvg-language="Hungarian" tvg-logo="https://i.imgur.com/9krKKgU.png" tvg-status="live" group-title="General",Volgyhid TV
+#EXTINF:-1 tvg-id="VolgyhidTV.hu" tvg-country="HU" tvg-language="Hungarian" tvg-logo="https://i.imgur.com/9krKKgU.png" tvg-status="down" group-title="General",Volgyhid TV (Offline)
 https://5cd03f21c7193.streamlock.net/volgyhidtv/mediakft/playlist.m3u8
-#EXTINF:-1 tvg-id="VTVFuzesabony.hu" tvg-country="HU" tvg-language="Hungarian" tvg-logo="https://i.imgur.com/IoHyW7w.png" tvg-status="live" group-title="General",VTV Fuzesabony
+#EXTINF:-1 tvg-id="VTVFuzesabony.hu" tvg-country="HU" tvg-language="Hungarian" tvg-logo="https://i.imgur.com/IoHyW7w.png" tvg-status="down" group-title="General",VTV Fuzesabony (Offline)
 https://stream.nmih.hu:7962/live.m3u8
 #EXTINF:-1 tvg-id="VTVMor.hu" tvg-country="HU" tvg-language="Hungarian" tvg-logo="https://i.imgur.com/x8jstsh.png" tvg-status="live" group-title="General",VTV Mor
 https://cloudfront44.lexanetwork.com:1344/freerelay/morvtv.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="WilliamsTV.hu" tvg-country="HU" tvg-language="Hungarian" tvg-logo="https://i.imgur.com/vysX07C.png" tvg-status="live" group-title="General",Williams TV
+#EXTINF:-1 tvg-id="WilliamsTV.hu" tvg-country="HU" tvg-language="Hungarian" tvg-logo="https://i.imgur.com/vysX07C.png" tvg-status="down" group-title="General",Williams TV (Offline)
 http://79.120.178.90:1935/williams/williamstv/playlist.m3u8
 #EXTINF:-1 tvg-id="XVTV.hu" tvg-country="HU" tvg-language="Hungarian" tvg-logo="https://i.ibb.co/hH2KF6W/4792.png" tvg-status="live" group-title="General",XV TV
 https://cloudfront44.lexanetwork.com:1344/relay01/HDE051.sdp/playlist.m3u8

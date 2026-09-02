@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="AlvinChannelTV.az" tvg-country="AZ" tvg-language="Azerbaijani" tvg-logo="https://i.imgur.com/m6CM7VU.png" tvg-status="live" group-title="General",Alvin Channel TV
 https://cdn10-alvinchannel.yayin.com.tr/alvinchannel/alvinchannel/playlist.m3u8
-#EXTINF:-1 tvg-id="AnewZTV.az" tvg-country="AZ" tvg-language="English" tvg-logo="https://i.imgur.com/Lwgdbuu.png" tvg-status="live" group-title="News",AnewZ TV
+#EXTINF:-1 tvg-id="AnewZTV.az" tvg-country="AZ" tvg-language="English" tvg-logo="https://i.imgur.com/Lwgdbuu.png" tvg-status="down" group-title="News",AnewZ TV (Offline)
 https://53be5ef2d13aa.streamlock.net/cubesanewz-secure/smil:cubesanewz-secure-web.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="APATv.az" tvg-country="AZ" tvg-language="Azerbaijani" tvg-logo="https://i.imgur.com/2CSW4V4.png" tvg-status="live" group-title="News",APA Tv
 http://stream.apa.tv/apastream/index.m3u8
@@ -9,11 +9,11 @@ http://stream.apa.tv/apastream/index.m3u8
 https://janya-ayaztv.vgcdn.net/ptnr-WebApp/title-Ayaz_TV/v1/vglive-sk-934820/main.m3u8
 #EXTINF:-1 tvg-id="AzTV.az" tvg-country="AZ" tvg-language="Azerbaijani" tvg-logo="https://i.imgur.com/snBMMeH.png" tvg-status="live" group-title="General",Az TV
 https://str.yodacdn.net/azertv/index.m3u8
-#EXTINF:-1 tvg-id="BakuTV.az" tvg-country="AZ" tvg-language="Azerbaijani" tvg-logo="https://i.imgur.com/r4FzxSg.png" tvg-status="live" group-title="News",Baku.TV
+#EXTINF:-1 tvg-id="BakuTV.az" tvg-country="AZ" tvg-language="Azerbaijani" tvg-logo="https://i.imgur.com/r4FzxSg.png" tvg-status="down" group-title="News",Baku.TV (Offline)
 https://rtmp.baku.tv/hls/bakutv.m3u8
 #EXTINF:-1 tvg-id="ELTV.az" tvg-country="AZ" tvg-language="Azerbaijani" tvg-logo="https://i.imgur.com/tTlokZ2.png" tvg-status="live" group-title="General",EL TV
 http://85.132.53.162:1935/live/eltv/playlist.m3u8
-#EXTINF:-1 tvg-id="IctimaiTV.az" tvg-country="AZ" tvg-language="Azerbaijani" tvg-logo="https://i.imgur.com/HzY4VMo.png" tvg-status="live" group-title="General",Ictimai TV
+#EXTINF:-1 tvg-id="IctimaiTV.az" tvg-country="AZ" tvg-language="Azerbaijani" tvg-logo="https://i.imgur.com/HzY4VMo.png" tvg-status="down" group-title="General",Ictimai TV (Offline)
 https://live.itv.az/itv.m3u8
 #EXTINF:-1 tvg-id="Kanal35.az" tvg-country="AZ" tvg-language="Azerbaijani" tvg-logo="https://live.ntv.az/kanal35.png" tvg-status="live" group-title="General",Kanal 35
 https://str2.yodacdn.net/kanal35/index.m3u8

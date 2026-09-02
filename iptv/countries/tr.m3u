@@ -17,7 +17,7 @@ https://live.artidijitalmedya.com/artidijital_aksutv/aksutv/playlist.m3u8
 https://api-tv3.yayin.com.tr/postatv/postatv/playlist.m3u8
 #EXTINF:-1 tvg-id="AlmahriahTV.tr" tvg-country="TR" tvg-language="Arabic" tvg-logo="https://i.imgur.com/GgEeTNr.png" tvg-status="live" group-title="News",Almahriah TV
 https://starmenajo.com/hls/almahriah/index.m3u8
-#EXTINF:-1 tvg-id="AlRafidainTV.tr" tvg-country="TR" tvg-language="Arabic" tvg-logo="https://i.imgur.com/rjXDCN5.png" tvg-status="live" group-title="Religious",Al-Rafidain TV
+#EXTINF:-1 tvg-id="AlRafidainTV.tr" tvg-country="TR" tvg-language="Arabic" tvg-logo="https://i.imgur.com/rjXDCN5.png" tvg-status="down" group-title="Religious",Al-Rafidain TV (Offline)
 https://arrafidain.tvplayer.online/arrafidaintv/source/playlist.m3u8
 #EXTINF:-1 tvg-id="AltasTV.tr" tvg-country="TR" tvg-language="Turkish" tvg-logo="https://i.imgur.com/XaJ7fp6.png" tvg-status="live" group-title="General",Altas TV
 https://edge1.socialsmart.tv/altastv/bant1/playlist.m3u8
@@ -37,19 +37,19 @@ http://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_360p.m3u8
 https://cdn-alanyatv.yayin.com.tr/alanyatv/alanyatv/playlist.m3u8
 #EXTINF:-1 tvg-id="ATVAvrupa.tr" tvg-country="TR" tvg-language="Turkish" tvg-logo="https://i.tmgrup.com.tr/aav/site/v1/i/atv-avrupa-logo.png" tvg-status="live" group-title="General",ATV Avrupa
 https://flask-api-hls-atvavrupahdtrkvz-live.onrender.com/hls_stream/master.m3u8
-#EXTINF:-1 tvg-id="beINBoxOffice1.tr" tvg-country="TR" tvg-language="Turkish" tvg-logo="https://i.imgur.com/MGrJFVN.png" tvg-status="live" group-title="Movies",beIN Box Office 1
+#EXTINF:-1 tvg-id="beINBoxOffice1.tr" tvg-country="TR" tvg-language="Turkish" tvg-logo="https://i.imgur.com/MGrJFVN.png" tvg-status="down" group-title="Movies",beIN Box Office 1 (Offline)
 https://nord.ayakkabiparti.lol/box1/index.m3u8
-#EXTINF:-1 tvg-id="beINBoxOffice2.tr" tvg-country="TR" tvg-language="Turkish" tvg-logo="https://i.imgur.com/Kg7oOcO.png" tvg-status="live" group-title="Movies",beIN Box Office 2
+#EXTINF:-1 tvg-id="beINBoxOffice2.tr" tvg-country="TR" tvg-language="Turkish" tvg-logo="https://i.imgur.com/Kg7oOcO.png" tvg-status="down" group-title="Movies",beIN Box Office 2 (Offline)
 https://nord.ayakkabiparti.lol/box2/index.m3u8
-#EXTINF:-1 tvg-id="beINBoxOffice3.tr" tvg-country="TR" tvg-language="Turkish" tvg-logo="https://i.imgur.com/5NZur1S.png" tvg-status="live" group-title="Movies",beIN Box Office 3
+#EXTINF:-1 tvg-id="beINBoxOffice3.tr" tvg-country="TR" tvg-language="Turkish" tvg-logo="https://i.imgur.com/5NZur1S.png" tvg-status="down" group-title="Movies",beIN Box Office 3 (Offline)
 https://nord.ayakkabiparti.lol/box3/index.m3u8
-#EXTINF:-1 tvg-id="beINMoviesStars.tr" tvg-country="TR" tvg-language="Turkish" tvg-logo="https://i.imgur.com/eryPkrT.png" tvg-status="live" group-title="Movies",beIN Movies Stars
+#EXTINF:-1 tvg-id="beINMoviesStars.tr" tvg-country="TR" tvg-language="Turkish" tvg-logo="https://i.imgur.com/eryPkrT.png" tvg-status="down" group-title="Movies",beIN Movies Stars (Offline)
 https://nord.ayakkabiparti.lol/bsaction1/index.m3u8
-#EXTINF:-1 tvg-id="beINMoviesTurk.tr" tvg-country="TR" tvg-language="Turkish" tvg-logo="https://i.imgur.com/nw8Sa2z.png" tvg-status="live" group-title="Movies",beIN Movies Turk
+#EXTINF:-1 tvg-id="beINMoviesTurk.tr" tvg-country="TR" tvg-language="Turkish" tvg-logo="https://i.imgur.com/nw8Sa2z.png" tvg-status="down" group-title="Movies",beIN Movies Turk (Offline)
 https://nord.ayakkabiparti.lol/bsturk/index.m3u8
 #EXTINF:-1 tvg-id="BenguturkTV.tr" tvg-country="TR" tvg-language="Turkish" tvg-logo="https://i.imgur.com/p3ON1oX.png" tvg-status="live" group-title="General",Benguturk TV
 https://tv.ensonhaber.com/benguturk/benguturk.m3u8
-#EXTINF:-1 tvg-id="BeyazTV.tr" tvg-country="TR" tvg-language="Turkish" tvg-logo="https://i.imgur.com/uykIdML.png" tvg-status="live" group-title="General",Beyaz TV
+#EXTINF:-1 tvg-id="BeyazTV.tr" tvg-country="TR" tvg-language="Turkish" tvg-logo="https://i.imgur.com/uykIdML.png" tvg-status="down" group-title="General",Beyaz TV (Offline)
 https://mn-nl.mncdn.com/blutv_beyaztv2/live.m3u8
 #EXTINF:-1 tvg-id="BirTV.tr" tvg-country="TR" tvg-language="Turkish" tvg-logo="https://birtv.tv/assets/upload/637f83951df60.png" tvg-status="live" group-title="General",Bir TV
 https://edge.taksimbilisim.com/birtv/bant1/playlist.m3u8
@@ -57,11 +57,11 @@ https://edge.taksimbilisim.com/birtv/bant1/playlist.m3u8
 https://tv.ensonhaber.com/bloomberght/bloomberght.m3u8
 #EXTINF:-1 tvg-id="BricveSatrancTV.tr" tvg-country="TR" tvg-language="Turkish" tvg-logo="https://i.imgur.com/TXDV1ty.png" tvg-status="live" group-title="General",Bric ve Satranc TV
 http://139.162.182.79/live/test/index.m3u8
-#EXTINF:-1 tvg-id="BursaTV.tr" tvg-country="TR" tvg-language="Turkish" tvg-logo="https://i.imgur.com/9cl1MR8.png" tvg-status="live" group-title="General",Bursa TV
+#EXTINF:-1 tvg-id="BursaTV.tr" tvg-country="TR" tvg-language="Turkish" tvg-logo="https://i.imgur.com/9cl1MR8.png" tvg-status="down" group-title="General",Bursa TV (Offline)
 https://win1.yayin.com.tr/bursatv/bursatv/playlist.m3u8
 #EXTINF:-1 tvg-id="CayTV.tr" tvg-country="TR" tvg-language="Turkish" tvg-logo="https://i.imgur.com/ndupxwu.png" tvg-status="live" group-title="General",Cay TV
 https://edge1.socialsmart.tv/caytv/bant1/playlist.m3u8
-#EXTINF:-1 tvg-id="CekmekoyTV.tr" tvg-country="TR" tvg-language="Turkish" tvg-logo="https://i.imgur.com/sjAGFWu.png" tvg-status="live" group-title="General",Cekmekoy TV
+#EXTINF:-1 tvg-id="CekmekoyTV.tr" tvg-country="TR" tvg-language="Turkish" tvg-logo="https://i.imgur.com/sjAGFWu.png" tvg-status="down" group-title="General",Cekmekoy TV (Offline)
 https://cdn-cekmekoybeltv.yayin.com.tr/cekmekoybeltv/cekmekoybeltv_1080p/playlist.m3u8
 #EXTINF:-1 tvg-id="CiftciTV.tr" tvg-country="TR" tvg-language="Turkish" tvg-logo="https://i.imgur.com/CLzP4vL.png" tvg-status="live" group-title="Education",Ciftci TV
 https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/playlist.m3u8
@@ -101,57 +101,57 @@ https://yayin30.haber100.com/live/finansturk/playlist.m3u8
 https://b01c02nl.mediatriple.net/videoonlylive/mtyycglqauzjhlive/broadcast_67c053c48829f.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="FortunaTV.tr" tvg-country="TR" tvg-language="Turkish" tvg-logo="https://i.imgur.com/ZbUSlOC.png" tvg-status="live" group-title="Lifestyle",Fortuna TV
 https://edge.taksimbilisim.com/ftvturk/bant1/playlist.m3u8
-#EXTINF:-1 tvg-id="GEM24B.tr" tvg-country="TR" tvg-language="Persian" tvg-logo="https://i.imgur.com/8LgdPst.png" tvg-status="live" group-title="Music",GEM 24B
+#EXTINF:-1 tvg-id="GEM24B.tr" tvg-country="TR" tvg-language="Persian" tvg-logo="https://i.imgur.com/8LgdPst.png" tvg-status="down" group-title="Music",GEM 24B (Offline)
 https://ca-rt.onetv.app/gem24b/index-0.m3u8?token=onetv202
-#EXTINF:-1 tvg-id="GEMBollywood.tr" tvg-country="TR" tvg-language="Persian" tvg-logo="https://i.imgur.com/2XASeBk.png" tvg-status="live" group-title="Movies",GEM Bollywood
+#EXTINF:-1 tvg-id="GEMBollywood.tr" tvg-country="TR" tvg-language="Persian" tvg-logo="https://i.imgur.com/2XASeBk.png" tvg-status="down" group-title="Movies",GEM Bollywood (Offline)
 https://ca-rt.onetv.app/gembollywood/index-0.m3u8?token=onetv202
-#EXTINF:-1 tvg-id="GEMClassic.tr" tvg-country="TR" tvg-language="Persian" tvg-logo="https://i.imgur.com/25BhuOf.png" tvg-status="live" group-title="Classic",GEM Classic
+#EXTINF:-1 tvg-id="GEMClassic.tr" tvg-country="TR" tvg-language="Persian" tvg-logo="https://i.imgur.com/25BhuOf.png" tvg-status="down" group-title="Classic",GEM Classic (Offline)
 https://ca-rt.onetv.app/gemclassic/index-0.m3u8?token=onetv202
-#EXTINF:-1 tvg-id="GEMComedy.tr" tvg-country="TR" tvg-language="Persian" tvg-logo="https://i.imgur.com/FuscfJW.png" tvg-status="live" group-title="Comedy",GEM Comedy
+#EXTINF:-1 tvg-id="GEMComedy.tr" tvg-country="TR" tvg-language="Persian" tvg-logo="https://i.imgur.com/FuscfJW.png" tvg-status="down" group-title="Comedy",GEM Comedy (Offline)
 https://ca-rt.onetv.app/gemcomedy/index-0.m3u8?token=onetv202
-#EXTINF:-1 tvg-id="GEMDrama.tr" tvg-country="TR" tvg-language="Persian" tvg-logo="https://i.imgur.com/k2pGyRH.png" tvg-status="live" group-title="Movies",GEM Drama
+#EXTINF:-1 tvg-id="GEMDrama.tr" tvg-country="TR" tvg-language="Persian" tvg-logo="https://i.imgur.com/k2pGyRH.png" tvg-status="down" group-title="Movies",GEM Drama (Offline)
 https://ca-rt.onetv.app/gemdrama/index-0.m3u8?token=onetv202
-#EXTINF:-1 tvg-id="GEMDramaPlus.tr" tvg-country="TR" tvg-language="Persian" tvg-logo="https://gemgroup.tv/assets/images/channels/icon_7.png" tvg-status="live" group-title="Movies",GEM Drama +
+#EXTINF:-1 tvg-id="GEMDramaPlus.tr" tvg-country="TR" tvg-language="Persian" tvg-logo="https://gemgroup.tv/assets/images/channels/icon_7.png" tvg-status="down" group-title="Movies",GEM Drama + (Offline)
 https://ca-rt.onetv.app/gemdramaplus/index-0.m3u8?token=onetv202
-#EXTINF:-1 tvg-id="GEMEntertainment.tr" tvg-country="TR" tvg-language="Persian" tvg-logo="https://www.gemgroup.tv/assets/images/channels/icon_8.png" tvg-status="live" group-title="Entertainment",GEM Entertainment
+#EXTINF:-1 tvg-id="GEMEntertainment.tr" tvg-country="TR" tvg-language="Persian" tvg-logo="https://www.gemgroup.tv/assets/images/channels/icon_8.png" tvg-status="down" group-title="Entertainment",GEM Entertainment (Offline)
 https://ca-rt.onetv.app/gementertainment/index-0.m3u8?token=onetv202
-#EXTINF:-1 tvg-id="GEMFilm.tr" tvg-country="TR" tvg-language="Persian" tvg-logo="https://i.imgur.com/nrFz3LU.png" tvg-status="live" group-title="Movies",GEM Film
+#EXTINF:-1 tvg-id="GEMFilm.tr" tvg-country="TR" tvg-language="Persian" tvg-logo="https://i.imgur.com/nrFz3LU.png" tvg-status="down" group-title="Movies",GEM Film (Offline)
 https://ca-rt.onetv.app/gemfilm/index-0.m3u8?token=onetv202
-#EXTINF:-1 tvg-id="GEMFit.tr" tvg-country="TR" tvg-language="Persian" tvg-logo="https://i.imgur.com/7FQxaII.png" tvg-status="live" group-title="Sports",GEM Fit
+#EXTINF:-1 tvg-id="GEMFit.tr" tvg-country="TR" tvg-language="Persian" tvg-logo="https://i.imgur.com/7FQxaII.png" tvg-status="down" group-title="Sports",GEM Fit (Offline)
 https://ca-rt.onetv.app/gemfit/index-0.m3u8?token=onetv202
-#EXTINF:-1 tvg-id="GEMFood.tr" tvg-country="TR" tvg-language="Persian" tvg-logo="https://i.imgur.com/SMtSinK.png" tvg-status="live" group-title="Cooking",GEM Food
+#EXTINF:-1 tvg-id="GEMFood.tr" tvg-country="TR" tvg-language="Persian" tvg-logo="https://i.imgur.com/SMtSinK.png" tvg-status="down" group-title="Cooking",GEM Food (Offline)
 https://ca-rt.onetv.app/gemfood/index-0.m3u8?token=onetv202
-#EXTINF:-1 tvg-id="GEMJunior.tr" tvg-country="TR" tvg-language="Persian" tvg-logo="https://i.imgur.com/jK8yzj2.png" tvg-status="live" group-title="Kids",GEM Junior
+#EXTINF:-1 tvg-id="GEMJunior.tr" tvg-country="TR" tvg-language="Persian" tvg-logo="https://i.imgur.com/jK8yzj2.png" tvg-status="down" group-title="Kids",GEM Junior (Offline)
 https://ca-rt.onetv.app/gemjunior/index-0.m3u8?token=onetv202
-#EXTINF:-1 tvg-id="GEMKids.tr" tvg-country="TR" tvg-language="Persian" tvg-logo="https://i.imgur.com/ArkjaFk.png" tvg-status="live" group-title="Kids",GEM Kids
+#EXTINF:-1 tvg-id="GEMKids.tr" tvg-country="TR" tvg-language="Persian" tvg-logo="https://i.imgur.com/ArkjaFk.png" tvg-status="down" group-title="Kids",GEM Kids (Offline)
 https://ca-rt.onetv.app/gemkids/index-0.m3u8?token=onetv202
-#EXTINF:-1 tvg-id="GEMLife.tr" tvg-country="TR" tvg-language="Persian" tvg-logo="https://i.imgur.com/gI8qePa.png" tvg-status="live" group-title="Lifestyle",GEM Life
+#EXTINF:-1 tvg-id="GEMLife.tr" tvg-country="TR" tvg-language="Persian" tvg-logo="https://i.imgur.com/gI8qePa.png" tvg-status="down" group-title="Lifestyle",GEM Life (Offline)
 https://ca-rt.onetv.app/gemlife/index-0.m3u8?token=onetv202
-#EXTINF:-1 tvg-id="GEMMifa.tr" tvg-country="TR" tvg-language="Persian" tvg-logo="https://i.imgur.com/qlI7o7V.png" tvg-status="live" group-title="Music",GEM Mifa
+#EXTINF:-1 tvg-id="GEMMifa.tr" tvg-country="TR" tvg-language="Persian" tvg-logo="https://i.imgur.com/qlI7o7V.png" tvg-status="down" group-title="Music",GEM Mifa (Offline)
 https://ca-rt.onetv.app/gemmifa/index-0.m3u8?token=onetv202
-#EXTINF:-1 tvg-id="GEMMifaPlus.tr" tvg-country="TR" tvg-language="Persian" tvg-logo="https://i.imgur.com/8FIAqR5.png" tvg-status="live" group-title="Music",GEM Mifa +
+#EXTINF:-1 tvg-id="GEMMifaPlus.tr" tvg-country="TR" tvg-language="Persian" tvg-logo="https://i.imgur.com/8FIAqR5.png" tvg-status="down" group-title="Music",GEM Mifa + (Offline)
 https://ca-rt.onetv.app/gemmifaplus/index-0.m3u8?token=onetv202
-#EXTINF:-1 tvg-id="GEMNature.tr" tvg-country="TR" tvg-language="Persian" tvg-logo="https://i.imgur.com/ENvOMDQ.png" tvg-status="live" group-title="Documentary",GEM Nature
+#EXTINF:-1 tvg-id="GEMNature.tr" tvg-country="TR" tvg-language="Persian" tvg-logo="https://i.imgur.com/ENvOMDQ.png" tvg-status="down" group-title="Documentary",GEM Nature (Offline)
 https://ca-rt.onetv.app/gemnature/index-0.m3u8?token=onetv202
-#EXTINF:-1 tvg-id="GEMOnyx.tr" tvg-country="TR" tvg-language="Persian" tvg-logo="https://i.imgur.com/gXRIAw4.png" tvg-status="live" group-title="Movies",GEM Onyx
+#EXTINF:-1 tvg-id="GEMOnyx.tr" tvg-country="TR" tvg-language="Persian" tvg-logo="https://i.imgur.com/gXRIAw4.png" tvg-status="down" group-title="Movies",GEM Onyx (Offline)
 https://ca-rt.onetv.app/gemonyx/index-0.m3u8?token=onetv202
 #EXTINF:-1 tvg-id="GEMPixel.tr" tvg-country="TR" tvg-language="Persian" tvg-logo="https://i.ibb.co/Q3tkbPrn/icon-27.png" tvg-status="live" group-title="Movies",GEM Pixel
 https://glserver1.tamashaland.com/live/aBCH96886YznRbGOiqTnnQ__/stream_0.m3u8
-#EXTINF:-1 tvg-id="GEMRiver.tr" tvg-country="TR" tvg-language="Persian" tvg-logo="https://i.imgur.com/yJ6f1B6.png" tvg-status="live" group-title="Entertainment",GEM River
+#EXTINF:-1 tvg-id="GEMRiver.tr" tvg-country="TR" tvg-language="Persian" tvg-logo="https://i.imgur.com/yJ6f1B6.png" tvg-status="down" group-title="Entertainment",GEM River (Offline)
 https://ca-rt.onetv.app/gemriver/index-0.m3u8?token=onetv202
-#EXTINF:-1 tvg-id="GEMRiverPlus.tr" tvg-country="TR" tvg-language="Persian" tvg-logo="https://gemgroup.tv/assets/images/channels/icon_29.png" tvg-status="live" group-title="Entertainment",GEM River +
+#EXTINF:-1 tvg-id="GEMRiverPlus.tr" tvg-country="TR" tvg-language="Persian" tvg-logo="https://gemgroup.tv/assets/images/channels/icon_29.png" tvg-status="down" group-title="Entertainment",GEM River + (Offline)
 https://ca-rt.onetv.app/gemriverplus/index-0.m3u8?token=onetv202
-#EXTINF:-1 tvg-id="GEMRubix.tr" tvg-country="TR" tvg-language="Persian" tvg-logo="https://i.imgur.com/cDjOj58.png" tvg-status="live" group-title="Movies",GEM Rubix
+#EXTINF:-1 tvg-id="GEMRubix.tr" tvg-country="TR" tvg-language="Persian" tvg-logo="https://i.imgur.com/cDjOj58.png" tvg-status="down" group-title="Movies",GEM Rubix (Offline)
 https://ca-rt.onetv.app/gemrubix/index-0.m3u8?token=onetv202
-#EXTINF:-1 tvg-id="GEMRubixPlus.tr" tvg-country="TR" tvg-language="Persian" tvg-logo="https://gemgroup.tv/assets/images/channels/icon_31.png" tvg-status="live" group-title="Movies",GEM Rubix +
+#EXTINF:-1 tvg-id="GEMRubixPlus.tr" tvg-country="TR" tvg-language="Persian" tvg-logo="https://gemgroup.tv/assets/images/channels/icon_31.png" tvg-status="down" group-title="Movies",GEM Rubix + (Offline)
 https://ca-rt.onetv.app/gemrubixplus/index-0.m3u8?token=onetv202
-#EXTINF:-1 tvg-id="GEMSeriesPlus.tr" tvg-country="TR" tvg-language="Persian" tvg-logo="https://gemgroup.tv/assets/images/channels/icon_33.png" tvg-status="live" group-title="Series",GEM Series +
+#EXTINF:-1 tvg-id="GEMSeriesPlus.tr" tvg-country="TR" tvg-language="Persian" tvg-logo="https://gemgroup.tv/assets/images/channels/icon_33.png" tvg-status="down" group-title="Series",GEM Series + (Offline)
 https://ca-rt.onetv.app/gemseriesplus/index-0.m3u8?token=onetv202
-#EXTINF:-1 tvg-id="GEMSport.tr" tvg-country="TR" tvg-language="Persian" tvg-logo="https://www.gemgroup.tv/assets/images/channels/icon_34.png" tvg-status="live" group-title="Sports",GEM Sport
+#EXTINF:-1 tvg-id="GEMSport.tr" tvg-country="TR" tvg-language="Persian" tvg-logo="https://www.gemgroup.tv/assets/images/channels/icon_34.png" tvg-status="down" group-title="Sports",GEM Sport (Offline)
 https://steep-wildflower-284d.nhhwkiszzzvcuojxdo.workers.dev/?url=https://gg.hls2.xyz/live/IR+-+GEM+Sport/chunks.m3u8
-#EXTINF:-1 tvg-id="GEMTV.tr" tvg-country="TR" tvg-language="Persian" tvg-logo="https://gemgroup.tv/assets/images/channels/icon_16.png" tvg-status="live" group-title="Movies",GEM TV
+#EXTINF:-1 tvg-id="GEMTV.tr" tvg-country="TR" tvg-language="Persian" tvg-logo="https://gemgroup.tv/assets/images/channels/icon_16.png" tvg-status="down" group-title="Movies",GEM TV (Offline)
 https://ca-rt.onetv.app/gem/index-0.m3u8?token=onetv202
-#EXTINF:-1 tvg-id="GEMTVPlus.tr" tvg-country="TR" tvg-language="Persian" tvg-logo="https://gemgroup.tv/assets/images/channels/icon_17.png" tvg-status="live" group-title="Movies",GEM TV +
+#EXTINF:-1 tvg-id="GEMTVPlus.tr" tvg-country="TR" tvg-language="Persian" tvg-logo="https://gemgroup.tv/assets/images/channels/icon_17.png" tvg-status="down" group-title="Movies",GEM TV + (Offline)
 https://ca-rt.onetv.app/gemtvplus/index-0.m3u8?token=onetv202
 #EXTINF:-1 tvg-id="GrandCinema.tr" tvg-country="TR" tvg-language="Persian" tvg-logo="" tvg-status="live" group-title="Movies",Grand Cinema
 https://gcinemahls.wns.live/hls/stream.m3u8
@@ -169,7 +169,7 @@ https://tv.ensonhaber.com/haberturk/haberturk.m3u8
 https://halktv-live.daioncdn.net/halktv/halktv.m3u8
 #EXTINF:-1 tvg-id="HTSporTV.tr" tvg-country="TR" tvg-language="Turkish" tvg-logo="https://www.htspor.com/images/manifest/social-share-logo.png" tvg-status="live" group-title="Sports",HTSpor TV
 https://ciner.daioncdn.net/ht-spor/ht-spor.m3u8?app=web
-#EXTINF:-1 tvg-id="HunatTV.tr" tvg-country="TR" tvg-language="Turkish" tvg-logo="https://i.imgur.com/NrxHGnb.png" tvg-status="live" group-title="General",Hunat TV
+#EXTINF:-1 tvg-id="HunatTV.tr" tvg-country="TR" tvg-language="Turkish" tvg-logo="https://i.imgur.com/NrxHGnb.png" tvg-status="down" group-title="General",Hunat TV (Offline)
 https://59cba4d34b678.streamlock.net/canlitv/hunattv/playlist.m3u8
 #EXTINF:-1 tvg-id="IcelTV.tr" tvg-country="TR" tvg-language="Turkish" tvg-logo="https://i.imgur.com/CGwImKv.png" tvg-status="live" group-title="General",Icel TV
 https://edge1.socialsmart.tv/iceltv/bant1/playlist.m3u8
@@ -193,7 +193,7 @@ https://live.artidijitalmedya.com/artidijital_kanal26/kanal26/playlist.m3u8
 https://edge1.socialsmart.tv/kanal32/bant1/playlist.m3u8
 #EXTINF:-1 tvg-id="Kanal33.tr" tvg-country="TR" tvg-language="Turkish" tvg-logo="https://i.imgur.com/5WYaoFZ.png" tvg-status="live" group-title="General",Kanal 33
 https://edge1.socialsmart.tv/kanal33/bant1/playlist.m3u8
-#EXTINF:-1 tvg-id="Kanal34.tr" tvg-country="TR" tvg-language="Turkish" tvg-logo="https://i.imgur.com/SIaI6Sj.png" tvg-status="live" group-title="General",Kanal 34
+#EXTINF:-1 tvg-id="Kanal34.tr" tvg-country="TR" tvg-language="Turkish" tvg-logo="https://i.imgur.com/SIaI6Sj.png" tvg-status="down" group-title="General",Kanal 34 (Offline)
 https://vdo.digitalbox.xyz:3266/live/kanal34tvlive.m3u8
 #EXTINF:-1 tvg-id="Kanal58.tr" tvg-country="TR" tvg-language="Turkish" tvg-logo="https://i.imgur.com/Rgc66sv.png" tvg-status="live" group-title="General",Kanal 58
 https://live.artidijitalmedya.com/artidijital_kanal58/kanal58/playlist.m3u8
@@ -235,13 +235,13 @@ https://live.artidijitalmedya.com/artidijital_mercantv/mercantv/playlist.m3u8
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago_cocuk/minikago_cocuk.m3u8
 #EXTINF:-1 tvg-id="MinikaGo.tr" tvg-country="TR" tvg-language="Turkish" tvg-logo="https://i.imgur.com/qIoipDq.png" tvg-status="live" group-title="Kids",Minika Go
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago.m3u8
-#EXTINF:-1 tvg-id="MovieSmartTurk.tr" tvg-country="TR" tvg-language="Turkish" tvg-logo="https://i.imgur.com/DWN9ulT.png" tvg-status="live" group-title="Movies",MovieSmart Turk
+#EXTINF:-1 tvg-id="MovieSmartTurk.tr" tvg-country="TR" tvg-language="Turkish" tvg-logo="https://i.imgur.com/DWN9ulT.png" tvg-status="down" group-title="Movies",MovieSmart Turk (Offline)
 http://playhdnewjj.xyz:8080/recc121412/KVqfhtdJ2nQ7/174
 #EXTINF:-1 tvg-id="MTurkTV.tr" tvg-country="TR" tvg-language="Turkish" tvg-logo="https://i.imgur.com/xj1gvrq.png" tvg-status="live" group-title="General",MTurk TV
 https://edge1.socialsmart.tv/muglaturk/bant1/playlist.m3u8
-#EXTINF:-1 tvg-id="NationalGeographic.tr" tvg-country="TR" tvg-language="Turkish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png" tvg-status="live" group-title="Documentary",National Geographic
+#EXTINF:-1 tvg-id="NationalGeographic.tr" tvg-country="TR" tvg-language="Turkish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png" tvg-status="down" group-title="Documentary",National Geographic (Offline)
 https://nord.ayakkabiparti.lol/natgeo/index.m3u8
-#EXTINF:-1 tvg-id="NationalGeographicWild.tr" tvg-country="TR" tvg-language="Turkish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/960px-National_Geographic_Wild_logo.svg.png" tvg-status="live" group-title="Documentary",National Geographic Wild
+#EXTINF:-1 tvg-id="NationalGeographicWild.tr" tvg-country="TR" tvg-language="Turkish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/960px-National_Geographic_Wild_logo.svg.png" tvg-status="down" group-title="Documentary",National Geographic Wild (Offline)
 https://nord.ayakkabiparti.lol/natgeowild/index.m3u8
 #EXTINF:-1 tvg-id="NaturalTV.tr" tvg-country="TR" tvg-language="English" tvg-logo="https://i.imgur.com/rfcJ674.png" tvg-status="live" group-title="Culture",Natural TV
 https://edge1.socialsmart.tv/naturaltv/bant1/playlist.m3u8
@@ -257,7 +257,7 @@ https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e198
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2aa8acf44_1/playlist.m3u8
 #EXTINF:-1 tvg-id="Number1TV.tr" tvg-country="TR" tvg-language="Turkish" tvg-logo="https://i.imgur.com/02cDIBi.png" tvg-status="live" group-title="Music",Number 1 TV
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e17cd59e8b.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="On4TV.tr" tvg-country="TR" tvg-language="Turkish" tvg-logo="https://i.imgur.com/qGRa1KI.png" tvg-status="live" group-title="General",On4 TV
+#EXTINF:-1 tvg-id="On4TV.tr" tvg-country="TR" tvg-language="Turkish" tvg-logo="https://i.imgur.com/qGRa1KI.png" tvg-status="down" group-title="General",On4 TV (Offline)
 https://edge1.socialsmart.tv/on4/bant1/playlist.m3u8
 #EXTINF:-1 tvg-id="PowerDance.tr" tvg-country="TR" tvg-language="Turkish" tvg-logo="https://i.imgur.com/QpPteBO.png" tvg-status="live" group-title="Music",Power Dance
 https://livetv.powerapp.com.tr/dance/dance.smil/playlist.m3u8
@@ -281,11 +281,11 @@ https://b01c02nl.mediatriple.net/videoonlylive/mtisvwurbfcyslive/broadcast_58d91
 https://canli.sercemtv.com.tr/hls/0/stream.m3u8
 #EXTINF:-1 tvg-id="ShowTurk.tr" tvg-country="TR" tvg-language="Turkish" tvg-logo="https://i.imgur.com/fdZpGDj.png" tvg-status="live" group-title="General",Show Turk
 https://raw.githubusercontent.com/bnyusuf67-crypto/streams/refs/heads/main/streams/shturk.m3u8
-#EXTINF:-1 tvg-id="SozcuTV.tr" tvg-country="TR" tvg-language="Turkish" tvg-logo="https://i.imgur.com/BxpdvsG.png" tvg-status="live" group-title="General",Sozcu TV
+#EXTINF:-1 tvg-id="SozcuTV.tr" tvg-country="TR" tvg-language="Turkish" tvg-logo="https://i.imgur.com/BxpdvsG.png" tvg-status="down" group-title="General",Sozcu TV (Offline)
 http://5.178.103.239:55/yt1/szctv.m3u8
-#EXTINF:-1 tvg-id="SSport2.tr" tvg-country="TR" tvg-language="Turkish" tvg-logo="https://i.imgur.com/2jIItAy.png" tvg-status="live" group-title="Sports",S Sport 2
+#EXTINF:-1 tvg-id="SSport2.tr" tvg-country="TR" tvg-language="Turkish" tvg-logo="https://i.imgur.com/2jIItAy.png" tvg-status="down" group-title="Sports",S Sport 2 (Offline)
 https://corestream.siteyaptim.live/s-sport2/index.m3u8
-#EXTINF:-1 tvg-id="SSport.tr" tvg-country="TR" tvg-language="Turkish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a9/S_Sport_logo1.png" tvg-status="live" group-title="Sports",S Sport
+#EXTINF:-1 tvg-id="SSport.tr" tvg-country="TR" tvg-language="Turkish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a9/S_Sport_logo1.png" tvg-status="down" group-title="Sports",S Sport (Offline)
 https://corestream.siteyaptim.live/s-sport/index.m3u8
 #EXTINF:-1 tvg-id="StarTV.tr" tvg-country="TR" tvg-language="Turkish" tvg-logo="https://i.imgur.com/9O3DHRB.png" tvg-status="live" group-title="General",Star TV
 https://dogus.daioncdn.net/startv/startv_720p.m3u8?app=a20ac41e-bdc3-4aa1-934d-26b484480ac9&ce=3&sid=8l4w3lst4co5
@@ -303,7 +303,7 @@ https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe46
 https://canli.tgrthaber.com/tgrt.m3u8
 #EXTINF:-1 tvg-id="Tivi6.tr" tvg-country="TR" tvg-language="Turkish" tvg-logo="https://i.imgur.com/Mbi0jbz.png" tvg-status="live" group-title="General",Tivi 6
 https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8
-#EXTINF:-1 tvg-id="TJKTV2.tr" tvg-country="TR" tvg-language="Turkish" tvg-logo="https://i.imgur.com/3zHdkYG.png" tvg-status="live" group-title="Sports",TJK TV 2
+#EXTINF:-1 tvg-id="TJKTV2.tr" tvg-country="TR" tvg-language="Turkish" tvg-logo="https://i.imgur.com/3zHdkYG.png" tvg-status="down" group-title="Sports",TJK TV 2 (Offline)
 https://tjktv-live.tjk.org/tjktv2/tjktv2.m3u8
 #EXTINF:-1 tvg-id="TJKTV.tr" tvg-country="TR" tvg-language="Turkish" tvg-logo="https://i.imgur.com/3zHdkYG.png" tvg-status="live" group-title="Sports",TJK TV
 https://tjktv-live.tjk.org/tjktv.m3u8
@@ -317,7 +317,7 @@ https://tv-trt3.live.trt.com.tr/master.m3u8
 https://tv-trtarabi.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TRTAvaz.tr" tvg-country="TR" tvg-language="Turkish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TRT_Avaz_logo.svg/960px-TRT_Avaz_logo.svg.png" tvg-status="live" group-title="General",TRT Avaz
 https://tv-trtavaz.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="TRTBelgesel.tr" tvg-country="TR" tvg-language="Turkish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/TRT_Belgesel_logo_%282019-%29.svg/960px-TRT_Belgesel_logo_%282019-%29.svg.png" tvg-status="live" group-title="Documentary",TRT Belgesel
+#EXTINF:-1 tvg-id="TRTBelgesel.tr" tvg-country="TR" tvg-language="Turkish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/TRT_Belgesel_logo_%282019-%29.svg/960px-TRT_Belgesel_logo_%282019-%29.svg.png" tvg-status="down" group-title="Documentary",TRT Belgesel (Offline)
 https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TRTCocuk.tr" tvg-country="TR" tvg-language="Turkish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/TRT_%C3%87ocuk_logo_%282021%29.svg/960px-TRT_%C3%87ocuk_logo_%282021%29.svg.png" tvg-status="live" group-title="Kids",TRT Cocuk
 https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
@@ -335,7 +335,7 @@ https://tv-trthaber.medya.trt.com.tr/master.m3u8
 https://tv-trtkurdi.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TRTMuzik.tr" tvg-country="TR" tvg-language="Turkish" tvg-logo="https://i.imgur.com/JgUzRH8.png" tvg-status="live" group-title="Music",TRT Muzik
 https://stream8.cinerama.uz/1208/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="TRTSpor.tr" tvg-country="TR" tvg-language="Turkish" tvg-logo="https://i.imgur.com/6tv0zxh.png" tvg-status="live" group-title="Sports",TRT Spor
+#EXTINF:-1 tvg-id="TRTSpor.tr" tvg-country="TR" tvg-language="Turkish" tvg-logo="https://i.imgur.com/6tv0zxh.png" tvg-status="down" group-title="Sports",TRT Spor (Offline)
 https://corestream.siteyaptim.live/trt-spor/index.m3u8
 #EXTINF:-1 tvg-id="TRTTurk.tr" tvg-country="TR" tvg-language="Turkish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/TRT_T%C3%BCrk_logo.svg/960px-TRT_T%C3%BCrk_logo.svg.png" tvg-status="live" group-title="General",TRT Turk
 https://tv-trtturk.medya.trt.com.tr/master.m3u8
@@ -351,11 +351,11 @@ https://turkmedya-live.ercdn.net/tv4/tv4.m3u8
 https://tv8.daioncdn.net/tv8/tv8.m3u8?app=7ddc255a-ef47-4e81-ab14-c0e5f2949788&ce=3
 #EXTINF:-1 tvg-id="TV41.tr" tvg-country="TR" tvg-language="Turkish" tvg-logo="https://i.imgur.com/6T472LM.png" tvg-status="live" group-title="General",TV 41
 https://live.artidijitalmedya.com/artidijital_tv41/tv41/playlist.m3u8
-#EXTINF:-1 tvg-id="TV42.tr" tvg-country="TR" tvg-language="Turkish" tvg-logo="https://www.tv42.com.tr/logo.png" tvg-status="live" group-title="General",TV 42
+#EXTINF:-1 tvg-id="TV42.tr" tvg-country="TR" tvg-language="Turkish" tvg-logo="https://www.tv42.com.tr/logo.png" tvg-status="down" group-title="General",TV 42 (Offline)
 https://canli.tv42.com.tr/memfs/d936e417-c4bd-4d42-89a2-02f289892d1d.m3u8
 #EXTINF:-1 tvg-id="TV52.tr" tvg-country="TR" tvg-language="Turkish" tvg-logo="https://i.imgur.com/k4R5CzO.png" tvg-status="live" group-title="General",TV 52
 https://edge1.socialsmart.tv/tv52/bant1/playlist.m3u8
-#EXTINF:-1 tvg-id="TV100.tr" tvg-country="TR" tvg-language="Turkish" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/thumb/0/0f/TV100_logo.png/960px-TV100_logo.png" tvg-status="live" group-title="General",TV 100
+#EXTINF:-1 tvg-id="TV100.tr" tvg-country="TR" tvg-language="Turkish" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/thumb/0/0f/TV100_logo.png/960px-TV100_logo.png" tvg-status="down" group-title="General",TV 100 (Offline)
 https://7nyaler.streamhostingcdn.top/stream/46/index.m3u8
 #EXTINF:-1 tvg-id="TV264.tr" tvg-country="TR" tvg-language="Turkish" tvg-logo="https://i.imgur.com/tudXdOZ.png" tvg-status="live" group-title="General",TV 264
 https://b01c02nl.mediatriple.net/videoonlylive/mtdxkkitgbrckilive/broadcast_5ee244263fd6d.smil/playlist.m3u8
@@ -363,7 +363,7 @@ https://b01c02nl.mediatriple.net/videoonlylive/mtdxkkitgbrckilive/broadcast_5ee2
 http://canli.tvden.com.tr/hls/live.m3u8
 #EXTINF:-1 tvg-id="TVNET.tr" tvg-country="TR" tvg-language="Turkish" tvg-logo="https://i.imgur.com/mQo8yWQ.png" tvg-status="live" group-title="General",TVNET
 https://tvnet-live.lg.mncdn.com/tvnet/tvnet/playlist.m3u8
-#EXTINF:-1 tvg-id="UlkeTV.tr" tvg-country="TR" tvg-language="Turkish" tvg-logo="https://i.imgur.com/wdWR7Qk.png" tvg-status="live" group-title="General",Ulke TV
+#EXTINF:-1 tvg-id="UlkeTV.tr" tvg-country="TR" tvg-language="Turkish" tvg-logo="https://i.imgur.com/wdWR7Qk.png" tvg-status="down" group-title="General",Ulke TV (Offline)
 http://217.174.229.138:8000/play/a0el
 #EXTINF:-1 tvg-id="UrfaNatikTV.tr" tvg-country="TR" tvg-language="Turkish" tvg-logo="https://i.imgur.com/8KO0uxn.png" tvg-status="live" group-title="General",Urfa Natik TV
 https://live.artidijitalmedya.com/artidijital_urfanatiktv/urfanatiktv/playlist.m3u8
@@ -371,7 +371,7 @@ https://live.artidijitalmedya.com/artidijital_urfanatiktv/urfanatiktv/playlist.m
 https://live.artidijitalmedya.com/artidijital_van65/van65/playlist.m3u8
 #EXTINF:-1 tvg-id="VavTV.tr" tvg-country="TR" tvg-language="Turkish" tvg-logo="https://i.imgur.com/jw0gB8L.png" tvg-status="live" group-title="General",Vav TV
 https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/kltr-sanat-tv/playlist.m3u8
-#EXTINF:-1 tvg-id="ViasatHistory.tr" tvg-country="TR" tvg-language="Turkish" tvg-logo="https://i.imgur.com/wRP9XA7.png" tvg-status="live" group-title="Documentary",Viasat History
+#EXTINF:-1 tvg-id="ViasatHistory.tr" tvg-country="TR" tvg-language="Turkish" tvg-logo="https://i.imgur.com/wRP9XA7.png" tvg-status="down" group-title="Documentary",Viasat History (Offline)
 https://nord.ayakkabiparti.lol/viasathistory/index.m3u8
 #EXTINF:-1 tvg-id="ZarokTV.tr" tvg-country="TR" tvg-language="Kurdish" tvg-logo="https://i.imgur.com/o0eevnb.png" tvg-status="live" group-title="General",Zarok TV
 https://zindikurmanci.zaroktv.com.tr/hls/stream.m3u8

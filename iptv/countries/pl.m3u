@@ -7,9 +7,9 @@ https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883104
 #EXTINF:-1 tvg-id="ATMRozrywkaREWORK.pl" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.ibb.co/B5BfmQNs/ATM.jpg" tvg-status="live" group-title="Entertainment",ATM Rozrywka REWORK
 https://grupaatmrr.org.pl:8888/fallback/index.m3u8
-#EXTINF:-1 tvg-id="AXNPoland.pl" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/i5wOhkf.png" tvg-status="live" group-title="Movies",AXN Poland
+#EXTINF:-1 tvg-id="AXNPoland.pl" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/i5wOhkf.png" tvg-status="down" group-title="Movies",AXN Poland (Offline)
 http://193.24.244.60:1001/udp/239.254.5.5:6060
-#EXTINF:-1 tvg-id="AXNSpin.pl" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/LGEbwnT.png" tvg-status="live" group-title="Series",AXN Spin
+#EXTINF:-1 tvg-id="AXNSpin.pl" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/LGEbwnT.png" tvg-status="down" group-title="Series",AXN Spin (Offline)
 http://193.24.244.60:1001/udp/239.254.5.6:6060
 #EXTINF:-1 tvg-id="BelsatTV.pl" tvg-country="PL" tvg-language="Belarusian" tvg-logo="https://i.imgur.com/qJyjSR6.png" tvg-status="live" group-title="General",Belsat TV
 https://iptv.prosto.tv/ch171/index.m3u8
@@ -35,13 +35,13 @@ https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae0
 http://5.188.159.128:8070/Cartoon_Network/index.m3u8
 #EXTINF:-1 tvg-id="DrGMedicalExaminer.pl" tvg-country="PL" tvg-language="Polish" tvg-logo="" tvg-status="live" group-title="General",Dr G Medical Examiner
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883008
-#EXTINF:-1 tvg-id="Echo24.pl" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/KPogWAG.png" tvg-status="live" group-title="General",Echo24
+#EXTINF:-1 tvg-id="Echo24.pl" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/KPogWAG.png" tvg-status="down" group-title="General",Echo24 (Offline)
 https://echo24new.pl/LiveAppStreamECHO24/streams/GL0VksiIgQUS1672825288490.m3u8
 #EXTINF:-1 tvg-id="Euronews.pl" tvg-country="PL" tvg-language="Polish" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/bc84c3b7-6008-4ee3-8f6a-e4bb4365f082-width200-quality90.jpeg" tvg-status="live" group-title="News",Euronews
 https://cdn-euronews.akamaized.net/live/eds/euronews-pl/26382/index.m3u8
 #EXTINF:-1 tvg-id="EWTNPoland.pl" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/VtKYELf.png" tvg-status="live" group-title="Religious",EWTN Poland
 https://cdn3.wowza.com/1/ZHdrMWt1NjlDSzFu/bzdDVG10/hls/live/playlist.m3u8
-#EXTINF:-1 tvg-id="FILMBOXPlusAction.pl" tvg-country="PL" tvg-language="English" tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Baction.png" tvg-status="live" group-title="Movies",FILMBOX+ Action
+#EXTINF:-1 tvg-id="FILMBOXPlusAction.pl" tvg-country="PL" tvg-language="English" tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Baction.png" tvg-status="down" group-title="Movies",FILMBOX+ Action (Offline)
 https://polska.hach.workers.dev/14864.m3u8
 #EXTINF:-1 tvg-id="FILMBOXPlusComedy.pl" tvg-country="PL" tvg-language="Polish" tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bcomedy.png" tvg-status="live" group-title="Movies",FILMBOX+ Comedy
 http://88.212.15.19/live/test_filmbox_family_atk_1200/playlist.m3u8
@@ -63,17 +63,17 @@ https://b6c7c7d1020a4588982ca7c2625f85d1.mediatailor.us-east-1.amazonaws.com/v1/
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883037
 #EXTINF:-1 tvg-id="Moconomy.pl" tvg-country="PL" tvg-language="Polish" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/9da0ec4d-85ea-45f4-b3f9-ae917d1714f9-width200-quality90.jpeg" tvg-status="live" group-title="General",Moconomy
 https://3ee905090d464be5a51478fd9c642e93.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-pl_Moconomy/playlist.m3u8
-#EXTINF:-1 tvg-id="Motowizja.pl" tvg-country="PL" tvg-language="Polish" tvg-logo="https://ocdn.eu/ptv2-images-transforms/1/bqxkrtsb2dvLW1pZ3JhdGVkL21vdG93aXpqYS5wbmeSlQJkAMLDlQIAKMLD" tvg-status="live" group-title="Auto",Motowizja
+#EXTINF:-1 tvg-id="Motowizja.pl" tvg-country="PL" tvg-language="Polish" tvg-logo="https://ocdn.eu/ptv2-images-transforms/1/bqxkrtsb2dvLW1pZ3JhdGVkL21vdG93aXpqYS5wbmeSlQJkAMLDlQIAKMLD" tvg-status="down" group-title="Auto",Motowizja (Offline)
 https://polska.hach.workers.dev/14808.m3u8
 #EXTINF:-1 tvg-id="MusicBoxPolska.pl" tvg-country="PL" tvg-language="Polish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Music_Box_UA_%282018%29.svg/960px-Music_Box_UA_%282018%29.svg.png" tvg-status="live" group-title="Music",Music Box Polska
 http://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cHM6Ly9obHMtY2RuMS5keXZ5YXBwLmNvbS9NdXNpYy1Cb3gvdHJhY2tzLXYxYTEvbW9uby50cy5tM3U4P3Rva2VuPWV5SmhiR2NpT2lKSVV6STFOaUlzSW5SNWNDSTZJa3BYVkNKOS5leUpqYUdGdWJtVnNYMmxrSWpvMU55d2lZMmhoYm01bGJGOXVZVzFsSWpvaVRYVnphV01nUW05NElpd2lhWEFpT2lJeE56Z3VNVE0yTGpReUxqSXlNQ0lzSW1OdmRXNTBjbmtpT2lKVmEzSmhhVzVsSWl3aWRYTmxjbDlwWkNJNk56UXdOeXdpZFhObGNsOXdhRzl1WlNJNklpc3pPREE1TXpBNU5qYzBNak1pTENKMWMyVnlYM0p2YkdWeklqcGJJbU5zYVdWdWRDSmRMQ0p3Y205bWFXeGxYMmxrSWpvMk5EY3hMQ0p6WlhOemFXOXVYMmxrSWpvaVpEQXdPVFppWmpndE1qTmxOUzAwWldVMkxXSmxNelV0Wmpnd09ETTVaV1k1WkRnMElpd2laVzUyYVhKdmJtMWxiblFpT2lKd2NtOWtkV04wYVc5dUlpd2ljR3hoZEdadmNtMGlPaUpFWlhOcmRHOXdJaXdpZFhObGNsOWhaMlZ1ZENJNklrMXZlbWxzYkdGY0x6VXVNQ0FvVjJsdVpHOTNjeUJPVkNBeE1DNHdPeUJYYVc0Mk5Ec2dlRFkwS1NCQmNIQnNaVmRsWWt0cGRGd3ZOVE0zTGpNMklDaExTRlJOVEN3Z2JHbHJaU0JIWldOcmJ5a2dRMmh5YjIxbFhDOHhOVEl1TUM0d0xqQWdVMkZtWVhKcFhDODFNemN1TXpZaUxDSmxlSEFpT2pFM09EZ3hPRFV4TmpkOS5nYUo1WGRxTjJ3djY2SnFxYldnX0dGUzY3V3lZVEVOc0JQa3VpcU1sNTVN&master=57
 #EXTINF:-1 tvg-id="NewTV.pl" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/fH8rKs3.png" tvg-status="live" group-title="General",NewTV
 https://1409502578.rsc.cdn77.org/live/stream-1/chunklist.m3u8
-#EXTINF:-1 tvg-id="Nicktoons.pl" tvg-country="PL" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/Nicktoons_Logo_2023.svg" tvg-status="live" group-title="Kids",Nicktoons
+#EXTINF:-1 tvg-id="Nicktoons.pl" tvg-country="PL" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/Nicktoons_Logo_2023.svg" tvg-status="down" group-title="Kids",Nicktoons (Offline)
 http://193.24.244.60:1001/udp/239.254.5.227:6060
 #EXTINF:-1 tvg-id="PixelTV.pl" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.ibb.co/S4jM2WXk/pixeltv.png" tvg-status="live" group-title="Animation",Pixel TV
 https://jmp2.uk/plu-62790dc1c733e8000733ba4d.m3u8
-#EXTINF:-1 tvg-id="PolsatSport1.pl" tvg-country="PL" tvg-language="Polish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Polsat_Sport_1_2024.svg/500px-Polsat_Sport_1_2024.svg.png" tvg-status="live" group-title="General",Polsat Sport 1
+#EXTINF:-1 tvg-id="PolsatSport1.pl" tvg-country="PL" tvg-language="Polish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Polsat_Sport_1_2024.svg/500px-Polsat_Sport_1_2024.svg.png" tvg-status="down" group-title="General",Polsat Sport 1 (Offline)
 https://7nyaler.streamhostingcdn.top/stream/61/index.m3u8
 #EXTINF:-1 tvg-id="PolsatSportPremium1.pl" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/hy1SKE0.png" tvg-status="live" group-title="Sports",Polsat Sport Premium 1
 http://88b9da48.kazmazpaz.ru/iptv/XVU58NBPX2LUMP/7304/index.m3u8
@@ -123,13 +123,13 @@ https://stream.tvkstella.pl/stella/stella.m3u8
 http://stream.tvkujawy.pl:8080/live/broadcast.m3u8
 #EXTINF:-1 tvg-id="TVP1.pl" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/ewpSjBs.png" tvg-status="live" group-title="General",TVP1
 https://lowa8026-cmyk.github.io/PL/TVP1.php.m3u8
-#EXTINF:-1 tvg-id="TVP2.pl" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/XxCc32B.png" tvg-status="live" group-title="General",TVP2
+#EXTINF:-1 tvg-id="TVP2.pl" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/XxCc32B.png" tvg-status="down" group-title="General",TVP2 (Offline)
 https://tvpi.travny.workers.dev/tvp2.m3u8
 #EXTINF:-1 tvg-id="TVP3Warszawa.pl" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/AfZOO8U.jpg" tvg-status="live" group-title="General",TVP 3 Warszawa
 http://88b9da48.kazmazpaz.ru/iptv/XVU58NBPX2LUMP/7284/index.m3u8
-#EXTINF:-1 tvg-id="TVPDokument.pl" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/oQUNtzs.png" tvg-status="live" group-title="General",TVP Dokument
+#EXTINF:-1 tvg-id="TVPDokument.pl" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/oQUNtzs.png" tvg-status="down" group-title="General",TVP Dokument (Offline)
 https://tvpi.travny.workers.dev/tvpdokument.m3u8
-#EXTINF:-1 tvg-id="TVPHistoria.pl" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/Bc4QZiy.png" tvg-status="live" group-title="General",TVP Historia
+#EXTINF:-1 tvg-id="TVPHistoria.pl" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/Bc4QZiy.png" tvg-status="down" group-title="General",TVP Historia (Offline)
 https://tvp3.cache.orange.pl/tvp/live/JQmETX58eM7X32i5AVKZRQ/1783368986/video/live/live171/nginx/TKH/156/master.m3u8
 #EXTINF:-1 tvg-id="TVPInfo.pl" tvg-country="PL" tvg-language="Polish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/28/TVP_info_%282024%29.png" tvg-status="live" group-title="General",TVP Info
 https://tvpi.travny.workers.dev/tvpinfo.m3u8
@@ -143,11 +143,11 @@ https://lowa8026-cmyk.github.io/PL/PULSHD.php.m3u8
 https://lowa8026-cmyk.github.io/tvpvod/399731.m3u8
 #EXTINF:-1 tvg-id="TVRegionalnaLubin.pl" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/2WVNt3f.png" tvg-status="live" group-title="General",TV Regionalna Lubin
 https://tvregfull.mailfull.pl/tvregfull/memfs/e64b3e05-649c-4939-9ff6-584e79285ccd.m3u8
-#EXTINF:-1 tvg-id="TVT.pl" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/oZyeUzG.png" tvg-status="live" group-title="General",TVT
+#EXTINF:-1 tvg-id="TVT.pl" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/oZyeUzG.png" tvg-status="down" group-title="General",TVT (Offline)
 https://live.streamtvt.pl/LiveAppStreamTVT/streams/853271271313930867905724.m3u8
 #EXTINF:-1 tvg-id="TVTorun.pl" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/ZJ0yDWI.png" tvg-status="live" group-title="General",TV Torun
 http://217.173.176.107:1935/live/tvk.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="TVTZgorzelec.pl" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/zhzVpgf.jpg" tvg-status="live" group-title="General",TVT Zgorzelec
+#EXTINF:-1 tvg-id="TVTZgorzelec.pl" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/zhzVpgf.jpg" tvg-status="down" group-title="General",TVT Zgorzelec (Offline)
 http://gargoyle.tomkow.pl/hls/tvt.m3u8
 #EXTINF:-1 tvg-id="TwojaTV.pl" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.ibb.co/vxntQD60/twojatv-hd-online.png" tvg-status="live" group-title="General",Twoja.TV
 https://stream.twoja.tv/ttv_hls/live.m3u8
