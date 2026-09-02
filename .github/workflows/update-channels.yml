@@ -1,1 +1,31 @@
+name: Update Clean Channel Data
 
+on:
+  schedule:
+    - cron: "0 */6 * * *"   # every 6 hours
+  workflow_dispatch: {}      # lets you trigger it manually from the Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Build clean channel data
+        run: node scripts/build-clean-data.mjs
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add iptv/
+          git diff --staged --quiet || git commit -m "Update channel data $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+          git push
