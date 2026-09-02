@@ -79,8 +79,8 @@ http://88.212.15.19/live/viasat_film/index.m3u8
 http://177.234.249.178:8888/AXN/index.m3u8
 #EXTINF:-1 tvg-id="AXNMovies.pt" tvg-country="PT" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/tJQckal.png" tvg-status="live" group-title="Movies",AXN Movies
 http://50.7.120.34:8080/AXN_BLACK/index.m3u8
-#EXTINF:-1 tvg-id="AXNPoland.pl" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/i5wOhkf.png" tvg-status="down" group-title="Movies",AXN Poland (Offline)
-http://193.24.244.60:1001/udp/239.254.5.5:6060
+#EXTINF:-1 tvg-id="AXNPoland.pl" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/i5wOhkf.png" tvg-status="live" group-title="Movies",AXN Poland
+https://polska.hach.workers.dev/14850.m3u8
 #EXTINF:-1 tvg-id="AzCinema.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/B5UN7C8.png" tvg-status="down" group-title="Movies",Az Cinema (Offline)
 https://cdn1tlinkgo.tlink.cl/azcinema/index.m3u8
 #EXTINF:-1 tvg-id="B4UBhojpuri.in" tvg-country="IN" tvg-language="Bhojpuri" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/B4U-BHOJPURI-LOGO-transparent.png" tvg-status="live" group-title="Movies",B4U Bhojpuri
@@ -190,7 +190,7 @@ https://cdn4.skygo.mn/live/disk1/CinemaTV/DASH-FTA/CinemaTV.mpd
 #EXTINF:-1 tvg-id="Cinema.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/b5e9qUA.png" tvg-status="live" group-title="Movies",Cinema
 https://stream8.cinerama.uz/1227/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="CinemaWorld.my" tvg-country="MY" tvg-language="English" tvg-logo="https://i.imgur.com/D2qNVZ7.png" tvg-status="live" group-title="Movies",CinemaWorld
-http://nmk.ioapk.com:5050/4gtv-live069/index.m3u8
+https://cdn.qd.je/163189/cinemaworld
 #EXTINF:-1 tvg-id="Cinemax2.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Cinemax_2_%282016%29.png/960px-Cinemax_2_%282016%29.png" tvg-status="live" group-title="Movies",Cinemax 2
 http://88.212.15.19/live/test_cinemax2_hd_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id="Cinemax.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/960px-Cinemax_2016.svg.png" tvg-status="live" group-title="Movies",Cinemax
@@ -639,8 +639,6 @@ https://jmp2.uk/plu-6728d2be529ac9000830dc15.m3u8
 https://a-cdn.klowdtv.com/live2/nost_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="NovyiRusskii.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/iuRSScH.png" tvg-status="down" group-title="Movies",Novyi Russkii (Offline)
 https://live.15plusmg.ru/memfs/f983b507-a170-41a9-85a9-d9afc6cba9c1.m3u8
-#EXTINF:-1 tvg-id="ONMovies.vn" tvg-country="VN" tvg-language="Vietnamese" tvg-logo="https://i.ibb.co/fdbgvtT8/IMG-2523.webp" tvg-status="down" group-title="Movies",ON Movies (Offline)
-https://freem3u.xyz/api/live/play.m3u8?vid=181
 #EXTINF:-1 tvg-id="OrbitaChileTV.cl" tvg-country="CL" tvg-language="Spanish" tvg-logo="https://i.imgur.com/gbNh79Z.png" tvg-status="down" group-title="Movies",Orbita Chile TV (Offline)
 https://orbitachiletv.org/hls/0/stream.m3u8
 #EXTINF:-1 tvg-id="OscarMoviesBhojpuri.in" tvg-country="IN" tvg-language="Bhojpuri" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Osar_Movies.png" tvg-status="live" group-title="Movies",Oscar Movies Bhojpuri
@@ -1092,7 +1090,7 @@ http://190.11.225.124:5000/live/usa_hd/playlist.m3u8
 #EXTINF:-1 tvg-id="ViafreeMovies.se" tvg-country="SE" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/62bebc3459624e00078209c3/colorLogoSVG.svg" tvg-status="live" group-title="Movies",Viafree Movies
 https://jmp2.uk/plu-62bebc3459624e00078209c3.m3u8
 #EXTINF:-1 tvg-id="ViasatKino.ua" tvg-country="UA" tvg-language="Russian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/Viasat_Kino_Logo_2025.svg" tvg-status="live" group-title="Movies",Viasat Kino
-http://176.61.157.250/TV1000/index.m3u8
+https://flash1.bogulus1.cfd/tivi10/usergenrxs4f7zc.m3u8
 #EXTINF:-1 tvg-id="ViasatKinoAction.ua" tvg-country="UA" tvg-language="Russian" tvg-logo="https://i.imgur.com/HwsNIDK.png" tvg-status="live" group-title="Movies",Viasat Kino Action
 http://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjUxOjcwMDAvY2g0Ny90cmFja3MtdjFhMS9tb25vLm0zdTg%2FbGl2ZT0xJmlwPTE3OC4xMzYuNDIuMjIwJmlkPTk0ODg2NSZzZWNyZXQ9bjF1N3VpMDYmc3NsPTEmMjF5bz0wJmU9MTc5MDU5OTA0MiZzdD1tVWRSQVFvbDY4SHVMTEc2MENpeTFn&master=105
 #EXTINF:-1 tvg-id="ViasatKinoComedy.ua" tvg-country="UA" tvg-language="Russian" tvg-logo="https://i.imgur.com/qVYt8kP.png" tvg-status="live" group-title="Movies",Viasat Kino Comedy

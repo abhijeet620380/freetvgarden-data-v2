@@ -109,7 +109,7 @@ https://do7nccdsswstc.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da6
 https://stream.it-innov.com/cam10tv/index.m3u8
 #EXTINF:-1 tvg-id="Canal3.bf" tvg-country="BF" tvg-language="French" tvg-logo="https://i.imgur.com/WIrVAa2.png" tvg-status="down" group-title="General",Canal 3 (Offline)
 https://cs2.push2stream.com/CANAL3BENIN/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal9.ch" tvg-country="CH" tvg-language="French" tvg-logo="https://i.imgur.com/TNciMh2.png" tvg-status="down" group-title="General",Canal 9 (Offline)
+#EXTINF:-1 tvg-id="Canal9.ch" tvg-country="CH" tvg-language="French" tvg-logo="https://i.imgur.com/TNciMh2.png" tvg-status="live" group-title="General",Canal 9
 https://livehd.vedge.infomaniak.com/livecast/livehd/master.m3u8
 #EXTINF:-1 tvg-id="CanalPlusCinemas.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/fvPoNEa.jpeg" tvg-status="live" group-title="Movies",Canal+ Cinemas
 http://151.80.18.177:86/Canal+_cinema_HD/index.m3u8
@@ -389,7 +389,7 @@ https://live.creacast.com/mirabelletv/smil:mirabelletv.smil/playlist.m3u8
 http://99.27.51.147:8080/MTV/index.m3u8
 #EXTINF:-1 tvg-id="MTVCLASSICS.de" tvg-country="DE" tvg-language="French" tvg-logo="https://images.pluto.tv/channels/5f92b56a367e170007cd43f4/colorLogoSVG.svg" tvg-status="live" group-title="Entertainment",MTV CLASSICS
 https://jmp2.uk/plu-5f92b56a367e170007cd43f4.m3u8
-#EXTINF:-1 tvg-id="MyTVChannel.cm" tvg-country="CM" tvg-language="French" tvg-logo="https://i.imgur.com/vh2373L.png" tvg-status="down" group-title="General",My TV Channel (Offline)
+#EXTINF:-1 tvg-id="MyTVChannel.cm" tvg-country="CM" tvg-language="French" tvg-logo="https://i.imgur.com/vh2373L.png" tvg-status="live" group-title="General",My TV Channel
 http://connectiktv.ddns.net:5000/mytvchannel/@mytvchannel/playlist.m3u8
 #EXTINF:-1 tvg-id="MyZenTV.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/fIi8o0C.png" tvg-status="live" group-title="Relax",MyZen TV
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-en-plex/playlist.m3u8
@@ -549,11 +549,11 @@ https://savane24.tv:5443/LiveApp/streams/Y4fyif69Q0ll6MeH2190896734859843.m3u8
 http://41.205.93.154/SYFY/index.m3u8
 #EXTINF:-1 tvg-id="ScreamIN.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/tGmKbil.png" tvg-status="live" group-title="Movies",ScreamIN
 https://rakutenaa-zylo-screamin-rakuten-p11ej.amagi.tv/playlist/rakutenAA-zylo-screamin-rakuten/playlist.m3u8
-#EXTINF:-1 tvg-id="SenJeunesTV.sn" tvg-country="SN" tvg-language="French" tvg-logo="https://i.imgur.com/MeCSPsI.jpg" tvg-status="down" group-title="General",SenJeunes TV (Offline)
+#EXTINF:-1 tvg-id="SenJeunesTV.sn" tvg-country="SN" tvg-language="French" tvg-logo="https://i.imgur.com/MeCSPsI.jpg" tvg-status="live" group-title="General",SenJeunes TV
 https://stream.sen-gt.com/senjeunestv/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="SerieClub.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/V8wRRg5.png" tvg-status="down" group-title="General",Serie Club (Offline)
 http://145.239.5.177/355/index.m3u8
-#EXTINF:-1 tvg-id="SerieMax.ci" tvg-country="CI" tvg-language="French" tvg-logo="https://i.imgur.com/GaRQXHT.png" tvg-status="down" group-title="Series",Serie Max (Offline)
+#EXTINF:-1 tvg-id="SerieMax.ci" tvg-country="CI" tvg-language="French" tvg-logo="https://i.imgur.com/GaRQXHT.png" tvg-status="live" group-title="Series",Serie Max
 https://video1.getstreamhosting.com:1936/8330/8330/playlist.m3u8
 #EXTINF:-1 tvg-id="SeriesbyPlutoTV.de" tvg-country="DE" tvg-language="French" tvg-logo="https://images.pluto.tv/channels/5f8ed2d1c34c2300073bf02c/colorLogoSVG_1775048963457.svg" tvg-status="live" group-title="Series",Series by Pluto TV
 https://jmp2.uk/plu-5f8ed2d1c34c2300073bf02c.m3u8
@@ -726,25 +726,57 @@ https://jmp2.uk/plu-680291e38e1ff89c2427aefd.m3u8
 #EXTINF:-1 tvg-id="W9.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/reYeMuE.png" tvg-status="down" group-title="Entertainment",W9 (Offline)
 https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-w9/cmaf_q2hyb21h/hls-short-hd.m3u8
 #EXTINF:-1 tvg-id="WalkerTexasRanger.us" tvg-country="US" tvg-language="French" tvg-logo="https://i.imgur.com/0N7EhuD.png" tvg-status="live" group-title="Series",Walker Texas Ranger
-https://jmp2.uk/plu-62a0aefc7c5f9f00075b4e24.m3u8
+https://jmp2.uk/plu-635659445b4c4700076d2ad1.m3u8
 #EXTINF:-1 tvg-id="Yaquelaveritequicompte.us" tvg-country="US" tvg-language="French" tvg-logo="https://i.imgur.com/MDHN2Vc.png" tvg-status="live" group-title="Entertainment",Y'a que la verite qui compte
 https://jmp2.uk/plu-612e044c970e6f00083bcf3b.m3u8
 #EXTINF:-1 tvg-id="zenith.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://znth.tv/images/logo.png" tvg-status="live" group-title="General",zenith
 https://live.azenagroup.com/zenith/index.ll.m3u8
 #EXTINF:-1 tvg-id="ZitataTV.mq" tvg-country="MQ" tvg-language="French" tvg-logo="https://i.imgur.com/KJmefse.png" tvg-status="live" group-title="General",Zitata TV
 https://live.zitata.tv/direct-hls/playlist.m3u8
+#EXTINF:-1 tvg-id="famelack-Lo5vR5FNgGw4gl" tvg-country="FR" tvg-language="French" tvg-logo="" tvg-status="live" group-title="General",AfricaNews Français
+https://www.youtube-nocookie.com/embed/b6R9-7KZ8YM
+#EXTINF:-1 tvg-id="famelack-ZPk3uBpYzL7r88" tvg-country="SN" tvg-language="French" tvg-logo="" tvg-status="live" group-title="General",Al Khadimiyyah TV
+https://www.youtube-nocookie.com/embed/q5ulLcqbjMs
+#EXTINF:-1 tvg-id="famelack-SFsrKozwjoLj8R" tvg-country="FR" tvg-language="French" tvg-logo="" tvg-status="live" group-title="General",B SMART
+https://www.youtube-nocookie.com/embed/HtiajzAXoBU
 #EXTINF:-1 tvg-id="famelack-cGjSaev20uBBta" tvg-country="FR" tvg-language="French" tvg-logo="" tvg-status="live" group-title="General",Banijay Mr Bean Animé
 https://amg00627-amg00627c31-rakuten-fr-3991.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanfrcc-rakutenfr/playlist.m3u8
+#EXTINF:-1 tvg-id="famelack-mPbuqsHG1z2Sb6" tvg-country="FR" tvg-language="French" tvg-logo="" tvg-status="live" group-title="General",Cartoonito France: Tom Et Jerry
+https://www.youtube-nocookie.com/embed/C6hI2WB3wH8
 #EXTINF:-1 tvg-id="famelack-p0zKKJn9B3MYSH" tvg-country="CA" tvg-language="French" tvg-logo="" tvg-status="live" group-title="General",CFTU-DT
 https://hls.savoir.media/live/stream.m3u8
 #EXTINF:-1 tvg-id="famelack-UIl4NRuaZav1ye" tvg-country="GN" tvg-language="French" tvg-logo="" tvg-status="live" group-title="General",Espace TV
 https://edge11.vedge.infomaniak.com/livecast/ik:espacetv/manifest.m3u8
+#EXTINF:-1 tvg-id="famelack-32YXpnKvxn9M0K" tvg-country="FR" tvg-language="French" tvg-logo="" tvg-status="live" group-title="General",Euronews Français
+https://www.youtube-nocookie.com/embed/NiRIbKwAejk
 #EXTINF:-1 tvg-id="famelack-4CWVkfpOd7mDjB" tvg-country="FR" tvg-language="French" tvg-logo="" tvg-status="live" group-title="General",France 24 French
 https://dash4.antik.sk/live/test_france24_france/playlist.m3u8
+#EXTINF:-1 tvg-id="famelack-H49EeQ4bvodyQ7" tvg-country="FR" tvg-language="French" tvg-logo="" tvg-status="live" group-title="General",Franceinfo
+https://www.youtube-nocookie.com/embed/NG7ZX42nZKc
+#EXTINF:-1 tvg-id="famelack-fZyKRU2kHKETIx" tvg-country="FR" tvg-language="French" tvg-logo="" tvg-status="live" group-title="General",Lou!
+https://www.youtube-nocookie.com/embed/EKaD5oWvxq0
+#EXTINF:-1 tvg-id="famelack-tZGs9rIPSzUbKH" tvg-country="FR" tvg-language="French" tvg-logo="" tvg-status="live" group-title="General",Maurienne TV
+https://www.youtube-nocookie.com/embed/5ARTNKq49WY
+#EXTINF:-1 tvg-id="famelack-OT7cC0iY15HoKp" tvg-country="FR" tvg-language="French" tvg-logo="" tvg-status="live" group-title="General",Mosaïk Cristal
+https://www.youtube-nocookie.com/embed/h8jhsRixcJw
 #EXTINF:-1 tvg-id="famelack-SbCVyIRCGshv9Z" tvg-country="FR" tvg-language="French" tvg-logo="" tvg-status="live" group-title="General",Nature Time
 https://bamusa-naturetime-emea-fra-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="famelack-4NyFCBjkWuIpW6" tvg-country="FR" tvg-language="French" tvg-logo="" tvg-status="live" group-title="General",Pocoyo
+https://www.youtube-nocookie.com/embed/n5lS0-MCgqc
+#EXTINF:-1 tvg-id="famelack-3NvakxlQdvFfhn" tvg-country="FR" tvg-language="French" tvg-logo="" tvg-status="live" group-title="General",Puissance Télévision
+https://www.youtube-nocookie.com/embed/1a8mVYWZQRs
+#EXTINF:-1 tvg-id="famelack-fsqc3tbNlosErK" tvg-country="FR" tvg-language="French" tvg-logo="" tvg-status="live" group-title="General",RFI
+https://www.youtube-nocookie.com/embed/OAoLGxrlBPY
 #EXTINF:-1 tvg-id="famelack-5crJcIoyjElcSC" tvg-country="HT" tvg-language="French" tvg-logo="" tvg-status="live" group-title="General",RTH-TV2 Gospel
 https://2-fss-2.streamhoster.com/pl_120/amlst:206708-4202592/playlist.m3u8
+#EXTINF:-1 tvg-id="famelack-e2QKMdwgfK4Vxo" tvg-country="FR" tvg-language="French" tvg-logo="" tvg-status="live" group-title="General",Simon Super Lapin
+https://www.youtube-nocookie.com/embed/0bPyiYjhf_U
+#EXTINF:-1 tvg-id="famelack-PNF9zodERQr3Zm" tvg-country="FR" tvg-language="French" tvg-logo="" tvg-status="live" group-title="General",SQOOL TV
+https://www.youtube-nocookie.com/embed/UmrFDfwSl4Q
+#EXTINF:-1 tvg-id="famelack-PSsEgUNjn9R4KH" tvg-country="FR" tvg-language="French" tvg-logo="" tvg-status="live" group-title="General",Tech & Co
+https://www.youtube-nocookie.com/embed/j9uQt53dmNY
+#EXTINF:-1 tvg-id="famelack-lyqsis1AvWCgnl" tvg-country="FR" tvg-language="French" tvg-logo="" tvg-status="live" group-title="General",Totally Spies!
+https://www.youtube-nocookie.com/embed/Kwgaf0n0Jd0
 #EXTINF:-1 tvg-id="famelack-qlnlzIINox50mW" tvg-country="FR" tvg-language="French" tvg-logo="" tvg-status="live" group-title="General",Trace Gospel Southern Africa
 https://channels.trace.plus/Traceprod/GOSPEL_SA_hd/index.m3u8
 #EXTINF:-1 tvg-id="famelack-D5MYV8sWL3x6ui" tvg-country="CI" tvg-language="French" tvg-logo="" tvg-status="live" group-title="General",Trace Ivoire
@@ -755,3 +787,7 @@ https://channels.trace.plus/Traceprod/URBAN_AFRIC_FR_hd/index.m3u8
 https://channels.trace.plus/Traceprod/URBAN_DOM_hd/index.m3u8
 #EXTINF:-1 tvg-id="famelack-4aWG7gXKEliA0U" tvg-country="FR" tvg-language="French" tvg-logo="" tvg-status="live" group-title="General",Trace Urban Southern Africa
 https://channels.trace.plus/Traceprod/URBAN_SA_hd/index.m3u8
+#EXTINF:-1 tvg-id="famelack-bXKVlszQEGdoup" tvg-country="CA" tvg-language="French" tvg-logo="" tvg-status="live" group-title="General",TV Témis
+https://www.youtube-nocookie.com/embed/H2ZwwT4fzYs
+#EXTINF:-1 tvg-id="famelack-kz1QrxbntvR2ns" tvg-country="FR" tvg-language="French" tvg-logo="" tvg-status="live" group-title="General",Zig & Sharko
+https://www.youtube-nocookie.com/embed/0flIX2kXnZs

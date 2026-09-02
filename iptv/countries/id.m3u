@@ -11,7 +11,7 @@ https://akativi.siar.us/live/akativi.m3u8
 http://202.150.161.117:8000/play/AlBahjahTV
 #EXTINF:-1 tvg-id="AlImanTV.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://i.imgur.com/Qj1EFf1.png" tvg-status="down" group-title="Religious",Al-Iman TV (Offline)
 https://tv.aliman.id/aliman/live.m3u8
-#EXTINF:-1 tvg-id="AlWafaTarim.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://i.ibb.co/3yfMjmf/logo-3.png" tvg-status="down" group-title="Religious",Al Wafa Tarim (Offline)
+#EXTINF:-1 tvg-id="AlWafaTarim.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://i.ibb.co/3yfMjmf/logo-3.png" tvg-status="live" group-title="Religious",Al Wafa Tarim
 https://ammedia.siar.us/ammedia/live/playlist.m3u8
 #EXTINF:-1 tvg-id="ANTV.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/960px-Antv_logo.svg.png" tvg-status="down" group-title="General",ANTV (Offline)
 http://103.58.160.157:8278/720-ANTV/playlist.m3u8
@@ -27,7 +27,7 @@ http://122.248.43.242:1935/ATAMBUATV/_definst_/myStream/playlist.m3u8
 http://122.248.43.242:1935/BALIKPAPANTV/_definst_/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="BandungTV.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://i.postimg.cc/JzqSzcj9/200px-Logo-bdg-tv-2016.png" tvg-status="live" group-title="General",Bandung TV
 http://202.150.153.254:65500/bandungtvWEBSITE.m3u8
-#EXTINF:-1 tvg-id="BanjarTV.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://i.imgur.com/TA76a10.png" tvg-status="down" group-title="General",Banjar TV (Offline)
+#EXTINF:-1 tvg-id="BanjarTV.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://i.imgur.com/TA76a10.png" tvg-status="live" group-title="General",Banjar TV
 https://banjartv.siar.us/banjartv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="BantenTV.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://i.imgur.com/tbtF40p.png" tvg-status="live" group-title="General",Banten TV
 https://5bf7b725107e5.streamlock.net/bantentv/bantentv/playlist.m3u8
@@ -55,7 +55,7 @@ https://stream.carubantv.id/hls/0/stream.m3u8
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="DAAITV.id" tvg-country="ID" tvg-language="Chinese" tvg-logo="https://i.imgur.com/YC7JCHo.png" tvg-status="live" group-title="Religious",DAAI TV
 https://pull.daaiplus.com/live-DAAIPLUS/live-DAAIPLUS_HD.m3u8
-#EXTINF:-1 tvg-id="DavikaTV.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/id/6/60/Logo_Davika_TV.png" tvg-status="down" group-title="General",Davika TV (Offline)
+#EXTINF:-1 tvg-id="DavikaTV.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/id/6/60/Logo_Davika_TV.png" tvg-status="live" group-title="General",Davika TV
 https://5bf7b725107e5.streamlock.net/davika/davika/playlist.m3u8
 #EXTINF:-1 tvg-id="DhammaTV.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://dhammaweb.tv/wp-content/uploads/2018/08/cropped-dhammatv-3.png" tvg-status="live" group-title="Religious",Dhamma TV
 https://b.webcache.maxindo.net.id/dhamma/dhamma.m3u8
@@ -102,7 +102,7 @@ http://103.255.15.222:1935/tv/jitv_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="JogjaTV.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/40/Jogjatvnew.png" tvg-status="live" group-title="General",Jogja TV
 https://stream.jogjatv.co.id/jtvlive/stream/index.m3u8
 #EXTINF:-1 tvg-id="JTV.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://i.imgur.com/mIDWIQk.png" tvg-status="live" group-title="General",JTV
-http://122.248.43.242:1935/JTVMADIUN/_definst_/myStream/playlist.m3u8
+http://122.248.43.242:1935/JTVKEDIRI/_definst_/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="KawanuaTV.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/Logo_kawanua_tv.png" tvg-status="live" group-title="General",Kawanua TV
 http://122.248.43.242:1935/KAWANUATV/_definst_/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="KidsTV.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://i.imgur.com/B5YiUIP.png" tvg-status="live" group-title="Kids",Kids TV
@@ -225,10 +225,20 @@ https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv.m3u8
 http://ikitv.sqn.at:8000/play/a023/index.m3u8
 #EXTINF:-1 tvg-id="YOYInternational.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://hosting.renderforestsites.com/35126779/1657983/media/3ed50b4273b16759c16450206bec0196.png" tvg-status="live" group-title="General",YOY International
 https://gist.githubusercontent.com/iptvonlinetv/8a6b2f12e5e968537378f1245cea02c9/raw/78bf84476f8e24cc8ea9d5ac24855078c61b18db/udp305.575.530:3030.m3u8
+#EXTINF:-1 tvg-id="famelack-UWAiuQmeRUZ75q" tvg-country="ID" tvg-language="Indonesian" tvg-logo="" tvg-status="live" group-title="General",Aquarius Musikindo: Frekuensi
+https://www.youtube-nocookie.com/embed/Tq8KTUlEycQ
 #EXTINF:-1 tvg-id="famelack-U2wJ3BI8Zw3hJZ" tvg-country="ID" tvg-language="Indonesian" tvg-logo="" tvg-status="live" group-title="General",E International Asia
 https://gist.githubusercontent.com/iptvonlinetv/cf56ccf36d1c0827e4dc470db7b7912d/raw/066b1c9755b2496805575f16d413bd1207ca8117/udp315.520.789:8060.m3u8
 #EXTINF:-1 tvg-id="famelack-2IWnSWLY0ULkRO" tvg-country="ID" tvg-language="Indonesian" tvg-logo="" tvg-status="live" group-title="General",E International Europe
 https://gist.githubusercontent.com/iptvonlinetv/cf56ccf36d1c0827e4dc470db7b7912d/raw/066b1c9755b2496805575f16d413bd1207ca8117/udp410.310.578:2020.m3u8
+#EXTINF:-1 tvg-id="famelack-sGIxGHruoXGkMd" tvg-country="ID" tvg-language="Indonesian" tvg-logo="" tvg-status="live" group-title="General",Gazwah TV
+https://www.youtube-nocookie.com/embed/74U0ROQlxfw
+#EXTINF:-1 tvg-id="famelack-zrn3dK1AY8AcF8" tvg-country="ID" tvg-language="Indonesian" tvg-logo="" tvg-status="live" group-title="General",Marhaban TV
+https://www.youtube-nocookie.com/embed/AZs2fLMDP4Q
+#EXTINF:-1 tvg-id="famelack-AdvqXD9VdsJSYL" tvg-country="ID" tvg-language="Indonesian" tvg-logo="" tvg-status="live" group-title="General",MTA TV
+https://www.youtube-nocookie.com/embed/j-cz1y6tL9o
+#EXTINF:-1 tvg-id="famelack-ts73mvVV0P9A9R" tvg-country="ID" tvg-language="Indonesian" tvg-logo="" tvg-status="live" group-title="General",Official iNews
+https://www.youtube-nocookie.com/embed/WHTPYAvakTg
 #EXTINF:-1 tvg-id="famelack-ig8Heof5b0HbF8" tvg-country="ID" tvg-language="Indonesian" tvg-logo="" tvg-status="live" group-title="General",Stara TV Bandung
 https://bandung.staratv.id/hls/0/stream.m3u8
 #EXTINF:-1 tvg-id="famelack-KbDB4QEpUzNUxH" tvg-country="ID" tvg-language="Indonesian" tvg-logo="" tvg-status="live" group-title="General",Stara TV Bojonegoro
@@ -243,6 +253,10 @@ https://malang.staratv.id/hls/0/stream.m3u8
 https://parahyangan.staratv.id/hls/0/stream.m3u8
 #EXTINF:-1 tvg-id="famelack-JQzmFk2NU8wzUf" tvg-country="ID" tvg-language="Indonesian" tvg-logo="" tvg-status="live" group-title="General",Stara TV Sumedang & Majalengka
 https://stream.staratv.id/hls/0/stream.m3u8
+#EXTINF:-1 tvg-id="famelack-RW7rOnO3B5Miyc" tvg-country="ID" tvg-language="Indonesian" tvg-logo="" tvg-status="live" group-title="General",Syafiq Riza Basalamah
+https://www.youtube-nocookie.com/embed/hfjPJph9FqY
+#EXTINF:-1 tvg-id="famelack-LoQgh9Xj1nCTfY" tvg-country="ID" tvg-language="Indonesian" tvg-logo="" tvg-status="live" group-title="General",tvOneNews
+https://www.youtube-nocookie.com/embed/rQJoEpzKkNk
 #EXTINF:-1 tvg-id="famelack-XJ4dEYCzTYDhWM" tvg-country="ID" tvg-language="Indonesian" tvg-logo="" tvg-status="live" group-title="General",TVRI Aceh
 https://ott-balancer.tvri.go.id/live/eds/Aceh/hls/Aceh.m3u8
 #EXTINF:-1 tvg-id="famelack-F0wNTAcxVnBo4B" tvg-country="ID" tvg-language="Indonesian" tvg-logo="" tvg-status="live" group-title="General",TVRI Bali
@@ -303,3 +317,5 @@ https://ott-balancer.tvri.go.id/live/eds/Sumsel/hls/Sumsel.m3u8
 https://ott-balancer.tvri.go.id/live/eds/Pabar/hls/Pabar.m3u8
 #EXTINF:-1 tvg-id="famelack-UM1CVLiIjzrIdV" tvg-country="ID" tvg-language="Indonesian" tvg-logo="" tvg-status="live" group-title="General",TVRI Yogyakarta
 https://ott-balancer.tvri.go.id/live/eds/Jogjakarta/hls/Jogjakarta.m3u8
+#EXTINF:-1 tvg-id="famelack-PEvAzPEqyCSHPP" tvg-country="ID" tvg-language="Indonesian" tvg-logo="" tvg-status="live" group-title="General",UFA Live 24
+https://www.youtube-nocookie.com/embed/_9cb9QWOKW0

@@ -66,9 +66,11 @@ https://cdn-dvr.ntv.ru/Balabol/index.m3u8
 #EXTINF:-1 tvg-id="Bashkortostan24.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/s34Wtz6.png" tvg-status="down" group-title="General",Bashkortostan 24 (Offline)
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/ufa/bashkortostan24-hd/index.m3u8
 #EXTINF:-1 tvg-id="Belarus1.by" tvg-country="BY" tvg-language="Russian" tvg-logo="https://i.imgur.com/sUD9t5j.png" tvg-status="live" group-title="General",Belarus-1
-https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus1.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Belarus2.by" tvg-country="BY" tvg-language="Russian" tvg-logo="https://i.imgur.com/BpEHpPS.png" tvg-status="down" group-title="Entertainment",Belarus-2 (Offline)
+https://ngtrk.dc.beltelecom.by/ngtrk/_definst_/smil:belarus1.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Belarus2.by" tvg-country="BY" tvg-language="Russian" tvg-logo="https://i.imgur.com/BpEHpPS.png" tvg-status="live" group-title="Entertainment",Belarus-2
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus2.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Belarus3.by" tvg-country="BY" tvg-language="Russian" tvg-logo="https://i.imgur.com/JkcDycn.png" tvg-status="live" group-title="Culture",Belarus-3
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus3.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Belarus4.by" tvg-country="BY" tvg-language="Russian" tvg-logo="https://i.imgur.com/XNkQrMr.png" tvg-status="live" group-title="General",Belarus-4
 https://live.dc.beltelecom.by/trkgomel/trkgomel.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="Belarus5.by" tvg-country="BY" tvg-language="Russian" tvg-logo="https://i.imgur.com/NJsRFud.png" tvg-status="live" group-title="Sports",Belarus-5
@@ -554,7 +556,7 @@ https://dash2.antik.sk/live/kvartal_tv/playlist.m3u8
 #EXTINF:-1 tvg-id="RBKTV.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/CwhmJby.png" tvg-status="live" group-title="Business",RBK-TV
 http://hls127.freeott.top:8080/RBK/video.m3u8
 #EXTINF:-1 tvg-id="red.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/GET9Qut.png" tvg-status="live" group-title="Entertainment",.red
-http://5.188.159.128:8070/RED/index.m3u8
+http://stream.mcquack.net/69/index.m3u8
 #EXTINF:-1 tvg-id="RedLine.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/TgZ8Uv1.png" tvg-status="live" group-title="General",Red Line
 http://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/index.m3u8
 #EXTINF:-1 tvg-id="RENTV.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/0Tu5lte.png" tvg-status="live" group-title="General",REN TV
@@ -820,7 +822,7 @@ http://serv24.vintera.tv:8081/vetta/vetta_office/playlist.m3u8
 #EXTINF:-1 tvg-id="Vgostyakhuskazki.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/jNJkLHl.png" tvg-status="live" group-title="Kids",V gostyakh u skazki
 http://stream.mcquack.net/93/index.m3u8
 #EXTINF:-1 tvg-id="ViasatKino.ua" tvg-country="UA" tvg-language="Russian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/Viasat_Kino_Logo_2025.svg" tvg-status="live" group-title="Movies",Viasat Kino
-http://176.61.157.250/TV1000/index.m3u8
+https://flash1.bogulus1.cfd/tivi10/usergenrxs4f7zc.m3u8
 #EXTINF:-1 tvg-id="ViasatKinoAction.ua" tvg-country="UA" tvg-language="Russian" tvg-logo="https://i.imgur.com/HwsNIDK.png" tvg-status="live" group-title="Movies",Viasat Kino Action
 http://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjUxOjcwMDAvY2g0Ny90cmFja3MtdjFhMS9tb25vLm0zdTg%2FbGl2ZT0xJmlwPTE3OC4xMzYuNDIuMjIwJmlkPTk0ODg2NSZzZWNyZXQ9bjF1N3VpMDYmc3NsPTEmMjF5bz0wJmU9MTc5MDU5OTA0MiZzdD1tVWRSQVFvbDY4SHVMTEc2MENpeTFn&master=105
 #EXTINF:-1 tvg-id="ViasatKinoComedy.ua" tvg-country="UA" tvg-language="Russian" tvg-logo="https://i.imgur.com/qVYt8kP.png" tvg-status="live" group-title="Movies",Viasat Kino Comedy
@@ -903,20 +905,30 @@ http://31.148.48.15/Zoo_TV/index.m3u8
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist.m3u8
 #EXTINF:-1 tvg-id="ZvezdaPlus.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/NNmjD9Z.png" tvg-status="live" group-title="General",Zvezda Plus
 http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist.m3u8
+#EXTINF:-1 tvg-id="famelack-D4yTc59L8E3C7q" tvg-country="UA" tvg-language="Russian" tvg-logo="" tvg-status="live" group-title="General",24 Канал онлайн
+https://www.youtube-nocookie.com/embed/mWkb-BLcGAY
 #EXTINF:-1 tvg-id="famelack-3VqJp1fO3TYTIw" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-status="live" group-title="General",Angel TV Russian
 https://janya-digimix.akamaized.net/vglive-sk-955415/russia/ngrp:angelrussia_all/playlist.m3u8
 #EXTINF:-1 tvg-id="famelack-HbRUt7FKalezmx" tvg-country="BY" tvg-language="Russian" tvg-logo="" tvg-status="live" group-title="General",Belarus-4 Vitebsk
 https://ngtrk.dc.beltelecom.by/vtv/bt4.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="famelack-xJJFmZUDr1K6Uk" tvg-country="US" tvg-language="Russian" tvg-logo="" tvg-status="live" group-title="General",Current Time
+https://www.youtube-nocookie.com/embed/t9Ilev-uk4w
 #EXTINF:-1 tvg-id="famelack-2Gi4riOGPwTn6u" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-status="live" group-title="General",Current Time TV
 https://rfe-ingest.akamaized.net/hls/live/2033043/tvmc05/master.m3u8
 #EXTINF:-1 tvg-id="famelack-ptE116wUMswJaQ" tvg-country="DE" tvg-language="Russian" tvg-logo="" tvg-status="live" group-title="General",DW Russian
 https://dwamdstream110.akamaized.net/hls/live/2017971/dwstream110/master.m3u8
 #EXTINF:-1 tvg-id="famelack-AebbSbQ8k1zQps" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-status="live" group-title="General",Euronews Russian
 https://cdn-euronews.akamaized.net/live/eds/euronews-ru/25071/index.m3u8
+#EXTINF:-1 tvg-id="famelack-xjpmQDsZSRhSoo" tvg-country="FR" tvg-language="Russian" tvg-logo="" tvg-status="live" group-title="General",Euronews Русский
+https://www.youtube-nocookie.com/embed/lwYzwdBiaho
 #EXTINF:-1 tvg-id="famelack-oXgJOEwrL2XNcq" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-status="down" group-title="General",Fox (Offline)
 https://stream.mcquack.net/182/index.m3u8
 #EXTINF:-1 tvg-id="famelack-JecIpXSXe0rzpH" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-status="down" group-title="General",Fox Life (Offline)
 https://stream.mcquack.net/129/index.m3u8
+#EXTINF:-1 tvg-id="famelack-iK2kLMwkLCeU8A" tvg-country="UA" tvg-language="Russian" tvg-logo="" tvg-status="live" group-title="General",Freedom (FREEДOM) (UATV)
+https://www.youtube-nocookie.com/embed/2D0PyPWo8vc
+#EXTINF:-1 tvg-id="famelack-EDJsRoJArkwgcL" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-status="live" group-title="General",Jetix
+https://www.youtube-nocookie.com/embed/fvK4CMQRr6Q
 #EXTINF:-1 tvg-id="famelack-z32r6fXKyAf2oW" tvg-country="UA" tvg-language="Russian" tvg-logo="" tvg-status="live" group-title="General",Kvartal TV International
 https://dash2.antik.sk/live/kvartal_tv/playlist.m3u8
 #EXTINF:-1 tvg-id="famelack-mStEj3NJkPY66A" tvg-country="UA" tvg-language="Russian" tvg-logo="" tvg-status="down" group-title="General",Law TV (Offline)
@@ -931,13 +943,27 @@ https://stream.mcquack.net/116/index.m3u8
 https://stream8.cinerama.uz/1502/playlist.m3u8
 #EXTINF:-1 tvg-id="famelack-0mulGVhtSW9kDC" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-status="live" group-title="General",RTД
 https://rt-doc.rttv.com/dvr/rtdru/playlist.m3u8
+#EXTINF:-1 tvg-id="famelack-pApkFb67wcPTJl" tvg-country="UK" tvg-language="Russian" tvg-logo="" tvg-status="live" group-title="General",Soviet Toons: Ну  погоди!
+https://www.youtube-nocookie.com/embed/2nJ8pU3XKGE
 #EXTINF:-1 tvg-id="famelack-CliuBv6wjZdpBP" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-status="live" group-title="General",Trace Sport Stars Russia
 https://stream8.cinerama.uz/1274/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="famelack-OPwNo7g1vlqU7d" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-status="live" group-title="General",Дембельский альбом: Солдаты
+https://www.youtube-nocookie.com/embed/1zpCNefHbC0
 #EXTINF:-1 tvg-id="famelack-LDv8j64nAQo1e9" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-status="live" group-title="General",Детское кино International
 https://autopilot.catcast.tv/content/38720/index.m3u8
 #EXTINF:-1 tvg-id="famelack-JsbwFfNdUCfjhv" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-status="live" group-title="General",Кино 1 International
 https://autopilot.catcast.tv/content/38617/index.m3u8
+#EXTINF:-1 tvg-id="famelack-J3EJNMTTTwoCfX" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-status="live" group-title="General",Кино Добряк: Сваты и Байки Митяя
+https://www.youtube-nocookie.com/embed/ozuhPITB_4g
 #EXTINF:-1 tvg-id="famelack-UptrzheOmTQwWu" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-status="live" group-title="General",Музыка 1 International
 https://kino-1.catcast.tv/content/37742/index.m3u8
 #EXTINF:-1 tvg-id="famelack-UCMJJw8ybEUxDH" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-status="live" group-title="General",Музыка Кино International
 https://kino-1.catcast.tv/content/37739/index.m3u8
+#EXTINF:-1 tvg-id="famelack-vzPGxRe9XdVwB1" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-status="live" group-title="General",Советское телевидение. ГОСТЕЛЕРАДИОФОНД: Следствие ведут ЗнаТоКи
+https://www.youtube-nocookie.com/embed/NFXv2UW-KLI
+#EXTINF:-1 tvg-id="famelack-jf4gPtHjnGADqF" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-status="live" group-title="General",Союзмультфильм: Ну  погоди!
+https://www.youtube-nocookie.com/embed/ozFiyuUljag
+#EXTINF:-1 tvg-id="famelack-58lrZlgzryEpin" tvg-country="UA" tvg-language="Russian" tvg-logo="" tvg-status="live" group-title="General",Телеканал 1+1: FREEДОМ
+https://www.youtube-nocookie.com/embed/lnrp2S2L6qk
+#EXTINF:-1 tvg-id="famelack-if2kwrLRFc4oRC" tvg-country="KZ" tvg-language="Russian" tvg-logo="" tvg-status="live" group-title="General",Телеканал 24kz
+https://www.youtube-nocookie.com/embed/x3BTotLenbA
