@@ -64,83 +64,76 @@ async function fetchIptvOrg() {
 // ---------------------------------------------------------------------
 // STEP 2: fetch famelack-data supplementary channels
 //
-// IMPORTANT: famelack-data's own README says field names/structure "may
-// change without notice." This function is written defensively — it
-// tries several likely file paths and several likely field names per
-// entry, and SKIPS anything it can't confidently parse rather than
-// crashing the whole build. If famelack's schema turns out different
-// from what's guessed here, this function will quietly return fewer
-// channels than expected rather than breaking your site — check the
-// console log line "Famelack: parsed N channels" after a run to see if
-// that number looks too low, and we'll adjust the field-name guesses.
+// CONFIRMED SCHEMA (verified directly against the real file on
+// 2026-09-02, tv/raw/categories/all.json — a single file containing
+// every channel across every country, ~96,850 lines):
+//
+//   {
+//     "nanoid": "fp34BcAXOlbIfX",
+//     "name": "¡OPA!",
+//     "sources": { "streams": ["url1", "url2", ...] },
+//     "languages": ["spa"],
+//     "country": "cr",          // lowercase 2-letter
+//     "isGeoBlocked": true
+//   }
+//
+// Notable: NO "logo" field exists anywhere in this file — Famelack
+// channels will show up with no logo. NO per-channel category either
+// (category comes from which category-file a channel appears in, not
+// from the channel entry itself) — everything from Famelack gets
+// grouped under "General" for now. Both are known, accepted trade-offs
+// for this version; can be improved later by also fetching individual
+// category files (news.json, sports.json, etc.) and cross-referencing
+// by nanoid, if that turns out to matter to you.
+//
+// famelack-data's own README warns this schema "may change without
+// notice" — if a future run shows "Famelack: parsed 0 channels" again,
+// this is the first place to check.
 // ---------------------------------------------------------------------
 
-const FAMELACK_COUNTRY_CANDIDATES = [
-  // We don't know the exact list of country files without seeing the
-  // repo's real directory listing, so this build starts from a known
-  // set of common ones. Expand this list once you confirm the real
-  // filenames (see the discovery script from earlier).
-  "us", "gb", "ca", "au", "in", "fr", "de", "es", "it", "br",
-  "mx", "jp", "kr", "cn", "ru", "za", "ng", "eg", "ae", "pk"
-];
+function normalizeFamelackEntry(raw) {
+  const streams = raw.sources && Array.isArray(raw.sources.streams) ? raw.sources.streams : [];
+  if (!raw.name || !streams.length) return null; // no name or no playable url at all
+  if (raw.isGeoBlocked) return null; // same treatment as iptv-org's "Geo-blocked" skip
 
-function firstDefined(...vals) {
-  for (const v of vals) if (v !== undefined && v !== null && v !== "") return v;
-  return "";
-}
-
-function normalizeFamelackEntry(raw, countryHint) {
-  // Try a range of plausible field names since the real schema isn't
-  // confirmed. This is intentionally permissive.
-  const name = firstDefined(raw.name, raw.channel_name, raw.title);
-  const url = firstDefined(raw.url, raw.stream_url, raw.link, raw.embed_url);
-  if (!name || !url) return null; // can't use an entry with no name or no playable url
-
-  const logo = firstDefined(raw.logo, raw.logo_url, raw.icon, "");
-  const country = firstDefined(raw.country, raw.country_code, countryHint, "").toUpperCase();
-  const category = firstDefined(
-    raw.category,
-    Array.isArray(raw.categories) ? raw.categories[0] : undefined,
-    "General"
-  );
-  const isYouTube = /youtube\.com|youtu\.be/i.test(url);
+  const isYouTube = streams.some(u => /youtube\.com|youtu\.be/i.test(u));
 
   return {
-    id: `famelack-${(name + country).replace(/\s+/g, "-").toLowerCase()}`,
-    name,
-    country,
-    language: "",
-    logo,
-    group: category,
+    id: `famelack-${raw.nanoid}`,
+    name: raw.name,
+    country: (raw.country || "").toUpperCase(),
+    languageCode: (raw.languages && raw.languages[0]) || "", // resolved to a name later, once we have iptv-org's language list loaded
+    logo: "", // confirmed: not present in this dataset
+    group: "General", // confirmed: no per-channel category in this file
     categories: [],
-    url,
+    candidateUrls: streams, // keep all mirrors so health-check can try each, same pattern as iptv-org
+    url: streams[0],
     source: "famelack",
     isYouTube
   };
 }
 
 async function fetchFamelackSupplementary() {
-  console.log("Fetching Famelack supplementary data...");
-  const collected = [];
-
-  for (const cc of FAMELACK_COUNTRY_CANDIDATES) {
-    const url = `${FAMELACK_BASE}/tv/raw/countries/${cc}.json`;
-    try {
-      const res = await fetch(url);
-      if (!res.ok) continue; // this country file just doesn't exist under this name, skip quietly
-      const data = await res.json();
-      const list = Array.isArray(data) ? data : Object.values(data || {}).flat();
-      for (const raw of list) {
-        const entry = normalizeFamelackEntry(raw, cc);
-        if (entry) collected.push(entry);
-      }
-    } catch (e) {
-      console.log(`  Famelack fetch failed for ${cc}: ${e.message}`);
+  console.log("Fetching Famelack data (tv/raw/categories/all.json)...");
+  const url = `${FAMELACK_BASE}/tv/raw/categories/all.json`;
+  try {
+    const res = await fetch(url);
+    if (!res.ok) {
+      console.log(`  Famelack fetch failed: HTTP ${res.status}`);
+      return [];
     }
+    const data = await res.json();
+    const collected = [];
+    for (const raw of data) {
+      const entry = normalizeFamelackEntry(raw);
+      if (entry) collected.push(entry);
+    }
+    console.log(`Famelack: parsed ${collected.length} channels (from ${data.length} raw entries).`);
+    return collected;
+  } catch (e) {
+    console.log(`  Famelack fetch failed: ${e.message}`);
+    return [];
   }
-
-  console.log(`Famelack: parsed ${collected.length} channels.`);
-  return collected;
 }
 
 // ---------------------------------------------------------------------
@@ -323,14 +316,28 @@ async function main() {
     };
   });
 
-  // Health-check Famelack supplementary channels too (same rules)
+  // Health-check Famelack supplementary channels too (same rules, and
+  // same "try each mirror until one works" approach as iptv-org)
   console.log(`Checking ${famelackChannels.length} Famelack supplementary channels...`);
   const famelackResults = await mapWithConcurrency(famelackChannels, CONCURRENCY, async ch => {
     // YouTube embed URLs aren't meaningfully HEAD-checkable the same way
     // — treat them as always "passed" at the transport level; actual
     // liveness is YouTube's problem, not a dead-link problem.
-    const passedThisRun = ch.isYouTube ? true : await checkStream(ch.url);
-    return { ...ch, passedThisRun };
+    if (ch.isYouTube) return { ...ch, language: languageNameByCode.get(ch.languageCode) || "", passedThisRun: true };
+
+    let workingUrl = null;
+    for (const candidateUrl of ch.candidateUrls) {
+      if (await checkStream(candidateUrl)) {
+        workingUrl = candidateUrl;
+        break;
+      }
+    }
+    return {
+      ...ch,
+      language: languageNameByCode.get(ch.languageCode) || "",
+      url: workingUrl || ch.url, // publish the working one if found, else fall back to first mirror (still gets marked down, not deleted)
+      passedThisRun: workingUrl !== null
+    };
   });
 
   // Dedupe: don't add a Famelack channel if an iptv-org channel with the
@@ -440,4 +447,4 @@ main().catch(e => {
   console.error(e);
   process.exit(1);
 });
-
+      
