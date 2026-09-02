@@ -417,7 +417,12 @@ async function main() {
   await fs.writeFile(path.join(OUT_DIR, "index.m3u"), toM3U(finalChannels));
 
   // status.json: THIS is what your website should read to show live/down
-  // badges reliably, since M3U attributes aren't universally respected
+  // badges reliably, since M3U attributes aren't universally respected.
+  // Now self-sufficient for building a full channel card in the UI —
+  // includes logo, group, and language, not just status. Note: "logo"
+  // will be an empty string for every Famelack-sourced channel, since
+  // that field genuinely doesn't exist in famelack-data's dataset (this
+  // isn't a bug — there's nothing to fill in there, confirmed earlier).
   await fs.writeFile(
     path.join(OUT_DIR, "status.json"),
     JSON.stringify(
@@ -427,7 +432,10 @@ async function main() {
         country: c.country,
         source: c.source,
         status: c.status,
-        url: c.url
+        url: c.url,
+        logo: c.logo || "",
+        group: c.group || "",
+        language: c.language || ""
       })),
       null,
       2
@@ -447,4 +455,3 @@ main().catch(e => {
   console.error(e);
   process.exit(1);
 });
-      
