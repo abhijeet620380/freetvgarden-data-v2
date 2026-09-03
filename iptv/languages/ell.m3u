@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="famelack-aANHgmWHyppMiE" tvg-country="GR" tvg-language="Greek" tvg-logo="" tvg-status="live" group-title="Music",1062 Mad Radio Live
 https://www.youtube-nocookie.com/embed/OvEebY53NtE
-#EXTINF:-1 tvg-id="4E.gr" tvg-country="GR" tvg-language="Greek" tvg-logo="https://i.imgur.com/Na0UCV7.png" tvg-status="down" group-title="Religious",4E
-http://eu2.tv4e.gr:554/live/smil:myStream.sdp.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="4E.gr" tvg-country="GR" tvg-language="Greek" tvg-logo="https://i.imgur.com/Na0UCV7.png" tvg-status="live" group-title="Religious",4E
+http://eu2.tv4e.gr:1935/live/myStream.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="AcheloosTV.gr" tvg-country="GR" tvg-language="Greek" tvg-logo="https://i.imgur.com/5SVMxcu.png" tvg-status="live" group-title="General",Acheloos TV
 https://acheloostv.streamings.gr/live/stream/index.m3u8
 #EXTINF:-1 tvg-id="Action24.gr" tvg-country="GR" tvg-language="Greek" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/88/Action24-logo-small.png" tvg-status="live" group-title="Movies",Action 24
@@ -87,8 +87,8 @@ https://ert-ucdn.broadpeak-aas.com/bpk-tv/VOULITV/default/index.m3u8
 https://l5.cloudskep.com/hellenictv/htv/playlist.m3u8
 #EXTINF:-1 tvg-id="HighTV.gr" tvg-country="GR" tvg-language="Greek" tvg-logo="https://i.imgur.com/8gHuwt7.png" tvg-status="live" group-title="Shop",High TV
 http://live.streams.ovh:1935/hightv/hightv/playlist.m3u8
-#EXTINF:-1 tvg-id="famelack-zSgRIxf4rZgvt7" tvg-country="GR" tvg-language="Greek" tvg-logo="" tvg-status="live" group-title="General",Ionian TV
-https://stream.ioniantv.gr/ionian/live_abr/playlist.m3u8
+#EXTINF:-1 tvg-id="IonianTV.gr" tvg-country="GR" tvg-language="Greek" tvg-logo="https://i.imgur.com/JILN3kS.png" tvg-status="live" group-title="General",Ionian TV
+http://stream.ioniantv.gr:8081/ionian/live/playlist.m3u8
 #EXTINF:-1 tvg-id="KontraChannel.gr" tvg-country="GR" tvg-language="Greek" tvg-logo="https://kontrachannel.gr/images/kontrachannel24.png" tvg-status="live" group-title="General",Kontra Channel
 https://kontralive.siliconweb.com/live/kontratv/playlist.m3u8
 #EXTINF:-1 tvg-id="KosTV.gr" tvg-country="GR" tvg-language="Greek" tvg-logo="https://i.imgur.com/bdJnQ1W.png" tvg-status="live" group-title="General",Kos TV
@@ -107,7 +107,7 @@ http://live.greektv.ca/hls1/greektv.m3u8
 https://telmaco.ascdn.broadpeak.io/nafteboriki/default/index.m3u8
 #EXTINF:-1 tvg-id="NeaTV.gr" tvg-country="GR" tvg-language="Greek" tvg-logo="https://i.imgur.com/nvNW8G7.png" tvg-status="live" group-title="General",Nea TV
 https://live.neatv.gr:8888/hls/neatv.m3u8
-#EXTINF:-1 tvg-id="NetmaxTV.gr" tvg-country="GR" tvg-language="Greek" tvg-logo="https://i.imgur.com/dLvRD4k.png" tvg-status="live" group-title="Entertainment",Netmax TV
+#EXTINF:-1 tvg-id="famelack-abovmNRAyWVzAt" tvg-country="GR" tvg-language="Greek" tvg-logo="" tvg-status="live" group-title="Entertainment",Netmax TV
 https://es1.crystalweb.net:1936/netmaxtv/netmaxtv/playlist.m3u8
 #EXTINF:-1 tvg-id="NotioiTV.gr" tvg-country="GR" tvg-language="Greek" tvg-logo="https://i.imgur.com/Nq00n8h.png" tvg-status="live" group-title="General",Notioi TV
 https://srv.streamserver.gr:3451/stream/play.m3u8
@@ -141,9 +141,9 @@ https://livestar.siliconweb.com/starvod/star4/star4.m3u8
 https://livestar.siliconweb.com/starvod/star_int/star_int.m3u8
 #EXTINF:-1 tvg-id="famelack-yPVwjKCneNspdH" tvg-country="US" tvg-language="Greek" tvg-logo="" tvg-status="live" group-title="Entertainment",Star Channel International
 https://livestar.siliconweb.com/starvod/star_int/star_int.m3u8
-#EXTINF:-1 tvg-id="StarKentrikisElladas.gr" tvg-country="GR" tvg-language="Greek" tvg-logo="https://i.imgur.com/ZBt6beo.png" tvg-status="live" group-title="General",Star Kentrikis Elladas
+#EXTINF:-1 tvg-id="famelack-J0odgAtajSNXf0" tvg-country="GR" tvg-language="Greek" tvg-logo="" tvg-status="live" group-title="News",Star Kentrikis Elladas
 https://telmaco-cdn.akamaized.net/starcgr/default/index.m3u8
-#EXTINF:-1 tvg-id="StartTV.gr" tvg-country="GR" tvg-language="Greek" tvg-logo="https://i.ibb.co/4PrPG5j/Start-TV-Corfu-Radio-100-1-www-startmedia-gr-1.jpg" tvg-status="live" group-title="News",Start TV
+#EXTINF:-1 tvg-id="famelack-axcim7j9dTO22W" tvg-country="GR" tvg-language="Greek" tvg-logo="" tvg-status="live" group-title="News",Start TV
 https://live.cast-control.eu/StartMedia/StartMedia/playlist.m3u8
 #EXTINF:-1 tvg-id="SyrosTV1.gr" tvg-country="GR" tvg-language="Greek" tvg-logo="https://i.imgur.com/arQe5qS.png" tvg-status="live" group-title="General",Syros TV1
 https://eco.streams.ovh:1936/syrostv1/syrostv1/playlist.m3u8
