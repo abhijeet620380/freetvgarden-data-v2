@@ -3,22 +3,22 @@
 http://88.212.15.19/live/test_arenasport/playlist.m3u8
 #EXTINF:-1 tvg-id="BarrandovKrimi.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Logo-krimi-barrandov-color.svg/960px-Logo-krimi-barrandov-color.svg.png" tvg-status="live" group-title="General",Barrandov Krimi
 https://dash4.antik.sk/live/test_barrandov_plus_atk_1200/playlist.m3u8
-#EXTINF:-1 tvg-id="Cinemax2.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Cinemax_2_%282016%29.png/960px-Cinemax_2_%282016%29.png" tvg-status="live" group-title="Movies",Cinemax 2
-http://88.212.15.19/live/test_cinemax2_hd_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id="Cinemax.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/960px-Cinemax_2016.svg.png" tvg-status="live" group-title="Movies",Cinemax
 http://88.212.15.19/live/test_cinemax_hd_hevc/playlist.m3u8
+#EXTINF:-1 tvg-id="Cinemax2.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Cinemax_2_%282016%29.png/960px-Cinemax_2_%282016%29.png" tvg-status="live" group-title="Movies",Cinemax 2
+http://88.212.15.19/live/test_cinemax2_hd_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id="CNNPrimaNews.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.imgur.com/elZyUjX.png" tvg-status="live" group-title="News",CNN Prima News
 http://88.212.15.19/live/test_cnn_pirma_news/playlist.m3u8
+#EXTINF:-1 tvg-id="CTDecko.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/%C4%8CT-D_logo.svg/960px-%C4%8CT-D_logo.svg.png" tvg-status="live" group-title="Kids",CT Decko
+http://88.212.15.19/live/ct_art_avc_25p/playlist.m3u8
+#EXTINF:-1 tvg-id="CTSport.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/%C4%8CT_sport_logo.png/960px-%C4%8CT_sport_logo.png" tvg-status="live" group-title="Sports",CT Sport
+http://88.212.15.19/live/test_ctsport_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="CT1.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/%C4%8CT1_logo_2012.svg/960px-%C4%8CT1_logo_2012.svg.png" tvg-status="live" group-title="General",CT1
 http://88.212.15.19/live/test_ct1_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="CT2.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/%C4%8CT2_logo_2012.svg/960px-%C4%8CT2_logo_2012.svg.png" tvg-status="live" group-title="Documentary",CT2
 http://88.212.15.19/live/test_ct2_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="CT24.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/%C4%8CT24_logo.png/960px-%C4%8CT24_logo.png" tvg-status="live" group-title="News",CT24
 http://88.212.15.19/live/test_ct24_hevc/playlist.m3u8
-#EXTINF:-1 tvg-id="CTDecko.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/%C4%8CT-D_logo.svg/960px-%C4%8CT-D_logo.svg.png" tvg-status="live" group-title="Kids",CT Decko
-http://88.212.15.19/live/ct_art_avc_25p/playlist.m3u8
-#EXTINF:-1 tvg-id="CTSport.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/%C4%8CT_sport_logo.png/960px-%C4%8CT_sport_logo.png" tvg-status="live" group-title="Sports",CT Sport
-http://88.212.15.19/live/test_ctsport_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="DisneyChannel.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg" tvg-status="live" group-title="Kids",Disney Channel
 http://88.212.15.19/live/test_disney/playlist.m3u8
 #EXTINF:-1 tvg-id="DisneyJunior.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg" tvg-status="live" group-title="Kids",Disney Junior
@@ -97,6 +97,8 @@ http://88.212.15.19/live/test_sport1_25p/playlist.m3u8
 http://88.212.15.19/live/test_sport_2/playlist.m3u8
 #EXTINF:-1 tvg-id="SportyTV.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.imgur.com/Wz5bQKx.jpeg" tvg-status="live" group-title="Sports",Sporty TV
 https://dash2.antik.sk/live/sporty_tv/index.m3u8
+#EXTINF:-1 tvg-id="famelack-vlo5ng6qbMlI3x" tvg-country="CZ" tvg-language="Czech" tvg-logo="" tvg-status="live" group-title="General",Televize FILMpro
+https://www.youtube-nocookie.com/embed/qowVBqGn2jE
 #EXTINF:-1 tvg-id="TelevizeSeznam.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.imgur.com/TpQ8PRb.png" tvg-status="live" group-title="General",Televize Seznam
 http://88.212.15.19/live/test_seznam_hevc_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="TheFishingHuntingChannel.hu" tvg-country="HU" tvg-language="Czech" tvg-logo="https://i.imgur.com/KcTTnUA.png" tvg-status="live" group-title="Outdoor",The Fishing & Hunting Channel
@@ -119,5 +121,3 @@ http://88.212.15.29/live/test_viasat_history_atk_tv/playlist.m3u8
 http://88.212.15.29/live/test_viasat_nature_atk_tv/playlist.m3u8
 #EXTINF:-1 tvg-id="VychodoceskaTV.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.imgur.com/4Wwptd3.png" tvg-status="live" group-title="General",Vychodoceska TV
 https://stream.polar.cz/vctv/vctvlive-1/playlist.m3u8
-#EXTINF:-1 tvg-id="famelack-vlo5ng6qbMlI3x" tvg-country="CZ" tvg-language="Czech" tvg-logo="" tvg-status="live" group-title="General",Televize FILMpro
-https://www.youtube-nocookie.com/embed/qowVBqGn2jE

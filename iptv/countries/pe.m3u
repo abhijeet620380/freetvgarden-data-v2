@@ -33,10 +33,10 @@ https://video2.lhdserver.es/asiritv/live.m3u8
 https://live-evg8.tv360.bitel.com.pe/bitel/atlantisSRT/playlist.m3u8
 #EXTINF:-1 tvg-id="ATV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/ATV_Peru_2025.svg/1920px-ATV_Peru_2025.svg.png" tvg-status="live" group-title="General",ATV
 http://190.93.224.42/ATV/index.m3u8
-#EXTINF:-1 tvg-id="ATVPlus.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/56/ATV%2B_logo_2020.png" tvg-status="live" group-title="News",ATV+
-http://177.234.249.178:8888/ATV/index.m3u8
 #EXTINF:-1 tvg-id="ATVSur.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/LnyVa5H.png" tvg-status="live" group-title="General",ATV Sur
 http://190.93.224.42/ATV-SUR/index.m3u8
+#EXTINF:-1 tvg-id="ATVPlus.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/56/ATV%2B_logo_2020.png" tvg-status="live" group-title="News",ATV+
+http://177.234.249.178:8888/ATV/index.m3u8
 #EXTINF:-1 tvg-id="AutenticaTelevision.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/bEJK3RN.png" tvg-status="live" group-title="General",Autentica Television
 https://live.obslivestream.com/autenticatvmux/index.m3u8
 #EXTINF:-1 tvg-id="BethelTV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://play-lh.googleusercontent.com/CiIP2HlUOFmCdIQXPwj-16w3nHk1c_0satkYv8pTfnYrftL92--GbsN2e3zWcHbweD4=w240-h480-rw" tvg-status="live" group-title="Religious",Bethel TV
@@ -47,24 +47,28 @@ https://live-evg8.tv360.bitel.com.pe/bitel/bnbSRT/playlist.m3u8
 https://tv.bitstreaming.net:3789/live/cdntvlive.m3u8
 #EXTINF:-1 tvg-id="CajamarcaTV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/pC57NYv.png" tvg-status="live" group-title="General",Cajamarca TV
 https://live-evg8.tv360.bitel.com.pe/bitel/cajamarcatvSRT/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal8Catacaos.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/O5MrFjY.png" tvg-status="live" group-title="General",Canal 8 Catacaos
-https://live.obslivestream.com/canal8/index.m3u8
 #EXTINF:-1 tvg-id="Canal21Huancayo.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/Kfdkm06.png" tvg-status="live" group-title="General",Canal 21 Huancayo
 https://play.agenciastreaming.com:8081/tvwanka/tracks-v1/index.fmp4.m3u8
 #EXTINF:-1 tvg-id="Canal25Ayacucho.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/lU02cWc.png" tvg-status="live" group-title="General",Canal 25 Ayacucho
 https://live-evg10.tv360.bitel.com.pe/bitel/canal25ayacucho/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal8Catacaos.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/O5MrFjY.png" tvg-status="live" group-title="General",Canal 8 Catacaos
+https://live.obslivestream.com/canal8/index.m3u8
 #EXTINF:-1 tvg-id="CanalIPe.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Logo_Canal_IPe_2024.png/960px-Logo_Canal_IPe_2024.png" tvg-status="live" group-title="Family",Canal IPe
 http://190.93.224.42/IPE/index.m3u8
-#EXTINF:-1 tvg-id="CanalMasTV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/rdHygJ1.png" tvg-status="live" group-title="General",Canal Mas TV
-https://live-evg11.tv360.bitel.com.pe/bitel/mastvSRT/playlist.m3u8
 #EXTINF:-1 tvg-id="CANALMTelevision.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/EcdNFuJ.png" tvg-status="live" group-title="General",CANAL M Television
 https://live-evg10.tv360.bitel.com.pe/bitel/anqaratv/playlist.m3u8
+#EXTINF:-1 tvg-id="CanalMasTV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/rdHygJ1.png" tvg-status="live" group-title="General",Canal Mas TV
+https://live-evg11.tv360.bitel.com.pe/bitel/mastvSRT/playlist.m3u8
 #EXTINF:-1 tvg-id="CasmaTV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/42aE0nm.jpeg" tvg-status="live" group-title="General",Casma TV
 https://live-evg7.tv360.bitel.com.pe/bitel/casmatvSRT-TRA/playlist.m3u8
 #EXTINF:-1 tvg-id="CharapaTV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/tFRmMkf.png" tvg-status="live" group-title="General",Charapa TV
 https://live-evg10.tv360.bitel.com.pe/bitel/charapatvSRT/playlist.m3u8
 #EXTINF:-1 tvg-id="Conecta2TV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/W6FDUwt.png" tvg-status="live" group-title="News",Conecta2TV
 https://live.obslivestream.com/conecta2/index.m3u8
+#EXTINF:-1 tvg-id="famelack-WscC7Swxpk8hjp" tvg-country="PE" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="Legislative",Congreso del Perú en Vivo
+https://www.youtube-nocookie.com/embed/S4zgKzlOMBU
+#EXTINF:-1 tvg-id="famelack-mlTXxUmbTG3Ish" tvg-country="PE" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="General",Controversia TV
+https://live.obslivestream.com/controversiatv/index.m3u8
 #EXTINF:-1 tvg-id="CRTelevision.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/oxycMeA.png" tvg-status="live" group-title="General",CR Television
 https://live.obslivestream.com/crtvmux/index.m3u8
 #EXTINF:-1 tvg-id="Cultura24.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/h0LxXsx.png" tvg-status="live" group-title="Culture",Cultura 24
@@ -117,7 +121,7 @@ http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/juntos_tv.stream/playlist.m3u8
 http://190.93.224.42/JUSTICIA-TV/index.m3u8
 #EXTINF:-1 tvg-id="Karibena.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/mdpIRoW.png" tvg-status="live" group-title="Music",Karibena
 https://iptv-pe-x-7-g3s-video.egostreaming.pe/karibenatv_685a-pe-a5676-584412/index.fmp4.m3u8
-#EXTINF:-1 tvg-id="KoraTV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/ahBYv4x.png" tvg-status="live" group-title="Entertainment",Kora TV
+#EXTINF:-1 tvg-id="famelack-jxlsDXo2Z9WhXZ" tvg-country="PE" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="Entertainment",Kora TV
 https://s3.tvdatta.com:3700/live/jjrtvlive.m3u8
 #EXTINF:-1 tvg-id="L1.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/eRmXneK.png" tvg-status="down" group-title="Sports",L1
 http://45.4.1.201:8000/play/a1ai/index.m3u8
@@ -145,7 +149,7 @@ https://live-evg5.tv360.bitel.com.pe/bitel/mastertvSRT/playlist.m3u8
 https://live-evg5.tv360.bitel.com.pe/bitel/mediatv/playlist.m3u8
 #EXTINF:-1 tvg-id="MegaTVJaen.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/zK1YcpJ.png" tvg-status="live" group-title="General",Mega TV Jaen
 https://7.innovatestream.pe:19360/megatvjaen/megatvjaen.m3u8
-#EXTINF:-1 tvg-id="MetropolitanadelCuzco.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/0B04qgM.png" tvg-status="live" group-title="Music",Metropolitana del Cuzco
+#EXTINF:-1 tvg-id="famelack-IuaZCWClQdGZcM" tvg-country="PE" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="Music",Metropolitana del Cuzco
 https://video1.earthcam.com/myearthcam/075ff02f78c35af55564cf3af3b3f750.flv/playlist.m3u8
 #EXTINF:-1 tvg-id="MielTV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/dPSFrCs.png" tvg-status="live" group-title="Music",Miel TV
 https://7.innovatestream.pe:19360/mieltv/mieltv.m3u8
@@ -153,6 +157,8 @@ https://7.innovatestream.pe:19360/mieltv/mieltv.m3u8
 https://www.milenial.news/salida/milenial.m3u8
 #EXTINF:-1 tvg-id="Millenium109FM.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/sfNL6Bv.png" tvg-status="live" group-title="Music",Millenium 109 FM
 https://videoserver.tmcreativos.com:19360/nqvnhujhrx/nqvnhujhrx.m3u8
+#EXTINF:-1 tvg-id="famelack-UDdMtzxSFo4KG2" tvg-country="PE" tvg-language="" tvg-logo="" tvg-status="live" group-title="General",MO Channel
+https://cloudvideo.servers10.com:8081/8070/index.m3u8
 #EXTINF:-1 tvg-id="MonterricoTV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/SuVO9T7.png" tvg-status="live" group-title="Sports",Monterrico TV
 https://h.jcp.live.opencaster.com/play_src/index.m3u8
 #EXTINF:-1 tvg-id="MovistarDeportes.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/Zt3iE86.png" tvg-status="down" group-title="Sports",Movistar Deportes
@@ -176,7 +182,7 @@ https://live-evg5.tv360.bitel.com.pe/bitel/onda/playlist.m3u8
 #EXTINF:-1 tvg-id="OvacionTV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/7Xndgxk.png" tvg-status="live" group-title="Sports",Ovacion TV
 http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
 #EXTINF:-1 tvg-id="OzonoTV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/Wkdibpv.png" tvg-status="live" group-title="General",Ozono TV
-https://live-evg8.tv360.bitel.com.pe/bitel/ozonotv/playlist.m3u8
+http://vps.chasquirouter.com/salida/ozono.m3u8
 #EXTINF:-1 tvg-id="PanamericanaTV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Logo_Panamericana_2020.png/1280px-Logo_Panamericana_2020.png" tvg-status="live" group-title="General",Panamericana TV
 http://45.171.108.253:8888/PANAMERICANA/index.m3u8
 #EXTINF:-1 tvg-id="PBO.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/vBpxX4S.png" tvg-status="live" group-title="News",PBO
@@ -203,14 +209,14 @@ https://videoserver.tmcreativos.com:19360/radiomaster/radiomaster.m3u8
 https://live.ondadigitaltv.com/RADIOODTV/index.m3u8
 #EXTINF:-1 tvg-id="RadioRumbaTV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/BYcxI03.png" tvg-status="live" group-title="Music",Radio Rumba TV
 https://live-evg7.tv360.bitel.com.pe/bitel/rumba/playlist.m3u8
-#EXTINF:-1 tvg-id="RadioSanBorjaTV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/75dJBtH.png" tvg-status="live" group-title="Music",Radio San Borja TV
+#EXTINF:-1 tvg-id="famelack-kGCggKzMvsmQYi" tvg-country="PE" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="Music",Radio San Borja TV
 https://stream.mediacorp.pe/srt/3/playlist.m3u8
 #EXTINF:-1 tvg-id="RadioTropical.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/TBPVOBI.png" tvg-status="live" group-title="Music",Radio Tropical
 https://videoserver.tmcreativos.com:19360/raditropical/raditropical.m3u8
-#EXTINF:-1 tvg-id="RadioTVOriente.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/iHaFLHX.png" tvg-status="live" group-title="General",RadioTV Oriente
-https://live.obslivestream.com/tvoriente/index.m3u8
 #EXTINF:-1 tvg-id="RadioUnoTacna.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/PswowQP.png" tvg-status="live" group-title="News",Radio Uno Tacna
 https://live-evg7.tv360.bitel.com.pe/bitel/radiounotv/playlist.m3u8
+#EXTINF:-1 tvg-id="RadioTVOriente.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/iHaFLHX.png" tvg-status="live" group-title="General",RadioTV Oriente
+https://live.obslivestream.com/tvoriente/index.m3u8
 #EXTINF:-1 tvg-id="RealTelevision.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/7KECyh5.jpeg" tvg-status="live" group-title="General",Real Television
 https://live-evg10.tv360.bitel.com.pe/bitel/realtv/playlist.m3u8
 #EXTINF:-1 tvg-id="RegionTVCallao.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/I4grcqk.png" tvg-status="live" group-title="General",Region TV Callao
@@ -255,7 +261,7 @@ https://live-evg11.tv360.bitel.com.pe/bitel/tvtarapotoSRT/playlist.m3u8
 https://live-evg8.tv360.bitel.com.pe/bitel/tvempresaSRT/playlist.m3u8
 #EXTINF:-1 tvg-id="Tevesur.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/LcZ2Hhd.jpeg" tvg-status="live" group-title="General",Tevesur
 https://live-evg11.tv360.bitel.com.pe/bitel/tevesurSRT/playlist.m3u8
-#EXTINF:-1 tvg-id="TopTV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/tiNvihZ.png" tvg-status="live" group-title="General",Top TV
+#EXTINF:-1 tvg-id="famelack-IimzzIwURjFsYr" tvg-country="PE" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="General",Top TV
 https://tvdatta.com:3084/live/toptvaguaytialive.m3u8
 #EXTINF:-1 tvg-id="Trivu.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/QrUYjOS.png" tvg-status="live" group-title="General",Trivu
 http://190.93.224.42/TRIVU-TV/index.m3u8
@@ -265,11 +271,9 @@ https://live-evg11.tv360.bitel.com.pe/bitel/turbomixSRT/playlist.m3u8
 https://s2.tvdatta.com:3687/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="TVCosmos.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/nr4ctt4.png" tvg-status="live" group-title="General",TV Cosmos
 https://videoserver.tmcreativos.com:19360/tvcosmos/tvcosmos.m3u8
-#EXTINF:-1 tvg-id="TVenLinea.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/txV8lw0.png" tvg-status="live" group-title="General",TVenLinea
-https://srt.tvdatta.com/tvenlinea/index.m3u8
 #EXTINF:-1 tvg-id="TVKaliente.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/MFQpLuQ.png" tvg-status="live" group-title="Entertainment",TV Kaliente
 https://lbgo.bozztv.com/ssh101/ssh101/kalientecusco/playlist.m3u8
-#EXTINF:-1 tvg-id="TVMAR.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/VXvbNjT.png" tvg-status="live" group-title="General",TV MAR
+#EXTINF:-1 tvg-id="famelack-nXrcWfZsttDQtv" tvg-country="PE" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="General",TV MAR
 https://live-evg11.tv360.bitel.com.pe/bitel/tvmarSRT/playlist.m3u8
 #EXTINF:-1 tvg-id="TVMAX.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/JFBpDJ1.jpeg" tvg-status="live" group-title="General",TV MAX
 https://live-evg8.tv360.bitel.com.pe/bitel/nexSRT_TRA/playlist.m3u8
@@ -277,12 +281,14 @@ https://live-evg8.tv360.bitel.com.pe/bitel/nexSRT_TRA/playlist.m3u8
 https://live-evg5.tv360.bitel.com.pe/bitel/tvnorte/playlist.m3u8
 #EXTINF:-1 tvg-id="TVPeru.pe" tvg-country="PE" tvg-language="Aymara" tvg-logo="https://i.imgur.com/6io0IrX.png" tvg-status="live" group-title="General",TV Peru
 http://190.93.224.42/TV-PERU/index.m3u8
-#EXTINF:-1 tvg-id="TVPeruanisima.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/m50qAVY.png" tvg-status="live" group-title="Music",TV Peruanisima
-https://k20.usastreams.com:8081/tvperuanisima/index.m3u8
 #EXTINF:-1 tvg-id="TVPeruNoticias.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/TV_Per%C3%BA_Noticias_-_2019_logo.png/960px-TV_Per%C3%BA_Noticias_-_2019_logo.png" tvg-status="live" group-title="News",TV Peru Noticias
 http://190.93.224.42/TV-PERU-NOTICIAS/index.m3u8
+#EXTINF:-1 tvg-id="TVPeruanisima.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/m50qAVY.png" tvg-status="live" group-title="Music",TV Peruanisima
+https://k20.usastreams.com:8081/tvperuanisima/index.m3u8
 #EXTINF:-1 tvg-id="TVPlusChincha.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/bjQpQsu.jpeg" tvg-status="live" group-title="General",TV+ Chincha
 https://live-evg11.tv360.bitel.com.pe/bitel/tvchincha/playlist.m3u8
+#EXTINF:-1 tvg-id="TVenLinea.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/txV8lw0.png" tvg-status="live" group-title="General",TVenLinea
+https://srt.tvdatta.com/tvenlinea/index.m3u8
 #EXTINF:-1 tvg-id="TVUNO.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/dht94P4.png" tvg-status="live" group-title="Music",TVUNO
 https://streamtv.onliv3.online:1936/karibtv/karibtv/playlist.m3u8
 #EXTINF:-1 tvg-id="UcayalinadeTelevision.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/jBhfcqy.png" tvg-status="live" group-title="General",Ucayalina de Television
@@ -307,10 +313,10 @@ https://videoserver.tmcreativos.com:19360/cablerasvia/cablerasvia.m3u8
 https://lbgo.bozztv.com/ssh101/ssh101/visiononline/playlist.m3u8
 #EXTINF:-1 tvg-id="VisionSur.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/AbZYWEQ.png" tvg-status="live" group-title="General",Vision Sur
 https://live-evg8.tv360.bitel.com.pe/bitel/visionsur/playlist.m3u8
-#EXTINF:-1 tvg-id="VivaTV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/m44jTZK.png" tvg-status="live" group-title="General",VivaTV
-http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/vivatv.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="VivaTVYurimaguas.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/GkSoxhx.png" tvg-status="live" group-title="General",Viva TV Yurimaguas
 https://live.obslivestream.com/vivatv/index.m3u8
+#EXTINF:-1 tvg-id="VivaTV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/m44jTZK.png" tvg-status="live" group-title="General",VivaTV
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/vivatv.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="VNP.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/TOnknEW.png" tvg-status="live" group-title="News",VNP
 https://videoserver.tmcreativos.com:19360/visionnoticias/visionnoticias.m3u8
 #EXTINF:-1 tvg-id="VRCanal21Nasca.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/rxzz6kD.jpeg" tvg-status="live" group-title="General",VR Canal 21 Nasca
@@ -329,9 +335,3 @@ https://live-evg7.tv360.bitel.com.pe/bitel/yurimaguastvSRT/playlist.m3u8
 https://live-evg5.tv360.bitel.com.pe/bitel/yurivisionSRT/playlist.m3u8
 #EXTINF:-1 tvg-id="ZeleveTV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/CGWaunJ.jpeg" tvg-status="live" group-title="General",Zeleve TV
 https://live-evg11.tv360.bitel.com.pe/bitel/zeleve/playlist.m3u8
-#EXTINF:-1 tvg-id="famelack-WscC7Swxpk8hjp" tvg-country="PE" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="Legislative",Congreso del Perú en Vivo
-https://www.youtube-nocookie.com/embed/S4zgKzlOMBU
-#EXTINF:-1 tvg-id="famelack-mlTXxUmbTG3Ish" tvg-country="PE" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="General",Controversia TV
-https://live.obslivestream.com/controversiatv/index.m3u8
-#EXTINF:-1 tvg-id="famelack-UDdMtzxSFo4KG2" tvg-country="PE" tvg-language="" tvg-logo="" tvg-status="live" group-title="General",MO Channel
-https://cloudvideo.servers10.com:8081/8070/index.m3u8

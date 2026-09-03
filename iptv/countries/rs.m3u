@@ -5,6 +5,8 @@ https://nl1.nghk.ai/ArenaFight/index.m3u8
 https://nl1.nghk.ai/ArenaSport1HD/index.m3u8
 #EXTINF:-1 tvg-id="ArenaSport1Premium.rs" tvg-country="RS" tvg-language="Serbian" tvg-logo="https://i.imgur.com/csv6YsL.png" tvg-status="down" group-title="Sports",Arena Sport 1 Premium
 https://nl1.nghk.ai/ArenaPremium1HD/index.m3u8
+#EXTINF:-1 tvg-id="ArenaSport10.rs" tvg-country="RS" tvg-language="Serbian" tvg-logo="" tvg-status="down" group-title="Sports",Arena Sport 10
+https://nl1.nghk.ai/ArenaSport10HD/index.m3u8
 #EXTINF:-1 tvg-id="ArenaSport2.rs" tvg-country="RS" tvg-language="Serbian" tvg-logo="https://i.imgur.com/aqlECBj.png" tvg-status="down" group-title="Sports",Arena Sport 2
 https://nl1.nghk.ai/ArenaSport2HD/index.m3u8
 #EXTINF:-1 tvg-id="ArenaSport2Premium.rs" tvg-country="RS" tvg-language="Serbian" tvg-logo="https://i.imgur.com/ztOmQ7P.png" tvg-status="down" group-title="Sports",Arena Sport 2 Premium
@@ -29,8 +31,6 @@ https://nl1.nghk.ai/ArenaSport7HD/index.m3u8
 https://nl1.nghk.ai/ArenaSport8HD/index.m3u8
 #EXTINF:-1 tvg-id="ArenaSport9.rs" tvg-country="RS" tvg-language="Serbian" tvg-logo="" tvg-status="down" group-title="Sports",Arena Sport 9
 https://nl1.nghk.ai/ArenaSport9HD/index.m3u8
-#EXTINF:-1 tvg-id="ArenaSport10.rs" tvg-country="RS" tvg-language="Serbian" tvg-logo="" tvg-status="down" group-title="Sports",Arena Sport 10
-https://nl1.nghk.ai/ArenaSport10HD/index.m3u8
 #EXTINF:-1 tvg-id="ArenaSportAdrenalin.rs" tvg-country="RS" tvg-language="Serbian" tvg-logo="" tvg-status="down" group-title="Sports",Arena Sport Adrenalin
 https://nl1.nghk.ai/SK3SRHD/index.m3u8
 #EXTINF:-1 tvg-id="ArenaSportTenis.rs" tvg-country="RS" tvg-language="Serbian" tvg-logo="" tvg-status="down" group-title="Sports",Arena Sport Tenis
@@ -97,7 +97,7 @@ https://de1.dstv.cx/RTSZivot/index.m3u8
 mmsh://212.200.255.151/rtv1
 #EXTINF:-1 tvg-id="RTV2.rs" tvg-country="RS" tvg-language="Serbian" tvg-logo="https://i.imgur.com/skpr66t.png" tvg-status="down" group-title="General",RTV 2
 mmsh://212.200.255.151/rtv2
-#EXTINF:-1 tvg-id="RTVBap.rs" tvg-country="RS" tvg-language="Serbian" tvg-logo="https://i.imgur.com/TBAtPH6.png" tvg-status="down" group-title="General",RTV Bap
+#EXTINF:-1 tvg-id="famelack-7mAvWG2Rz0LqWu" tvg-country="RS" tvg-language="Serbian" tvg-logo="" tvg-status="live" group-title="General",RTV Bap
 https://53be5ef2d13aa.streamlock.net/rtvbap/uzivo/playlist.m3u8
 #EXTINF:-1 tvg-id="RTVNoviPazar.rs" tvg-country="RS" tvg-language="Serbian" tvg-logo="https://i.imgur.com/NpyRVyC.png" tvg-status="live" group-title="General",RTV Novi Pazar
 https://tv.rtvnp.rs/stream.m3u8
@@ -105,12 +105,14 @@ https://tv.rtvnp.rs/stream.m3u8
 https://streaming.iptv.nextfiber.rs/nxt004/master.m3u8
 #EXTINF:-1 tvg-id="SciFi.rs" tvg-country="RS" tvg-language="Serbian" tvg-logo="https://i.imgur.com/FPumwfg.png" tvg-status="live" group-title="General",Sci Fi
 https://webtvstream.bhtelecom.ba/sci-fi.m3u8
-#EXTINF:-1 tvg-id="SOSKanalPlus.rs" tvg-country="RS" tvg-language="Serbian" tvg-logo="https://i.imgur.com/9SD40uH.png" tvg-status="down" group-title="Sports",SOS Kanal Plus
+#EXTINF:-1 tvg-id="famelack-PQO3nTobe9PoFo" tvg-country="RS" tvg-language="Serbian" tvg-logo="" tvg-status="live" group-title="Sports",SOS Kanal Plus
 https://53be5ef2d13aa.streamlock.net/soskanalplus/soskanalplus.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="TDIRadioTV.rs" tvg-country="RS" tvg-language="Serbian" tvg-logo="https://i.imgur.com/POdTmaD.png" tvg-status="live" group-title="Music",TDI Radio TV
 https://peer2.tdiradio.com/static/streaming-playlists/hls/8f5d84ce-e8ac-4109-9975-9665f5605557/master.m3u8
 #EXTINF:-1 tvg-id="TopTV.rs" tvg-country="RS" tvg-language="Serbian" tvg-logo="https://i.imgur.com/UJqbKEC.png" tvg-status="down" group-title="Music",Top TV
 http://82.165.71.58:8081/TopTV/live/playlist.m3u8
+#EXTINF:-1 tvg-id="famelack-hv5hUXMQAlrjyb" tvg-country="RS" tvg-language="Albanian" tvg-logo="" tvg-status="live" group-title="News",TV Arta
+https://gjirafa-video-live.gjirafa.net/gjvideo-live/mps-vgx-u9p-qv1/index.m3u8
 #EXTINF:-1 tvg-id="TVDugaPlus.rs" tvg-country="RS" tvg-language="Serbian" tvg-logo="https://i.imgur.com/qZV3JW5.png" tvg-status="down" group-title="Music",TV Duga+
 http://109.92.29.10:1935/tvduga/tvduga/playlist.m3u8
 #EXTINF:-1 tvg-id="TVHram.rs" tvg-country="RS" tvg-language="Serbian" tvg-logo="https://i.imgur.com/XzAYOFK.png" tvg-status="live" group-title="General",TV Hram
@@ -127,5 +129,3 @@ https://stream.pikanal.rs/pikanal/pgm.m3u8
 https://5bc45691ca49f.streamlock.net/tvpirot/uzivo/playlist.m3u8
 #EXTINF:-1 tvg-id="ZICOTV.rs" tvg-country="RS" tvg-language="Albanian" tvg-logo="https://i.imgur.com/8wbTnNW.png" tvg-status="live" group-title="Music",ZICO TV
 https://gjirafa-video-live.gjirafa.net/gjvideo-live/j3a-n14-2pf-g3s/index.m3u8
-#EXTINF:-1 tvg-id="famelack-hv5hUXMQAlrjyb" tvg-country="RS" tvg-language="Albanian" tvg-logo="" tvg-status="live" group-title="News",TV Arta
-https://gjirafa-video-live.gjirafa.net/gjvideo-live/mps-vgx-u9p-qv1/index.m3u8

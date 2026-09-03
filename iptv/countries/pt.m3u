@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="ADBTV.pt" tvg-country="PT" tvg-language="Portuguese" tvg-logo="https://i.ibb.co/HGfTJwt/ADBTV.jpg" tvg-status="down" group-title="Religious",ADB TV
 https://live-tv.waytv.pt/adbtv/adbtv/playlist.m3u8
+#EXTINF:-1 tvg-id="famelack-k9YVnaB9vAhdV8" tvg-country="PT" tvg-language="Portuguese" tvg-logo="" tvg-status="live" group-title="Religious",Angel TV Portuguese
+https://janya-digimix.akamaized.net/vglive-sk-382409/portuese/ngrp:angelportuguese_all/playlist.m3u8
 #EXTINF:-1 tvg-id="ARTV.pt" tvg-country="PT" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/y00t9hr.png" tvg-status="live" group-title="Legislative",ARTV
 https://playout172.livextend.cloud/liveiframe/_definst_/liveartvabr/playlist.m3u8
 #EXTINF:-1 tvg-id="AXN.pt" tvg-country="PT" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png" tvg-status="down" group-title="Movies",AXN
@@ -13,6 +15,10 @@ http://151.80.18.177:86/Disney_Channel_HD/index.m3u8
 https://tv2.fastcast4u.com:3310/live/famatvlive.m3u8
 #EXTINF:-1 tvg-id="FUELTV.pt" tvg-country="PT" tvg-language="English" tvg-logo="https://i.imgur.com/I8mviBy.png" tvg-status="live" group-title="Sports",FUEL TV
 https://amg01074-fueltv-fueltvau-samsungau-g09kq.amagi.tv/playlist/amg01074-fueltv-fueltvau-samsungau/playlist.m3u8
+#EXTINF:-1 tvg-id="famelack-Iuaewjg35O2O7W" tvg-country="PT" tvg-language="English" tvg-logo="" tvg-status="live" group-title="Sports",FUEL TV APAC
+https://amg01074-fueltv-fueltvau-samsungau-g09kq.amagi.tv/playlist/amg01074-fueltv-fueltvau-samsungau/playlist.m3u8
+#EXTINF:-1 tvg-id="famelack-q2KimDhflePyDK" tvg-country="PT" tvg-language="English" tvg-logo="" tvg-status="live" group-title="Sports",FUEL TV Europe
+https://amg01074-fueltv-fueltvemeaen-rakuten-b6j62.amagi.tv/hls/amagi_hls_data_rakutenAA-fueltvemeaen/CDN/master.m3u8
 #EXTINF:-1 tvg-id="KuriakosCine.pt" tvg-country="PT" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/CZViCwB.jpg" tvg-status="live" group-title="Movies",Kuriakos Cine
 https://w2.manasat.com/kcine/smil:kcine.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="KuriakosKids.pt" tvg-country="PT" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/SRX6EPY.png" tvg-status="live" group-title="Animation",Kuriakos Kids
@@ -65,6 +71,8 @@ http://zntx.dyndns.org:8085/hls/sicm.m3u8
 http://znty.dyndns.org:5010/hls/sicr.m3u8
 #EXTINF:-1 tvg-id="SICReplay.pt" tvg-country="PT" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/fj84mXz.png" tvg-status="live" group-title="General",SIC Replay
 https://production-fast-sic.content.okast.tv/fa2e8c4385712f9a7dce4ff2dcebac2e/channels/d9070446-8448-455e-8075-773b1ba12562/d47eae0f-ad77-414a-9a1d-2a6628ba18c3/media_.m3u8
+#EXTINF:-1 tvg-id="SportTVPlus.pt" tvg-country="PT" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/R5FZEW6.png" tvg-status="down" group-title="Sports",Sport TV+
+http://znty.dyndns.org:5010/hls/sportv+.m3u8
 #EXTINF:-1 tvg-id="SportTV1.pt" tvg-country="PT" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/YWic36u.png" tvg-status="down" group-title="Sports",Sport TV1
 http://znty.dyndns.org:5010/hls/stv1.m3u8
 #EXTINF:-1 tvg-id="SportTV2.pt" tvg-country="PT" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/0jSR6yG.png" tvg-status="down" group-title="Sports",Sport TV2
@@ -75,8 +83,6 @@ http://znty.dyndns.org:5010/hls/stv5.m3u8
 http://zntx.dyndns.org:8085/hls/stv6.m3u8
 #EXTINF:-1 tvg-id="SportTV7.pt" tvg-country="PT" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/2HmCAm5.png" tvg-status="down" group-title="Sports",Sport TV7
 http://zntx.dyndns.org:8085/hls/stv7.m3u8
-#EXTINF:-1 tvg-id="SportTVPlus.pt" tvg-country="PT" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/R5FZEW6.png" tvg-status="down" group-title="Sports",Sport TV+
-http://znty.dyndns.org:5010/hls/sportv+.m3u8
 #EXTINF:-1 tvg-id="StarChannel.pt" tvg-country="PT" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/960px-Star_Channel_2020.svg.png" tvg-status="down" group-title="Entertainment",Star Channel
 http://znty.dyndns.org:5010/hls/fox.m3u8
 #EXTINF:-1 tvg-id="StarComedy.pt" tvg-country="PT" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Star_Comedy_2024.svg/960px-Star_Comedy_2024.svg.png" tvg-status="down" group-title="Comedy",Star Comedy
@@ -87,12 +93,6 @@ http://znty.dyndns.org:5010/hls/foxcrime.m3u8
 http://znty.dyndns.org:5010/hls/foxlife.m3u8
 #EXTINF:-1 tvg-id="StarMovies.pt" tvg-country="PT" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Star_Movies_2023.svg/960px-Star_Movies_2023.svg.png" tvg-status="down" group-title="Movies",Star Movies
 http://znty.dyndns.org:5010/hls/foxm.m3u8
-#EXTINF:-1 tvg-id="TVI.pt" tvg-country="PT" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/H8Tgl7m.png" tvg-status="live" group-title="General",TVI
-https://raw.githubusercontent.com/thomraider12/canaistvpt/main/m3u8s/tvi.m3u8
-#EXTINF:-1 tvg-id="TVIFiccao.pt" tvg-country="PT" tvg-language="Portuguese" tvg-logo="https://cdn.iol.pt/img/logostvi/branco/tvificcao.png" tvg-status="live" group-title="Series",TVI Ficcao
-https://raw.githubusercontent.com/thomraider12/canaistvpt/main/m3u8s/tvificcao.m3u8
-#EXTINF:-1 tvg-id="TVIReality.pt" tvg-country="PT" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/C9rxqA5.png" tvg-status="live" group-title="Entertainment",TVI Reality
-https://raw.githubusercontent.com/thomraider12/canaistvpt/main/m3u8s/tvireality.m3u8
 #EXTINF:-1 tvg-id="TVMana1.pt" tvg-country="PT" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/6jNqpTP.png" tvg-status="live" group-title="Religious",TV Mana 1
 https://w1.manasat.com/tvmana-1/smil:tvmana-1.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TVMana2.pt" tvg-country="PT" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/VYNjVov.png" tvg-status="live" group-title="Religious",TV Mana 2
@@ -105,11 +105,11 @@ https://w1.manasat.com/tvmana-english/smil:tvmana-english.smil/playlist.m3u8
 https://w1.manasat.com/tvmana-espanol/smil:tvmana-espanol.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TVManaRusskiy.pt" tvg-country="PT" tvg-language="Russian" tvg-logo="https://i.imgur.com/fACHqmY.png" tvg-status="live" group-title="Religious",TV Mana Russkiy
 https://w1.manasat.com/tvmana-leste/smil:tvmana-leste.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TVI.pt" tvg-country="PT" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/H8Tgl7m.png" tvg-status="live" group-title="General",TVI
+https://raw.githubusercontent.com/thomraider12/canaistvpt/main/m3u8s/tvi.m3u8
+#EXTINF:-1 tvg-id="TVIFiccao.pt" tvg-country="PT" tvg-language="Portuguese" tvg-logo="https://cdn.iol.pt/img/logostvi/branco/tvificcao.png" tvg-status="live" group-title="Series",TVI Ficcao
+https://raw.githubusercontent.com/thomraider12/canaistvpt/main/m3u8s/tvificcao.m3u8
+#EXTINF:-1 tvg-id="TVIReality.pt" tvg-country="PT" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/C9rxqA5.png" tvg-status="live" group-title="Entertainment",TVI Reality
+https://raw.githubusercontent.com/thomraider12/canaistvpt/main/m3u8s/tvireality.m3u8
 #EXTINF:-1 tvg-id="VPlusTVI.pt" tvg-country="PT" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/e/ef/V%2BTVI_Logo.png" tvg-status="live" group-title="General",V+ TVI
 https://raw.githubusercontent.com/thomraider12/canaistvpt/main/m3u8s/vmaistvi.m3u8
-#EXTINF:-1 tvg-id="famelack-k9YVnaB9vAhdV8" tvg-country="PT" tvg-language="Portuguese" tvg-logo="" tvg-status="live" group-title="Religious",Angel TV Portuguese
-https://janya-digimix.akamaized.net/vglive-sk-382409/portuese/ngrp:angelportuguese_all/playlist.m3u8
-#EXTINF:-1 tvg-id="famelack-Iuaewjg35O2O7W" tvg-country="PT" tvg-language="English" tvg-logo="" tvg-status="live" group-title="Sports",FUEL TV APAC
-https://amg01074-fueltv-fueltvau-samsungau-g09kq.amagi.tv/playlist/amg01074-fueltv-fueltvau-samsungau/playlist.m3u8
-#EXTINF:-1 tvg-id="famelack-q2KimDhflePyDK" tvg-country="PT" tvg-language="English" tvg-logo="" tvg-status="live" group-title="Sports",FUEL TV Europe
-https://amg01074-fueltv-fueltvemeaen-rakuten-b6j62.amagi.tv/hls/amagi_hls_data_rakutenAA-fueltvemeaen/CDN/master.m3u8

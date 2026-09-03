@@ -7,6 +7,8 @@ https://dash4.antik.sk/live/test_infokanal_tizen/playlist.m3u8
 http://88.212.15.19/live/test_arenasport/playlist.m3u8
 #EXTINF:-1 tvg-id="ArenaSport2.sk" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://i.imgur.com/Yq3Jf19.png" tvg-status="live" group-title="Sports",Arena Sport 2
 http://88.212.15.19/live/test_arenasport_dva/playlist.m3u8
+#EXTINF:-1 tvg-id="famelack-zO4DDyplOGEqbh" tvg-country="SK" tvg-language="Slovak" tvg-logo="" tvg-status="live" group-title="News",Česko-Slovenská regionálna televízia
+https://www.youtube-nocookie.com/embed/pSAOH-ivPq8
 #EXTINF:-1 tvg-id="ducktv.sk" tvg-country="SK" tvg-language="English" tvg-logo="https://i.imgur.com/gRFQ35W.png" tvg-status="live" group-title="Kids",ducktv
 https://dash3.antik.sk/live/duck_tv/index.m3u8
 #EXTINF:-1 tvg-id="ducktvPLUS.sk" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://i.imgur.com/RFhxfOx.png" tvg-status="live" group-title="Kids",ducktv PLUS
@@ -39,14 +41,10 @@ http://88.212.15.27/live/test_rtvs_sport_hevc/playlist.m3u8
 https://5ca49f2417d90.streamlock.net/mocenok/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="TurboTV.sk" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://i.imgur.com/HI7bCHq.png" tvg-status="live" group-title="General",Turbo TV
 https://dash3.antik.sk/live/turbo_tv_avc_25p/playlist.m3u8
-#EXTINF:-1 tvg-id="TV8.sk" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://i.imgur.com/Z7URrp1.png" tvg-status="live" group-title="General",TV8
-http://109.74.145.11:1935/tv8/ngrp:tv8.stream_all/playlist.m3u8
-#EXTINF:-1 tvg-id="TV9.sk" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://i.imgur.com/Sco4x8t.png" tvg-status="live" group-title="General",TV9
-https://dash4.antik.sk/live/test_tv9/playlist.m3u8
 #EXTINF:-1 tvg-id="TVBrezova.sk" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://i.imgur.com/59LpYoF.png" tvg-status="down" group-title="General",TV Brezova
 http://95.105.193.219:88/hls/tvb.m3u8
 #EXTINF:-1 tvg-id="TVCentral.sk" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://i.imgur.com/LqGT8o9.png" tvg-status="live" group-title="General",TV Central
-https://arenasportslovakia.ddns.net/hls/cetv2.m3u8
+https://dash4.antik.sk/live/test_central/playlist.m3u8
 #EXTINF:-1 tvg-id="TVDK.sk" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://i.imgur.com/qTOnPXe.png" tvg-status="live" group-title="General",TV DK
 https://5ca49f2417d90.streamlock.net/live/dolnykubin1/playlist.m3u8
 #EXTINF:-1 tvg-id="TVLiptov.sk" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://i.imgur.com/CkvB3af.png" tvg-status="live" group-title="General",TV Liptov
@@ -59,6 +57,8 @@ https://stream.tvlux.sk/lux/ngrp:lux.stream_all/playlist.m3u8
 https://dash3.antik.sk/live/test_mistral_atktv/playlist.m3u8
 #EXTINF:-1 tvg-id="TVMyjava.sk" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://i.imgur.com/9f9VmvF.png" tvg-status="down" group-title="General",TV Myjava
 http://95.105.193.219:88/hls/tvm.m3u8
+#EXTINF:-1 tvg-id="famelack-Hl4DNT44hH94dC" tvg-country="SK" tvg-language="Slovak" tvg-logo="" tvg-status="live" group-title="General",TV Nitra
+https://www.youtube-nocookie.com/embed/Bj9eN_Ghfvk
 #EXTINF:-1 tvg-id="TVNitricka.sk" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://i.imgur.com/iwWyG1A.png" tvg-status="live" group-title="General",TV Nitricka
 https://dash4.antik.sk/live/test_nitricka/playlist.m3u8
 #EXTINF:-1 tvg-id="TVNRSR.sk" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://i.imgur.com/hsJsu3I.png" tvg-status="live" group-title="Legislative",TV NRSR
@@ -83,17 +83,17 @@ http://88.212.7.11/live/test_severka_web_player/playlist.m3u8
 http://95.105.193.219:88/hls/tvs.m3u8
 #EXTINF:-1 tvg-id="TVStaraTura.sk" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://i.imgur.com/kerkvRX.png" tvg-status="down" group-title="General",TV Stara Tura
 http://95.105.193.219:88/hls/tvst.m3u8
-#EXTINF:-1 tvg-id="TVT.sk" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://i.imgur.com/QG0iZlG.png" tvg-status="live" group-title="General",TVT
-https://5ca49f2417d90.streamlock.net/live/turzovka/playlist.m3u8
 #EXTINF:-1 tvg-id="TVVega.sk" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://i.imgur.com/Qw3NeLA.png" tvg-status="down" group-title="General",TV Vega
 http://88.212.7.11/live/test_tv_vega_web_player/playlist.m3u8
 #EXTINF:-1 tvg-id="TVVita.sk" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://i.imgur.com/Cx1GLbo.png" tvg-status="live" group-title="Culture",TV Vita
 https://dash3.antik.sk/live/test_vita/playlist.m3u8
+#EXTINF:-1 tvg-id="TV8.sk" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://i.imgur.com/Z7URrp1.png" tvg-status="live" group-title="General",TV8
+http://109.74.145.11:1935/tv8/ngrp:tv8.stream_all/playlist.m3u8
+#EXTINF:-1 tvg-id="TV9.sk" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://i.imgur.com/Sco4x8t.png" tvg-status="live" group-title="General",TV9
+https://dash4.antik.sk/live/test_tv9/playlist.m3u8
+#EXTINF:-1 tvg-id="TVT.sk" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://i.imgur.com/QG0iZlG.png" tvg-status="live" group-title="General",TVT
+https://5ca49f2417d90.streamlock.net/live/turzovka/playlist.m3u8
 #EXTINF:-1 tvg-id="VIOTV.sk" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://i.imgur.com/7EL3VZ5.png" tvg-status="down" group-title="General",VIO TV
 http://slovanet-livestream.ceelabs.com:1935/live/VioTV.stream_transcoded/playlist.m3u8
 #EXTINF:-1 tvg-id="ZapadoslovenskaTV.sk" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://i.imgur.com/D72Y1IB.png" tvg-status="live" group-title="General",Zapadoslovenska TV
 https://dash2.antik.sk/live/test_zapadoslovenska/playlist.m3u8
-#EXTINF:-1 tvg-id="famelack-zO4DDyplOGEqbh" tvg-country="SK" tvg-language="Slovak" tvg-logo="" tvg-status="live" group-title="News",Česko-Slovenská regionálna televízia
-https://www.youtube-nocookie.com/embed/pSAOH-ivPq8
-#EXTINF:-1 tvg-id="famelack-Hl4DNT44hH94dC" tvg-country="SK" tvg-language="Slovak" tvg-logo="" tvg-status="live" group-title="General",TV Nitra
-https://www.youtube-nocookie.com/embed/Bj9eN_Ghfvk
