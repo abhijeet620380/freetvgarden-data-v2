@@ -25,7 +25,7 @@ https://stmv1.voxtvhd.com.br/alpavision/alpavision/playlist.m3u8
 https://movil.ejeserver.com/live/canal8tv.m3u8
 #EXTINF:-1 tvg-id="Canal9Cosespu.co" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/w5e1d8k.png" tvg-status="live" group-title="General",Canal 9 Cosespu
 https://video2.lhdserver.es/canal9cosespu/live.m3u8
-#EXTINF:-1 tvg-id="famelack-4tOQsHNAnrUk50" tvg-country="CO" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="General",Canal Calima TV
+#EXTINF:-1 tvg-id="CanalCalimaTV.co" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/6YxtyUR.jpeg" tvg-status="live" group-title="General",Canal Calima TV
 https://movil.ejeserver.com/live/calimatv.m3u8
 #EXTINF:-1 tvg-id="CanalCapital.co" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/zAYtbYi.png" tvg-status="live" group-title="General",Canal Capital
 http://138.121.15.230:9002/CANAL-CAPITAL/index.m3u8
@@ -97,11 +97,11 @@ https://104florencia.co/wp-admin/admin-ajax.php?action=frp_hls_proxy&url=https:/
 https://panelvideo1.intermediahost.co:3286/live/ruzfpkqklive.m3u8
 #EXTINF:-1 tvg-id="FrecuenciaFTV.co" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/Cw5k96N.png" tvg-status="live" group-title="Religious",Frecuencia F TV
 https://tv.frecuenciaf.com/live/envivo_1080p4000kbs/index.m3u8
-#EXTINF:-1 tvg-id="HeliconiaRadioTV.co" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/AJ182BG.png" tvg-status="down" group-title="General",Heliconia Radio TV
+#EXTINF:-1 tvg-id="HeliconiaRadioTV.co" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/AJ182BG.png" tvg-status="live" group-title="General",Heliconia Radio TV
 https://eu1.servers10.com:8081/8178/index.m3u8
 #EXTINF:-1 tvg-id="KaluTV.co" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/MO4w3OT.jpeg" tvg-status="live" group-title="General",Kalu TV
 https://tv.kaludecolombia.com/memfs/d71c0104-4752-4690-bdbf-19aa849da6c4.m3u8
-#EXTINF:-1 tvg-id="famelack-wzR0TNYEFfuhVq" tvg-country="CO" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="Music",La Hermandad Salsera
+#EXTINF:-1 tvg-id="LaHermandadSalsera.co" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/7Wlt6bc.png" tvg-status="live" group-title="Music",La Hermandad Salsera
 https://streamlov.alsolnet.com/hermandadsalsera/live/playlist.m3u8
 #EXTINF:-1 tvg-id="LaKalle.co" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://www.tdtparatodos.tv/sites/default/files/la_kalle.png" tvg-status="live" group-title="Music",La Kalle
 https://mdstrm.com/live-stream-playlist/58d191f07290fbb058025843.m3u8
@@ -163,6 +163,8 @@ http://209.14.115.253:8081/SENALCOLOMBIA/index.m3u8
 https://vs20.live.opencaster.com/soonatv_a1a564a9/index.m3u8
 #EXTINF:-1 tvg-id="StreamForce360.co" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://streamforce360.com/wp-content/uploads/2026/06/logo-streamforce-30-20026-e1782248482848.png" tvg-status="live" group-title="General",StreamForce 360
 https://sistemastr.tropicalmoonmedia.com:443/live/9E495C5FDA503D7F71037F2D2C5D3FA3/16.m3u8
+#EXTINF:-1 tvg-id="famelack-JBY0vsG9zLUttk" tvg-country="CO" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="Entertainment",StreamForce 360 Main
+https://sistemastr.tropicalmoonmedia.com/live/9E495C5FDA503D7F71037F2D2C5D3FA3/16.m3u8
 #EXTINF:-1 tvg-id="SupermusicaTV.co" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/MiVs42N.jpeg" tvg-status="live" group-title="Music",Supermusica TV
 https://backupmaxmedia.hvmultiplay.com/hls/stream4/supermusica.m3u8
 #EXTINF:-1 tvg-id="SuramTV.co" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/2N9LCES.png" tvg-status="live" group-title="General",Suram TV
@@ -201,14 +203,12 @@ https://stmv7.voxtvhd.com.br/golfo/golfo/playlist.m3u8
 https://movil.ejeserver.com/live/tvrivera.m3u8
 #EXTINF:-1 tvg-id="TV3LaPlata.co" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/uRMq5HC.jpeg" tvg-status="live" group-title="General",TV3 La Plata
 https://live.amelbatv.co:81/teleopita/index.fmp4.m3u8
-#EXTINF:-1 tvg-id="famelack-w1ixTwFBg5nJH1" tvg-country="CO" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="Religious",TVGracia
+#EXTINF:-1 tvg-id="TVGracia.co" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/tMl4ISO.png" tvg-status="live" group-title="Religious",TVGracia
 https://vs20.live.opencaster.com/diego_57244803/index.m3u8
 #EXTINF:-1 tvg-id="UltraCasanareTV.co" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/1voWgLI.png" tvg-status="live" group-title="Entertainment",Ultra Casanare TV
 https://eu1.servers10.com:8081/8072/index.m3u8
 #EXTINF:-1 tvg-id="UMCTV.co" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/YQUK4wO.png" tvg-status="live" group-title="Outdoor",UMC TV
 https://streaming5.globalhostla.com/rtplive/unamirad/playlist.m3u8
-#EXTINF:-1 tvg-id="famelack-AmiFkXyyhlLrz0" tvg-country="CO" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="General",Veo Televisión
-https://movil.ejeserver.com/live/veotv.m3u8
 #EXTINF:-1 tvg-id="ViveTV.co" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/25CFHpB.png" tvg-status="live" group-title="General",Vive TV
 http://192.144.113.132:1935/live/ViveTV/playlist.m3u8
 #EXTINF:-1 tvg-id="WinSports.co" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/DuSSrHV.png" tvg-status="live" group-title="Sports",Win Sports
