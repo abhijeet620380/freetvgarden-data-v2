@@ -3,13 +3,11 @@
 https://stream.4fun.tv:8889/hls/4fk_high/index.m3u8
 #EXTINF:-1 tvg-id="4FunTV.pl" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/rI1wo2l.png" tvg-status="live" group-title="Music",4 Fun TV
 https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
-#EXTINF:-1 tvg-id="famelack-gnXbQSLxnNAtTV" tvg-country="PL" tvg-language="Polish" tvg-logo="" tvg-status="live" group-title="Music",4 Fun TV
-https://stream.4fun.tv:8888/hls/4f.m3u8
 #EXTINF:-1 tvg-id="famelack-FHHW8HxY4wkWHY" tvg-country="PL" tvg-language="Polish" tvg-logo="" tvg-status="live" group-title="Education",Arche TV
 https://www.youtube-nocookie.com/embed/X1XLgE_6mtE
 #EXTINF:-1 tvg-id="ATMRozrywkaREWORK.pl" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.ibb.co/B5BfmQNs/ATM.jpg" tvg-status="live" group-title="Entertainment",ATM Rozrywka REWORK
 https://grupaatmrr.org.pl:8888/fallback/index.m3u8
-#EXTINF:-1 tvg-id="AXNPoland.pl" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/i5wOhkf.png" tvg-status="live" group-title="Movies",AXN Poland
+#EXTINF:-1 tvg-id="AXNPoland.pl" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/i5wOhkf.png" tvg-status="down" group-title="Movies",AXN Poland
 http://193.24.244.60:1001/udp/239.254.5.5:6060
 #EXTINF:-1 tvg-id="AXNSpin.pl" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/LGEbwnT.png" tvg-status="down" group-title="Series",AXN Spin
 http://193.24.244.60:1001/udp/239.254.5.6:6060
@@ -59,7 +57,7 @@ https://www.youtube-nocookie.com/embed/sORPxNNh20U
 https://www.youtube-nocookie.com/embed/atGseg3uH8w
 #EXTINF:-1 tvg-id="Moconomy.pl" tvg-country="PL" tvg-language="Polish" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/9da0ec4d-85ea-45f4-b3f9-ae917d1714f9-width200-quality90.jpeg" tvg-status="live" group-title="General",Moconomy
 https://3ee905090d464be5a51478fd9c642e93.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-pl_Moconomy/playlist.m3u8
-#EXTINF:-1 tvg-id="Motowizja.pl" tvg-country="PL" tvg-language="Polish" tvg-logo="https://ocdn.eu/ptv2-images-transforms/1/bqxkrtsb2dvLW1pZ3JhdGVkL21vdG93aXpqYS5wbmeSlQJkAMLDlQIAKMLD" tvg-status="live" group-title="Auto",Motowizja
+#EXTINF:-1 tvg-id="Motowizja.pl" tvg-country="PL" tvg-language="Polish" tvg-logo="https://ocdn.eu/ptv2-images-transforms/1/bqxkrtsb2dvLW1pZ3JhdGVkL21vdG93aXpqYS5wbmeSlQJkAMLDlQIAKMLD" tvg-status="down" group-title="Auto",Motowizja
 https://polska.hach.workers.dev/14808.m3u8
 #EXTINF:-1 tvg-id="MusicBoxPolska.pl" tvg-country="PL" tvg-language="Polish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Music_Box_UA_%282018%29.svg/960px-Music_Box_UA_%282018%29.svg.png" tvg-status="live" group-title="Music",Music Box Polska
 http://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cHM6Ly9obHMtY2RuMS5keXZ5YXBwLmNvbS9NdXNpYy1Cb3gvdHJhY2tzLXYxYTEvbW9uby50cy5tM3U4P3Rva2VuPWV5SmhiR2NpT2lKSVV6STFOaUlzSW5SNWNDSTZJa3BYVkNKOS5leUpqYUdGdWJtVnNYMmxrSWpvMU55d2lZMmhoYm01bGJGOXVZVzFsSWpvaVRYVnphV01nUW05NElpd2lhWEFpT2lJeE56Z3VNVE0yTGpReUxqSXlNQ0lzSW1OdmRXNTBjbmtpT2lKVmEzSmhhVzVsSWl3aWRYTmxjbDlwWkNJNk56UXdOeXdpZFhObGNsOXdhRzl1WlNJNklpc3pPREE1TXpBNU5qYzBNak1pTENKMWMyVnlYM0p2YkdWeklqcGJJbU5zYVdWdWRDSmRMQ0p3Y205bWFXeGxYMmxrSWpvMk5EY3hMQ0p6WlhOemFXOXVYMmxrSWpvaVpEQXdPVFppWmpndE1qTmxOUzAwWldVMkxXSmxNelV0Wmpnd09ETTVaV1k1WkRnMElpd2laVzUyYVhKdmJtMWxiblFpT2lKd2NtOWtkV04wYVc5dUlpd2ljR3hoZEdadmNtMGlPaUpFWlhOcmRHOXdJaXdpZFhObGNsOWhaMlZ1ZENJNklrMXZlbWxzYkdGY0x6VXVNQ0FvVjJsdVpHOTNjeUJPVkNBeE1DNHdPeUJYYVc0Mk5Ec2dlRFkwS1NCQmNIQnNaVmRsWWt0cGRGd3ZOVE0zTGpNMklDaExTRlJOVEN3Z2JHbHJaU0JIWldOcmJ5a2dRMmh5YjIxbFhDOHhOVEl1TUM0d0xqQWdVMkZtWVhKcFhDODFNemN1TXpZaUxDSmxlSEFpT2pFM09EZ3hPRFV4TmpkOS5nYUo1WGRxTjJ3djY2SnFxYldnX0dGUzY3V3lZVEVOc0JQa3VpcU1sNTVN&master=57
@@ -129,8 +127,6 @@ https://5cce8c6f0e84c.streamlock.net/LiveCast/smil:PlayStream9.smil/playlist.m3u
 http://stream.tvkujawy.pl:8080/live/broadcast.m3u8
 #EXTINF:-1 tvg-id="TVPuls.pl" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/gXA7pai.png" tvg-status="live" group-title="General",TV Puls
 https://lowa8026-cmyk.github.io/PL/PULSHD.php.m3u8
-#EXTINF:-1 tvg-id="famelack-XHTx1GiWzd6xhN" tvg-country="PL" tvg-language="Polish" tvg-logo="" tvg-status="live" group-title="General",TV Puls
-https://edge01.cdn.emitel.pl/bpk-tv/Puls_HD/hbbtv-hls/index.m3u8
 #EXTINF:-1 tvg-id="TVRegionalnaLubin.pl" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/2WVNt3f.png" tvg-status="live" group-title="General",TV Regionalna Lubin
 https://tvregfull.mailfull.pl/tvregfull/memfs/e64b3e05-649c-4939-9ff6-584e79285ccd.m3u8
 #EXTINF:-1 tvg-id="TVTorun.pl" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/ZJ0yDWI.png" tvg-status="live" group-title="General",TV Torun
@@ -145,12 +141,8 @@ https://tvpi.travny.workers.dev/tvpdokument.m3u8
 https://tvp3.cache.orange.pl/tvp/live/JQmETX58eM7X32i5AVKZRQ/1783368986/video/live/live171/nginx/TKH/156/master.m3u8
 #EXTINF:-1 tvg-id="TVPInfo.pl" tvg-country="PL" tvg-language="Polish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/28/TVP_info_%282024%29.png" tvg-status="live" group-title="General",TVP Info
 https://tvpi.travny.workers.dev/tvpinfo.m3u8
-#EXTINF:-1 tvg-id="famelack-Se7x9HGaZbNY8X" tvg-country="PL" tvg-language="Polish" tvg-logo="" tvg-status="live" group-title="General",TVP Info
-https://lowa8026-cmyk.github.io/tvpvod/399699.m3u8
 #EXTINF:-1 tvg-id="TVPPolonia.pl" tvg-country="PL" tvg-language="Polish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/TVP_Polonia_Logo_2020.svg/960px-TVP_Polonia_Logo_2020.svg.png" tvg-status="live" group-title="General",TVP Polonia
 http://88b9da48.kazmazpaz.ru/iptv/XVU58NBPX2LUMP/7282/index.m3u8
-#EXTINF:-1 tvg-id="famelack-fzamcn1eHJ76Mf" tvg-country="PL" tvg-language="Polish" tvg-logo="" tvg-status="live" group-title="General",TVP Polonia
-https://lowa8026-cmyk.github.io/tvpvod/399723.m3u8
 #EXTINF:-1 tvg-id="TVPSport.pl" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/JUZDOCO.png" tvg-status="live" group-title="Sports",TVP Sport
 http://88b9da48.kazmazpaz.ru/iptv/XVU58NBPX2LUMP/7280/index.m3u8
 #EXTINF:-1 tvg-id="TVP1.pl" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/ewpSjBs.png" tvg-status="live" group-title="General",TVP1
