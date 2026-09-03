@@ -1,4 +1,4 @@
-// Combined channel data builder for freetvgarden.com
+scripts/// Combined channel data builder for freetvgarden.com
 //
 // WHAT THIS DOES DIFFERENTLY FROM THE OLD VERSION:
 //   1. Still pulls the full dataset from iptv-org (your primary source).
