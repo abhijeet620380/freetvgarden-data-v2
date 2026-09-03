@@ -68,7 +68,7 @@ https://da86m1sqpm3o0.cloudfront.net/28072023/smil:asianetmovies1.smil/playlist.
 #EXTINF:-1 tvg-id="AuroraMediaFilms.gt" tvg-country="GT" tvg-language="Spanish" tvg-logo="https://i.imgur.com/DVC5w6H.png" tvg-status="live" group-title="Movies",Aurora Media Films
 https://cdn.streamhispanatv.net:3417/live/auroramflive.m3u8
 #EXTINF:-1 tvg-id="AXN.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png" tvg-status="live" group-title="Movies",AXN
-http://170.83.16.50/AXN/index.m3u8
+http://45.190.28.50/AXN_HD/index.m3u8
 #EXTINF:-1 tvg-id="AXN.pt" tvg-country="PT" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png" tvg-status="down" group-title="Movies",AXN
 http://znty.dyndns.org:5010/hls/axn.m3u8
 #EXTINF:-1 tvg-id="AXNAdria.us" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png" tvg-status="live" group-title="Movies",AXN Adria
@@ -85,8 +85,8 @@ http://88.212.15.19/live/viasat_film/index.m3u8
 http://177.234.249.178:8888/AXN/index.m3u8
 #EXTINF:-1 tvg-id="AXNMovies.pt" tvg-country="PT" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/tJQckal.png" tvg-status="live" group-title="Movies",AXN Movies
 http://50.7.120.34:8080/AXN_BLACK/index.m3u8
-#EXTINF:-1 tvg-id="AXNPoland.pl" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/i5wOhkf.png" tvg-status="down" group-title="Movies",AXN Poland
-http://193.24.244.60:1001/udp/239.254.5.5:6060
+#EXTINF:-1 tvg-id="AXNPoland.pl" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/i5wOhkf.png" tvg-status="live" group-title="Movies",AXN Poland
+https://polska.hach.workers.dev/14850.m3u8
 #EXTINF:-1 tvg-id="AzCinema.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/B5UN7C8.png" tvg-status="down" group-title="Movies",Az Cinema
 https://cdn1tlinkgo.tlink.cl/azcinema/index.m3u8
 #EXTINF:-1 tvg-id="B4UBhojpuri.in" tvg-country="IN" tvg-language="Bhojpuri" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/B4U-BHOJPURI-LOGO-transparent.png" tvg-status="live" group-title="Movies",B4U Bhojpuri
@@ -221,7 +221,7 @@ http://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjU
 http://99.27.51.147/CineClassic/index.m3u8
 #EXTINF:-1 tvg-id="CinePlusEmotion.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/upYjPvc.jpeg" tvg-status="down" group-title="Movies",Cine+ Emotion
 http://145.239.5.177/337/index.m3u8
-#EXTINF:-1 tvg-id="CinePlusFrisson.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/MwFtbnR.jpeg" tvg-status="live" group-title="Movies",Cine+ Frisson
+#EXTINF:-1 tvg-id="CinePlusFrisson.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/MwFtbnR.jpeg" tvg-status="down" group-title="Movies",Cine+ Frisson
 http://99.27.51.147:8080/CineFrisson/index.m3u8
 #EXTINF:-1 tvg-id="CinePlusHit.ua" tvg-country="UA" tvg-language="Ukrainian" tvg-logo="https://i.imgur.com/b3FcLU1.png" tvg-status="live" group-title="Movies",Cine+ Hit
 http://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoNDAvdHJhY2tzLXYyYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA3NTI3NDUmc3Q9cVZaQ3Vpd2l3UzEwLW1tMzEwMktDZw%3D%3D&master=539
@@ -247,23 +247,23 @@ http://88.212.15.19/live/test_cinemax2_hd_hevc/playlist.m3u8
 http://213.91.179.28:8000/play/a05h
 #EXTINF:-1 tvg-id="Cinevault80s.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/xaCyyDd.png" tvg-status="down" group-title="Movies",Cinevault 80s
 https://aegis-cloudfront-1.tubi.video/ea1ab5d1-f554-4f6b-b03f-2611fcd94257/playlist.m3u8
-#EXTINF:-1 tvg-id="CityEdenKinoAction.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/uuzuvD0.png" tvg-status="down" group-title="Movies",City Eden KinoAction
+#EXTINF:-1 tvg-id="CityEdenKinoAction.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/uuzuvD0.png" tvg-status="live" group-title="Movies",City Eden KinoAction
 https://cityeden.catcast.tv/content/41333/index.m3u8
-#EXTINF:-1 tvg-id="CityEdenKinoArt.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/67CWCtz.png" tvg-status="down" group-title="Movies",City Eden KinoArt
+#EXTINF:-1 tvg-id="CityEdenKinoArt.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/67CWCtz.png" tvg-status="live" group-title="Movies",City Eden KinoArt
 https://cityeden.catcast.tv/content/38398/index.m3u8
-#EXTINF:-1 tvg-id="CityEdenKinoAsia.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/gaket4B.png" tvg-status="down" group-title="Movies",City Eden KinoAsia
+#EXTINF:-1 tvg-id="CityEdenKinoAsia.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/gaket4B.png" tvg-status="live" group-title="Movies",City Eden KinoAsia
 https://cityeden.catcast.tv/content/34393/index.m3u8
-#EXTINF:-1 tvg-id="CityEdenKinoDetektiv.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/9rKHwBV.png" tvg-status="down" group-title="Movies",City Eden KinoDetektiv
+#EXTINF:-1 tvg-id="CityEdenKinoDetektiv.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/9rKHwBV.png" tvg-status="live" group-title="Movies",City Eden KinoDetektiv
 https://cityeden.catcast.tv/content/41327/index.m3u8
-#EXTINF:-1 tvg-id="CityEdenKinoDrama.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/29ddffh.png" tvg-status="down" group-title="Movies",City Eden KinoDrama
+#EXTINF:-1 tvg-id="CityEdenKinoDrama.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/29ddffh.png" tvg-status="live" group-title="Movies",City Eden KinoDrama
 https://cityeden.catcast.tv/content/45269/index.m3u8
-#EXTINF:-1 tvg-id="CityEdenKinoFantastika.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/I64FeIO.png" tvg-status="down" group-title="Movies",City Eden KinoFantastika
+#EXTINF:-1 tvg-id="CityEdenKinoFantastika.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/I64FeIO.png" tvg-status="live" group-title="Movies",City Eden KinoFantastika
 https://cityeden.catcast.tv/content/45268/index.m3u8
-#EXTINF:-1 tvg-id="CityEdenKinoKlassika.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/0qGCS1S.png" tvg-status="down" group-title="Movies",City Eden KinoKlassika
+#EXTINF:-1 tvg-id="CityEdenKinoKlassika.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/0qGCS1S.png" tvg-status="live" group-title="Movies",City Eden KinoKlassika
 https://cityeden.catcast.tv/content/34185/index.m3u8
-#EXTINF:-1 tvg-id="CityEdenKinoKomediya.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/Aga2XVA.png" tvg-status="down" group-title="Movies",City Eden KinoKomediya
+#EXTINF:-1 tvg-id="CityEdenKinoKomediya.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/Aga2XVA.png" tvg-status="live" group-title="Movies",City Eden KinoKomediya
 https://cityeden.catcast.tv/content/41331/index.m3u8
-#EXTINF:-1 tvg-id="CityEdenKinoMistika.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/s1Pid0K.png" tvg-status="down" group-title="Movies",City Eden KinoMistika
+#EXTINF:-1 tvg-id="CityEdenKinoMistika.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/s1Pid0K.png" tvg-status="live" group-title="Movies",City Eden KinoMistika
 https://cityeden.catcast.tv/content/40783/index.m3u8
 #EXTINF:-1 tvg-id="CityEdenKinoSemya.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/YoWOZMx.png" tvg-status="down" group-title="Movies",City Eden KinoSemya
 https://v2.catcast.tv/content/38128/index.m3u8
@@ -351,7 +351,7 @@ https://s3.ideationtec.live/Filmax/Filmax.m3u8
 http://103.250.28.74:8000/play/a02k/index.m3u8
 #EXTINF:-1 tvg-id="FilmBox.nl" tvg-country="NL" tvg-language="English" tvg-logo="https://i.imgur.com/VyaslIY.png" tvg-status="live" group-title="Movies",FilmBox
 http://46.149.191.219:9100/play/a015
-#EXTINF:-1 tvg-id="FILMBOXPlusAction.pl" tvg-country="PL" tvg-language="English" tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Baction.png" tvg-status="down" group-title="Movies",FILMBOX+ Action
+#EXTINF:-1 tvg-id="FILMBOXPlusAction.pl" tvg-country="PL" tvg-language="English" tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Baction.png" tvg-status="live" group-title="Movies",FILMBOX+ Action
 https://polska.hach.workers.dev/14864.m3u8
 #EXTINF:-1 tvg-id="FILMBOXPlusComedy.pl" tvg-country="PL" tvg-language="Polish" tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bcomedy.png" tvg-status="live" group-title="Movies",FILMBOX+ Comedy
 http://88.212.15.19/live/test_filmbox_family_atk_1200/playlist.m3u8
@@ -453,7 +453,7 @@ http://web.onair-radio.eu:1935/groovytv/groovytv/playlist.m3u8
 https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991709
 #EXTINF:-1 tvg-id="HarbinMovieChannel.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://www.tvchinese.net/uploads/tv/haerbin.jpg" tvg-status="live" group-title="Movies",Harbin Movie Channel
 https://stream.hrbtv.net/yspd/playlist.m3u8
-#EXTINF:-1 tvg-id="Hero.fi" tvg-country="FI" tvg-language="Finnish" tvg-logo="https://i.imgur.com/4t5JQLY.png" tvg-status="down" group-title="Movies",Hero
+#EXTINF:-1 tvg-id="Hero.fi" tvg-country="FI" tvg-language="Finnish" tvg-logo="https://i.imgur.com/4t5JQLY.png" tvg-status="live" group-title="Movies",Hero
 https://live-fi.tvkaista.net/hero/live.m3u8?hd=true
 #EXTINF:-1 tvg-id="Hit.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/jl3MNPe.png" tvg-status="live" group-title="Movies",Hit
 http://hls127.freeott.top:8080/XitHD/video.m3u8
@@ -483,8 +483,6 @@ https://ncdn.telewebion.ir/ifilm/live/playlist.m3u8
 http://31.148.48.15/Illusion_plus/index.m3u8
 #EXTINF:-1 tvg-id="IndiyskoyeKino.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/LL8GyCh.png" tvg-status="live" group-title="Movies",Indiyskoye Kino
 http://188.113.190.12/329/index.m3u8
-#EXTINF:-1 tvg-id="IndywoodTV.in" tvg-country="IN" tvg-language="English" tvg-logo="https://i.ibb.co/jT3NCPp/logo-tv.png" tvg-status="live" group-title="Movies",Indywood TV
-https://43wrzjnpqoxe-hls-live.wmncdn.net/indywood/indywoodtv/index.m3u8
 #EXTINF:-1 tvg-id="ItageTV.ng" tvg-country="NG" tvg-language="Yoruba" tvg-logo="https://i.imgur.com/FP1aUPw.jpg" tvg-status="live" group-title="Movies",Itage TV
 https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_011/Stream/playlist.m3u8
 #EXTINF:-1 tvg-id="JMovie.in" tvg-country="IN" tvg-language="Tamil" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_J_MOVIES/images/LOGO_HD/image.png" tvg-status="down" group-title="Movies",J Movie
@@ -987,8 +985,6 @@ https://a300af98e00746e2acf2346f43e47bd1.mediatailor.eu-west-1.amazonaws.com/v1/
 https://d7e8ee3c924d4305a0c1840fe94c5d36.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6102/master.m3u8
 #EXTINF:-1 tvg-id="RakutenTVFamilyMovies.es" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/Meew6eX.png" tvg-status="live" group-title="Family",Rakuten TV Family Movies
 https://758ee983d61e400381dea6fa8154f4e0.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6227/master.m3u8
-#EXTINF:-1 tvg-id="famelack-duHgjkhG7rfbm4" tvg-country="ES" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="Movies",Rakuten TV Family Movies Spain
-https://b0d59c8c98974e708e5ccb9a27cdfdfc.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6205/master.m3u8
 #EXTINF:-1 tvg-id="RakutenTVNordicFilms.es" tvg-country="ES" tvg-language="Finnish" tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/ff79e878-3eea-45fc-b0cd-55d6acce9b18-width200-quality90.jpeg" tvg-status="live" group-title="Movies",Rakuten TV Nordic Films
 https://4aa9ef08b70d4b0c8f3519c5950b1930.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6303/master.m3u8
 #EXTINF:-1 tvg-id="RakutenTVTopMovies.es" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/Meew6eX.png" tvg-status="live" group-title="Movies",Rakuten TV Top Movies
@@ -1119,8 +1115,6 @@ https://jmp2.uk/plu-6654adb1f99922000854388c.m3u8
 https://stream.sscloud7.com/live/suriyantv/index.m3u8
 #EXTINF:-1 tvg-id="SYFY.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/4fMWhUE.png" tvg-status="live" group-title="Movies",SYFY
 http://23.237.104.106:8080/USA_SYFY/index.m3u8
-#EXTINF:-1 tvg-id="famelack-jBHty7VgENQxrk" tvg-country="US" tvg-language="English" tvg-logo="" tvg-status="live" group-title="Movies",SYFY East
-https://tvsen7.aynascope.net/syfy/index.m3u8
 #EXTINF:-1 tvg-id="T2Movies.ir" tvg-country="IR" tvg-language="Persian" tvg-logo="" tvg-status="down" group-title="Movies",T2 Movies
 https://ca-rt.onetv.app/T2Movies/index-0.m3u8?token=onetv202
 #EXTINF:-1 tvg-id="Tamasha.ir" tvg-country="IR" tvg-language="Persian" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/thumb/f/f2/IRIB_tamashaTV.svg/960px-IRIB_tamashaTV.svg.png" tvg-status="live" group-title="Movies",Tamasha
@@ -1163,8 +1157,6 @@ https://rpn.bozztv.com/trn01/gusa-TVSFilmNoir/index.m3u8
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/universalcomedy/playlist.m3u8
 #EXTINF:-1 tvg-id="USANetwork.us" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/960px-USA_Network_logo_%282016%29.svg.png" tvg-status="live" group-title="Movies",USA Network
 http://190.11.225.124:5000/live/usa_hd/playlist.m3u8
-#EXTINF:-1 tvg-id="famelack-lKPGETEt2FJ6ge" tvg-country="US" tvg-language="English" tvg-logo="" tvg-status="live" group-title="Movies",USA Network East
-https://tvsen3.aynaott.com/dbbcY6NG/index.m3u8
 #EXTINF:-1 tvg-id="ViafreeMovies.se" tvg-country="SE" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/62bebc3459624e00078209c3/colorLogoSVG.svg" tvg-status="live" group-title="Movies",Viafree Movies
 https://jmp2.uk/plu-62bebc3459624e00078209c3.m3u8
 #EXTINF:-1 tvg-id="ViasatKino.ua" tvg-country="UA" tvg-language="Russian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/Viasat_Kino_Logo_2025.svg" tvg-status="live" group-title="Movies",Viasat Kino
