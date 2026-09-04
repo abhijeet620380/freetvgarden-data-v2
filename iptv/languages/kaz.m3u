@@ -1,10 +1,14 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="24KZ.kz" tvg-country="KZ" tvg-language="Kazakh" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/24KZ_logo.svg/1280px-24KZ_logo.svg.png" tvg-status="live" group-title="News",24KZ
+https://fs.uplink.kz/24KZ/mono.m3u8?token=onlinetv
 #EXTINF:-1 tvg-id="31Kanal.kz" tvg-country="KZ" tvg-language="Kazakh" tvg-logo="https://www.ikegami.co.jp/files/co/news/20250903_kazakhstanChannel31/Channel31_Logo.jpg" tvg-status="live" group-title="General",31 Kanal
 http://stream.mcquack.net/388/index.m3u8
 #EXTINF:-1 tvg-id="AbaiTV.kz" tvg-country="KZ" tvg-language="Kazakh" tvg-logo="https://i.imgur.com/Nw2R7Dq.png" tvg-status="live" group-title="Culture",Abai TV
 https://abaitv-stream.qazcdn.com/abaitv/abaitv/playlist.m3u8
 #EXTINF:-1 tvg-id="AlauTV.kz" tvg-country="KZ" tvg-language="Kazakh" tvg-logo="https://i.imgur.com/gK6ZRzp.png" tvg-status="live" group-title="General",Alau TV
 https://otv.wotom.net/alau/stream.m3u8
+#EXTINF:-1 tvg-id="AlmatyTV.kz" tvg-country="KZ" tvg-language="Kazakh" tvg-logo="https://i.imgur.com/OFobQkI.png" tvg-status="live" group-title="General",Almaty TV
+https://fs.uplink.kz/almaty/mono.m3u8?token=onlinetv
 #EXTINF:-1 tvg-id="Aqjaiyq.kz" tvg-country="KZ" tvg-language="Kazakh" tvg-logo="https://i.imgur.com/ZqIzzmf.png" tvg-status="down" group-title="General",Aqjaiyq
 https://stream.kaztrk.kz/regional/oraltv/index.m3u8
 #EXTINF:-1 tvg-id="Aqtobe.kz" tvg-country="KZ" tvg-language="Kazakh" tvg-logo="https://i.imgur.com/csKl1z6.png" tvg-status="down" group-title="General",Aqtobe
@@ -15,14 +19,18 @@ http://stream.mcquack.net/28/index.m3u8
 https://stream.kaztrk.kz/regional/atyrautv/index.m3u8
 #EXTINF:-1 tvg-id="Balapan.kz" tvg-country="KZ" tvg-language="Kazakh" tvg-logo="https://vote.rtrk.kz/img/balapan-logo.png" tvg-status="live" group-title="Kids",Balapan
 https://balapantv-stream.qazcdn.com/balapantv/balapantv/playlist.m3u8
-#EXTINF:-1 tvg-id="famelack-JCokef05ozWI8Y" tvg-country="KZ" tvg-language="Kazakh" tvg-logo="" tvg-status="live" group-title="Kids",Balapan International
+#EXTINF:-1 tvg-id="BalapanInternational.kz" tvg-country="KZ" tvg-language="Kazakh" tvg-logo="https://otv.server-img.lfstrm.tv/images/channel_logos/logo_638108d82e47243302bc81f1.png" tvg-status="live" group-title="Kids",Balapan International
 https://live-3.otcnet.ru/Balapan/index.m3u8
+#EXTINF:-1 tvg-id="Channel7.kz" tvg-country="KZ" tvg-language="Kazakh" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/Logo_Seven_Channel.png" tvg-status="live" group-title="General",Channel 7
+https://fs.uplink.kz/7_kanal/mono.m3u8?token=onlinetv
 #EXTINF:-1 tvg-id="Ertis.kz" tvg-country="KZ" tvg-language="Kazakh" tvg-logo="https://i.imgur.com/tghMiwW.png" tvg-status="down" group-title="General",Ertis
 https://stream.kaztrk.kz/regional/pavlodartv/index.m3u8
 #EXTINF:-1 tvg-id="Jambyl.kz" tvg-country="KZ" tvg-language="Kazakh" tvg-logo="https://i.imgur.com/X7N3JK4.png" tvg-status="down" group-title="General",Jambyl
 https://stream.kaztrk.kz/regional/taraztv/index.m3u8
 #EXTINF:-1 tvg-id="JibekJoly.kz" tvg-country="KZ" tvg-language="Kazakh" tvg-logo="https://i.imgur.com/SqyXtgK.png" tvg-status="live" group-title="General",Jibek Joly
 https://stream.qazcdn.net/ex6r514/jjtv/playlist.m3u8
+#EXTINF:-1 tvg-id="Khabar.kz" tvg-country="KZ" tvg-language="Kazakh" tvg-logo="https://i.imgur.com/upZ0Cuu.png" tvg-status="live" group-title="General",Khabar
+https://fs.uplink.kz/habar/mono.m3u8?token=onlinetv
 #EXTINF:-1 tvg-id="Kokshe.kz" tvg-country="KZ" tvg-language="Kazakh" tvg-logo="https://i.imgur.com/pOR3FSR.png" tvg-status="down" group-title="General",Kokshe
 https://stream.kaztrk.kz/regional/kokshetautv/index.m3u8
 #EXTINF:-1 tvg-id="Mangystay.kz" tvg-country="KZ" tvg-language="Kazakh" tvg-logo="https://i.imgur.com/9JfLseu.png" tvg-status="down" group-title="General",Mangystay
@@ -55,6 +63,8 @@ https://stream.kaztrk.kz/regional/karagandytv/index.m3u8
 https://stream.kaztrk.kz/regional/semeytv/index.m3u8
 #EXTINF:-1 tvg-id="SilkWay.kz" tvg-country="KZ" tvg-language="Kazakh" tvg-logo="https://i.imgur.com/SJNDksF.png" tvg-status="live" group-title="General",Silk Way
 https://hlspackager.akamaized.net/live/DB/SILKWAY/SILKWAY/SILKWAY.m3u8
+#EXTINF:-1 tvg-id="TuranTV.kz" tvg-country="KZ" tvg-language="Kazakh" tvg-logo="https://i.imgur.com/VagTPMo.png" tvg-status="live" group-title="General",Turan TV
+https://fs.uplink.kz/turan_tv/mono.m3u8?token=onlinetv
 #EXTINF:-1 tvg-id="Ulytau.kz" tvg-country="KZ" tvg-language="Kazakh" tvg-logo="https://i.imgur.com/jTL6TvC.png" tvg-status="live" group-title="General",Ulytau
 https://ulytau.tv/hls/master.m3u8
 #EXTINF:-1 tvg-id="XinjiangTV3.cn" tvg-country="CN" tvg-language="Kazakh" tvg-logo="https://i.imgur.com/l8S5qQB.png" tvg-status="live" group-title="General",Xinjiang TV 3
