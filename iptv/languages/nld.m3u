@@ -23,7 +23,7 @@ https://tv.beatfm.nl/live.m3u8
 https://media.streambrothers.com:1936/8506/8506/playlist.m3u8
 #EXTINF:-1 tvg-id="BonceTV.cw" tvg-country="CW" tvg-language="Dutch" tvg-logo="https://i.imgur.com/7cVkllH.png" tvg-status="down" group-title="Entertainment",Bonce TV
 https://seswa.bonce.tv/hls/bonceswa.m3u8
-#EXTINF:-1 tvg-id="famelack-hxElXQEHI6wIHq" tvg-country="NL" tvg-language="Dutch" tvg-logo="" tvg-status="live" group-title="General",BR6 TV
+#EXTINF:-1 tvg-id="BR6TV.nl" tvg-country="NL" tvg-language="Dutch" tvg-logo="https://i.imgur.com/NKtAiXu.png" tvg-status="live" group-title="General",BR6 TV
 https://58c04fb1d143f.streamlock.net/slob/slob/playlist.m3u8
 #EXTINF:-1 tvg-id="CoolFM989.aw" tvg-country="AW" tvg-language="Dutch" tvg-logo="https://i.imgur.com/uGE6lZ2.png" tvg-status="live" group-title="Music",Cool FM 98.9
 https://live2.tensila.com/cool-v-1.arubara/hls/master.m3u8
@@ -43,7 +43,7 @@ https://rrr.sz.xlcdn.com/?account=dtvmaasland&file=dtv2&output=playlist.m3u8&pro
 https://rrr.sz.xlcdn.com/?account=dtvmaasland&file=dtv3&output=playlist.m3u8&protocol=https&service=wowza&type=live
 #EXTINF:-1 tvg-id="DTVOssBernheze.nl" tvg-country="NL" tvg-language="Dutch" tvg-logo="https://i.imgur.com/JL1f9Tx.png" tvg-status="live" group-title="General",DTV Oss & Bernheze
 https://rrr.sz.xlcdn.com/?account=dtvmaasland&file=dtv1&output=playlist.m3u8&protocol=https&service=wowza&type=live
-#EXTINF:-1 tvg-id="famelack-0eoKVJV2pq7Jz8" tvg-country="NL" tvg-language="Dutch" tvg-logo="" tvg-status="live" group-title="General",Feel Good TV
+#EXTINF:-1 tvg-id="FeelGoodTV.nl" tvg-country="NL" tvg-language="Dutch" tvg-logo="https://i.imgur.com/qvs1BKr.png" tvg-status="live" group-title="General",Feel Good TV
 https://58c04fb1d143f.streamlock.net/feel_good_radio_1/feel_good_radio_1/playlist.m3u8
 #EXTINF:-1 tvg-id="Film1Action.nl" tvg-country="NL" tvg-language="Dutch" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Film1_Action_SVG.svg/960px-Film1_Action_SVG.svg.png" tvg-status="down" group-title="Movies",Film1 Action
 http://86.87.15.10:8008/play/a01l/index.m3u8
@@ -87,7 +87,7 @@ https://ms7.mx-cd.net/tv/278-3414514/RTV_Lansingerland.smil/playlist.m3u8
 https://ms7.mx-cd.net/tv/238-2061506/Omroep_LEO_TV.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="LINQTV.nl" tvg-country="NL" tvg-language="Dutch" tvg-logo="https://i.imgur.com/0DgP3vu.png" tvg-status="live" group-title="General",LINQ TV
 https://ms7.mx-cd.net/dtv-09/246-2090022/Linq_Media_TV.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="famelack-YgwesPOmCiZn25" tvg-country="NL" tvg-language="Dutch" tvg-logo="" tvg-status="live" group-title="General",LOE TV
+#EXTINF:-1 tvg-id="LOETV.nl" tvg-country="NL" tvg-language="Dutch" tvg-logo="https://i.imgur.com/8i6OwaS.png" tvg-status="live" group-title="General",LOE TV
 https://58c04fb1d143f.streamlock.net/loemedia/loemedia/playlist.m3u8
 #EXTINF:-1 tvg-id="LokaleOmroepZeewolde.nl" tvg-country="NL" tvg-language="Dutch" tvg-logo="https://i.imgur.com/Dw4u9wT.png" tvg-status="down" group-title="General",Lokale Omroep Zeewolde
 https://5e2b3e3114872.streamlock.net:1443/lozlive/smil:lozlive/playlist.m3u8
@@ -113,8 +113,6 @@ https://takeoff.jetstre.am/?account=nhnieuws&file=live&output=playlist.m3u8&prot
 https://ms2.mx-cd.net/tv/276-2860564/Omroep_NOOS.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="NosIslaTV.aw" tvg-country="AW" tvg-language="Dutch" tvg-logo="https://i.imgur.com/sH7ZkPx.png" tvg-status="live" group-title="Entertainment",Nos Isla TV
 https://cdn01.setar.aw/Canal23/canal23/playlist.m3u8
-#EXTINF:-1 tvg-id="famelack-Vsj5CIWVGIzJcs" tvg-country="BQ" tvg-language="Dutch" tvg-logo="" tvg-status="live" group-title="General",NosTV Bonaire 2
-https://stream2.nostvbonaire.com/hls/0/stream.m3u8
 #EXTINF:-1 tvg-id="Notele.be" tvg-country="BE" tvg-language="Dutch" tvg-logo="https://i.imgur.com/fGS55nR.png" tvg-status="live" group-title="General",Notele
 https://streaming01.divercom.be/notele_live/direct.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="OmroepBrabant.nl" tvg-country="NL" tvg-language="Dutch" tvg-logo="https://i.imgur.com/KLYsKKC.png" tvg-status="live" group-title="General",Omroep Brabant
@@ -195,6 +193,8 @@ https://rsdh.cloud-streams.com/rsdh/rsdh/playlist.m3u8
 https://stream.radionl.tv/radionltv/radionltv/playlist.m3u8
 #EXTINF:-1 tvg-id="RadioToppers.nl" tvg-country="NL" tvg-language="Dutch" tvg-logo="https://i.imgur.com/9OMsUd7.png" tvg-status="live" group-title="Entertainment",RadioToppers
 https://server-67.stream-server.nl:1936/RadioToppers/RadioToppers/playlist.m3u8
+#EXTINF:-1 tvg-id="Rararadio.nl" tvg-country="NL" tvg-language="Dutch" tvg-logo="https://i.imgur.com/vTpfxUG.png" tvg-status="live" group-title="Music",Rararadio
+https://58c04fb1d143f.streamlock.net/rararadio/rararadio/playlist.m3u8
 #EXTINF:-1 tvg-id="RegioTVDeBilt.nl" tvg-country="NL" tvg-language="Dutch" tvg-logo="https://i.imgur.com/2jQbmyK.png" tvg-status="live" group-title="General",Regio TV De Bilt
 https://d3ud9qm9b5yby9.cloudfront.net/nlpo/clr-nlpo/76ecd122/index.m3u8
 #EXTINF:-1 tvg-id="RegioTVNieuws.nl" tvg-country="NL" tvg-language="Dutch" tvg-logo="https://i.imgur.com/BG7zrsC.png" tvg-status="down" group-title="General",Regio TV Nieuws
@@ -227,7 +227,7 @@ https://5e6ab219de8f5.streamlock.net/rtvnof/rtvnof/playlist.m3u8
 https://media.rtvnoord.nl/live/rtvnoord/tv/index.m3u8
 #EXTINF:-1 tvg-id="RTVNoordExtra.nl" tvg-country="NL" tvg-language="Dutch" tvg-logo="https://i.imgur.com/T0UvltB.png" tvg-status="live" group-title="General",RTV Noord Extra
 https://media.rtvnoord.nl/live/rtvnoord/extra/index.m3u8
-#EXTINF:-1 tvg-id="famelack-bdBmeA8W9ieof9" tvg-country="NL" tvg-language="Dutch" tvg-logo="" tvg-status="live" group-title="General",RTV Noordoost Friesland
+#EXTINF:-1 tvg-id="RTVNoordoostFriesland.nl" tvg-country="NL" tvg-language="Dutch" tvg-logo="https://i.imgur.com/CpQIedo.png" tvg-status="live" group-title="General",RTV Noordoost Friesland
 https://593aed234297b.streamlock.net/rtvnof2/live/playlist.m3u8
 #EXTINF:-1 tvg-id="RTVOost.nl" tvg-country="NL" tvg-language="Dutch" tvg-logo="https://i.imgur.com/nTR6q9H.png" tvg-status="live" group-title="General",RTV Oost
 https://d34cg2bnc08ruf.cloudfront.net/live/rtvoost/tv/index.m3u8
@@ -267,7 +267,7 @@ https://d2n2i1jp4j20kw.cloudfront.net/nlpo/clr-nlpo/schietv/index.m3u8
 https://media.streambrothers.com:1936/8400/8400/playlist.m3u8
 #EXTINF:-1 tvg-id="SirisTV.nl" tvg-country="NL" tvg-language="Dutch" tvg-logo="https://i.imgur.com/4qKe18X.png" tvg-status="down" group-title="General",Siris TV
 https://cdn.streammy.events/siris/playout/playlist.m3u8
-#EXTINF:-1 tvg-id="SleutelstadTV.nl" tvg-country="NL" tvg-language="Dutch" tvg-logo="https://i.imgur.com/ljVGMWV.png" tvg-status="live" group-title="General",Sleutelstad TV
+#EXTINF:-1 tvg-id="famelack-N4Ek6KWXUdPOHS" tvg-country="NL" tvg-language="Dutch" tvg-logo="" tvg-status="live" group-title="General",Sleutelstad TV
 https://video-eu1.streamerr.co/hls/s7fdeb27a49/live.m3u8
 #EXTINF:-1 tvg-id="SlotstadTV.nl" tvg-country="NL" tvg-language="Dutch" tvg-logo="https://i.imgur.com/NXCUiuF.png" tvg-status="live" group-title="General",Slotstad TV
 https://d3eq9mufmyqgh4.cloudfront.net/nlpo/clr-nlpo/slotstadtv/index.m3u8
