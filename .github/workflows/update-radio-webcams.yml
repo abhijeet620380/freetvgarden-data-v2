@@ -1,0 +1,31 @@
+name: Update Radio and Webcams Data
+
+on:
+  schedule:
+    - cron: "0 3,9,15,21 * * *"   # offset 3 hours from the TV workflow (0,6,12,18) so they never overlap
+  workflow_dispatch: {}           # lets you trigger it manually from the Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Build radio and webcams data
+        run: node scripts/build-radio-webcams-data.mjs
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add radio/ webcams/
+          git diff --staged --quiet || git commit -m "Update radio/webcams data $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+          git push
