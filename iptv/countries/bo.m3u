@@ -25,7 +25,7 @@ https://ares.disfrutaenlared.com:1936/activatv/activatv/playlist.m3u8
 http://45.5.118.152:8000/play/a08z/index.m3u8
 #EXTINF:-1 tvg-id="CEACOMTV.bo" tvg-country="BO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/hutdRfk.png" tvg-status="live" group-title="News",CEACOM TV
 https://eu1.servers10.com:8081/ceacom/index.m3u8
-#EXTINF:-1 tvg-id="CineramaTelevision.bo" tvg-country="BO" tvg-language="Spanish" tvg-logo="https://play-lh.googleusercontent.com/RJ49IeJve4VPALBXqrqJGeAYOEoLQIZZ4zWwtJhofisng6ZYwGemZ-VXCx9ZQ-u7fw" tvg-status="live" group-title="Entertainment",Cinerama Television
+#EXTINF:-1 tvg-id="CineramaTelevision.bo" tvg-country="BO" tvg-language="Spanish" tvg-logo="https://play-lh.googleusercontent.com/RJ49IeJve4VPALBXqrqJGeAYOEoLQIZZ4zWwtJhofisng6ZYwGemZ-VXCx9ZQ-u7fw" tvg-status="down" group-title="Entertainment",Cinerama Television
 https://live.cineramatvbo.com/hls/stream.m3u8
 #EXTINF:-1 tvg-id="CoralTV.bo" tvg-country="BO" tvg-language="Spanish" tvg-logo="https://i.ibb.co/xDrc5MD/CORALTv.png" tvg-status="live" group-title="General",Coral TV
 https://tv.mediacp.eu:8081/coraltv/index.m3u8
@@ -61,6 +61,8 @@ https://stmv1.voxtvhd.com.br/vavizacli/vavizacli/playlist.m3u8
 https://tv.centaurychile.com/imperial/streams/EnCyCiwNLsqEQ2kv2852222720686498.m3u8
 #EXTINF:-1 tvg-id="InteractivoTelevision.bo" tvg-country="BO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/sGOSDo2.jpeg" tvg-status="down" group-title="General",Interactivo Television
 https://mist01.homestream.fun/hls/interactivotv2/index.m3u8
+#EXTINF:-1 tvg-id="famelack-UWOKSE73g6jYRt" tvg-country="BO" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="General",KSCE Vida Cristiana
+https://2-fss-2.streamhoster.com/pl_120/200226-1449024-1/playlist.m3u8
 #EXTINF:-1 tvg-id="Megavision.bo" tvg-country="BO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/IAQXCak.png" tvg-status="down" group-title="General",Megavision
 https://twitch-m3u8.bastypro112.workers.dev/megavisionbo/index.m3u8
 #EXTINF:-1 tvg-id="PalenqueTV.bo" tvg-country="BO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/wAIBvaO.png" tvg-status="live" group-title="General",Palenque TV
@@ -79,11 +81,11 @@ https://streamlov.alsolnet.com/grupocentrobo/live/playlist.m3u8
 https://ares.disfrutaenlared.com:1936/clasica/clasica/playlist.m3u8
 #EXTINF:-1 tvg-id="RadioKollasuyo.bo" tvg-country="BO" tvg-language="Spanish" tvg-logo="https://kollasuyobucket.s3.amazonaws.com/wp_files/2022/08/01/rk-white-500.png" tvg-status="live" group-title="General",Radio Kollasuyo
 https://azura2.bitstreaming.net/hls/kollasuyo3/live.m3u8
-#EXTINF:-1 tvg-id="famelack-OPWUaOk2V7zsOP" tvg-country="BO" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="General",Radio Mega TV Amazonia
+#EXTINF:-1 tvg-id="RadioMegaTVAmazonia.bo" tvg-country="BO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/yzSNWZ3.png" tvg-status="live" group-title="General",Radio Mega TV Amazonia
 https://ares.disfrutaenlared.com:1936/megatv/megatv/playlist.m3u8
 #EXTINF:-1 tvg-id="RadioSanGabriel.bo" tvg-country="BO" tvg-language="Spanish" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/bec3csmj7emx.jpg" tvg-status="down" group-title="General",Radio San Gabriel
 https://twitch-m3u8.bastypro112.workers.dev/radiosangabrielbolivia/index.m3u8
-#EXTINF:-1 tvg-id="famelack-1Snebdc8j861KM" tvg-country="BO" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="Culture",Radio Universitaria San Andres
+#EXTINF:-1 tvg-id="RadioUniversitariaSanAndres.bo" tvg-country="BO" tvg-language="Spanish" tvg-logo="https://tvu.umsa.bo/documents/780216/0/LogoRUSA+%283%29.jpg" tvg-status="live" group-title="Culture",Radio Universitaria San Andres
 https://edge.enhdtv.com/8054/index.m3u8
 #EXTINF:-1 tvg-id="RedAmericaTV.bo" tvg-country="BO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/qYNmeDe.png" tvg-status="live" group-title="General",Red America TV
 https://edge.enhdtv.com/redamerica/index.m3u8
@@ -107,7 +109,7 @@ http://190.211.140.91:8081/SVTranscoder/SOLTVabr.stream/playlist.m3u8
 https://tv.centaurychile.com/magicatv/streams/22AdscM3Y6Un17Zo4747081346569358.m3u8
 #EXTINF:-1 tvg-id="SucremantaTV.bo" tvg-country="BO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/noN0Yhe.png" tvg-status="live" group-title="General",Sucremanta TV
 https://lbgo.bozztv.com/ssh101/ssh101/ok2026/playlist.m3u8
-#EXTINF:-1 tvg-id="famelack-87xKAUIruoYGZK" tvg-country="BO" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="General",TDT Multimedia
+#EXTINF:-1 tvg-id="TDTMultimedia.bo" tvg-country="BO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/JkCywl5.png" tvg-status="live" group-title="General",TDT Multimedia
 https://video01.brascast.com/juan6318/juan6318/playlist.m3u8
 #EXTINF:-1 tvg-id="famelack-VvgjeRVvJxgn4n" tvg-country="BO" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="General",TELE 6
 https://lbgo.bozztv.com/ssh101/ssh101/tele6/playlist.m3u8
@@ -115,7 +117,7 @@ https://lbgo.bozztv.com/ssh101/ssh101/tele6/playlist.m3u8
 https://59d39900ebfb8.streamlock.net/telefehd/telefehd/playlist.m3u8
 #EXTINF:-1 tvg-id="TigoSports.bo" tvg-country="BO" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Tigo_Sports_2025.png/960px-Tigo_Sports_2025.png" tvg-status="live" group-title="Sports",Tigo Sports
 https://dipdxjic51jcl.cloudfront.net/out/v1/81f769d780694be488d85811331c8a4f/index.m3u8
-#EXTINF:-1 tvg-id="TLEstrella.bo" tvg-country="BO" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="General",TL Estrella
+#EXTINF:-1 tvg-id="TLEstrella.bo" tvg-country="BO" tvg-language="Spanish" tvg-logo="" tvg-status="down" group-title="General",TL Estrella
 https://59d39900ebfb8.streamlock.net/teleestrella/teleestrella/playlist.m3u8
 #EXTINF:-1 tvg-id="TransMedia.bo" tvg-country="BO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/tAdxar9.jpeg" tvg-status="live" group-title="General",TransMedia
 https://edge.enhdtv.com/8064/index.m3u8
@@ -141,7 +143,7 @@ https://master.tucableip.com/univalletv/playlist.m3u8
 https://tvstream.upea.bo/hls/oSs0jSWumTFIIVY97559.m3u8
 #EXTINF:-1 tvg-id="VosTV.bo" tvg-country="BO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/Cm1Xjeq.png" tvg-status="live" group-title="General",Vos TV
 http://15.204.246.24:8080/VOSTVHD/index.m3u8
-#EXTINF:-1 tvg-id="VTVCanal17.bo" tvg-country="BO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/TUhFzql.png" tvg-status="live" group-title="Religious",VTV Canal 17
+#EXTINF:-1 tvg-id="VTVCanal17.bo" tvg-country="BO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/TUhFzql.png" tvg-status="down" group-title="Religious",VTV Canal 17
 https://solo.disfrutaenlared.com:1936/vtvcanal/vtvcanal/playlist.m3u8
 #EXTINF:-1 tvg-id="XTOTV.bo" tvg-country="BO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/MLwLlWl.png" tvg-status="down" group-title="General",XTOTV
 http://190.104.15.135/0.ts

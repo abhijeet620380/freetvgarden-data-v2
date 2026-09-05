@@ -31,8 +31,6 @@ http://88.212.15.29/live/test_bbc_eartch_hevc/playlist.m3u8
 https://vs-cmaf-pushb-uk.live.fastly.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_four_hd/iptv_hd_abr_v1.mpd
 #EXTINF:-1 tvg-id="BloombergOriginals.us" tvg-country="US" tvg-language="English" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a69341a2-fce3-4a05-af2e-469540b25d73/BBOriginals_2023_Plex_Stacked_WHTrdx.png" tvg-status="live" group-title="Documentary",Bloomberg Originals
 https://e96a7526.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0Jsb29tYmVyZ09yaWdpbmFsc19ITFM/playlist.m3u8
-#EXTINF:-1 tvg-id="famelack-WH7adDfFfMrDqi" tvg-country="US" tvg-language="English" tvg-logo="" tvg-status="live" group-title="Documentary",Bloomberg Originals US
-https://d3qwwydnxv5vo9.cloudfront.net/v1/bloomberg_quicktake_3/samsungheadend_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="BondiRescue.de" tvg-country="DE" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/660be37e7bcd860008793a6a/colorLogoSVG.svg" tvg-status="live" group-title="Documentary",Bondi Rescue
 https://jmp2.uk/plu-660be37e7bcd860008793a6a.m3u8
 #EXTINF:-1 tvg-id="BritBoxMysteries.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/PJdzoLN.png" tvg-status="live" group-title="Documentary",BritBox Mysteries
@@ -109,7 +107,7 @@ https://jmp2.uk/plu-5f8edad922b10b000753bc37.m3u8
 https://streaming.grupomediosdelnorte.com:19360/ecovision/ecovision.m3u8
 #EXTINF:-1 tvg-id="EpicCrimes.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://i.imgur.com/EFDsCkH.png" tvg-status="live" group-title="Documentary",Epic Crimes
 https://cc-wsuyg2uxeak04.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-wsuyg2uxeak04/master.m3u8
-#EXTINF:-1 tvg-id="EPlanetTV.ir" tvg-country="IR" tvg-language="Persian" tvg-logo="" tvg-status="live" group-title="Documentary",EPlanet TV
+#EXTINF:-1 tvg-id="EPlanetTV.ir" tvg-country="IR" tvg-language="Persian" tvg-logo="" tvg-status="down" group-title="Documentary",EPlanet TV
 https://eplhls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="FBIFiles.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/vzYDSLo.png" tvg-status="live" group-title="Documentary",FBI Files
 https://jmp2.uk/plu-62bdaa32a1b2fd00076693e8.m3u8
@@ -158,7 +156,7 @@ http://15.204.246.24:8080/HistoryHD/index.m3u8
 #EXTINF:-1 tvg-id="HistoryTV18.in" tvg-country="IN" tvg-language="English" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_HISTORY_TV18/images/LOGO_HD/image.png" tvg-status="live" group-title="Documentary",History TV18
 https://amg01448-amg01448c16-samsung-in-3495.playouts.now.amagi.tv/playlist/amg01448-samsungindia-historychannelenglish-samsungin/playlist.m3u8
 #EXTINF:-1 tvg-id="HRT3.hr" tvg-country="HR" tvg-language="Croatian" tvg-logo="https://i.imgur.com/4OrOJRx.png" tvg-status="live" group-title="Culture",HRT 3
-https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT3/default/index.mpd
+https://webtvstream.bhtelecom.ba/hrt3.m3u8
 #EXTINF:-1 tvg-id="ID.bg" tvg-country="BG" tvg-language="Bulgarian" tvg-logo="" tvg-status="down" group-title="Documentary",ID
 http://213.91.179.28:8000/play/a0cf
 #EXTINF:-1 tvg-id="IndiaTVAapKiAdalat.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://play-lh.googleusercontent.com/2IlBX3IQHna8g4g-56vwGWb14K38spcviIh3i7uJCJ32ydfhcKZdOsacgijPkPeerEA" tvg-status="live" group-title="Documentary",India TV Aap Ki Adalat
@@ -240,7 +238,7 @@ http://46.32.176.50/natgeowild/index.m3u8
 #EXTINF:-1 tvg-id="NationalGeographicWild.us" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/960px-National_Geographic_Wild_logo.svg.png" tvg-status="live" group-title="Documentary",National Geographic Wild
 http://198.58.104.90:8989/natgeowild/index.m3u8
 #EXTINF:-1 tvg-id="famelack-FmClQA6aIx4mGP" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-status="live" group-title="Documentary",National Geographic Wild
-https://fs.uplink.kz/nat_geo_wild/mono.m3u8?token=onlinetv
+https://dtv.vol.net.ua/Nat-Geo-Wild-HD/index.m3u8
 #EXTINF:-1 tvg-id="famelack-AbcJxYxf3cyf3H" tvg-country="ES" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="Documentary",Nature Time
 https://amg00090-amgnaturetimeemea-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="famelack-SbCVyIRCGshv9Z" tvg-country="FR" tvg-language="French" tvg-logo="" tvg-status="live" group-title="Documentary",Nature Time
