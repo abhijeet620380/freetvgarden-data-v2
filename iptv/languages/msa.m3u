@@ -1,20 +1,34 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="famelack-4C34DA8hS5DUmR" tvg-country="MY" tvg-language="Malay" tvg-logo="" tvg-status="live" group-title="News",Astro Awani
 https://www.youtube-nocookie.com/embed/mkVyNaGee8A
+#EXTINF:-1 tvg-id="AwesomeTV.my" tvg-country="MY" tvg-language="Malay" tvg-logo="https://i.imgur.com/x90U1Bf.png" tvg-status="live" group-title="General",Awesome TV
+https://488b9e074624.ap-south-1.playback.live-video.net/api/video/v1/ap-south-1.533267421985.channel.B7bB1wHJRCnw.m3u8
+#EXTINF:-1 tvg-id="BeritaRTM.my" tvg-country="MY" tvg-language="Malay" tvg-logo="https://i.imgur.com/1Xzxsgl.png" tvg-status="live" group-title="News",Berita RTM
+https://d25tgymtnqzu8s.cloudfront.net/smil:berita/playlist.m3u8?id=5
+#EXTINF:-1 tvg-id="DramaSangat.my" tvg-country="MY" tvg-language="Malay" tvg-logo="https://i.imgur.com/BqIVmN1.png" tvg-status="live" group-title="Series",Drama Sangat
+https://radiomy-tonton-proxy.api-danidev.workers.dev/tonton/live/6420342
 #EXTINF:-1 tvg-id="famelack-ZOTkMMGUEIitr9" tvg-country="MY" tvg-language="Malay" tvg-logo="" tvg-status="live" group-title="Music",Molek TV
 https://www.youtube-nocookie.com/embed/uRMrToRteyE
+#EXTINF:-1 tvg-id="Okey.my" tvg-country="MY" tvg-language="Malay" tvg-logo="https://i.imgur.com/V2jREQ5.png" tvg-status="live" group-title="General",Okey
+https://d25tgymtnqzu8s.cloudfront.net/smil:okey/playlist.m3u8?id=3
 #EXTINF:-1 tvg-id="RTBGo.bn" tvg-country="BN" tvg-language="Malay" tvg-logo="https://i.imgur.com/CGlzsD5.png" tvg-status="down" group-title="General",RTB Go
 https://d1211whpimeups.cloudfront.net/smil:rtbgo/playlist.m3u8
 #EXTINF:-1 tvg-id="RTBSukmaindera.bn" tvg-country="BN" tvg-language="Malay" tvg-logo="https://i.imgur.com/WpMGnTr.png" tvg-status="down" group-title="General",RTB Sukmaindera
 https://d1211whpimeups.cloudfront.net/smil:rtb1/playlist.m3u8
 #EXTINF:-1 tvg-id="SukeTV.my" tvg-country="MY" tvg-language="Malay" tvg-logo="https://i.imgur.com/hCwH3s0.png" tvg-status="down" group-title="Shop",Suke TV
 https://live.mana2.my/SukeTv/index.m3u8?auth_key=1745177878-c9b78020e8d64aac92e7d5db06493530-0-951f497899c978ee5fbc2f1375671272&token=1745177878-c9b78020e8d64aac92e7d5db06493530-0-951f497899c978ee5fbc2f1375671272
+#EXTINF:-1 tvg-id="Suria.sg" tvg-country="SG" tvg-language="Malay" tvg-logo="https://i.imgur.com/9xWAwzy.png" tvg-status="live" group-title="General",Suria
+https://d11h6a6nhl9kj9.cloudfront.net/hls/clr4ctv_suria/master.m3u8
 #EXTINF:-1 tvg-id="famelack-aLRI25BZ5Nmrta" tvg-country="MY" tvg-language="Malay" tvg-logo="" tvg-status="live" group-title="Music",SuriaTV
 https://www.youtube-nocookie.com/embed/C9KYOkPkaZ8
 #EXTINF:-1 tvg-id="TV1.my" tvg-country="MY" tvg-language="Malay" tvg-logo="https://i.imgur.com/wSyPmiY.png" tvg-status="down" group-title="General",TV1
-https://live.mana2.my/Tv1/index.m3u8?auth_key=1745177809-03fbff3dfc194161829ff0dbf94a205a-0-c6dcdd3499b8b5488b7de0f6613b8047&token=1745177809-03fbff3dfc194161829ff0dbf94a205a-0-c6dcdd3499b8b5488b7de0f6613b8047
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd
 #EXTINF:-1 tvg-id="TV2.my" tvg-country="MY" tvg-language="Malay" tvg-logo="https://i.imgur.com/LGEdeyJ.png" tvg-status="down" group-title="General",TV2
 https://live.mana2.my/Tv2/index.m3u8?auth_key=1745177833-e4f0090e3d3b4ed1b2b4f5df87a24d34-0-d43f8be1101f9bb00363d62de6514e4d&token=1745177833-e4f0090e3d3b4ed1b2b4f5df87a24d34-0-d43f8be1101f9bb00363d62de6514e4d
+#EXTINF:-1 tvg-id="TV3.my" tvg-country="MY" tvg-language="Malay" tvg-logo="https://i.imgur.com/bHcZgIo.png" tvg-status="live" group-title="General",TV3
+https://radiomy-tonton-proxy.api-danidev.workers.dev/tonton/live/6420323
+#EXTINF:-1 tvg-id="TV6.my" tvg-country="MY" tvg-language="Malay" tvg-logo="https://i.imgur.com/bK8UH9D.png" tvg-status="live" group-title="General",TV6
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/playlist.m3u8?id=6
 #EXTINF:-1 tvg-id="TV9.my" tvg-country="MY" tvg-language="Malay" tvg-logo="https://i.imgur.com/Krh1F8d.png" tvg-status="down" group-title="General",TV9
 https://tonton-live-switch-ssar.akamaized.net/stream-tv9/master.m3u8?bpkio_serviceid=6c0958d82a830a02ca0936d9cfab8311
 #EXTINF:-1 tvg-id="TVIKIM.my" tvg-country="MY" tvg-language="Malay" tvg-logo="https://i.imgur.com/X6JKNEE.png" tvg-status="down" group-title="General",TVIKIM

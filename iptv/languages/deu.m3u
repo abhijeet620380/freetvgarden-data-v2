@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="3sat.de" tvg-country="DE" tvg-language="German" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/3sat_2019.svg/960px-3sat_2019.svg.png" tvg-status="live" group-title="General",3sat
+https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/high/master.m3u8
 #EXTINF:-1 tvg-id="90210.de" tvg-country="DE" tvg-language="German" tvg-logo="https://images.pluto.tv/channels/65a67dd13af63d0008257f17/colorLogoSVG.svg" tvg-status="live" group-title="Series",90210
 https://jmp2.uk/plu-65a67dd13af63d0008257f17.m3u8
 #EXTINF:-1 tvg-id="AdriaMusicTelevision.de" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/QoDpnKg.png" tvg-status="live" group-title="Music",Adria Music Television
@@ -241,6 +243,8 @@ https://muenchentv.iptv-playoutcenter.de/muenchentv/muenchentv.stream_1/playlist
 https://z4atvie10snsr101.rtccdn.com/r9_live/r9_n1media_abr/playlist.m3u8
 #EXTINF:-1 tvg-id="N24Doku.de" tvg-country="DE" tvg-language="German" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/N24Doku.svg/960px-N24Doku.svg.png" tvg-status="live" group-title="Documentary",N24 Doku
 https://jmp2.uk/plu-60080e8a4bf36000076a81b1.m3u8
+#EXTINF:-1 tvg-id="Nachrichten360.de" tvg-country="DE" tvg-language="German" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE4300003MR_20251209T125847SQUARE.png" tvg-status="live" group-title="News",Nachrichten 360
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01821-lovetvfast-nachrichten360-samsungde/playlist.m3u8
 #EXTINF:-1 tvg-id="NDRFernsehen.de" tvg-country="DE" tvg-language="German" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Logo_NDR_Fernsehen_2017.svg/960px-Logo_NDR_Fernsehen_2017.svg.png" tvg-status="live" group-title="General",NDR Fernsehen
 https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_hh/master.m3u8
 #EXTINF:-1 tvg-id="NDRFernsehenInternational.de" tvg-country="DE" tvg-language="German" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Logo_NDR_Fernsehen_2017.svg/960px-Logo_NDR_Fernsehen_2017.svg.png" tvg-status="live" group-title="General",NDR Fernsehen International
@@ -289,18 +293,32 @@ https://5864df9ceac85.streamlock.net/germanpictures-live/_definst_/mp4:streamsch
 http://58bd5b7a98e04.streamlock.net/medienasa-live/ok-dessau_high/playlist.m3u8
 #EXTINF:-1 tvg-id="OKFlensburg.de" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/NPbfgQC.png" tvg-status="live" group-title="General",OK Flensburg
 https://live-cdn.oksh.de/play/hls/flensburgtv/index.m3u8
+#EXTINF:-1 tvg-id="OKKaiserslautern.de" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/MRrETTh.png" tvg-status="live" group-title="General",OK Kaiserslautern
+https://s.ok54.de/abr_okkl/webstream/playlist.m3u8
+#EXTINF:-1 tvg-id="OKKassel.de" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/igZ9sx2.png" tvg-status="live" group-title="General",OK Kassel
+https://s.ok54.de/mok-ks/kassel/playlist.m3u8
 #EXTINF:-1 tvg-id="OKKiel.de" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/eToHabX.png" tvg-status="live" group-title="General",OK Kiel
 https://live-cdn.oksh.de/play/hls/kieltv/index.m3u8
 #EXTINF:-1 tvg-id="OKMagdeburg.de" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/zftoymR.png" tvg-status="live" group-title="General",OK Magdeburg
 http://58bd5b7a98e04.streamlock.net/medienasa-live/ok-magdeburg_high/playlist.m3u8
 #EXTINF:-1 tvg-id="OKMerseburgQuerfurt.de" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/QfzdESc.png" tvg-status="live" group-title="General",OK Merseburg-Querfurt
 http://58bd5b7a98e04.streamlock.net/medienasa-live/ok-merseburg_high/playlist.m3u8
+#EXTINF:-1 tvg-id="OKRheinMain.de" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/XsmPI4N.jpg" tvg-status="live" group-title="General",OK Rhein-Main
+https://s.ok54.de/mok-rm/mok-rm/playlist.m3u8
 #EXTINF:-1 tvg-id="OKSalzwedel.de" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/jDmiTOS.png" tvg-status="live" group-title="General",OK Salzwedel
 http://58bd5b7a98e04.streamlock.net/medienasa-live/ok-salzwedel_high/playlist.m3u8
 #EXTINF:-1 tvg-id="OKStendal.de" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/s9wo85l.png" tvg-status="live" group-title="General",OK Stendal
 http://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:ok-stendal_high/playlist.m3u8
+#EXTINF:-1 tvg-id="OKTrier.de" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/nq32HIs.png" tvg-status="live" group-title="General",OK Trier
+https://s.ok54.de/ott/webstream/playlist.m3u8
+#EXTINF:-1 tvg-id="OKWeinstrasseNeustadt.de" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/bjTajXb.png" tvg-status="live" group-title="General",OK Weinstrasse Neustadt
+https://s.ok54.de/okweinstrasse/okweinstrasse/playlist.m3u8
 #EXTINF:-1 tvg-id="OKWernigerode.de" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/3gQvhSy.png" tvg-status="live" group-title="General",OK Wernigerode
 http://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:ok-wernigerode_high/playlist.m3u8
+#EXTINF:-1 tvg-id="OK4.de" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/cUlMOlt.png" tvg-status="live" group-title="General",OK4
+https://s.ok54.de/abr_ok4/live/playlist.m3u8
+#EXTINF:-1 tvg-id="OK54.de" tvg-country="DE" tvg-language="German" tvg-logo="https://ok54.de/wp-content/uploads/2013/04/ok54_logo_schwarz.png" tvg-status="live" group-title="General",OK54
+https://s.ok54.de/ott/webstream/tv/webstream_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="Okto.at" tvg-country="AT" tvg-language="German" tvg-logo="https://i.imgur.com/9XfhgbS.png" tvg-status="live" group-title="General",Okto
 https://cdn3.wowza.com/1/MHFtazJReW5rOFhP/N2NWNDZ2/hls/live/playlist.m3u8
 #EXTINF:-1 tvg-id="OneAdria.de" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/NYkMamU.png" tvg-status="live" group-title="Music",One Adria
@@ -331,6 +349,8 @@ https://www.youtube-nocookie.com/embed/7edPeO-8Rs0
 https://iptv.peer.biz/live/peertv.m3u8
 #EXTINF:-1 tvg-id="PerryMason.de" tvg-country="DE" tvg-language="German" tvg-logo="https://images.pluto.tv/channels/64eddc3485efec00085b0369/colorLogoSVG.svg" tvg-status="live" group-title="Series",Perry Mason
 https://jmp2.uk/plu-64eddc3485efec00085b0369.m3u8
+#EXTINF:-1 tvg-id="phoenix.de" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/T1532t9.png" tvg-status="live" group-title="General",phoenix
+https://zdf-hls-19.akamaized.net/hls/live/2016502/de/high/master.m3u8
 #EXTINF:-1 tvg-id="PlutoTVAction.de" tvg-country="DE" tvg-language="German" tvg-logo="https://images.pluto.tv/channels/65004605110545000842035d/colorLogoSVG_1779087603285.svg" tvg-status="live" group-title="Movies",Pluto TV Action
 https://jmp2.uk/plu-65004605110545000842035d.m3u8
 #EXTINF:-1 tvg-id="PlutoTVAdultAnimation.de" tvg-country="DE" tvg-language="German" tvg-logo="https://images.pluto.tv/channels/67f68bd2135aeda9ddf0ef54/colorLogoSVG_1746816413166.svg" tvg-status="live" group-title="Animation",Pluto TV Adult Animation
@@ -435,6 +455,8 @@ https://ms01.w24.at/R9/smil:liveeventR9.smil/playlist.m3u8
 https://live.creacast.com/radio21/smil:radio21.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Radio3i.ch" tvg-country="CH" tvg-language="German" tvg-logo="https://i.imgur.com/0Kmh49G.png" tvg-status="live" group-title="General",Radio 3i
 https://vstream-cdn.ch/hls/radio3i.m3u8
+#EXTINF:-1 tvg-id="RadioBremenFernsehen.de" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/wsTOcuX.png" tvg-status="live" group-title="General",Radio Bremen Fernsehen
+https://rbhlslive.akamaized.net/hls/live/2020435/rbfs/master.m3u8
 #EXTINF:-1 tvg-id="RadioWeserTVBremen.de" tvg-country="DE" tvg-language="German" tvg-logo="" tvg-status="live" group-title="Music",Radio Weser TV Bremen
 https://5857499ee635b.streamlock.net/radiowesertv-live/_definst_/mp4:livestreamTV/playlist.m3u8
 #EXTINF:-1 tvg-id="RaiSudtirol.it" tvg-country="IT" tvg-language="German" tvg-logo="https://i.imgur.com/Z3npd4M.png" tvg-status="live" group-title="General",Rai Sudtirol
@@ -493,6 +515,8 @@ https://m317.video-stream-hosting.de/gzSoftware-live/_definst_/smil:livestream.s
 https://h056.video-stream-hosting.de/easycast7-live/_definst_/mp4:livestreamhd20/playlist.m3u8?ref=
 #EXTINF:-1 tvg-id="SenderNeuJerusalem.de" tvg-country="DE" tvg-language="German" tvg-logo="" tvg-status="live" group-title="General",Sender Neu Jerusalem
 https://bild-und-ton.stream/snj-de/snj-de.smil/.m3u8
+#EXTINF:-1 tvg-id="ServusTV.at" tvg-country="AT" tvg-language="German" tvg-logo="https://i.imgur.com/6W637Gn.png" tvg-status="live" group-title="Movies",ServusTV
+https://stv-live.akamaized.net/hls/live/2031011/lingeoSTVATwebPri/master.m3u8
 #EXTINF:-1 tvg-id="famelack-Shv7333JOv8tjv" tvg-country="DE" tvg-language="German" tvg-logo="" tvg-status="live" group-title="Shop",Shop LC
 https://www.youtube-nocookie.com/embed/xquOEKhK2Uc
 #EXTINF:-1 tvg-id="sixx.de" tvg-country="DE" tvg-language="German" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Sixx_Logo.svg/960px-Sixx_Logo.svg.png" tvg-status="live" group-title="General",sixx
@@ -537,6 +561,10 @@ https://stimmungsgartentv.iptv-playoutcenter.de/stimmungsgartentv/stimmungsgarte
 https://rightsboosterltd-scl-2-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="SWR3VisualRadio.de" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/PxSgxRO.jpg" tvg-status="live" group-title="General",SWR 3 Visual Radio
 https://swrswr3vr-hls.akamaized.net/hls/live/2018683/swr3vr/master.m3u8
+#EXTINF:-1 tvg-id="SWRFernsehenBadenWurttemberg.de" tvg-country="DE" tvg-language="German" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/SWR_Logo_2023.svg/960px-SWR_Logo_2023.svg.png" tvg-status="live" group-title="General",SWR Fernsehen Baden-Wurttemberg
+https://swrbwd-hls.akamaized.net/hls/live/2018672/swrbwd/master.m3u8
+#EXTINF:-1 tvg-id="SWRFernsehenRheinlandPfalz.de" tvg-country="DE" tvg-language="German" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/SWR_Logo_2023.svg/960px-SWR_Logo_2023.svg.png" tvg-status="live" group-title="General",SWR Fernsehen Rheinland-Pfalz
+https://swrrpd-hls.akamaized.net/hls/live/2018676/swrrpd/master.m3u8
 #EXTINF:-1 tvg-id="tagesschau24.de" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/LH0Gctv.png" tvg-status="live" group-title="General",tagesschau24
 https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8
 #EXTINF:-1 tvg-id="TakeshisCastle.de" tvg-country="DE" tvg-language="German" tvg-logo="https://images.pluto.tv/channels/6054a9f4bc8a5f000771504c/colorLogoSVG.svg" tvg-status="live" group-title="Comedy",Takeshi's Castle
@@ -571,6 +599,10 @@ https://tvoberfranken.iptv-playoutcenter.de/tvoberfranken/tvoberfranken.stream_1
 https://h057.video-stream-hosting.de/tv38-live/_definst_/smil:livestream.smil/playlist.m3u8?ref=
 #EXTINF:-1 tvg-id="TVA.de" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/Gg6d4Jb.png" tvg-status="live" group-title="General",TVA
 https://tvaktuellr.iptv-playoutcenter.de/tvaktuellr/tvaktuellr.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-id="Unserding.de" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/4j4MZTT.png" tvg-status="live" group-title="General",Unserding
+https://srde.akamaized.net/hls/live/2031842/visualradio-unserding/index.m3u8
+#EXTINF:-1 tvg-id="UpperaBalkan.at" tvg-country="AT" tvg-language="German" tvg-logo="https://i.imgur.com/eqcmi5G.png" tvg-status="live" group-title="General",Uppera Balkan
+http://89.187.168.245:8080/live/sUPPERchannel2/index.m3u8
 #EXTINF:-1 tvg-id="VolksmusikTV.de" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/EsWuCJ3.png" tvg-status="live" group-title="Music",Volksmusik TV
 https://vmtv.iptv-playoutcenter.de/vmtv/vmtv1/playlist.m3u8
 #EXTINF:-1 tvg-id="W24.at" tvg-country="AT" tvg-language="German" tvg-logo="https://i.imgur.com/FpVNrxk.png" tvg-status="live" group-title="General",W24
@@ -578,14 +610,20 @@ https://ms01.w24.at/W24/smil:liveevent.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="WDR1Live.de" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/RbqDMYx.png" tvg-status="live" group-title="Entertainment",WDR 1 Live
 https://wdrfs247.akamaized.net/hls/live/681509/wdr_msl4_fs247/index.m3u8
 #EXTINF:-1 tvg-id="WDRFernsehen.de" tvg-country="DE" tvg-language="German" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/WDR_Fernsehen_Logo_2018.svg/960px-WDR_Fernsehen_Logo_2018.svg.png" tvg-status="live" group-title="General",WDR Fernsehen
-https://wdr-live.ard-mcdn.de/wdr/live/hls/de/master.m3u8
+https://wdrlokalzeit.akamaized.net/hls/live/2018019-b/wdrlz_aachen/master.m3u8
 #EXTINF:-1 tvg-id="WeltderWunderTV.de" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/DLXssJe.png" tvg-status="live" group-title="General",Welt der Wunder TV
 https://wdw.iptv-playoutcenter.de/wdw/wdw1/playlist.m3u8
 #EXTINF:-1 tvg-id="famelack-EHhc90wawtgTuv" tvg-country="AT" tvg-language="German" tvg-logo="" tvg-status="live" group-title="Weather",Wetter-Panorama
 https://www.youtube-nocookie.com/embed/NIuO6hrFTrg
 #EXTINF:-1 tvg-id="WorldofFreesports.de" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/lta5Mog.png" tvg-status="live" group-title="Sports",World of Freesports
-https://mainstreammedia-worldoffreesportsintl-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-mainstreammediafreesportsintl-rakuten/CDN/master.m3u8
+https://mainstreammedia-worldoffreesportsintl-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="famelack-MTSj2olhZiM1t9" tvg-country="DE" tvg-language="German" tvg-logo="" tvg-status="live" group-title="Music",XITE Hits Germany
 https://d726x48n2pd5h.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-skxr1pazhltvp/XITE_Hits.m3u8
+#EXTINF:-1 tvg-id="ZDF.de" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/rtLb6m9.png" tvg-status="live" group-title="General",ZDF
+https://zdf-hls-15.akamaized.net/hls/live/2016498/de/high/master.m3u8
+#EXTINF:-1 tvg-id="ZDFinfo.de" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/vtq1IWp.png" tvg-status="live" group-title="General",ZDFinfo
+https://zdf-hls-17.akamaized.net/hls/live/2016500/de/high/master.m3u8
+#EXTINF:-1 tvg-id="ZDFneo.de" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/1JIIGgL.png" tvg-status="live" group-title="General",ZDFneo
+https://zdf-hls-16.akamaized.net/hls/live/2016499/de/high/master.m3u8
 #EXTINF:-1 tvg-id="ZweiMusicTelevision.de" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/RbdpCNf.png" tvg-status="live" group-title="Music",Zwei Music Television
 https://zweiapp.b-cdn.net/1080p/index.m3u8

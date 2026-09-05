@@ -5,6 +5,8 @@ https://mmtvs.exliatycl.online/5plus/stream.m3u8
 https://mmtvs.exliatycl.online/channel9/stream.m3u8
 #EXTINF:-1 tvg-id="ChannelK.mm" tvg-country="MM" tvg-language="Burmese" tvg-logo="https://i.imgur.com/6PqxuhF.png" tvg-status="down" group-title="Entertainment",Channel K
 https://mmtvs.exliatycl.online/channelk/stream.m3u8
+#EXTINF:-1 tvg-id="DVBTV.mm" tvg-country="MM" tvg-language="Burmese" tvg-logo="https://i.imgur.com/VdezHOv.png" tvg-status="live" group-title="News",DVB TV
+https://live-stream.dvb.no/hls/stream_src/index.m3u8
 #EXTINF:-1 tvg-id="FortuneTV.mm" tvg-country="MM" tvg-language="Burmese" tvg-logo="https://i.imgur.com/MM5evnD.png" tvg-status="live" group-title="Entertainment",Fortune TV
 http://103.215.194.93:8282/hls/fortunetv/vmix.m3u8
 #EXTINF:-1 tvg-id="famelack-p69vsxFs98WVu8" tvg-country="MM" tvg-language="Burmese" tvg-logo="" tvg-status="live" group-title="Legislative",Hluttaw S & D
@@ -19,12 +21,14 @@ https://mrtvott.com/cache/MRTV-Ent-HD/master.m3u8
 https://mrtvott.com/cache/MRTV-FARMER/master.m3u8
 #EXTINF:-1 tvg-id="famelack-Dbol6rCbtjq6DY" tvg-country="MM" tvg-language="Burmese" tvg-logo="" tvg-status="live" group-title="News",MRTV News
 https://mrtvott.com/cache/MRTV-NEWS-HD/master.m3u8
-#EXTINF:-1 tvg-id="famelack-1wMsK4nhJMBFCb" tvg-country="MM" tvg-language="Burmese" tvg-logo="" tvg-status="live" group-title="Culture",MRTV NRC
+#EXTINF:-1 tvg-id="MRTVNRC.mm" tvg-country="MM" tvg-language="Burmese" tvg-logo="https://i.imgur.com/5aLFslk.jpg" tvg-status="live" group-title="Culture",MRTV NRC
 https://mrtvott.com/cache/MRTV-NRC-HD/master.m3u8
 #EXTINF:-1 tvg-id="famelack-BMZOTmAL1Mkney" tvg-country="MM" tvg-language="Burmese" tvg-logo="" tvg-status="live" group-title="Sports",MRTV Sports
 https://mrtvott.com/cache/MRTV-SPORT/master.m3u8
 #EXTINF:-1 tvg-id="MWD.mm" tvg-country="MM" tvg-language="Burmese" tvg-logo="https://i.imgur.com/zyTQG9F.png" tvg-status="live" group-title="General",MWD
 http://203.81.84.130/hls/mwd/index.m3u8
+#EXTINF:-1 tvg-id="MWDDocumentary.mm" tvg-country="MM" tvg-language="Burmese" tvg-logo="https://i.imgur.com/4XV7cjU.png" tvg-status="live" group-title="Documentary",MWD Documentary
+http://203.81.84.130/hls/mwd_document/index.m3u8
 #EXTINF:-1 tvg-id="MWDMovies.mm" tvg-country="MM" tvg-language="Burmese" tvg-logo="https://i.imgur.com/5KRsqeF.png" tvg-status="live" group-title="Movies",MWD Movies
 http://203.81.84.130/hls/mwd_movie/index.m3u8
 #EXTINF:-1 tvg-id="MWDVariety.mm" tvg-country="MM" tvg-language="Burmese" tvg-logo="https://i.imgur.com/wb3Ku8X.png" tvg-status="live" group-title="Entertainment",MWD Variety

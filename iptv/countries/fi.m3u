@@ -29,6 +29,8 @@ https://live.streaming.a2d.tv/asset/20025962.isml/.m3u8
 https://live-fi.tvkaista.net/mtv3/live.m3u8
 #EXTINF:-1 tvg-id="NarTV.fi" tvg-country="FI" tvg-language="Swedish" tvg-logo="https://i.imgur.com/Ht5yePq.png" tvg-status="live" group-title="General",Nar-TV
 https://streaming.nartv.fi/live/ngrp:NAR_TV.stream_all/playlist.m3u8
+#EXTINF:-1 tvg-id="NationalGeographic.fi" tvg-country="FI" tvg-language="Finnish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png" tvg-status="live" group-title="Documentary",National Geographic
+https://live-fi.tvkaista.net/national-geographic/live.m3u8?hd=true
 #EXTINF:-1 tvg-id="NavahangTV.fi" tvg-country="FI" tvg-language="Persian" tvg-logo="https://i.imgur.com/YteKXJy.png" tvg-status="live" group-title="Music",Navahang TV
 https://hls.navahang.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="Nelonen.fi" tvg-country="FI" tvg-language="Finnish" tvg-logo="https://i.imgur.com/BFbCyfY.png" tvg-status="live" group-title="General",Nelonen
@@ -38,7 +40,7 @@ https://virta2.nopolanews.fi:8443/live/smil:Stream1.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="OnniTV.fi" tvg-country="FI" tvg-language="Finnish" tvg-logo="https://i.imgur.com/Vba4jUk.png" tvg-status="live" group-title="General",Onni TV
 https://onnitv.digitacdn.net/live/ott/onnitv/playlist.m3u8
 #EXTINF:-1 tvg-id="STARChannel.fi" tvg-country="FI" tvg-language="Finnish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/960px-Star_Channel_2020.svg.png" tvg-status="live" group-title="General",STAR Channel
-https://live-fi.tvkaista.net/star-channel/live.m3u8
+https://live-fi.tvkaista.net/star-channel/live.m3u8?src=freetv
 #EXTINF:-1 tvg-id="TaevasTV7.fi" tvg-country="FI" tvg-language="Estonian" tvg-logo="https://i.imgur.com/usXedIj.png" tvg-status="live" group-title="Religious",Taevas TV7
 https://vod.tv7.fi/tv7-ee/smil:tv7-ee.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TaivasTV7.fi" tvg-country="FI" tvg-language="Finnish" tvg-logo="https://i.imgur.com/JyJNiXy.png" tvg-status="live" group-title="Religious",Taivas TV7

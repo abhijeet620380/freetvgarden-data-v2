@@ -13,6 +13,8 @@ http://bbstv.clouducs.com:1935/bbstv-live/livestream/playlist.m3u8
 https://btn.nowcdn.co.kr/btn/btnlive2m/playlist.m3u8
 #EXTINF:-1 tvg-id="famelack-GACglLCSkdixy6" tvg-country="KR" tvg-language="Korean" tvg-logo="" tvg-status="live" group-title="Religious",CBS TV
 https://cbs-live.cbs.co.kr/cbs-live/_definst_/cbs-live.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="ChannelA.kr" tvg-country="KR" tvg-language="Korean" tvg-logo="https://i.imgur.com/W9laHPD.png" tvg-status="live" group-title="General",Channel A
+http://channelalive.ktcdn.co.kr/chalivepc/_definst_/atv2/playlist.m3u8
 #EXTINF:-1 tvg-id="CJOnStyle.kr" tvg-country="KR" tvg-language="Korean" tvg-logo="https://i.imgur.com/JiSfEBv.png" tvg-status="live" group-title="Shop",CJ OnStyle
 https://live-ch1.cjonstyle.net/cjmalllive/stream2/playlist.m3u8
 #EXTINF:-1 tvg-id="CJOnStylePlus.kr" tvg-country="KR" tvg-language="Korean" tvg-logo="https://i.imgur.com/OYmOL20.png" tvg-status="live" group-title="Shop",CJ OnStyle+
@@ -45,7 +47,7 @@ https://gstv-myshop.gsshop.com/myshop_hd/myshop_hd.stream/playlist.m3u8
 https://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="GugbangTV.kr" tvg-country="KR" tvg-language="Korean" tvg-logo="https://i.imgur.com/f1tz5fg.png" tvg-status="live" group-title="News",Gugbang TV
 http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="famelack-hJP0GSnYM15Xax" tvg-country="KR" tvg-language="Korean" tvg-logo="" tvg-status="live" group-title="General",HLAJ-DTV
+#EXTINF:-1 tvg-id="HLAJDTV.kr" tvg-country="KR" tvg-language="Korean" tvg-logo="https://i.imgur.com/JM4rxGU.png" tvg-status="live" group-title="General",HLAJ-DTV
 https://wowza.jejumbc.com/live/tv_jejumbc/playlist.m3u8
 #EXTINF:-1 tvg-id="HLAMDTV.kr" tvg-country="KR" tvg-language="Korean" tvg-logo="https://i.imgur.com/5oraHc0.png" tvg-status="live" group-title="General",HLAM-DTV
 http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
@@ -121,8 +123,12 @@ https://pchlslivesw.lotteimall.com/live/livestream/lotteimalllive_mp4.m3u8
 https://onetvhlslive.lotteimall.com/lotteonetvlive/lotteonetvlive.mp4.m3u8
 #EXTINF:-1 tvg-id="MBCAmerica.us" tvg-country="US" tvg-language="Korean" tvg-logo="https://i.imgur.com/RRc23ra.png" tvg-status="live" group-title="Culture",MBC America
 https://cdn-us-east-prod-ingest-infra-dacast-com.akamaized.net/624ff8f9-db18-da92-4d42-896fa2ff3eb3/source/index.m3u8
+#EXTINF:-1 tvg-id="MBCDrama.kr" tvg-country="KR" tvg-language="Korean" tvg-logo="https://i.imgur.com/Q20rqnX.png" tvg-status="live" group-title="Entertainment",MBC Drama
+http://mytv.dothome.co.kr/ch/catv/26.php
 #EXTINF:-1 tvg-id="MBCGyeongnamTV.kr" tvg-country="KR" tvg-language="Korean" tvg-logo="https://i.imgur.com/Ronb1JP.png" tvg-status="down" group-title="General",MBC Gyeongnam TV
 https://624a79c87201d.streamlock.net/MBCTV/TV1.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="MBCNet.kr" tvg-country="KR" tvg-language="Korean" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/MBCNET_%EB%A1%9C%EA%B3%A0.svg/960px-MBCNET_%EB%A1%9C%EA%B3%A0.svg.png" tvg-status="live" group-title="General",MBC Net
+http://mytv.dothome.co.kr/ch/catv/28.php
 #EXTINF:-1 tvg-id="famelack-jvEnH2enN4Ahyj" tvg-country="KR" tvg-language="Korean" tvg-logo="" tvg-status="live" group-title="News",MBC News
 https://www.youtube-nocookie.com/embed/q9bM12ucTIY
 #EXTINF:-1 tvg-id="MTN.kr" tvg-country="KR" tvg-language="Korean" tvg-logo="https://i.imgur.com/MS0lqoG.png" tvg-status="down" group-title="General",MTN
