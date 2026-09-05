@@ -422,7 +422,7 @@
     "name": "4E",
     "country": "GR",
     "source": "iptv-org",
-    "status": "live",
+    "status": "down",
     "url": "http://eu2.tv4e.gr:554/live/smil:myStream.sdp.smil/playlist.m3u8",
     "logo": "https://i.imgur.com/Na0UCV7.png",
     "group": "Religious",
@@ -1599,7 +1599,7 @@
     "name": "312 Kino",
     "country": "KG",
     "source": "iptv-org",
-    "status": "live",
+    "status": "down",
     "url": "http://176.126.166.43:1935/live/312kino/playlist.m3u8",
     "logo": "https://i.ibb.co/3m9LrLj/k7gIibH.png",
     "group": "Movies",
@@ -1610,7 +1610,7 @@
     "name": "312 TV",
     "country": "KG",
     "source": "iptv-org",
-    "status": "live",
+    "status": "down",
     "url": "http://176.126.166.43:1935/live/312musik/playlist.m3u8",
     "logo": "https://i.ibb.co/S6sZvqk/iLSGi6c.png",
     "group": "Entertainment",
@@ -1720,7 +1720,7 @@
     "name": "1001 Noites",
     "country": "BR",
     "source": "iptv-org",
-    "status": "down",
+    "status": "live",
     "url": "https://cdn.jmvstream.com/w/LVW-8155/ngrp:LVW8155_41E1ciuCvO_all/playlist.m3u8",
     "logo": "https://i.imgur.com/dWA9y2J.png",
     "group": "Shop",
@@ -3245,35 +3245,35 @@
     "language": "Persian"
   },
   {
-    "id": "Africa24.fr",
+    "id": "famelack-JzlPxfMfmeouYm",
     "name": "Africa 24",
     "country": "FR",
-    "source": "iptv-org",
+    "source": "famelack",
     "status": "live",
     "url": "https://africa24.vedge.infomaniak.com/livecast/ik:africa24/manifest.m3u8",
-    "logo": "https://i.imgur.com/YWIJdai.png",
+    "logo": "",
     "group": "News",
     "language": "French"
   },
   {
-    "id": "Africa24English.fr",
+    "id": "famelack-QzSkQCeFOqXwg8",
     "name": "Africa 24 English",
     "country": "FR",
-    "source": "iptv-org",
+    "source": "famelack",
     "status": "live",
     "url": "https://edge20.vedge.infomaniak.com/livecast/ik:africa24english/manifest.m3u8",
-    "logo": "https://africa24tv.com/wp-content/uploads/2023/12/logo-Africa24TVEnglish.png",
+    "logo": "",
     "group": "News",
     "language": "English"
   },
   {
-    "id": "Africa24Sport.fr",
+    "id": "famelack-FsR4OMNuaQ7RDi",
     "name": "Africa 24 Sport",
     "country": "FR",
-    "source": "iptv-org",
+    "source": "famelack",
     "status": "live",
     "url": "https://africa24.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3u8",
-    "logo": "https://i0.wp.com/africa24tv.com/wp-content/uploads/2023/12/LOGO-AFRICASPORT-4-HD-sans-fond.png?fit=512%2C107&ssl=1",
+    "logo": "",
     "group": "News",
     "language": "French"
   },
@@ -4554,13 +4554,13 @@
     "language": "Arabic"
   },
   {
-    "id": "famelack-gqagHcGI6e4lYf",
+    "id": "AlJawadainTV.iq",
     "name": "Al-Jawadain TV",
     "country": "IQ",
-    "source": "famelack",
+    "source": "iptv-org",
     "status": "live",
     "url": "https://live.aljawadain.org/live/aljawadaintv/playlist.m3u8",
-    "logo": "",
+    "logo": "https://i.imgur.com/Eo3UYCK.png",
     "group": "Religious",
     "language": "Arabic"
   },
@@ -4856,7 +4856,7 @@
     "country": "IN",
     "source": "iptv-org",
     "status": "live",
-    "url": "https://tvsen6.aynaott.com/a2cKGQtB/index.m3u8",
+    "url": "https://streams.tangotv.in/ALLTIMEMOVIES/ORIGIN/index.m3u8",
     "logo": "https://yt3.googleusercontent.com/U4INXhwmEUOABHoemQBpI6C9t4jb9iBmDvZ3ZT3lAb9Au_jVl32NL8XDpy-9cBjRJ2LP69Ovzg=s900-c-k-c0x00ffffff-no-rj",
     "group": "Movies",
     "language": "Hindi"
@@ -5060,13 +5060,13 @@
     "language": "Arabic"
   },
   {
-    "id": "AlpedHuezTV.fr",
+    "id": "famelack-Fc5hpz0dRxh3M6",
     "name": "Alpe d'Huez TV",
     "country": "FR",
-    "source": "iptv-org",
+    "source": "famelack",
     "status": "live",
     "url": "https://edge13.vedge.infomaniak.com/livecast/ik:adhtv/manifest.m3u8",
-    "logo": "https://i.imgur.com/090tCQ5.png",
+    "logo": "",
     "group": "General",
     "language": "French"
   },
@@ -5665,24 +5665,24 @@
     "language": "English"
   },
   {
-    "id": "AmazoniaTV.pe",
+    "id": "famelack-9lVgs60Eg6mCkW",
     "name": "Amazonia TV",
     "country": "PE",
-    "source": "iptv-org",
+    "source": "famelack",
     "status": "live",
     "url": "https://servilive.com:3199/live/amazoniatvlive.m3u8",
-    "logo": "https://i.imgur.com/sSW7d8e.png",
+    "logo": "",
     "group": "General",
     "language": "Spanish"
   },
   {
-    "id": "famelack-Mj1YeHn29dAddM",
+    "id": "AmazonicaTV.pe",
     "name": "Amazonica TV",
     "country": "PE",
-    "source": "famelack",
+    "source": "iptv-org",
     "status": "live",
-    "url": "https://videoserver.tmcreativos.com:19360/amazonicatv/amazonicatv.m3u8",
-    "logo": "",
+    "url": "https://live-evg8.tv360.bitel.com.pe/bitel/amazonicatvSRT/playlist.m3u8",
+    "logo": "https://i.imgur.com/22ebHAX.jpeg",
     "group": "General",
     "language": "Spanish"
   },
@@ -8107,15 +8107,15 @@
     "language": "Urdu"
   },
   {
-    "id": "ARYNews.pk",
+    "id": "famelack-fZMrOzjLW2s1eB",
     "name": "ARY News",
     "country": "PK",
-    "source": "iptv-org",
+    "source": "famelack",
     "status": "live",
-    "url": "https://cdn07lhr.tamashaweb.com:8087/jazzauth/vsat-arynews-abr/live/vsat-arynews-H/chunks_dvr_timeshift-0-3600.m3u8",
-    "logo": "https://i.imgur.com/R4KtTbJ.jpg",
+    "url": "https://www.youtube-nocookie.com/embed/5FW9ZVMR_7M",
+    "logo": "",
     "group": "News",
-    "language": "Urdu"
+    "language": ""
   },
   {
     "id": "AS3SportTV.ve",
@@ -8783,7 +8783,7 @@
     "country": "PE",
     "source": "iptv-org",
     "status": "live",
-    "url": "http://190.93.224.42/ATV/index.m3u8",
+    "url": "https://d19e55ehz2il4i.cloudfront.net/ts:abr.m3u8",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/ATV_Peru_2025.svg/1920px-ATV_Peru_2025.svg.png",
     "group": "General",
     "language": "Spanish"
@@ -8805,7 +8805,7 @@
     "country": "TR",
     "source": "iptv-org",
     "status": "live",
-    "url": "http://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_360p.m3u8",
+    "url": "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_1080p.m3u8",
     "logo": "https://i.imgur.com/HyVUwFC.png",
     "group": "General",
     "language": "Turkish"
@@ -9575,7 +9575,7 @@
     "country": "BO",
     "source": "iptv-org",
     "status": "live",
-    "url": "https://59d39900ebfb8.streamlock.net/Aynitv/Aynitv/playlist.m3u8",
+    "url": "http://15.204.246.24:8080/AyniTVHD/index.m3u8",
     "logo": "https://i.ibb.co/SPCkBR8/ayni-tv-bo.png",
     "group": "General",
     "language": "Spanish"
@@ -10230,13 +10230,13 @@
     "language": "Bengali"
   },
   {
-    "id": "famelack-X5A044gnV3ctUa",
+    "id": "BaniVision.do",
     "name": "Bani Vision",
     "country": "DO",
-    "source": "famelack",
+    "source": "iptv-org",
     "status": "live",
     "url": "https://videostream.shockmedia.com.ar/hls/banivision/banivision.m3u8",
-    "logo": "",
+    "logo": "https://www.banivision.com/wp-content/uploads/2023/04/Bani-Vision-Favicon.png",
     "group": "General",
     "language": "Spanish"
   },
@@ -10257,7 +10257,7 @@
     "country": "IN",
     "source": "iptv-org",
     "status": "live",
-    "url": "https://8yzmq2gbdvax-hls-live.wmncdn.net/bansalnewstv1/live1.stream/playlist.m3u8",
+    "url": "https://mumt07.tangotv.in/zHjX9OFlBANSALNEWS/index.m3u8",
     "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BANSAL_NEWS/images/LOGO_HD/image.png",
     "group": "News",
     "language": "Hindi"
@@ -10274,13 +10274,13 @@
     "language": "Indonesian"
   },
   {
-    "id": "famelack-NpgNIT1Vg8Pkxb",
+    "id": "BarakaTelevision.cd",
     "name": "Baraka Television",
     "country": "CD",
-    "source": "famelack",
+    "source": "iptv-org",
     "status": "live",
     "url": "https://stream.berosat.live:19360/baraka-hd/baraka-hd.m3u8",
-    "logo": "",
+    "logo": "https://i.imgur.com/IKXddHN.png",
     "group": "News",
     "language": "French"
   },
@@ -11396,26 +11396,26 @@
     "language": "Russian"
   },
   {
-    "id": "Belarus2.by",
+    "id": "famelack-pnA6yb0AQTRKeR",
     "name": "Belarus-2",
     "country": "BY",
-    "source": "iptv-org",
+    "source": "famelack",
     "status": "live",
     "url": "https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus2.smil/playlist.m3u8",
-    "logo": "https://i.imgur.com/BpEHpPS.png",
+    "logo": "",
     "group": "Entertainment",
-    "language": "Russian"
+    "language": "Belarusian"
   },
   {
-    "id": "Belarus3.by",
+    "id": "famelack-VtHTEOxTK0CD0C",
     "name": "Belarus-3",
     "country": "BY",
-    "source": "iptv-org",
+    "source": "famelack",
     "status": "live",
     "url": "https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus3.smil/playlist.m3u8",
-    "logo": "https://i.imgur.com/JkcDycn.png",
+    "logo": "",
     "group": "Culture",
-    "language": "Russian"
+    "language": "Belarusian"
   },
   {
     "id": "Belarus4.by",
@@ -11423,7 +11423,7 @@
     "country": "BY",
     "source": "iptv-org",
     "status": "live",
-    "url": "https://live.dc.beltelecom.by/trkgomel/trkgomel.stream/playlist.m3u8",
+    "url": "https://ngtrk.dc.beltelecom.by/vtv/bt4.stream/playlist.m3u8",
     "logo": "https://i.imgur.com/XNkQrMr.png",
     "group": "General",
     "language": "Russian"
@@ -14476,15 +14476,15 @@
     "language": "Spanish"
   },
   {
-    "id": "famelack-2TeFmbSu18GnAQ",
+    "id": "CadenaA.bo",
     "name": "Cadena A",
     "country": "BO",
-    "source": "famelack",
+    "source": "iptv-org",
     "status": "live",
     "url": "https://5fe2654d6127d.streamlock.net/cadenaa/videocadenaa/playlist.m3u8",
-    "logo": "",
+    "logo": "https://i.imgur.com/BxQPPAA.png",
     "group": "General",
-    "language": ""
+    "language": "Spanish"
   },
   {
     "id": "CadenaElite.es",
@@ -14938,13 +14938,13 @@
     "language": "Spanish"
   },
   {
-    "id": "Canal3KMKTV.cr",
+    "id": "famelack-9cN6rSKGfOi3ha",
     "name": "Canal 3 KMK TV",
     "country": "CR",
-    "source": "iptv-org",
+    "source": "famelack",
     "status": "live",
     "url": "https://live20.bozztv.com/giatv/giatv-KMKTV/KMKTV/chunks.m3u8",
-    "logo": "https://i.imgur.com/sgRDRBK.jpg",
+    "logo": "",
     "group": "Music",
     "language": "Spanish"
   },
@@ -15174,7 +15174,7 @@
     "country": "HN",
     "source": "iptv-org",
     "status": "live",
-    "url": "http://186.33.26.18:8000/play/a0s4/index.m3u8",
+    "url": "https://mdstrm.com/live-stream-playlist/6287fda8ea3b8b397d1ca2ed.m3u8",
     "logo": "https://i.imgur.com/4hEYFa9.png",
     "group": "General",
     "language": "Spanish"
@@ -15279,13 +15279,13 @@
     "language": "Spanish"
   },
   {
-    "id": "famelack-RjGzeK99LgjrbF",
+    "id": "Canal6Posadas.ar",
     "name": "Canal 6 Posadas",
     "country": "AR",
-    "source": "famelack",
+    "source": "iptv-org",
     "status": "live",
     "url": "https://iptv.ixfo.com.ar:30443/live/c6digital/playlist.m3u8",
-    "logo": "",
+    "logo": "https://i.imgur.com/OamBiS5.png",
     "group": "General",
     "language": "Spanish"
   },
@@ -15422,13 +15422,13 @@
     "language": "Spanish"
   },
   {
-    "id": "famelack-zBHIZ3xX6aJN4H",
+    "id": "Canal8SanJuan.ar",
     "name": "Canal 8 San Juan",
     "country": "AR",
-    "source": "famelack",
+    "source": "iptv-org",
     "status": "live",
     "url": "https://live20.bozztv.com/akamaissh101/ssh101/canal8sanjuan/playlist.m3u8",
-    "logo": "",
+    "logo": "https://yt3.googleusercontent.com/ytc/AGIKgqPYspgaPVcDnGMJbiJyhthRt27nGqGkdWbqyk43bg=s176-c-k-c0x00ffffff-no-rj",
     "group": "General",
     "language": "Spanish"
   },
@@ -15548,7 +15548,7 @@
     "country": "SV",
     "source": "iptv-org",
     "status": "live",
-    "url": "https://5ca3e84a76d30.streamlock.net/tves/videotves/playlist.m3u8",
+    "url": "http://45.167.2.101:8000/play/a0r8/index.m3u8",
     "logo": "https://i.imgur.com/y2ppMnY.png",
     "group": "General",
     "language": "Spanish"
@@ -15680,7 +15680,7 @@
     "country": "CL",
     "source": "iptv-org",
     "status": "live",
-    "url": "http://45.162.193.35/CANAL13_HD/index.m3u8",
+    "url": "http://15.204.246.24:8080/Canal13HD/index.m3u8",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Canal_13_2025.svg/960px-Canal_13_2025.svg.png",
     "group": "General",
     "language": "Spanish"
@@ -16346,24 +16346,24 @@
     "language": "Spanish"
   },
   {
-    "id": "CanalCdelZulia.ve",
+    "id": "famelack-AS45XKoNM4hcAi",
     "name": "Canal C del Zulia",
     "country": "VE",
-    "source": "iptv-org",
+    "source": "famelack",
     "status": "live",
     "url": "https://calm-forest-3478.cristianbracho904.workers.dev/master.m3u8",
-    "logo": "https://i.imgur.com/ew44KOZ.png",
+    "logo": "",
     "group": "General",
     "language": "Spanish"
   },
   {
-    "id": "famelack-pxpERTjTLU5biZ",
+    "id": "CanalCHD.co",
     "name": "Canal CHD",
     "country": "CO",
-    "source": "famelack",
+    "source": "iptv-org",
     "status": "live",
     "url": "https://vs20.live.opencaster.com/canalchd2025_8d99626c/index.m3u8",
-    "logo": "",
+    "logo": "https://i.imgur.com/cNv1MPs.jpeg",
     "group": "General",
     "language": "Spanish"
   },
@@ -16863,13 +16863,13 @@
     "language": "Spanish"
   },
   {
-    "id": "famelack-nygDUxp3RgEFzv",
+    "id": "CanalMasTelevision.co",
     "name": "Canal Mas Television",
     "country": "CO",
-    "source": "famelack",
+    "source": "iptv-org",
     "status": "live",
     "url": "https://movil.ejeserver.com/live/teledoradahd.m3u8",
-    "logo": "",
+    "logo": "https://i.imgur.com/ODMa27W.jpg",
     "group": "General",
     "language": "Spanish"
   },
@@ -17083,13 +17083,13 @@
     "language": "Spanish"
   },
   {
-    "id": "famelack-lEav7DEwkvbo0f",
+    "id": "CanalPulpoTV.ar",
     "name": "Canal Pulpo TV",
     "country": "AR",
-    "source": "famelack",
+    "source": "iptv-org",
     "status": "live",
     "url": "https://vs20.live.opencaster.com/canalpulpotv_bdeee6e2/index.m3u8",
-    "logo": "",
+    "logo": "https://new.opencaster.com/uploads/logos/logo_306_1756336707.png",
     "group": "Entertainment",
     "language": "Spanish"
   },
@@ -17413,13 +17413,13 @@
     "language": "Spanish"
   },
   {
-    "id": "famelack-8wch0b4bAAxnPo",
+    "id": "CanalWomtv.co",
     "name": "Canal Womtv",
     "country": "CO",
-    "source": "famelack",
+    "source": "iptv-org",
     "status": "live",
     "url": "https://live.amelbatv.co:81/womtvlive/index.m3u8",
-    "logo": "",
+    "logo": "https://i.imgur.com/Nr4muMP.jpeg",
     "group": "Entertainment",
     "language": "Spanish"
   },
@@ -17677,13 +17677,13 @@
     "language": "Nepali"
   },
   {
-    "id": "CaprichoTV.ec",
+    "id": "famelack-XNa5AM5I0Mvv8Q",
     "name": "Capricho TV",
     "country": "EC",
-    "source": "iptv-org",
+    "source": "famelack",
     "status": "live",
     "url": "https://video.compuwebecuador.com:3783/live/caprichotvlive.m3u8",
-    "logo": "https://i.imgur.com/eUoj9bG.png",
+    "logo": "",
     "group": "General",
     "language": "Spanish"
   },
@@ -18612,13 +18612,13 @@
     "language": "Chinese"
   },
   {
-    "id": "famelack-fKZLucUhJYe0vc",
+    "id": "CCTV5Plus.cn",
     "name": "CCTV-5+",
     "country": "CN",
-    "source": "famelack",
+    "source": "iptv-org",
     "status": "live",
     "url": "https://myip.pdtvhd.com/Sports/streams/CCTV5pul.m3u8",
-    "logo": "",
+    "logo": "https://i.imgur.com/OK8mdJV.png",
     "group": "Sports",
     "language": "Chinese"
   },
@@ -18931,13 +18931,13 @@
     "language": "Chinese"
   },
   {
-    "id": "famelack-g7A9m5YJElc3wG",
+    "id": "CCV.in",
     "name": "CCV",
     "country": "IN",
-    "source": "famelack",
+    "source": "iptv-org",
     "status": "live",
     "url": "https://5a1178b42cc03.streamlock.net/8212/8212/playlist.m3u8",
-    "logo": "",
+    "logo": "https://i.imgur.com/4ss0KfA.png",
     "group": "General",
     "language": "Malayalam"
   },
@@ -19893,7 +19893,7 @@
     "country": "SE",
     "source": "iptv-org",
     "status": "live",
-    "url": "https://jmp2.uk/plu-65e976ad0d456100082d9b74.m3u8",
+    "url": "https://jmp2.uk/plu-65e977a618036500082ec972.m3u8",
     "logo": "https://images.pluto.tv/channels/65e976ad0d456100082d9b74/colorLogoSVG.svg",
     "group": "Comedy",
     "language": "English"
@@ -20069,7 +20069,7 @@
     "country": "DE",
     "source": "iptv-org",
     "status": "live",
-    "url": "https://jmp2.uk/plu-611e7f224676bf00076a4d8d.m3u8",
+    "url": "https://jmp2.uk/plu-65cce14060eb870008dbd003.m3u8",
     "logo": "https://images.pluto.tv/channels/611e7f224676bf00076a4d8d/colorLogoSVG.svg",
     "group": "Comedy",
     "language": "German"
@@ -20218,13 +20218,13 @@
     "language": "Spanish"
   },
   {
-    "id": "famelack-eDESw3Ox4wXwbn",
+    "id": "ChiloeRed25.cl",
     "name": "Chiloe Red 25",
     "country": "CL",
-    "source": "famelack",
+    "source": "iptv-org",
     "status": "live",
     "url": "https://v2.tustreaming.cl/chiloered/index.m3u8",
-    "logo": "",
+    "logo": "https://i.imgur.com/3tqrImm.png",
     "group": "Culture",
     "language": "Spanish"
   },
@@ -21285,14 +21285,14 @@
     "language": "Russian"
   },
   {
-    "id": "famelack-JIOxlnAu1GPh23",
+    "id": "CityEdenTV.ru",
     "name": "City Eden TV",
     "country": "RU",
-    "source": "famelack",
+    "source": "iptv-org",
     "status": "live",
     "url": "https://cityeden.catcast.tv/content/34246/index.m3u8",
-    "logo": "",
-    "group": "Religious",
+    "logo": "https://i.imgur.com/X9kACKi.png",
+    "group": "General",
     "language": "Russian"
   },
   {
@@ -21780,13 +21780,13 @@
     "language": "English"
   },
   {
-    "id": "famelack-GDeVF43cbBphiD",
+    "id": "ClickTVChile.cl",
     "name": "ClickTV Chile",
     "country": "CL",
-    "source": "famelack",
+    "source": "iptv-org",
     "status": "live",
     "url": "https://v2.tustreaming.cl/clicktv/playlist.m3u8",
-    "logo": "",
+    "logo": "https://i.imgur.com/H0XNbMS.png",
     "group": "Documentary",
     "language": "Spanish"
   },
@@ -21813,15 +21813,15 @@
     "language": "English"
   },
   {
-    "id": "CLTV36.ph",
+    "id": "famelack-k6kILJ1P88D8yy",
     "name": "CLTV 36",
     "country": "PH",
-    "source": "iptv-org",
+    "source": "famelack",
     "status": "live",
     "url": "https://live.cltv36.tv:5443/LiveApp/streams/cltvlive.m3u8",
-    "logo": "https://i.imgur.com/2fGhl7q.png",
+    "logo": "",
     "group": "General",
-    "language": "Tagalog"
+    "language": "English"
   },
   {
     "id": "ClubbingTV.us",
@@ -22665,7 +22665,7 @@
     "country": "US",
     "source": "iptv-org",
     "status": "live",
-    "url": "http://190.93.224.42/COMEDY-CENTRAL/index.m3u8",
+    "url": "http://15.204.246.24:8080/ComedyCentralHD/index.m3u8",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/960px-Comedy_Central_2018.svg.png",
     "group": "Comedy",
     "language": "Spanish"
@@ -24029,7 +24029,7 @@
     "country": "BO",
     "source": "iptv-org",
     "status": "live",
-    "url": "https://streaming.ctvbolivia.com/hlsweb/ctv.m3u8",
+    "url": "http://15.204.246.24:8080/CTVHD/index.m3u8",
     "logo": "https://i.imgur.com/ljKb0UX.png",
     "group": "General",
     "language": "Spanish"
@@ -24898,7 +24898,7 @@
     "country": "US",
     "source": "iptv-org",
     "status": "live",
-    "url": "https://live-mcl.cdn01.net/smarttv/48vy43564/playlist.m3u8",
+    "url": "http://170.254.17.2/DAYSTAR/index.m3u8",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/960px-CGTN.svg.png",
     "group": "Religious",
     "language": "English"
@@ -24992,13 +24992,13 @@
     "language": "English"
   },
   {
-    "id": "DCC.us",
+    "id": "famelack-yuAKJus9326voW",
     "name": "DCC",
     "country": "US",
-    "source": "iptv-org",
+    "source": "famelack",
     "status": "live",
-    "url": "https://video.oct.dc.gov/out/u/15_12.m3u8",
-    "logo": "https://i.imgur.com/YBWbiWZ.png",
+    "url": "https://video.oct.dc.gov/out/u/DCC.m3u8",
+    "logo": "",
     "group": "Legislative",
     "language": "English"
   },
@@ -25014,13 +25014,13 @@
     "language": "English"
   },
   {
-    "id": "DCCouncilHearingRoom120.us",
+    "id": "famelack-uFGOTQx0dq9aok",
     "name": "DC Council Hearing Room 120",
     "country": "US",
-    "source": "iptv-org",
+    "source": "famelack",
     "status": "live",
     "url": "https://video.oct.dc.gov/out/u/97_12.m3u8",
-    "logo": "https://i.imgur.com/8fljC7g.png",
+    "logo": "",
     "group": "Legislative",
     "language": "English"
   },
@@ -25608,13 +25608,13 @@
     "language": "Greek"
   },
   {
-    "id": "DeltaTV.pe",
+    "id": "famelack-fqDkRQsbGbe2La",
     "name": "DeltaTV",
     "country": "PE",
-    "source": "iptv-org",
+    "source": "famelack",
     "status": "live",
     "url": "https://tv2.bitstreaming.net:3539/live/deltanetlive.m3u8",
-    "logo": "https://i.imgur.com/crttwAR.png",
+    "logo": "",
     "group": "General",
     "language": "Spanish"
   },
@@ -26097,7 +26097,7 @@
     "country": "US",
     "source": "iptv-org",
     "status": "live",
-    "url": "http://190.11.225.124:5000/live/dhe_hd/playlist.m3u8",
+    "url": "http://15.204.246.24:8080/DHEHD/index.m3u8",
     "logo": "https://i.imgur.com/nsttoEa.png",
     "group": "Movies",
     "language": "Spanish"
@@ -26730,13 +26730,13 @@
     "language": "English"
   },
   {
-    "id": "DistrictofColumbiaNetwork.us",
+    "id": "famelack-Ge1ZHaFi4hsusD",
     "name": "District of Columbia Network",
     "country": "US",
-    "source": "iptv-org",
+    "source": "famelack",
     "status": "live",
     "url": "https://video.oct.dc.gov/out/u/DCN.m3u8",
-    "logo": "https://i.imgur.com/GGZ8BQ8.png",
+    "logo": "",
     "group": "Legislative",
     "language": "English"
   },
@@ -26862,13 +26862,13 @@
     "language": "English"
   },
   {
-    "id": "DKN.us",
+    "id": "famelack-eLA4bv6WnWPRvW",
     "name": "DKN",
     "country": "US",
-    "source": "iptv-org",
+    "source": "famelack",
     "status": "live",
     "url": "https://video.oct.dc.gov/out/u/DKN.m3u8",
-    "logo": "https://i.imgur.com/DIau0GB.png",
+    "logo": "",
     "group": "Education",
     "language": "English"
   },
@@ -27647,7 +27647,7 @@
     "name": "DreamWorks Channel Asia",
     "country": "US",
     "source": "iptv-org",
-    "status": "live",
+    "status": "down",
     "url": "https://cdn12.178.indevs.in/163189/dreamworks",
     "logo": "https://hls.mskycdn.online/logo/dreamworks.png",
     "group": "Animation",
@@ -29100,7 +29100,7 @@
     "country": "AR",
     "source": "iptv-org",
     "status": "live",
-    "url": "http://177.234.249.178:8888/EL-GOURMET/index.m3u8",
+    "url": "http://15.204.246.24:8080/ElGourmetHD/index.m3u8",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/b/b2/El_Gourmet_logo.png",
     "group": "Cooking",
     "language": "Spanish"
@@ -29403,24 +29403,24 @@
     "language": "Azerbaijani"
   },
   {
-    "id": "ElWatania1.tn",
+    "id": "famelack-lDxRAC8VIZPSTr",
     "name": "El Watania 1",
     "country": "TN",
-    "source": "iptv-org",
+    "source": "famelack",
     "status": "live",
     "url": "https://sw1.tanitweb.net/TunisiaTV/_definst_/watania1/chunklist.m3u8",
-    "logo": "https://i.imgur.com/gNr2V14.png",
+    "logo": "",
     "group": "General",
     "language": "Arabic"
   },
   {
-    "id": "ElWatania2.tn",
+    "id": "famelack-4B3FCVdFtbVK3X",
     "name": "El Watania 2",
     "country": "TN",
-    "source": "iptv-org",
+    "source": "famelack",
     "status": "live",
     "url": "https://sw1.tanitweb.net/TunisiaTV/_definst_/watania2/playlist.m3u8?DVR",
-    "logo": "https://i.imgur.com/kgkrD3V.png",
+    "logo": "",
     "group": "General",
     "language": "Arabic"
   },
@@ -31531,7 +31531,7 @@
     "country": "BO",
     "source": "iptv-org",
     "status": "live",
-    "url": "https://tv2.bitstreaming.net:3235/multi_live/play.m3u8",
+    "url": "http://15.204.246.24:8080/F10HD/index.m3u8",
     "logo": "https://i.imgur.com/OEsT0KN.png",
     "group": "General",
     "language": "Spanish"
@@ -33165,13 +33165,13 @@
     "language": "Georgian"
   },
   {
-    "id": "ForoTV.pe",
+    "id": "famelack-Rwuv8AlFTYihSG",
     "name": "Foro TV",
     "country": "PE",
-    "source": "iptv-org",
+    "source": "famelack",
     "status": "live",
     "url": "https://mc.servidor.stream:19360/8274/8274.m3u8",
-    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTarTiQHz2Pl0Bpx9g7JV_eaz4V4f61wtGyRw&s",
+    "logo": "",
     "group": "General",
     "language": "Spanish"
   },
@@ -33220,13 +33220,13 @@
     "language": "English"
   },
   {
-    "id": "FORTTV.ug",
+    "id": "famelack-2vE7EJChsrCtLB",
     "name": "FORT TV",
     "country": "UG",
-    "source": "iptv-org",
+    "source": "famelack",
     "status": "live",
     "url": "https://fort.co-works.org/memfs/87017643-274a-4bc0-a786-7767a0d159c2.m3u8",
-    "logo": "https://i.ibb.co/4KN5zW9/fort-tv-logo-GENE.png",
+    "logo": "",
     "group": "Entertainment",
     "language": "English"
   },
@@ -33499,7 +33499,7 @@
     "name": "Frasier: Beruhmte Gaste",
     "country": "DE",
     "source": "iptv-org",
-    "status": "live",
+    "status": "down",
     "url": "https://jmp2.uk/plu-6790fa9e1cfc4aa96dfadcef.m3u8",
     "logo": "https://images.pluto.tv/channels/6790fa9e1cfc4aa96dfadcef/colorLogoSVG.svg",
     "group": "Comedy",
@@ -33880,13 +33880,13 @@
     "language": "English"
   },
   {
-    "id": "FUSIONTV.mq",
+    "id": "famelack-97DWduUX5Hf0aj",
     "name": "FUSION TV",
     "country": "MQ",
-    "source": "iptv-org",
+    "source": "famelack",
     "status": "live",
     "url": "https://edge20.vedge.infomaniak.com/livecast/ik:fusiontv/manifest.m3u8",
-    "logo": "https://i.imgur.com/WMrYEgH.png",
+    "logo": "",
     "group": "Music",
     "language": "French"
   },
@@ -33973,7 +33973,7 @@
     "country": "US",
     "source": "iptv-org",
     "status": "live",
-    "url": "http://45.162.193.35/FX/index.m3u8",
+    "url": "http://15.204.246.24:8080/FXHD/index.m3u8",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/960px-FX_International_logo.svg.png",
     "group": "Entertainment",
     "language": "Spanish"
@@ -34276,13 +34276,13 @@
     "language": "Panjabi"
   },
   {
-    "id": "GaviotaTV.ec",
+    "id": "famelack-rUmy5ItsraiQ6E",
     "name": "Gaviota TV",
     "country": "EC",
-    "source": "iptv-org",
+    "source": "famelack",
     "status": "live",
     "url": "https://gaviotatv.streamseguro.com:3195/live/gaviotatvlive.m3u8",
-    "logo": "https://i.imgur.com/1vlZA6O.png",
+    "logo": "",
     "group": "Entertainment",
     "language": "Spanish"
   },
@@ -34837,13 +34837,13 @@
     "language": "Spanish"
   },
   {
-    "id": "GigantFM.nl",
+    "id": "famelack-A3vCuoFXBOegkR",
     "name": "Gigant FM",
     "country": "NL",
-    "source": "iptv-org",
+    "source": "famelack",
     "status": "live",
     "url": "https://video.uitzending.tv:19360/gigantfm/gigantfm.m3u8",
-    "logo": "https://i.imgur.com/LwEHfjD.png",
+    "logo": "",
     "group": "Music",
     "language": "Dutch"
   },
@@ -35513,7 +35513,7 @@
     "country": "US",
     "source": "iptv-org",
     "status": "live",
-    "url": "http://143.14.178.35/TCM-HD/index.m3u8",
+    "url": "http://15.204.246.24:8080/GolfChannelHD/index.m3u8",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Golf_Channel_Logo_2018.png/960px-Golf_Channel_Logo_2018.png",
     "group": "Sports",
     "language": "Spanish"
@@ -37119,7 +37119,7 @@
     "country": "US",
     "source": "iptv-org",
     "status": "live",
-    "url": "https://2-fss-2.streamhoster.com/pl_120/201950-2724904-1/playlist.m3u8",
+    "url": "https://freecast-lukentvlive.vgcdn.net/out/v1/ef4c45af299c46aaabc3f8713f92f163/index.m3u8",
     "logo": "https://i.imgur.com/F5qqJPe.png",
     "group": "Entertainment",
     "language": "English"
@@ -37680,19 +37680,19 @@
     "country": "US",
     "source": "iptv-org",
     "status": "live",
-    "url": "https://tvsen3.aynaott.com/np3JstRE/index.m3u8",
+    "url": "http://212.5.144.156:8080/history/index.m3u8",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png",
     "group": "Documentary",
     "language": "English"
   },
   {
-    "id": "HistoryAsia.us",
+    "id": "famelack-OdnRloFb9PVDPW",
     "name": "History Asia",
     "country": "US",
-    "source": "iptv-org",
+    "source": "famelack",
     "status": "live",
     "url": "https://freem3u.xyz/api/live/play.m3u8?vid=9856",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png",
+    "logo": "",
     "group": "Documentary",
     "language": "English"
   },
@@ -37713,7 +37713,7 @@
     "country": "US",
     "source": "iptv-org",
     "status": "live",
-    "url": "http://138.121.15.230:9002/HISTORY-CHANNEL/index.m3u8",
+    "url": "http://15.204.246.24:8080/HistoryHD/index.m3u8",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png",
     "group": "Documentary",
     "language": "Spanish"
@@ -38197,7 +38197,7 @@
     "country": "US",
     "source": "iptv-org",
     "status": "live",
-    "url": "http://177.234.249.178:8888/HOLA-TV/index.m3u8",
+    "url": "http://15.204.246.24:8080/HOLATVHD/index.m3u8",
     "logo": "https://i.imgur.com/i0Qexxd.png",
     "group": "Entertainment",
     "language": "Spanish"
@@ -38604,7 +38604,7 @@
     "country": "SE",
     "source": "iptv-org",
     "status": "live",
-    "url": "https://jmp2.uk/plu-693ae62a43fe00a023e76e0d.m3u8",
+    "url": "https://jmp2.uk/plu-693ae6bf0ddf7d2a40b7fd35.m3u8",
     "logo": "https://images.pluto.tv/channels/693ae62a43fe00a023e76e0d/colorLogoSVG_1769415649672.svg",
     "group": "Series",
     "language": "English"
@@ -38637,7 +38637,7 @@
     "country": "HR",
     "source": "iptv-org",
     "status": "live",
-    "url": "https://webtvstream.bhtelecom.ba/hrt2.m3u8",
+    "url": "https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT2/default/index.mpd",
     "logo": "https://i.imgur.com/yyePcl1.png",
     "group": "General",
     "language": "Croatian"
@@ -38648,7 +38648,7 @@
     "country": "HR",
     "source": "iptv-org",
     "status": "live",
-    "url": "https://webtvstream.bhtelecom.ba/hrt3.m3u8",
+    "url": "https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT3/default/index.mpd",
     "logo": "https://i.imgur.com/4OrOJRx.png",
     "group": "Culture",
     "language": "Croatian"
@@ -38797,13 +38797,13 @@
     "language": "Vietnamese"
   },
   {
-    "id": "HTV4.vn",
+    "id": "famelack-6EdtrtcTzJTHBM",
     "name": "HTV4",
     "country": "VN",
-    "source": "iptv-org",
+    "source": "famelack",
     "status": "live",
     "url": "https://freem3u.xyz/api/live/play.m3u8?vid=9",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/HTV4_logo.webp/960px-HTV4_logo.webp.png",
+    "logo": "",
     "group": "Education",
     "language": "Vietnamese"
   },
@@ -38824,7 +38824,7 @@
     "country": "VN",
     "source": "iptv-org",
     "status": "live",
-    "url": "https://dethich.pw/htv9/index.m3u8",
+    "url": "https://live.fptplay53.net/epzhd1/htv9hd_vhls.smil/chunklist.m3u8",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/b/bf/HTV9_logo.webp",
     "group": "News",
     "language": "Vietnamese"
@@ -38846,7 +38846,7 @@
     "country": "VN",
     "source": "iptv-org",
     "status": "live",
-    "url": "https://dethich.pw/htvthethao/index.m3u8",
+    "url": "https://live.fptplay53.net/epzhd1/htvcthethao_vhls.smil/chunklist.m3u8",
     "logo": "https://upload.wikimedia.org/wikipedia/vi/3/3f/HTV_THETHAO_2014.png",
     "group": "Sports",
     "language": "Vietnamese"
@@ -38962,13 +38962,13 @@
     "language": "Chinese"
   },
   {
-    "id": "HunanTV.cn",
+    "id": "famelack-DmRj3yhamAblyQ",
     "name": "Hunan TV",
     "country": "CN",
-    "source": "iptv-org",
+    "source": "famelack",
     "status": "live",
-    "url": "http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8",
-    "logo": "https://parco-zh.github.io/demo/HNWS.png",
+    "url": "https://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8",
+    "logo": "",
     "group": "General",
     "language": "Chinese"
   },
@@ -38995,13 +38995,13 @@
     "language": "Turkish"
   },
   {
-    "id": "Hunedoara1.ro",
+    "id": "famelack-hWlowLrwkzswqF",
     "name": "Hunedoara 1",
     "country": "RO",
-    "source": "iptv-org",
+    "source": "famelack",
     "status": "live",
     "url": "https://netstreaming.eu/hd1.m3u8",
-    "logo": "https://i.imgur.com/9bz15ad.png",
+    "logo": "",
     "group": "General",
     "language": "Romanian"
   },
@@ -39017,68 +39017,68 @@
     "language": "Hindi"
   },
   {
-    "id": "Hungry.us",
+    "id": "famelack-ERhS0NAqvOPlMN",
     "name": "Hungry",
     "country": "US",
-    "source": "iptv-org",
+    "source": "famelack",
     "status": "live",
     "url": "https://dos35knl8v49a.cloudfront.net/v1/food/samsungheadend_us/latest/main/hls/playlist.m3u8",
-    "logo": "https://i.imgur.com/MIUDYh0.png",
+    "logo": "",
     "group": "Cooking",
     "language": "English"
   },
   {
-    "id": "HuzurTV.ru",
+    "id": "famelack-QyASYgL5e57Tu7",
     "name": "Huzur TV",
     "country": "RU",
-    "source": "iptv-org",
+    "source": "famelack",
     "status": "live",
     "url": "https://hls-mycdn08724960135.cdnvideo.ru/mycdn08724960135/stream1/playlist.m3u8",
-    "logo": "https://i.imgur.com/Abg1fct.png",
+    "logo": "",
     "group": "Religious",
     "language": "Russian"
   },
   {
-    "id": "HyderTV.ca",
+    "id": "famelack-9zPq4BsfegnAtl",
     "name": "Hyder TV",
     "country": "CA",
-    "source": "iptv-org",
+    "source": "famelack",
     "status": "live",
     "url": "https://cdn.live247stream.com/hyder/tv/playlist.m3u8",
-    "logo": "https://i.imgur.com/reHjjRZ.png",
+    "logo": "",
     "group": "Culture",
     "language": "Hindi"
   },
   {
-    "id": "HypeVisualRadio.nl",
+    "id": "famelack-XeTMX0KNRpyXnL",
     "name": "Hype Visual Radio",
     "country": "NL",
-    "source": "iptv-org",
+    "source": "famelack",
     "status": "live",
     "url": "https://streammix.alsolnet.com/hyperadio/live/playlist.m3u8",
-    "logo": "https://cdn.onlineradiobox.com/img/fblogo/1/97371.v21.png",
+    "logo": "",
     "group": "Music",
-    "language": "Dutch"
+    "language": "English"
   },
   {
-    "id": "HyundaiHomeShopping.kr",
+    "id": "famelack-JdXXEWHEkhS0rD",
     "name": "Hyundai Home Shopping",
     "country": "KR",
-    "source": "iptv-org",
+    "source": "famelack",
     "status": "live",
     "url": "https://livejj.hyundaihmall.com:8443/live/ngrp:hmall.stream_pc/playlist.m3u8",
-    "logo": "https://i.imgur.com/NJpECmq.png",
+    "logo": "",
     "group": "Shop",
     "language": "Korean"
   },
   {
-    "id": "HyundaiHomeShoppingPlusShop.kr",
+    "id": "famelack-UShqKN6AAa2tbY",
     "name": "Hyundai Home Shopping + Shop",
     "country": "KR",
-    "source": "iptv-org",
+    "source": "famelack",
     "status": "live",
     "url": "https://dtvstreaming.hyundaihmall.com/newcjp3/_definst_/newcjpstream.smil/playlist.m3u8",
-    "logo": "https://i.imgur.com/DoNOuZE.png",
+    "logo": "",
     "group": "Shop",
     "language": "Korean"
   },
@@ -39088,7 +39088,7 @@
     "country": "IL",
     "source": "iptv-org",
     "status": "live",
-    "url": "https://i24newsarabic-cdn.encoders.immergo.tv/master.m3u8",
+    "url": "https://hlspackager.akamaized.net/live/DB/i24_ARABIC/HLS/i24_ARABIC.m3u8",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/LOGO_i24NEWS.png/960px-LOGO_i24NEWS.png",
     "group": "News",
     "language": "Arabic"
@@ -39099,19 +39099,19 @@
     "country": "IL",
     "source": "iptv-org",
     "status": "live",
-    "url": "https://i24newsenglish-cdn.encoders.immergo.tv/master.m3u8",
+    "url": "https://hlspackager.akamaized.net/live/DB/i24_ENGLISH/HLS/i24_ENGLISH.m3u8",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/LOGO_i24NEWS.png/960px-LOGO_i24NEWS.png",
     "group": "News",
     "language": "English"
   },
   {
-    "id": "i24NEWSFrench.il",
+    "id": "famelack-hgsDmRmks0VdPt",
     "name": "i24NEWS French",
     "country": "IL",
-    "source": "iptv-org",
+    "source": "famelack",
     "status": "live",
     "url": "https://i24newsfrench-cdn.encoders.immergo.tv/master.m3u8",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/LOGO_i24NEWS.png/960px-LOGO_i24NEWS.png",
+    "logo": "",
     "group": "News",
     "language": "French"
   },
@@ -39209,7 +39209,7 @@
     "country": "DE",
     "source": "iptv-org",
     "status": "live",
-    "url": "https://jmp2.uk/plu-5e8b580a233dc90007f0cb9d.m3u8",
+    "url": "https://jmp2.uk/plu-6181404ef48321000797bc41.m3u8",
     "logo": "https://images.pluto.tv/channels/5e8b580a233dc90007f0cb9d/colorLogoSVG.svg",
     "group": "Kids",
     "language": "German"
@@ -39220,7 +39220,7 @@
     "country": "SE",
     "source": "iptv-org",
     "status": "live",
-    "url": "https://jmp2.uk/plu-61c0b9aab7facb0007913908.m3u8",
+    "url": "https://jmp2.uk/plu-61c1d9b31a9c310008f8ee57.m3u8",
     "logo": "https://images.pluto.tv/channels/61c0b9aab7facb0007913908/colorLogoSVG.svg",
     "group": "Kids",
     "language": "English"
@@ -39231,7 +39231,7 @@
     "country": "US",
     "source": "iptv-org",
     "status": "live",
-    "url": "https://jmp2.uk/plu-620ff46e0a576e0007dc2f89.m3u8",
+    "url": "https://jmp2.uk/plu-620ff0a01f9e8700076c6f9d.m3u8",
     "logo": "https://images.pluto.tv/channels/620ff46e0a576e0007dc2f89/colorLogoSVG.svg",
     "group": "Series",
     "language": "Portuguese"
@@ -39275,7 +39275,7 @@
     "country": "US",
     "source": "iptv-org",
     "status": "live",
-    "url": "https://jmp2.uk/plu-5ce40f42ba7f7f5ea9518fe1.m3u8",
+    "url": "https://jmp2.uk/plu-62cd97fb9f8154000727516c.m3u8",
     "logo": "https://i.imgur.com/F8GBYq3.png",
     "group": "Series",
     "language": "German"
@@ -39468,13 +39468,13 @@
     "language": "Spanish"
   },
   {
-    "id": "IERTBCSCanal82.mx",
+    "id": "famelack-VVjqj96dpDuWW3",
     "name": "IERTBCS Canal 8.2",
     "country": "MX",
-    "source": "iptv-org",
+    "source": "famelack",
     "status": "live",
     "url": "https://s5.mexside.net:1936/xhbzc82/xhbzc82/playlist.m3u8",
-    "logo": "https://i.imgur.com/R3icGuG.png",
+    "logo": "",
     "group": "Entertainment",
     "language": "Spanish"
   },
@@ -39528,7 +39528,7 @@
     "country": "IR",
     "source": "iptv-org",
     "status": "live",
-    "url": "https://ncdn.telewebion.ir/ifilm/live/playlist.m3u8",
+    "url": "https://live.presstv.ir/hls/ifilmfa.m3u8",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/b/b9/IFILM.png",
     "group": "Movies",
     "language": "Persian"
@@ -40436,13 +40436,13 @@
     "language": "Ukrainian"
   },
   {
-    "id": "famelack-tD3Wczppk44E6w",
+    "id": "InterradioTV.cl",
     "name": "Interradio TV",
     "country": "CL",
-    "source": "famelack",
+    "source": "iptv-org",
     "status": "live",
     "url": "https://tv.arkeo.cl:1936/8002/8002/playlist.m3u8",
-    "logo": "",
+    "logo": "https://i.imgur.com/3875n4G.png",
     "group": "Music",
     "language": "Spanish"
   },
@@ -40700,13 +40700,13 @@
     "language": "Arabic"
   },
   {
-    "id": "IqraBangla.uk",
+    "id": "famelack-WNYH3Yw8Ugl7X8",
     "name": "Iqra Bangla",
     "country": "UK",
-    "source": "iptv-org",
+    "source": "famelack",
     "status": "live",
     "url": "https://tvsen3.aynaott.com/EuEy5mBW/index.m3u8",
-    "logo": "https://i.imgur.com/BZBZAeC.png",
+    "logo": "",
     "group": "Religious",
     "language": "Bengali"
   },
@@ -42168,7 +42168,7 @@
     "country": "UK",
     "source": "iptv-org",
     "status": "live",
-    "url": "http://stream.mcquack.net/150/index.m3u8",
+    "url": "http://212.5.144.156:8080/jimjam/index.m3u8",
     "logo": "https://i.imgur.com/ODhkYyx.png",
     "group": "Kids",
     "language": "English"
@@ -44995,7 +44995,7 @@
     "country": "RU",
     "source": "iptv-org",
     "status": "live",
-    "url": "https://stitch.teletarget.ru/api/v1/hls/504/158/index.m3u8",
+    "url": "https://live-3.otcnet.ru/congresstv/index.m3u8",
     "logo": "https://tvcongress.ru/bitrix/templates/mbntheme/img/logo_tvc.svg",
     "group": "General",
     "language": "Russian"
@@ -45166,13 +45166,13 @@
     "language": "Turkish"
   },
   {
-    "id": "KRCTV.ug",
+    "id": "famelack-eDifINkplnvw0I",
     "name": "KRC TV",
     "country": "UG",
-    "source": "iptv-org",
+    "source": "famelack",
     "status": "live",
     "url": "https://channels.ad-ug.com/live/ch03/index.m3u8",
-    "logo": "https://i.imgur.com/8c9Uqks.jpeg",
+    "logo": "",
     "group": "General",
     "language": "English"
   },
@@ -46145,13 +46145,13 @@
     "language": "Spanish"
   },
   {
-    "id": "LaMetroTV.cl",
+    "id": "famelack-ZzdNAxfEPIV96C",
     "name": "La Metro TV",
     "country": "CL",
-    "source": "iptv-org",
+    "source": "famelack",
     "status": "live",
     "url": "https://jireh-8-hls-video-us-isp.dps.live/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea/metropolitanatv/metropolitanatv.smil/playlist.m3u8",
-    "logo": "https://i.imgur.com/0aoI5Zd.jpeg",
+    "logo": "",
     "group": "General",
     "language": "Spanish"
   },
@@ -46420,13 +46420,13 @@
     "language": "Spanish"
   },
   {
-    "id": "LaPuraCremaTelevision.ve",
+    "id": "famelack-QQi0FMbNByIzUs",
     "name": "LaPuraCrema Television",
     "country": "VE",
-    "source": "iptv-org",
+    "source": "famelack",
     "status": "live",
     "url": "https://streamlov.alsolnet.com/lapuracrema/live/playlist.m3u8",
-    "logo": "https://i.imgur.com/EJf1eRt.png",
+    "logo": "",
     "group": "Music",
     "language": "Spanish"
   },
@@ -46524,7 +46524,7 @@
     "country": "MX",
     "source": "iptv-org",
     "status": "live",
-    "url": "http://190.93.224.42/CANAL-LAS-ESTRELLAS/index.m3u8",
+    "url": "http://15.204.246.24:8080/LasEstrellasHD/index.m3u8",
     "logo": "https://i.imgur.com/g5ShxZ7.png",
     "group": "General",
     "language": "Spanish"
@@ -47113,15 +47113,15 @@
     "language": "French"
   },
   {
-    "id": "LeMondeen24h.cd",
+    "id": "famelack-URTHCiUj4sa5bi",
     "name": "Le Monde en 24h",
     "country": "CD",
-    "source": "iptv-org",
+    "source": "famelack",
     "status": "live",
     "url": "https://stream.berosat.live/hls/monde24h-tv-index/monde24h-tv-index.m3u8",
-    "logo": "https://i.imgur.com/2igwi7g.png",
+    "logo": "",
     "group": "News",
-    "language": "French"
+    "language": "English"
   },
   {
     "id": "LenaTV.do",
@@ -47531,13 +47531,13 @@
     "language": "Spanish"
   },
   {
-    "id": "famelack-baxC7ZNvKlaeR7",
+    "id": "LightChannel.bg",
     "name": "Light Channel",
     "country": "BG",
-    "source": "famelack",
+    "source": "iptv-org",
     "status": "live",
     "url": "https://streamer1.streamhost.org/salive/GMIlcbgM/playlist.m3u8",
-    "logo": "",
+    "logo": "https://i.imgur.com/S3Fbf8T.png",
     "group": "Religious",
     "language": "Bulgarian"
   },
@@ -47729,15 +47729,15 @@
     "language": "Finnish"
   },
   {
-    "id": "famelack-ww7twEESZxWUIN",
+    "id": "Live99FM.bq",
     "name": "Live99FM",
     "country": "BQ",
-    "source": "famelack",
+    "source": "iptv-org",
     "status": "live",
     "url": "https://media.streambrothers.com:1936/8014/8014/playlist.m3u8",
-    "logo": "",
+    "logo": "https://i.imgur.com/U43UrQT.png",
     "group": "Music",
-    "language": "English"
+    "language": "Papiamento"
   },
   {
     "id": "LiveIndia.in",
@@ -49027,13 +49027,13 @@
     "language": "Tamil"
   },
   {
-    "id": "MadrasFMTV.gp",
+    "id": "famelack-QxPzLGnZPWA96s",
     "name": "Madras FM TV",
     "country": "GP",
-    "source": "iptv-org",
+    "source": "famelack",
     "status": "live",
     "url": "https://edge12.vedge.infomaniak.com/livecast/ik:madrasfmtv/manifest.m3u8",
-    "logo": "https://i.imgur.com/spGg1CZ.png",
+    "logo": "",
     "group": "Music",
     "language": "French"
   },
@@ -49670,7 +49670,7 @@
     "country": "IN",
     "source": "iptv-org",
     "status": "live",
-    "url": "https://mmtvnews1.akamaized.net/v1/master/673630b269b766886555eebfddd4f27f3de3ab50/mmtvNewsCampaign1/index.m3u8",
+    "url": "https://streams.tangotv.in/MANORAMANEWSNORTH/ORIGIN/index.m3u8",
     "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MANORAMA_NEWS/images/LOGO_HD/LOGO_HD_image.png",
     "group": "News",
     "language": "Malayalam"
@@ -49907,13 +49907,13 @@
     "language": "Persian"
   },
   {
-    "id": "famelack-s6et7OTRECsPuf",
+    "id": "MarkaTV.do",
     "name": "Marka TV",
     "country": "DO",
-    "source": "famelack",
+    "source": "iptv-org",
     "status": "live",
     "url": "https://5790d294af2dc.streamlock.net/markatv/markatv/playlist.m3u8",
-    "logo": "",
+    "logo": "https://www.vivalivetv.com/public/files/shows/0/1/3355-294x165-FFFFFF.jpg",
     "group": "General",
     "language": "Spanish"
   },
@@ -50138,13 +50138,13 @@
     "language": "English"
   },
   {
-    "id": "MasterTV.pe",
+    "id": "famelack-nlIWMt52mBQ3do",
     "name": "Master TV",
     "country": "PE",
-    "source": "iptv-org",
+    "source": "famelack",
     "status": "live",
-    "url": "https://live-evg5.tv360.bitel.com.pe/bitel/mastertvSRT/playlist.m3u8",
-    "logo": "https://i.imgur.com/K2ZimRv.png",
+    "url": "https://live.obslivestream.com/mastertv/index.m3u8",
+    "logo": "",
     "group": "General",
     "language": "Spanish"
   },
@@ -51155,7 +51155,7 @@
     "country": "CL",
     "source": "iptv-org",
     "status": "live",
-    "url": "http://tr.live.clarovtrcdn.vtrplay.com/megahdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
+    "url": "http://15.204.246.24:8080/MEGAHD/index.m3u8",
     "logo": "https://i.imgur.com/RlZfR84.png",
     "group": "General",
     "language": "Spanish"
@@ -52228,13 +52228,13 @@
     "language": "Russian"
   },
   {
-    "id": "Mireasa.ro",
+    "id": "famelack-U81csRB9YHDFcc",
     "name": "Mireasa",
     "country": "RO",
-    "source": "iptv-org",
+    "source": "famelack",
     "status": "live",
     "url": "https://stream1.antenaplay.ro/live/MireasaExtra/playlist.m3u8",
-    "logo": "https://i.imgur.com/k0VO0LH.png",
+    "logo": "",
     "group": "Series",
     "language": "Romanian"
   },
@@ -52404,13 +52404,13 @@
     "language": "English"
   },
   {
-    "id": "famelack-kecW4tkFMBSGg8",
+    "id": "MITurnoTV.do",
     "name": "MI Turno TV",
     "country": "DO",
-    "source": "famelack",
+    "source": "iptv-org",
     "status": "live",
     "url": "https://video.udwn.net:19360/miturnotv/miturnotv.m3u8",
-    "logo": "",
+    "logo": "https://imgur.com/uODDaEY.png",
     "group": "General",
     "language": "Spanish"
   },
@@ -55114,7 +55114,7 @@
     "name": "MuzzOne",
     "country": "KZ",
     "source": "iptv-org",
-    "status": "live",
+    "status": "down",
     "url": "https://streams.adapto.kz/hls/live/muzzone/main_stream.m3u8",
     "logo": "https://i.imgur.com/nHVABXh.png",
     "group": "Music",
@@ -55627,13 +55627,13 @@
     "language": "Oriya (macrolanguage)"
   },
   {
-    "id": "famelack-KKXSDc79SjuRMG",
+    "id": "Nanduti.py",
     "name": "Nanduti",
     "country": "PY",
-    "source": "famelack",
+    "source": "iptv-org",
     "status": "live",
-    "url": "https://nanduti.b-cdn.net/720p.m3u8",
-    "logo": "",
+    "url": "https://nanduti.b-cdn.net/Source.m3u8",
+    "logo": "https://www.desdeparaguay.com/images_hpy/logos/radios/90x90px2/nandutitv.png",
     "group": "News",
     "language": "Spanish"
   },
@@ -56028,7 +56028,7 @@
     "country": "US",
     "source": "iptv-org",
     "status": "live",
-    "url": "https://tvsen3.aynaott.com/7mm4pwCy/index.m3u8",
+    "url": "http://212.5.144.156:8080/natgeo/index.m3u8",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png",
     "group": "Documentary",
     "language": "English"
@@ -56039,7 +56039,7 @@
     "country": "US",
     "source": "iptv-org",
     "status": "live",
-    "url": "http://45.162.193.35/NATGEO/index.m3u8",
+    "url": "http://15.204.246.24:8080/NatGeoHD/index.m3u8",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png",
     "group": "Documentary",
     "language": "Spanish"
@@ -58019,7 +58019,7 @@
     "country": "US",
     "source": "iptv-org",
     "status": "live",
-    "url": "http://177.234.249.178:8888/NICK/index.m3u8",
+    "url": "http://15.204.246.24:8080/NickHD/index.m3u8",
     "logo": "https://i.imgur.com/E84jnP8.png",
     "group": "Kids",
     "language": "Spanish"
@@ -58140,7 +58140,7 @@
     "country": "US",
     "source": "iptv-org",
     "status": "live",
-    "url": "http://tvsen7.aynascope.net/nickjr/index.m3u8",
+    "url": "http://212.5.144.156:8080/nickjr/index.m3u8",
     "logo": "https://i.imgur.com/KT4tdQs.png",
     "group": "Kids",
     "language": "English"
@@ -58487,13 +58487,13 @@
     "language": "Spanish"
   },
   {
-    "id": "NizhniyNovgorod24.ru",
+    "id": "famelack-y0xVte051Kr4xO",
     "name": "Nizhniy Novgorod 24",
     "country": "RU",
-    "source": "iptv-org",
+    "source": "famelack",
     "status": "live",
     "url": "https://live-vestinn.cdnvideo.ru/vestinn/nn24-khl/playlist.m3u8",
-    "logo": "https://i.imgur.com/ZWgPVIC.png",
+    "logo": "",
     "group": "General",
     "language": "Russian"
   },
@@ -59114,13 +59114,13 @@
     "language": "Russian"
   },
   {
-    "id": "Now14.il",
+    "id": "famelack-9JfMUyW3Js7KeX",
     "name": "Now 14",
     "country": "IL",
-    "source": "iptv-org",
+    "source": "famelack",
     "status": "live",
     "url": "https://r.il.cdn-redge.media/livehls/oil/ch14/live/ch14/live.livx/playlist.m3u8",
-    "logo": "https://i.imgur.com/Iq2Kb69.png",
+    "logo": "",
     "group": "General",
     "language": "Hebrew"
   },
@@ -61094,13 +61094,13 @@
     "language": "Dutch"
   },
   {
-    "id": "famelack-OPVnWmOrq7UChn",
+    "id": "OMTV.in",
     "name": "OM TV",
     "country": "IN",
-    "source": "famelack",
+    "source": "iptv-org",
     "status": "live",
     "url": "https://mumt01.tangotv.in/O5aw8Zn3OMTV/index.m3u8",
-    "logo": "",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/OM_TV.png",
     "group": "Religious",
     "language": "Tamil"
   },
@@ -61517,7 +61517,7 @@
     "country": "US",
     "source": "iptv-org",
     "status": "live",
-    "url": "https://jmp2.uk/plu-62cd971cec90c20007081050.m3u8",
+    "url": "https://jmp2.uk/plu-62cdad7b5c38c00007f566c2.m3u8",
     "logo": "https://i.imgur.com/TAmVjUL.png",
     "group": "Documentary",
     "language": "English"
@@ -61809,15 +61809,15 @@
     "language": "Hungarian"
   },
   {
-    "id": "ORTBTV.bj",
+    "id": "famelack-wl2lwPjKKxNRiK",
     "name": "ORTB TV",
     "country": "BJ",
-    "source": "iptv-org",
+    "source": "famelack",
     "status": "live",
     "url": "https://strhls.streamakaci.tv/ortb/ortb1-multi/playlist.m3u8",
-    "logo": "https://i.imgur.com/o6zAR88.png",
+    "logo": "",
     "group": "General",
-    "language": "French"
+    "language": ""
   },
   {
     "id": "ORTM1.ml",
@@ -62100,7 +62100,7 @@
     "country": "US",
     "source": "iptv-org",
     "status": "live",
-    "url": "https://jmp2.uk/plu-66c638726838ee00085ac20d.m3u8",
+    "url": "https://d3o593mz1glx8d.cloudfront.net/OuterSphere_US.m3u8",
     "logo": "https://provider-static.plex.tv/epg/cms/production/f162df8b-6532-43fe-9202-83a658090651/OuterSphere_1500x1000_Logo_Dark_-_Chris_Connors__1_.png",
     "group": "Movies",
     "language": "English"
@@ -62287,7 +62287,7 @@
     "country": "PE",
     "source": "iptv-org",
     "status": "live",
-    "url": "http://vps.chasquirouter.com/salida/ozono.m3u8",
+    "url": "https://live-evg8.tv360.bitel.com.pe/bitel/ozonotv/playlist.m3u8",
     "logo": "https://i.imgur.com/Wkdibpv.png",
     "group": "General",
     "language": "Spanish"
@@ -62386,7 +62386,7 @@
     "country": "BO",
     "source": "iptv-org",
     "status": "live",
-    "url": "https://tv.bitstreaming.net:3234/live/palenquetvlive.m3u8",
+    "url": "http://15.204.246.24:8080/PalenqueTVSD/index.m3u8",
     "logo": "https://i.imgur.com/wAIBvaO.png",
     "group": "General",
     "language": "Spanish"
@@ -62925,7 +62925,7 @@
     "country": "US",
     "source": "iptv-org",
     "status": "live",
-    "url": "http://45.162.193.35/PASIONESHD/index.m3u8",
+    "url": "http://15.204.246.24:8080/PasionesHD/index.m3u8",
     "logo": "https://i.imgur.com/VGnbWjO.png",
     "group": "Entertainment",
     "language": "Spanish"
@@ -68073,7 +68073,7 @@
     "country": "BO",
     "source": "iptv-org",
     "status": "live",
-    "url": "https://s3.tvdatta.com:3846/live/poderdedioslive.m3u8",
+    "url": "http://15.204.246.24:8080/PoderdeDiosHD/index.m3u8",
     "logo": "https://i.imgur.com/jUfRz3L.png",
     "group": "Religious",
     "language": "Spanish"
@@ -68541,13 +68541,13 @@
     "language": "English"
   },
   {
-    "id": "PowerHitRadio.lt",
+    "id": "famelack-UytszlnTgHpVar",
     "name": "Power Hit Radio",
     "country": "LT",
-    "source": "iptv-org",
+    "source": "famelack",
     "status": "live",
     "url": "https://cdnlb.tvplayhome.lt/live/eds/PWR_LTU_Live/GO3_LIVE_HLS/PWR_LTU_Live.m3u8",
-    "logo": "https://i.imgur.com/GOlQbfC.png",
+    "logo": "",
     "group": "Music",
     "language": "Lithuanian"
   },
@@ -69234,13 +69234,13 @@
     "language": "Bengali"
   },
   {
-    "id": "famelack-h6xlBNAG4NibAI",
+    "id": "ProBusiness.ru",
     "name": "Pro Business",
     "country": "RU",
-    "source": "famelack",
+    "source": "iptv-org",
     "status": "live",
     "url": "https://tv-streaming.bsh.ru:21938/probusiness/probusiness.stream/playlist.m3u8",
-    "logo": "",
+    "logo": "https://i.imgur.com/1u8KvTD.png",
     "group": "Business",
     "language": "Russian"
   },
@@ -69828,13 +69828,13 @@
     "language": "French"
   },
   {
-    "id": "PujaTVAceh.id",
+    "id": "famelack-ggkBalQqNc86oy",
     "name": "Puja TV Aceh",
     "country": "ID",
-    "source": "iptv-org",
+    "source": "famelack",
     "status": "live",
     "url": "https://pujatv.siar.us/live/pujatv.m3u8",
-    "logo": "https://i.imgur.com/0TqABCL.png",
+    "logo": "",
     "group": "General",
     "language": "Indonesian"
   },
@@ -71141,7 +71141,7 @@
     "name": "Radio Chiloe",
     "country": "CL",
     "source": "iptv-org",
-    "status": "down",
+    "status": "live",
     "url": "https://videostream.chileservidores.com:8081/chiloe1/index.m3u8",
     "logo": "https://cdn.m3u.cl/logo/409_Radio_Chiloe.png",
     "group": "General",
@@ -71456,13 +71456,13 @@
     "language": "Spanish"
   },
   {
-    "id": "famelack-dfwJqEOqj4nFiU",
+    "id": "RadioIslaTV.pr",
     "name": "Radio Isla TV",
     "country": "PR",
-    "source": "famelack",
+    "source": "iptv-org",
     "status": "live",
     "url": "https://59a564764e2b6.streamlock.net/palestra/palestra/playlist.m3u8",
-    "logo": "",
+    "logo": "https://i.ibb.co/PDThYr5/Logo-Radio-Isla.png",
     "group": "News",
     "language": "Spanish"
   },
@@ -72039,13 +72039,13 @@
     "language": "French"
   },
   {
-    "id": "famelack-2NvBfaKzTD56zL",
+    "id": "RadioTelePlanetCompas.ht",
     "name": "Radio Tele Planet Compas",
     "country": "HT",
-    "source": "famelack",
+    "source": "iptv-org",
     "status": "live",
     "url": "https://5dcab9aed5331.streamlock.net/mrcompas1/livestream/playlist.m3u8",
-    "logo": "",
+    "logo": "https://i.imgur.com/ddb4lsa.png",
     "group": "General",
     "language": "French"
   },
@@ -72244,7 +72244,7 @@
     "status": "live",
     "url": "https://edge.enhdtv.com/8054/index.m3u8",
     "logo": "",
-    "group": "Education",
+    "group": "Culture",
     "language": "Spanish"
   },
   {
@@ -73799,13 +73799,13 @@
     "language": "Spanish"
   },
   {
-    "id": "famelack-crhuDV1URlafW7",
+    "id": "RedRubi.bo",
     "name": "Red Rubi",
     "country": "BO",
-    "source": "famelack",
+    "source": "iptv-org",
     "status": "live",
     "url": "https://59d39900ebfb8.streamlock.net/asiesmipueblo/asiesmipueblo/playlist.m3u8",
-    "logo": "",
+    "logo": "https://i.imgur.com/Y4KOypc.jpeg",
     "group": "General",
     "language": "Spanish"
   },
@@ -74079,7 +74079,7 @@
     "country": "SE",
     "source": "iptv-org",
     "status": "live",
-    "url": "https://jmp2.uk/plu-65e9766eec9fda0008cb418a.m3u8",
+    "url": "https://jmp2.uk/plu-65e977874e01740008c9fb4c.m3u8",
     "logo": "https://images.pluto.tv/channels/65e9766eec9fda0008cb418a/colorLogoSVG.svg",
     "group": "Comedy",
     "language": "English"
@@ -74481,13 +74481,13 @@
     "language": "English"
   },
   {
-    "id": "RevryLatinX.us",
+    "id": "famelack-kVjj1pl2Vz1CiL",
     "name": "Revry LatinX",
     "country": "US",
-    "source": "iptv-org",
+    "source": "famelack",
     "status": "live",
     "url": "https://linear-142.frequency.stream/dist/24i/142/hls/master/playlist.m3u8",
-    "logo": "https://admin.worldlivetv.stream/upload/files/thumbnail/vuth_1676133370_91639_20154.png",
+    "logo": "",
     "group": "Entertainment",
     "language": "English"
   },
@@ -75685,7 +75685,7 @@
     "country": "RU",
     "source": "iptv-org",
     "status": "live",
-    "url": "https://live-evg10.tv360.bitel.com.pe/bitel/rt/playlist.m3u8",
+    "url": "http://15.204.246.24:8080/RTHD/index.m3u8",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/960px-Russia-today-logo.svg.png",
     "group": "News",
     "language": "Spanish"
@@ -76637,13 +76637,13 @@
     "language": "Bengali"
   },
   {
-    "id": "famelack-8GS07KlJ6wtlsy",
+    "id": "RTV.ec",
     "name": "RTV",
     "country": "EC",
-    "source": "famelack",
+    "source": "iptv-org",
     "status": "live",
     "url": "https://sv72.ecuaradiotv.net/rtvhd/live/manifest.m3u8",
-    "logo": "",
+    "logo": "https://i.imgur.com/DzxGHRZ.png",
     "group": "General",
     "language": "Spanish"
   },
@@ -77044,13 +77044,13 @@
     "language": "Dutch"
   },
   {
-    "id": "RTVVida.es",
+    "id": "famelack-69wABBZ5acLQs0",
     "name": "RTV Vida",
     "country": "ES",
-    "source": "iptv-org",
+    "source": "famelack",
     "status": "live",
     "url": "https://vidartv2.todostreaming.es/live/radiovida-emisiontvhd.m3u8",
-    "logo": "https://i.imgur.com/EqUfEAh.png",
+    "logo": "",
     "group": "Music",
     "language": "Spanish"
   },
@@ -78144,13 +78144,13 @@
     "language": "Greek"
   },
   {
-    "id": "SampitTV.id",
+    "id": "famelack-Cx1Butu3HjYB81",
     "name": "Sampit TV",
     "country": "ID",
-    "source": "iptv-org",
+    "source": "famelack",
     "status": "live",
     "url": "https://sampit-tv.siar.us/live/sampit-tv.m3u8",
-    "logo": "https://i.imgur.com/8cFJa8G.png",
+    "logo": "",
     "group": "General",
     "language": "Indonesian"
   },
@@ -79084,7 +79084,7 @@
     "country": "SE",
     "source": "iptv-org",
     "status": "live",
-    "url": "https://jmp2.uk/plu-63a1caefc8d285000799e8af.m3u8",
+    "url": "https://jmp2.uk/plu-63a1c959d9dd51000825d659.m3u8",
     "logo": "https://images.pluto.tv/channels/63a1caefc8d285000799e8af/colorLogoSVG.svg",
     "group": "Series",
     "language": "English"
@@ -79189,13 +79189,13 @@
     "language": "Vietnamese"
   },
   {
-    "id": "SCTV7.vn",
+    "id": "famelack-WDpo6d5ejxs4be",
     "name": "SCTV7",
     "country": "VN",
-    "source": "iptv-org",
+    "source": "famelack",
     "status": "live",
     "url": "https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv7/master.m3u8",
-    "logo": "https://i.imgur.com/xbIUZYd.png",
+    "logo": "",
     "group": "General",
     "language": "Vietnamese"
   },
@@ -79277,24 +79277,24 @@
     "language": "Vietnamese"
   },
   {
-    "id": "famelack-ehPjIuRierqOaC",
+    "id": "SCTV19.vn",
     "name": "SCTV19",
     "country": "VN",
-    "source": "famelack",
+    "source": "iptv-org",
     "status": "live",
     "url": "https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv19/master.m3u8",
-    "logo": "",
+    "logo": "https://i.imgur.com/yBAFZRs.png",
     "group": "General",
     "language": "Vietnamese"
   },
   {
-    "id": "famelack-X4tYDhUYfh2xFy",
+    "id": "SCTV20.vn",
     "name": "SCTV20",
     "country": "VN",
-    "source": "famelack",
+    "source": "iptv-org",
     "status": "live",
     "url": "https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv20/master.m3u8",
-    "logo": "",
+    "logo": "https://i.imgur.com/7ABZhfZ.png",
     "group": "General",
     "language": "Vietnamese"
   },
@@ -81708,13 +81708,13 @@
     "language": "English"
   },
   {
-    "id": "SNNTV.ir",
+    "id": "famelack-yBa18DitYklzQT",
     "name": "SNN TV",
     "country": "IR",
-    "source": "iptv-org",
+    "source": "famelack",
     "status": "live",
     "url": "https://live2.snn.ir/hls/snn2_hd720/index.m3u8",
-    "logo": "https://i.imgur.com/V8DYqMJ.png",
+    "logo": "",
     "group": "News",
     "language": "Persian"
   },
@@ -82005,13 +82005,13 @@
     "language": "Ukrainian"
   },
   {
-    "id": "SongdewTV.in",
+    "id": "famelack-utV4367IngaBGu",
     "name": "Songdew TV",
     "country": "IN",
-    "source": "iptv-org",
+    "source": "famelack",
     "status": "live",
     "url": "https://yuppnimrestreammum.akamaized.net/181224/smil:songdewtv.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/SongDew_TV.png",
+    "logo": "",
     "group": "Music",
     "language": "Hindi"
   },
@@ -82142,7 +82142,7 @@
     "country": "US",
     "source": "iptv-org",
     "status": "live",
-    "url": "http://177.234.249.178:8888/SONY-TV/index.m3u8",
+    "url": "http://15.204.246.24:8080/SonyHD/index.m3u8",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Sony_Channel_Logo.png/960px-Sony_Channel_Logo.png",
     "group": "General",
     "language": "Spanish"
@@ -83308,7 +83308,7 @@
     "country": "IT",
     "source": "iptv-org",
     "status": "live",
-    "url": "https://italiansport-solocalcio-samsung.amagi.tv/playlist.m3u8",
+    "url": "https://edge-001.streamup.eu/sportitalia/sisolocalcio_abr/playlist.m3u8",
     "logo": "https://i.imgur.com/hu56Ya5.png",
     "group": "Sports",
     "language": "Italian"
@@ -83715,7 +83715,7 @@
     "country": "US",
     "source": "iptv-org",
     "status": "live",
-    "url": "http://45.162.193.35/STAR_CHANNEL/index.m3u8",
+    "url": "http://15.204.246.24:8080/STARCHANNELHD/index.m3u8",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/960px-Star_Channel_2020.svg.png",
     "group": "Movies",
     "language": "Spanish"
@@ -83908,13 +83908,13 @@
     "language": "Telugu"
   },
   {
-    "id": "famelack-FcRvyBZVm1fiOO",
+    "id": "StarMaaMovies.in",
     "name": "Star Maa Movies",
     "country": "IN",
-    "source": "famelack",
+    "source": "iptv-org",
     "status": "live",
     "url": "https://da86m1sqpm3o0.cloudfront.net/28072023/smil:maamovies.smil/chunklist_b2628000.m3u8",
-    "logo": "",
+    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_MAA_MOVIES/images/LOGO_HD/LOGO_HD_image.png",
     "group": "Movies",
     "language": "Telugu"
   },
@@ -83996,13 +83996,13 @@
     "language": "Macedonian"
   },
   {
-    "id": "StarPravah.in",
+    "id": "famelack-BBXONIkr0LlqvB",
     "name": "Star Pravah",
     "country": "IN",
-    "source": "iptv-org",
+    "source": "famelack",
     "status": "live",
     "url": "https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starpravah.smil/chunklist_b1928000.m3u8",
-    "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_PRAVAH/images/LOGO_HD/image.png",
+    "logo": "",
     "group": "Entertainment",
     "language": "Marathi"
   },
@@ -84122,7 +84122,7 @@
     "country": "SE",
     "source": "iptv-org",
     "status": "live",
-    "url": "https://jmp2.uk/plu-6400c281dff38e00083f59da.m3u8",
+    "url": "https://jmp2.uk/plu-6400c228498393000878a9b7.m3u8",
     "logo": "https://images.pluto.tv/channels/6400c281dff38e00083f59da/colorLogoSVG.svg",
     "group": "Movies",
     "language": "English"
@@ -84166,7 +84166,7 @@
     "country": "SE",
     "source": "iptv-org",
     "status": "live",
-    "url": "https://jmp2.uk/plu-693add137e308621c051e733.m3u8",
+    "url": "https://jmp2.uk/plu-693addd62bf6cf7414c4b2fc.m3u8",
     "logo": "https://images.pluto.tv/channels/693add137e308621c051e733/colorLogoSVG_1765465486347.svg",
     "group": "Movies",
     "language": "English"
@@ -85002,7 +85002,7 @@
     "country": "US",
     "source": "iptv-org",
     "status": "live",
-    "url": "http://45.162.193.35/STUDIO-UNIVERSAL/index.m3u8",
+    "url": "http://15.204.246.24:8080/StudioUniversalHD/index.m3u8",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/StudioUniversal2016.png/960px-StudioUniversal2016.png",
     "group": "General",
     "language": "Spanish"
@@ -85470,13 +85470,13 @@
     "language": "Italian"
   },
   {
-    "id": "SuperQPanama.pa",
+    "id": "famelack-wPlSUCmwkpBR6B",
     "name": "Super Q Panama",
     "country": "PA",
-    "source": "iptv-org",
+    "source": "famelack",
     "status": "live",
     "url": "https://vcp8.myplaytv.com:1936/superq/superq/playlist.m3u8",
-    "logo": "https://i.imgur.com/ocTnqi7.png",
+    "logo": "",
     "group": "Music",
     "language": "Spanish"
   },
@@ -85635,13 +85635,13 @@
     "language": "English"
   },
   {
-    "id": "famelack-nBCtUGxdm8WZSP",
+    "id": "SuramTV.co",
     "name": "Suram TV",
     "country": "CO",
-    "source": "famelack",
+    "source": "iptv-org",
     "status": "live",
     "url": "https://us.streaminghd.cl/suramtv/index.m3u8",
-    "logo": "",
+    "logo": "https://i.imgur.com/2N9LCES.png",
     "group": "General",
     "language": "Spanish"
   },
@@ -86773,7 +86773,7 @@
     "country": "UK",
     "source": "iptv-org",
     "status": "live",
-    "url": "https://tvsen6.aynaott.com/talkSPORT/index.m3u8",
+    "url": "https://af7a8b4e.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2JfdGFsa1NQT1JUX0hMUw/playlist.m3u8",
     "logo": "https://upload.wikimedia.org/wikipedia/en/9/9d/Talksport_logo.png",
     "group": "Sports",
     "language": "English"
@@ -87158,7 +87158,7 @@
     "country": "US",
     "source": "iptv-org",
     "status": "live",
-    "url": "https://a-cdn.klowdtv.com/live3/tbn_720p/playlist.m3u8",
+    "url": "http://212.5.144.156:8080/tbn/index.m3u8",
     "logo": "https://upload.wikimedia.org/wikipedia/en/5/50/Jewelry_television_logo.png",
     "group": "Religious",
     "language": "English"
@@ -87604,13 +87604,13 @@
     "language": "Spanish"
   },
   {
-    "id": "TELE6.bo",
+    "id": "famelack-VvgjeRVvJxgn4n",
     "name": "TELE 6",
     "country": "BO",
-    "source": "iptv-org",
+    "source": "famelack",
     "status": "live",
     "url": "https://lbgo.bozztv.com/ssh101/ssh101/tele6/playlist.m3u8",
-    "logo": "https://i.imgur.com/p7tt72X.png",
+    "logo": "",
     "group": "General",
     "language": "Spanish"
   },
@@ -87923,13 +87923,13 @@
     "language": "Spanish"
   },
   {
-    "id": "famelack-hOGgRxhyqTyz2f",
+    "id": "TeleCauquenes.cl",
     "name": "TeleCauquenes",
     "country": "CL",
-    "source": "famelack",
+    "source": "iptv-org",
     "status": "live",
     "url": "https://lbgo.bozztv.com/ssh101/ssh101/telecauquenestv/playlist.m3u8",
-    "logo": "",
+    "logo": "https://i.imgur.com/cNYDqhp.png",
     "group": "News",
     "language": "Spanish"
   },
@@ -88275,13 +88275,13 @@
     "language": "Spanish"
   },
   {
-    "id": "Teleganes.es",
+    "id": "famelack-QXO7Ca6Qev84ww",
     "name": "Teleganes",
     "country": "ES",
-    "source": "iptv-org",
+    "source": "famelack",
     "status": "live",
     "url": "https://nlb2-live.emitstream.com/hls/5z6oj7ziwxzfnj78vg2m/master.m3u8",
-    "logo": "https://i.imgur.com/BXyplMX.png",
+    "logo": "",
     "group": "General",
     "language": "Spanish"
   },
@@ -89045,15 +89045,15 @@
     "language": "Hungarian"
   },
   {
-    "id": "famelack-AQeWbLOE28icaP",
+    "id": "TelePam.us",
     "name": "Tele Pam",
     "country": "US",
-    "source": "famelack",
+    "source": "iptv-org",
     "status": "live",
     "url": "https://watch.haitilive.net/app/2020/telepam/index.fmp4.m3u8",
-    "logo": "",
+    "logo": "https://i.ibb.co/xMYMyHh/telepammmm.png",
     "group": "General",
-    "language": "English"
+    "language": "French"
   },
   {
     "id": "Telepavia.it",
@@ -89166,13 +89166,13 @@
     "language": "Spanish"
   },
   {
-    "id": "famelack-Trv0qhh1KEwG1G",
+    "id": "TeleRadioNorte.do",
     "name": "TeleRadioNorte",
     "country": "DO",
-    "source": "famelack",
+    "source": "iptv-org",
     "status": "live",
     "url": "https://angelistic.live:3785/live/tvoficiallive.m3u8",
-    "logo": "",
+    "logo": "https://i.imgur.com/s43eFy0.png",
     "group": "General",
     "language": "Spanish"
   },
@@ -91470,7 +91470,7 @@
     "country": "PY",
     "source": "iptv-org",
     "status": "live",
-    "url": "https://stmv7.voxtvhd.com.br/xxvideo/xxvideo/playlist.m3u8",
+    "url": "https://lbgo.bozztv.com/ssh101/ssh101/events2py/playlist.m3u8",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Tigo_Sports_2025.png/960px-Tigo_Sports_2025.png",
     "group": "Sports",
     "language": "Spanish"
@@ -91641,13 +91641,13 @@
     "language": "French"
   },
   {
-    "id": "TirolTV.at",
+    "id": "famelack-YQPekJKCEusA1c",
     "name": "Tirol TV",
     "country": "AT",
-    "source": "iptv-org",
+    "source": "famelack",
     "status": "live",
     "url": "https://streaming14.huberwebmedia.at/LiveApp/streams/livestream.m3u8",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/TIROL_TV_Logo_2019.png/960px-TIROL_TV_Logo_2019.png",
+    "logo": "",
     "group": "General",
     "language": "German"
   },
@@ -93141,7 +93141,7 @@
     "name": "Tra Vinh TV",
     "country": "VN",
     "source": "iptv-org",
-    "status": "live",
+    "status": "down",
     "url": "https://live.fptplay53.net/epzsd1/vinhlong5_vhls.smil/chunklist.m3u8",
     "logo": "https://i.imgur.com/F12VdKO.png",
     "group": "Culture",
@@ -93423,13 +93423,13 @@
     "language": "Italian"
   },
   {
-    "id": "TRT1.tr",
+    "id": "famelack-e8zax7Tb0zc8Eu",
     "name": "TRT 1",
     "country": "TR",
-    "source": "iptv-org",
+    "source": "famelack",
     "status": "live",
     "url": "https://tv-trt1.medya.trt.com.tr/master.m3u8",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/TRT_1_logo_%282021-%29.svg/960px-TRT_1_logo_%282021-%29.svg.png",
+    "logo": "",
     "group": "General",
     "language": "Turkish"
   },
@@ -93467,13 +93467,13 @@
     "language": "Greek"
   },
   {
-    "id": "TRT.ve",
+    "id": "famelack-rO6eV79GxNqt7n",
     "name": "TRT",
     "country": "VE",
-    "source": "iptv-org",
+    "source": "famelack",
     "status": "live",
     "url": "https://vcp12.myplaytv.com/trt/trt/playlist.m3u8",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/6/67/Canal_trt_logo.PNG",
+    "logo": "",
     "group": "General",
     "language": "Spanish"
   },
@@ -93511,13 +93511,13 @@
     "language": "Turkish"
   },
   {
-    "id": "TRTCocuk.tr",
+    "id": "famelack-YCPZsdEDhEaJOB",
     "name": "TRT Cocuk",
     "country": "TR",
-    "source": "iptv-org",
+    "source": "famelack",
     "status": "live",
     "url": "https://tv-trtcocuk.medya.trt.com.tr/master.m3u8",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/TRT_%C3%87ocuk_logo_%282021%29.svg/960px-TRT_%C3%87ocuk_logo_%282021%29.svg.png",
+    "logo": "",
     "group": "Kids",
     "language": "Turkish"
   },
@@ -95260,13 +95260,13 @@
     "language": "Portuguese"
   },
   {
-    "id": "famelack-pP6SnedE0hiHpP",
+    "id": "TVArapuan.br",
     "name": "TV Arapuan",
     "country": "BR",
-    "source": "famelack",
+    "source": "iptv-org",
     "status": "live",
     "url": "https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8",
-    "logo": "",
+    "logo": "https://i.imgur.com/3395A2h.png",
     "group": "General",
     "language": "Portuguese"
   },
@@ -95650,19 +95650,19 @@
     "country": "NG",
     "source": "iptv-org",
     "status": "live",
-    "url": "https://tvce.gridpapaservers.com/TVCSEPT/ngrp:myStream_all/playlist.m3u8",
+    "url": "http://212.5.144.156:8080/tvc/index.m3u8",
     "logo": "https://i.imgur.com/ReV8R5S.png",
     "group": "General",
     "language": "English"
   },
   {
-    "id": "TVCa.sv",
+    "id": "famelack-2fDbweulZuyK2h",
     "name": "TVCa",
     "country": "SV",
-    "source": "iptv-org",
+    "source": "famelack",
     "status": "live",
     "url": "https://live20.bozztv.com/akamaissh101/ssh101/tvcaelsalvador/playlist.m3u8",
-    "logo": "https://i.imgur.com/uPWWtCA.png",
+    "logo": "",
     "group": "Religious",
     "language": "Spanish"
   },
@@ -95810,13 +95810,13 @@
     "language": "Dutch"
   },
   {
-    "id": "TVCARiBLatino.sx",
+    "id": "famelack-6rzlGn5vI0TLE3",
     "name": "TVCARiB Latino",
     "country": "SX",
-    "source": "iptv-org",
+    "source": "famelack",
     "status": "live",
     "url": "https://cdn.mycloudstream.io/hls/live/broadcast/xn44vdc5/index.m3u8",
-    "logo": "https://i.imgur.com/fvGlwKo.png",
+    "logo": "",
     "group": "Entertainment",
     "language": "Spanish"
   },
@@ -95887,13 +95887,13 @@
     "language": "Spanish"
   },
   {
-    "id": "famelack-OPNVhQbPeZ6MyD",
+    "id": "TVCentroHD.hn",
     "name": "TV Centro HD",
     "country": "HN",
-    "source": "famelack",
+    "source": "iptv-org",
     "status": "live",
     "url": "https://cloud2.streaminglivehd.com:1936/8032/8032/playlist.m3u8",
-    "logo": "",
+    "logo": "https://i.imgur.com/bcfmqHb.png",
     "group": "General",
     "language": "Spanish"
   },
@@ -96376,7 +96376,7 @@
     "country": "BR",
     "source": "iptv-org",
     "status": "live",
-    "url": "http://selpro1348.procergs.com.br:1935/tve/stve/playlist.m3u8",
+    "url": "http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/TVE_Bahia_logo.svg/960px-TVE_Bahia_logo.svg.png",
     "group": "General",
     "language": "Portuguese"
@@ -96492,14 +96492,14 @@
     "language": "Albanian"
   },
   {
-    "id": "famelack-eTCuy4QKHtum76",
+    "id": "TVERS.br",
     "name": "TVE RS",
     "country": "BR",
-    "source": "famelack",
+    "source": "iptv-org",
     "status": "live",
     "url": "https://streaming.procergs.com.br:8443/tve/stve/playlist.m3u8",
-    "logo": "",
-    "group": "Education",
+    "logo": "https://i.imgur.com/MQ6lJpS.png",
+    "group": "Culture",
     "language": "Portuguese"
   },
   {
@@ -96569,13 +96569,13 @@
     "language": "Spanish"
   },
   {
-    "id": "famelack-usETpjVP1bzVNN",
+    "id": "TVFamille.mq",
     "name": "TV Famille",
     "country": "MQ",
-    "source": "famelack",
+    "source": "iptv-org",
     "status": "live",
     "url": "https://streamer1.streamhost.org/salive/GMItvfh/playlist.m3u8",
-    "logo": "",
+    "logo": "https://i.imgur.com/Kbfihk5.png",
     "group": "Family",
     "language": "French"
   },
@@ -97927,7 +97927,7 @@
     "country": "CL",
     "source": "iptv-org",
     "status": "live",
-    "url": "http://45.162.193.35/TVN/index.m3u8",
+    "url": "http://15.204.246.24:8080/TVNHD/index.m3u8",
     "logo": "https://i.imgur.com/3FKZHL4.png",
     "group": "General",
     "language": "Spanish"
@@ -100012,13 +100012,13 @@
     "language": "English"
   },
   {
-    "id": "TVSyri.xk",
+    "id": "famelack-K7EjioStSyXmA8",
     "name": "TV Syri",
     "country": "XK",
-    "source": "iptv-org",
+    "source": "famelack",
     "status": "live",
     "url": "https://gjirafa-video-live.gjirafa.net/gjvideo-live/xej-xnb-ba0-kup/index.m3u8",
-    "logo": "https://i.imgur.com/ZQuFosn.png",
+    "logo": "",
     "group": "General",
     "language": "Albanian"
   },
@@ -100078,13 +100078,13 @@
     "language": "Indonesian"
   },
   {
-    "id": "famelack-RR1JUgMyYIDOOG",
+    "id": "TVTerceiroAnjo.br",
     "name": "TV Terceiro Anjo",
     "country": "BR",
-    "source": "famelack",
+    "source": "iptv-org",
     "status": "live",
     "url": "https://streamer1.streamhost.org/salive/GMI3anjoh/playlist.m3u8",
-    "logo": "",
+    "logo": "https://i.imgur.com/PExKWNv.png",
     "group": "Religious",
     "language": "Portuguese"
   },
@@ -100760,13 +100760,13 @@
     "language": "Indonesian"
   },
   {
-    "id": "famelack-dbLCjbraoPInRW",
+    "id": "UchuTV.pe",
     "name": "Uchu TV",
     "country": "PE",
-    "source": "famelack",
+    "source": "iptv-org",
     "status": "live",
     "url": "https://live-evg11.tv360.bitel.com.pe/bitel/ucayalitvSRT/playlist.m3u8",
-    "logo": "",
+    "logo": "https://i.imgur.com/xYGkUR9.png",
     "group": "General",
     "language": "Spanish"
   },
@@ -100980,13 +100980,13 @@
     "language": "Italian"
   },
   {
-    "id": "UMCTV.co",
+    "id": "famelack-lOEoXHnp8Sj0dx",
     "name": "UMC TV",
     "country": "CO",
-    "source": "iptv-org",
+    "source": "famelack",
     "status": "live",
     "url": "https://streaming5.globalhostla.com/rtplive/unamirad/playlist.m3u8",
-    "logo": "https://i.imgur.com/YQUK4wO.png",
+    "logo": "",
     "group": "Outdoor",
     "language": "Spanish"
   },
@@ -101117,7 +101117,7 @@
     "country": "SE",
     "source": "iptv-org",
     "status": "live",
-    "url": "https://jmp2.uk/plu-61c1900995f417000731a002.m3u8",
+    "url": "https://jmp2.uk/plu-61c1e1c445b45d0007aad03e.m3u8",
     "logo": "https://images.pluto.tv/channels/61c1e1c445b45d0007aad03e/colorLogoSVG.svg",
     "group": "Series",
     "language": "English"
@@ -101227,7 +101227,7 @@
     "country": "RU",
     "source": "iptv-org",
     "status": "live",
-    "url": "https://stream8.cinerama.uz/1033/tracks-v1a1/mono.m3u8",
+    "url": "http://45.145.32.13:20440/nauka/index.m3u8?token=test",
     "logo": "https://i.imgur.com/kSJZjDL.png",
     "group": "General",
     "language": "Russian"
@@ -101299,13 +101299,13 @@
     "language": "Spanish"
   },
   {
-    "id": "UniregionTV.cl",
+    "id": "famelack-ZqzRyp1MEdnIBq",
     "name": "Uniregion TV",
     "country": "CL",
-    "source": "iptv-org",
+    "source": "famelack",
     "status": "live",
     "url": "https://5ff3d9babae13.streamlock.net/ubyecbxnfd/ubyecbxnfd/playlist.m3u8",
-    "logo": "https://i.imgur.com/VEO6aos.png",
+    "logo": "",
     "group": "General",
     "language": "Spanish"
   },
@@ -101321,14 +101321,14 @@
     "language": "Spanish"
   },
   {
-    "id": "UnisulTV.br",
+    "id": "famelack-7UeLUueVRqvHR1",
     "name": "Unisul TV",
     "country": "BR",
-    "source": "iptv-org",
+    "source": "famelack",
     "status": "live",
     "url": "https://sitetv.brasilstream.com.br/hls/sitetv/index.m3u8?token=",
-    "logo": "https://i.imgur.com/N0TvAFz.png",
-    "group": "Education",
+    "logo": "",
+    "group": "Culture",
     "language": "Portuguese"
   },
   {
@@ -101354,13 +101354,13 @@
     "language": "English"
   },
   {
-    "id": "Unitel.pe",
+    "id": "famelack-EfKZO2yd4jlLmt",
     "name": "Unitel",
     "country": "PE",
-    "source": "iptv-org",
+    "source": "famelack",
     "status": "live",
     "url": "https://play.agenciastreaming.com:8081/uniteltv/index.m3u8",
-    "logo": "https://i.imgur.com/F0PWpyc.png",
+    "logo": "",
     "group": "General",
     "language": "Spanish"
   },
@@ -101436,7 +101436,7 @@
     "country": "US",
     "source": "iptv-org",
     "status": "live",
-    "url": "http://138.121.15.230:9002/UNIVERSAL-CHANNEL/index.m3u8",
+    "url": "http://15.204.246.24:8080/UniversalHD/index.m3u8",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/960px-Universal_TV_logo.svg.png",
     "group": "General",
     "language": "Spanish"
@@ -101464,13 +101464,13 @@
     "language": "Spanish"
   },
   {
-    "id": "UniverTV.ru",
+    "id": "famelack-3OOeiozk8ilduN",
     "name": "Univer TV",
     "country": "RU",
-    "source": "iptv-org",
+    "source": "famelack",
     "status": "live",
     "url": "https://cdn.universmotri.ru/live/smil:mbr.smil/playlist.m3u8",
-    "logo": "https://i.imgur.com/r3u0mxr.png",
+    "logo": "",
     "group": "General",
     "language": "Russian"
   },
@@ -101546,7 +101546,7 @@
     "country": "US",
     "source": "iptv-org",
     "status": "live",
-    "url": "https://jmp2.uk/plu-5bd05b4694d45d266bc951f2.m3u8",
+    "url": "https://jmp2.uk/plu-62e924f2be69bc0007b7d53d.m3u8",
     "logo": "https://i.imgur.com/De3khrX.png",
     "group": "Series",
     "language": "English"
@@ -102333,13 +102333,13 @@
     "language": "Spanish"
   },
   {
-    "id": "VCV.in",
+    "id": "famelack-dB4Xrylwq58w1o",
     "name": "VCV",
     "country": "IN",
-    "source": "iptv-org",
+    "source": "famelack",
     "status": "live",
     "url": "https://5a1178b42cc03.streamlock.net/8210/8210/playlist.m3u8",
-    "logo": "https://i.imgur.com/KbU36xI.png",
+    "logo": "",
     "group": "General",
     "language": "Malayalam"
   },
@@ -103020,7 +103020,7 @@
     "country": "UA",
     "source": "iptv-org",
     "status": "live",
-    "url": "https://flash1.bogulus1.cfd/tivi10/usergenrxs4f7zc.m3u8",
+    "url": "http://176.61.157.250/TV1000/index.m3u8",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Viasat_Kino_Logo_2025.svg",
     "group": "Movies",
     "language": "Russian"
@@ -103493,7 +103493,7 @@
     "country": "VN",
     "source": "iptv-org",
     "status": "live",
-    "url": "https://dethich.pw/thvl1/index.m3u8",
+    "url": "http://125hvt.ddns.net:21585/thvl1/playlist.m3u8",
     "logo": "https://i.imgur.com/5YFsqPx.png",
     "group": "News",
     "language": "Vietnamese"
@@ -103504,7 +103504,7 @@
     "country": "VN",
     "source": "iptv-org",
     "status": "live",
-    "url": "https://dethich.pw/thvl2/index.m3u8",
+    "url": "https://1011154949.vnns.net/CDN-FPT02/THVL2-HD-1080p/playlist.m3u8",
     "logo": "https://i.imgur.com/iluoazf.png",
     "group": "Culture",
     "language": "Vietnamese"
@@ -104126,13 +104126,13 @@
     "language": "Russian"
   },
   {
-    "id": "famelack-uLnAaMvBQP6gl2",
+    "id": "VosTV.bo",
     "name": "Vos TV",
     "country": "BO",
-    "source": "famelack",
+    "source": "iptv-org",
     "status": "live",
-    "url": "https://59d39900ebfb8.streamlock.net/vostv/vostv/playlist.m3u8",
-    "logo": "",
+    "url": "http://15.204.246.24:8080/VOSTVHD/index.m3u8",
+    "logo": "https://i.imgur.com/Cm1Xjeq.png",
     "group": "General",
     "language": "Spanish"
   },
@@ -104318,7 +104318,7 @@
     "country": "VN",
     "source": "iptv-org",
     "status": "live",
-    "url": "https://dethich.pw/vtv1/index.m3u8",
+    "url": "https://live.fptplay53.net/fnxch2/vtv1hd_abr.smil/chunklist.m3u8",
     "logo": "https://i.imgur.com/vZYlGIW.png",
     "group": "General",
     "language": "Vietnamese"
@@ -104329,7 +104329,7 @@
     "country": "VN",
     "source": "iptv-org",
     "status": "live",
-    "url": "https://dethich.pw/vtv2/index.m3u8",
+    "url": "http://125hvt.ddns.net:21585/vtv2/playlist.m3u8",
     "logo": "https://i.imgur.com/qWWpYRR.png",
     "group": "General",
     "language": "Vietnamese"
@@ -104340,7 +104340,7 @@
     "country": "VN",
     "source": "iptv-org",
     "status": "live",
-    "url": "https://dethich.pw/vtv3/index.m3u8",
+    "url": "https://live.fptplay53.net/fnxch2/vtv3hd_abr.smil/chunklist.m3u8",
     "logo": "https://i.imgur.com/4lJG1fu.png",
     "group": "General",
     "language": "Vietnamese"
@@ -104362,7 +104362,7 @@
     "country": "VN",
     "source": "iptv-org",
     "status": "live",
-    "url": "https://dethich.pw/vtv5/index.m3u8",
+    "url": "https://live.fptplay53.net/epzch2/vtv5hd_abr.smil/chunklist.m3u8",
     "logo": "https://i.imgur.com/Vnnna1C.png",
     "group": "General",
     "language": "Vietnamese"
@@ -104394,7 +104394,7 @@
     "name": "VTV6",
     "country": "VN",
     "source": "iptv-org",
-    "status": "live",
+    "status": "down",
     "url": "https://live-a.fptplay53.net/live/media/vtv6/live247-hls-avc/index.m3u8",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/VTV6_logo_2026_final.svg/960px-VTV6_logo_2026_final.svg.png",
     "group": "Sports",
@@ -104406,7 +104406,7 @@
     "country": "VN",
     "source": "iptv-org",
     "status": "live",
-    "url": "https://dethich.pw/vtv7/index.m3u8",
+    "url": "https://live.fptplay53.net/fnxhd1/vtv7hd_vhls.smil/chunklist.m3u8",
     "logo": "https://i.imgur.com/ZwoP823.png",
     "group": "General",
     "language": "Vietnamese"
@@ -104416,7 +104416,7 @@
     "name": "VTV8",
     "country": "VN",
     "source": "iptv-org",
-    "status": "live",
+    "status": "down",
     "url": "https://live.fptplay53.net/epzhd1/vtv8hd_vhls.smil/chunklist.m3u8",
     "logo": "https://i.imgur.com/rf9adGJ.png",
     "group": "General",
@@ -104428,7 +104428,7 @@
     "country": "VN",
     "source": "iptv-org",
     "status": "live",
-    "url": "https://dethich.pw/vtv9/index.m3u8",
+    "url": "https://live.fptplay53.net/fnxhd1/vtv9_vhls.smil/chunklist.m3u8",
     "logo": "https://i.imgur.com/QiY55sy.png",
     "group": "General",
     "language": "Vietnamese"
@@ -104438,7 +104438,7 @@
     "name": "VTV10",
     "country": "VN",
     "source": "iptv-org",
-    "status": "live",
+    "status": "down",
     "url": "https://live-a.fptplay53.net/live/media/vtv10/live247-hls-avc/index.m3u8",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/VTV10_logo_2026.png/960px-VTV10_logo_2026.png",
     "group": "General",
@@ -104472,7 +104472,7 @@
     "country": "ID",
     "source": "iptv-org",
     "status": "live",
-    "url": "https://flv.intechmedia.net/live/ch107.m3u8",
+    "url": "http://ikitv.sqn.at:8000/play/a023/index.m3u8",
     "logo": "https://i.postimg.cc/cJRJr3BR/2560px-VTV-Indonesia-White-2023-svg.png",
     "group": "Kids",
     "language": "Indonesian"
@@ -104670,7 +104670,7 @@
     "country": "US",
     "source": "iptv-org",
     "status": "live",
-    "url": "https://jmp2.uk/plu-635659445b4c4700076d2ad1.m3u8",
+    "url": "https://jmp2.uk/plu-62a0ae8b2241f500073e0925.m3u8",
     "logo": "https://i.imgur.com/0N7EhuD.png",
     "group": "Series",
     "language": "French"
@@ -104967,7 +104967,7 @@
     "country": "DE",
     "source": "iptv-org",
     "status": "live",
-    "url": "https://wdrfs247.akamaized.net/hls/live/681509/wdr_msl4_fs247/index.m3u8",
+    "url": "https://wdrfsww247.akamaized.net/hls/live/2009628/wdr_msl4_fs247ww/master.m3u8",
     "logo": "https://i.imgur.com/RbqDMYx.png",
     "group": "Entertainment",
     "language": "German"
@@ -105219,7 +105219,7 @@
     "name": "West Azerbaijan TV",
     "country": "IR",
     "source": "iptv-org",
-    "status": "live",
+    "status": "down",
     "url": "https://ncdn.telewebion.ir/azarbayjangharbi/live/playlist.m3u8",
     "logo": "https://upload.wikimedia.org/wikipedia/fa/thumb/2/21/Urmia_TV.svg/960px-Urmia_TV.svg.png",
     "group": "General",
@@ -105996,13 +105996,13 @@
     "language": "English"
   },
   {
-    "id": "XHBZCTDT.mx",
+    "id": "famelack-H0OAJ7XIO9zEZF",
     "name": "XHBZC-TDT",
     "country": "MX",
-    "source": "iptv-org",
+    "source": "famelack",
     "status": "live",
     "url": "https://s5.mexside.net:1936/xhbzc81/xhbzc81/playlist.m3u8",
-    "logo": "https://i.imgur.com/R3icGuG.png",
+    "logo": "",
     "group": "General",
     "language": "Spanish"
   },
@@ -106166,7 +106166,7 @@
     "country": "NL",
     "source": "iptv-org",
     "status": "live",
-    "url": "https://jmp2.uk/plu-623b92a2ccefed0007b1db48.m3u8",
+    "url": "https://pb-wgi5ljoabjgdm.akamaized.net/XITE_Countrys_Finest.m3u8",
     "logo": "https://provider-static.plex.tv/epg/cms/production/511ebc88-a7f7-4f6d-85ff-38c849bbb4a3/xiteclassiccountry_logo_light_-_Arlette_FiranRDX.png",
     "group": "Music",
     "language": "English"
@@ -106337,13 +106337,13 @@
     "language": "Spanish"
   },
   {
-    "id": "famelack-qZaR37EtRhf6Wl",
+    "id": "XtraTv.do",
     "name": "Xtra Tv",
     "country": "DO",
-    "source": "famelack",
+    "source": "iptv-org",
     "status": "live",
     "url": "https://edge.essastream.com/xtratv/index.m3u8",
-    "logo": "",
+    "logo": "https://xtratvrd.com/logo512.png",
     "group": "General",
     "language": "Spanish"
   },
@@ -110194,7 +110194,7 @@
     "status": "live",
     "url": "https://d1wphzgkgc.map.azionedge.net/bemmaistv01/bemmaistv01/playlist.m3u8",
     "logo": "",
-    "group": "Education",
+    "group": "Culture",
     "language": "Portuguese"
   },
   {
@@ -110370,7 +110370,7 @@
     "status": "live",
     "url": "https://d3qwwydnxv5vo9.cloudfront.net/v1/bloomberg_quicktake_3/samsungheadend_us/latest/main/hls/playlist.m3u8",
     "logo": "",
-    "group": "Business",
+    "group": "Documentary",
     "language": "English"
   },
   {
@@ -112196,7 +112196,7 @@
     "status": "live",
     "url": "https://www.youtube-nocookie.com/embed/Df3g76Y25gs",
     "logo": "",
-    "group": "Entertainment",
+    "group": "General",
     "language": "Portuguese"
   },
   {
@@ -116255,7 +116255,7 @@
     "status": "live",
     "url": "https://www.youtube-nocookie.com/embed/VfZVHvJYUBY",
     "logo": "",
-    "group": "Classic",
+    "group": "Series",
     "language": "English"
   },
   {
@@ -118202,7 +118202,7 @@
     "status": "live",
     "url": "https://stream-204968.castr.net/64e0c91d08bff3041638aee3/live_a16fa020f4c411f09ddaa1978319689a/index.m3u8",
     "logo": "",
-    "group": "Lifestyle",
+    "group": "News",
     "language": "Spanish"
   },
   {
@@ -118796,7 +118796,7 @@
     "status": "live",
     "url": "https://noshls.persiana.live/hls/stream.m3u8",
     "logo": "",
-    "group": "Classic",
+    "group": "Music",
     "language": "Persian"
   },
   {
@@ -119500,7 +119500,7 @@
     "status": "live",
     "url": "https://fd18f1cadd404894a31a3362c5f319bd.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_RakutenViki-1/playlist.m3u8",
     "logo": "",
-    "group": "Entertainment",
+    "group": "Series",
     "language": "English"
   },
   {
@@ -119632,7 +119632,7 @@
     "status": "live",
     "url": "https://db34cc6127ac459db55cab5f97cd66b9.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-680-WORBAUENFAST-WHALETVPLUS/680/whaletvplus/hls/master/playlist.m3u8",
     "logo": "",
-    "group": "Outdoor",
+    "group": "Sports",
     "language": "English"
   },
   {
@@ -119643,7 +119643,7 @@
     "status": "live",
     "url": "https://d03ae6b5c6724c24867e97a3dc04934a.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-1026-WORBBRPTFAST-WHALETVPLUS/1026/hls/master/playlist.m3u8",
     "logo": "",
-    "group": "Outdoor",
+    "group": "Sports",
     "language": "Portuguese"
   },
   {
@@ -119654,7 +119654,7 @@
     "status": "live",
     "url": "https://886bd3fbc782459f8de7555d32d7e9ce.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-957-WORBLATAMESFAST-WHALETVPLUS/957/whaletvplus/hls/master/playlist.m3u8",
     "logo": "",
-    "group": "Outdoor",
+    "group": "Sports",
     "language": "Spanish"
   },
   {
@@ -119665,7 +119665,7 @@
     "status": "live",
     "url": "https://0b73ace69ebb45eaa249bb87837cb958.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-644-WORBUSENFAST-LG_US/644/lgtv/hls/master/playlist.m3u8",
     "logo": "",
-    "group": "Outdoor",
+    "group": "Sports",
     "language": "English"
   },
   {
@@ -119687,7 +119687,7 @@
     "status": "live",
     "url": "https://video11.logicahost.com.br/redespi/redespi/playlist.m3u8",
     "logo": "",
-    "group": "Entertainment",
+    "group": "Culture",
     "language": "Portuguese"
   },
   {
@@ -121216,7 +121216,7 @@
     "status": "live",
     "url": "https://sistemastr.tropicalmoonmedia.com/live/9E495C5FDA503D7F71037F2D2C5D3FA3/16.m3u8",
     "logo": "",
-    "group": "Entertainment",
+    "group": "General",
     "language": "Spanish"
   },
   {
@@ -122723,7 +122723,7 @@
     "status": "live",
     "url": "https://channels.trace.plus/Traceprod/GOSPEL_ROA_hd/index.m3u8",
     "logo": "",
-    "group": "Religious",
+    "group": "Music",
     "language": "English"
   },
   {
@@ -122734,7 +122734,7 @@
     "status": "live",
     "url": "https://channels.trace.plus/Traceprod/GOSPEL_SA_hd/index.m3u8",
     "logo": "",
-    "group": "Religious",
+    "group": "Music",
     "language": "French"
   },
   {
@@ -123988,7 +123988,7 @@
     "status": "live",
     "url": "https://5caf24a595d94.streamlock.net:1937/8028/8028/playlist.m3u8",
     "logo": "",
-    "group": "Entertainment",
+    "group": "Music",
     "language": "French"
   },
   {
@@ -124703,7 +124703,7 @@
     "status": "live",
     "url": "https://tuvideoonline.com.ar:3332/live/xlevelmedialive.m3u8",
     "logo": "",
-    "group": "Entertainment",
+    "group": "Music",
     "language": "Spanish"
   },
   {

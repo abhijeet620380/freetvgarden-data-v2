@@ -10,14 +10,14 @@ https://master.tucableip.com/ascontenido/index.m3u8
 #EXTINF:-1 tvg-id="Audiokiss.bo" tvg-country="BO" tvg-language="Spanish" tvg-logo="https://www.audiokiss.com/audiokiss/wp-content/uploads/sites/4/2021/02/Audio_kiss800-768x405.png" tvg-status="live" group-title="Music",Audiokiss
 https://master.tucableip.com/audiokisstv/index.m3u8
 #EXTINF:-1 tvg-id="AYNITV.bo" tvg-country="BO" tvg-language="Spanish" tvg-logo="https://i.ibb.co/SPCkBR8/ayni-tv-bo.png" tvg-status="live" group-title="General",AYNI TV
-https://59d39900ebfb8.streamlock.net/Aynitv/Aynitv/playlist.m3u8
+http://15.204.246.24:8080/AyniTVHD/index.m3u8
 #EXTINF:-1 tvg-id="BoliviaTV.bo" tvg-country="BO" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/BTV_logo_2026.png" tvg-status="live" group-title="General",Bolivia TV
 http://15.204.246.24:8080/BoliviaTvHD/index.m3u8
 #EXTINF:-1 tvg-id="Bolivision.bo" tvg-country="BO" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/Bolivisi%C3%B3n2025.png" tvg-status="down" group-title="General",Bolivision
 http://15.204.246.24:8080/BolivisionHD/index.m3u8
 #EXTINF:-1 tvg-id="BolivisionSantaCruz.bo" tvg-country="BO" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/Bolivisi%C3%B3n2025.png" tvg-status="down" group-title="General",Bolivision Santa Cruz
 https://d1mws3umreue1g.cloudfront.net/index.m3u8
-#EXTINF:-1 tvg-id="famelack-2TeFmbSu18GnAQ" tvg-country="BO" tvg-language="" tvg-logo="" tvg-status="live" group-title="General",Cadena A
+#EXTINF:-1 tvg-id="CadenaA.bo" tvg-country="BO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/BxQPPAA.png" tvg-status="live" group-title="General",Cadena A
 https://5fe2654d6127d.streamlock.net/cadenaa/videocadenaa/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal15Teleor.bo" tvg-country="BO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/w8CB2On.jpeg" tvg-status="down" group-title="General",Canal 15 Teleor
 https://ares.disfrutaenlared.com:1936/activatv/activatv/playlist.m3u8
@@ -30,7 +30,7 @@ https://live.cineramatvbo.com/hls/stream.m3u8
 #EXTINF:-1 tvg-id="CoralTV.bo" tvg-country="BO" tvg-language="Spanish" tvg-logo="https://i.ibb.co/xDrc5MD/CORALTv.png" tvg-status="live" group-title="General",Coral TV
 https://tv.mediacp.eu:8081/coraltv/index.m3u8
 #EXTINF:-1 tvg-id="CTV.bo" tvg-country="BO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/ljKb0UX.png" tvg-status="live" group-title="General",CTV
-https://streaming.ctvbolivia.com/hlsweb/ctv.m3u8
+http://15.204.246.24:8080/CTVHD/index.m3u8
 #EXTINF:-1 tvg-id="CVC.bo" tvg-country="BO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/taGdzLe.png" tvg-status="live" group-title="Religious",CVC
 http://15.204.246.24:8080/CVCHD/index.m3u8
 #EXTINF:-1 tvg-id="DeltaTV.bo" tvg-country="BO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/FcciYMD.png" tvg-status="live" group-title="General",Delta TV
@@ -44,7 +44,7 @@ https://master.tucableip.com/eldebertv/index.m3u8
 #EXTINF:-1 tvg-id="Erbol.bo" tvg-country="BO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/hn1KI7t.png" tvg-status="down" group-title="News",Erbol
 https://twitch-m3u8.bastypro112.workers.dev/erboldigital/index.m3u8
 #EXTINF:-1 tvg-id="F10HD.bo" tvg-country="BO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/OEsT0KN.png" tvg-status="live" group-title="General",F10 HD
-https://tv2.bitstreaming.net:3235/multi_live/play.m3u8
+http://15.204.246.24:8080/F10HD/index.m3u8
 #EXTINF:-1 tvg-id="FAPTV.bo" tvg-country="BO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/jZ7g58e.png" tvg-status="live" group-title="General",FAP TV
 https://edge.enhdtv.com/faptv/index.m3u8
 #EXTINF:-1 tvg-id="FidesTV.bo" tvg-country="BO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/fsDdvXx.png" tvg-status="down" group-title="General",Fides TV
@@ -64,13 +64,13 @@ https://mist01.homestream.fun/hls/interactivotv2/index.m3u8
 #EXTINF:-1 tvg-id="Megavision.bo" tvg-country="BO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/IAQXCak.png" tvg-status="down" group-title="General",Megavision
 https://twitch-m3u8.bastypro112.workers.dev/megavisionbo/index.m3u8
 #EXTINF:-1 tvg-id="PalenqueTV.bo" tvg-country="BO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/wAIBvaO.png" tvg-status="live" group-title="General",Palenque TV
-https://tv.bitstreaming.net:3234/live/palenquetvlive.m3u8
+http://15.204.246.24:8080/PalenqueTVSD/index.m3u8
 #EXTINF:-1 tvg-id="PLUSTelevision.bo" tvg-country="BO" tvg-language="Spanish" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/255c280c-fd59-466c-bf00-aeb973d78505-profile_banner-480.jpeg" tvg-status="down" group-title="General",PLUS Television
 https://twitch-m3u8.bastypro112.workers.dev/plustelevisionbolivia/index.m3u8
 #EXTINF:-1 tvg-id="PlusTLT.bo" tvg-country="BO" tvg-language="English" tvg-logo="" tvg-status="live" group-title="General",Plus TLT
 http://15.204.246.24:8080/PlusTLTHD/index.m3u8
 #EXTINF:-1 tvg-id="PoderdeDiosTV.bo" tvg-country="BO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/jUfRz3L.png" tvg-status="live" group-title="Religious",Poder de Dios TV
-https://s3.tvdatta.com:3846/live/poderdedioslive.m3u8
+http://15.204.246.24:8080/PoderdeDiosHD/index.m3u8
 #EXTINF:-1 tvg-id="PTV.bo" tvg-country="BO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/vPvR7dX.png" tvg-status="live" group-title="General",PTV
 https://giatv.bozztv.com/giatv/giatv-PTVonLINE/PTVonLINE/playlist.m3u8
 #EXTINF:-1 tvg-id="RadioCentro.bo" tvg-country="BO" tvg-language="Spanish" tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/574/radio-centro-fm.e939fb1e.png" tvg-status="live" group-title="General",Radio Centro
@@ -83,7 +83,7 @@ https://azura2.bitstreaming.net/hls/kollasuyo3/live.m3u8
 https://ares.disfrutaenlared.com:1936/megatv/megatv/playlist.m3u8
 #EXTINF:-1 tvg-id="RadioSanGabriel.bo" tvg-country="BO" tvg-language="Spanish" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/bec3csmj7emx.jpg" tvg-status="down" group-title="General",Radio San Gabriel
 https://twitch-m3u8.bastypro112.workers.dev/radiosangabrielbolivia/index.m3u8
-#EXTINF:-1 tvg-id="famelack-1Snebdc8j861KM" tvg-country="BO" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="Education",Radio Universitaria San Andres
+#EXTINF:-1 tvg-id="famelack-1Snebdc8j861KM" tvg-country="BO" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="Culture",Radio Universitaria San Andres
 https://edge.enhdtv.com/8054/index.m3u8
 #EXTINF:-1 tvg-id="RedAmericaTV.bo" tvg-country="BO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/qYNmeDe.png" tvg-status="live" group-title="General",Red America TV
 https://edge.enhdtv.com/redamerica/index.m3u8
@@ -91,7 +91,7 @@ https://edge.enhdtv.com/redamerica/index.m3u8
 https://solo.disfrutaenlared.com:1936/redcctv/redcctv/playlist.m3u8
 #EXTINF:-1 tvg-id="RedDTV.bo" tvg-country="BO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/fK0g2CK.png" tvg-status="live" group-title="General",Red DTV
 http://15.204.246.24:8080/DTVHD/index.m3u8
-#EXTINF:-1 tvg-id="famelack-crhuDV1URlafW7" tvg-country="BO" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="General",Red Rubi
+#EXTINF:-1 tvg-id="RedRubi.bo" tvg-country="BO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/Y4KOypc.jpeg" tvg-status="live" group-title="General",Red Rubi
 https://59d39900ebfb8.streamlock.net/asiesmipueblo/asiesmipueblo/playlist.m3u8
 #EXTINF:-1 tvg-id="RedTVShop.bo" tvg-country="BO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/I7yB176.png" tvg-status="live" group-title="Shop",Red TV Shop
 https://master.tucableip.com/redtvshop/index.m3u8
@@ -109,7 +109,7 @@ https://tv.centaurychile.com/magicatv/streams/22AdscM3Y6Un17Zo4747081346569358.m
 https://lbgo.bozztv.com/ssh101/ssh101/ok2026/playlist.m3u8
 #EXTINF:-1 tvg-id="famelack-87xKAUIruoYGZK" tvg-country="BO" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="General",TDT Multimedia
 https://video01.brascast.com/juan6318/juan6318/playlist.m3u8
-#EXTINF:-1 tvg-id="TELE6.bo" tvg-country="BO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/p7tt72X.png" tvg-status="live" group-title="General",TELE 6
+#EXTINF:-1 tvg-id="famelack-VvgjeRVvJxgn4n" tvg-country="BO" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="General",TELE 6
 https://lbgo.bozztv.com/ssh101/ssh101/tele6/playlist.m3u8
 #EXTINF:-1 tvg-id="TeleFeBolivia.bo" tvg-country="BO" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="General",Tele Fe Bolivia
 https://59d39900ebfb8.streamlock.net/telefehd/telefehd/playlist.m3u8
@@ -139,8 +139,8 @@ https://lbgo.bozztv.com/ssh101/ssh101/tvjoaquiniana26/playlist.m3u8
 https://master.tucableip.com/univalletv/playlist.m3u8
 #EXTINF:-1 tvg-id="UPEATV.bo" tvg-country="BO" tvg-language="Spanish" tvg-logo="https://tvadmin.upea.bo/storage/imagenes_institucion/imagen_institucion_66cd025754fcb.png" tvg-status="live" group-title="General",UPEA TV
 https://tvstream.upea.bo/hls/oSs0jSWumTFIIVY97559.m3u8
-#EXTINF:-1 tvg-id="famelack-uLnAaMvBQP6gl2" tvg-country="BO" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="General",Vos TV
-https://59d39900ebfb8.streamlock.net/vostv/vostv/playlist.m3u8
+#EXTINF:-1 tvg-id="VosTV.bo" tvg-country="BO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/Cm1Xjeq.png" tvg-status="live" group-title="General",Vos TV
+http://15.204.246.24:8080/VOSTVHD/index.m3u8
 #EXTINF:-1 tvg-id="VTVCanal17.bo" tvg-country="BO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/TUhFzql.png" tvg-status="live" group-title="Religious",VTV Canal 17
 https://solo.disfrutaenlared.com:1936/vtvcanal/vtvcanal/playlist.m3u8
 #EXTINF:-1 tvg-id="XTOTV.bo" tvg-country="BO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/MLwLlWl.png" tvg-status="down" group-title="General",XTOTV
