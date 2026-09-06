@@ -59,7 +59,7 @@ https://stream.accentfm.nl/
 https://aladnafm.beheerstream.nl/8024/stream
 #EXTINF:-1 tvg-id="famelack-96mRY9zknNJLKD" tvg-country="BE" tvg-language="Dutch" tvg-logo="" tvg-status="live" group-title="folk",AjoinMusic
 https://play.ajoinmusic.be/ajoinmusic.mp3
-#EXTINF:-1 tvg-id="famelack-IQo4hLqKxNDm9X" tvg-country="NL" tvg-language="Dutch" tvg-logo="" tvg-status="live" group-title="folk",All Oldies Channel
+#EXTINF:-1 tvg-id="famelack-IQo4hLqKxNDm9X" tvg-country="NL" tvg-language="Dutch" tvg-logo="" tvg-status="live" group-title="oldies",All Oldies Channel
 https://radio.alloldieschannel.com:8000/stream
 #EXTINF:-1 tvg-id="famelack-calNlYTAt2ikEp" tvg-country="NL" tvg-language="Dutch" tvg-logo="" tvg-status="live" group-title="classical",Alleen Klassiek
 https://playerservices.streamtheworld.com/api/livestream-redirect/SERVICE06.mp3
@@ -95,7 +95,7 @@ https://icecast.bredanu.nl/bredanu.stl
 https://powerradio.level27.be/stream
 #EXTINF:-1 tvg-id="famelack-6msTHSOb9M5vCV" tvg-country="BE" tvg-language="Dutch" tvg-logo="" tvg-status="live" group-title="hits",BRUZZ
 https://ice.cr6.streamzilla.xlcdn.com:8000/sz=fmbrussel=fmb988.mp3
-#EXTINF:-1 tvg-id="famelack-cnAcdafa14Sp5S" tvg-country="BE" tvg-language="Dutch" tvg-logo="" tvg-status="live" group-title="oldies",C-Dance Retro
+#EXTINF:-1 tvg-id="famelack-cnAcdafa14Sp5S" tvg-country="BE" tvg-language="Dutch" tvg-logo="" tvg-status="live" group-title="electronic",C-Dance Retro
 https://s45.myradiostream.com/:18304/;
 #EXTINF:-1 tvg-id="famelack-X24PbmoOxlC4BD" tvg-country="BE" tvg-language="Dutch" tvg-logo="" tvg-status="live" group-title="hits",Candie Radio
 https://clubfmserver.be/pink.mp3
@@ -259,7 +259,7 @@ https://server-28.stream-server.nl:8822/stream
 https://mscp3.live-streams.nl:8132/radio
 #EXTINF:-1 tvg-id="famelack-Y0NRApAKVbTAXW" tvg-country="NL" tvg-language="Dutch" tvg-logo="" tvg-status="live" group-title="soul",Hot Jamz Radio
 https://stream02.dotpoint.nl:8030/stream
-#EXTINF:-1 tvg-id="famelack-JCpuhalfXJwAEB" tvg-country="NL" tvg-language="Dutch" tvg-logo="" tvg-status="live" group-title="hits",Hot Radio Hits
+#EXTINF:-1 tvg-id="famelack-JCpuhalfXJwAEB" tvg-country="NL" tvg-language="Dutch" tvg-logo="" tvg-status="live" group-title="news",Hot Radio Hits
 https://server-67.stream-server.nl:8400/stream
 #EXTINF:-1 tvg-id="famelack-3Ue2z2kaE1qtX4" tvg-country="NL" tvg-language="Dutch" tvg-logo="" tvg-status="live" group-title="oldies",Hotradio Classics
 https://443-1.autopo.st/191/hrc
@@ -441,7 +441,7 @@ https://icecast.omroep.nl/radio1-bb-mp3
 https://icecast.omroep.nl/radio2-bb-mp3
 #EXTINF:-1 tvg-id="famelack-n2dqQecnPsULbE" tvg-country="NL" tvg-language="Dutch" tvg-logo="" tvg-status="live" group-title="oldies",NPO Radio 5
 https://icecast.omroep.nl/radio5-bb-mp3
-#EXTINF:-1 tvg-id="famelack-6zlnWl4W5XAz2V" tvg-country="NL" tvg-language="Dutch" tvg-logo="" tvg-status="live" group-title="soul",NPO Soul & Jazz
+#EXTINF:-1 tvg-id="famelack-6zlnWl4W5XAz2V" tvg-country="NL" tvg-language="Dutch" tvg-logo="" tvg-status="live" group-title="jazz",NPO Soul & Jazz
 https://icecast.omroep.nl/radio6-bb-mp3
 #EXTINF:-1 tvg-id="famelack-iJ6peWbvfW2uey" tvg-country="NL" tvg-language="Dutch" tvg-logo="" tvg-status="live" group-title="oldies",NPO Sterren NL
 https://icecast.omroep.nl/radio2-sterrennl-mp3
@@ -449,7 +449,7 @@ https://icecast.omroep.nl/radio2-sterrennl-mp3
 https://stream.oilsjtmjoezik.be/
 #EXTINF:-1 tvg-id="famelack-YylzJCuWr8oX4y" tvg-country="NL" tvg-language="Dutch" tvg-logo="" tvg-status="live" group-title="oldies",Olympia Classics
 https://streams.olympia-streams.nl/classics192
-#EXTINF:-1 tvg-id="famelack-M5UdbjzErT7f4t" tvg-country="NL" tvg-language="Dutch" tvg-logo="" tvg-status="live" group-title="folk",Olympia Radio
+#EXTINF:-1 tvg-id="famelack-M5UdbjzErT7f4t" tvg-country="NL" tvg-language="Dutch" tvg-logo="" tvg-status="live" group-title="rock",Olympia Radio
 https://streams.olympia-radio.nl/olympia
 #EXTINF:-1 tvg-id="famelack-iKCORJRR6tudxf" tvg-country="NL" tvg-language="Dutch" tvg-logo="" tvg-status="live" group-title="news",Omroep Assen
 https://i1.cdn.jetstre.am:8000/sz=OmroepAssen=RadioOmroepAssen
@@ -649,7 +649,7 @@ https://stream.bnlradio.be/stream.mp3
 https://stream03.level27.be/;stream.mp3
 #EXTINF:-1 tvg-id="famelack-6lwcGPzFSxNWOC" tvg-country="NL" tvg-language="Dutch" tvg-logo="" tvg-status="live" group-title="news",Radio Capelle
 https://live.radiocapelle.nl/radiocapelle-high.mp3
-#EXTINF:-1 tvg-id="famelack-aavXoLVffDrnk6" tvg-country="BE" tvg-language="Dutch" tvg-logo="" tvg-status="live" group-title="folk",Radio Centraal
+#EXTINF:-1 tvg-id="famelack-aavXoLVffDrnk6" tvg-country="BE" tvg-language="Dutch" tvg-logo="" tvg-status="live" group-title="indie",Radio Centraal
 https://streams.movemedia.eu/centraal
 #EXTINF:-1 tvg-id="famelack-qzi5UFbjTgiUJp" tvg-country="NL" tvg-language="Dutch" tvg-logo="" tvg-status="live" group-title="news",Radio Centraal Weststellingwerf
 https://mcp-2.mm-stream.nl:8017/stream
@@ -705,7 +705,7 @@ https://radio.mitsybits.nl/live
 https://radiomol.ice.infomaniak.ch/radiomol-192.mp3
 #EXTINF:-1 tvg-id="famelack-qCKRtCfPWrvTiD" tvg-country="NL" tvg-language="Dutch" tvg-logo="" tvg-status="live" group-title="oldies",Radio Monique 918
 https://radiomonique918.radioca.st/stream
-#EXTINF:-1 tvg-id="famelack-Dlc4ps7dgXH9Vj" tvg-country="NL" tvg-language="Dutch" tvg-logo="" tvg-status="live" group-title="hits",Radio Noord
+#EXTINF:-1 tvg-id="famelack-Dlc4ps7dgXH9Vj" tvg-country="NL" tvg-language="Dutch" tvg-logo="" tvg-status="live" group-title="news",Radio Noord
 https://media.rtvnoord.nl/icecast/rtvnoord/radio
 #EXTINF:-1 tvg-id="famelack-I9uYXwSXM5FbBo" tvg-country="NL" tvg-language="Dutch" tvg-logo="" tvg-status="live" group-title="folk",Radio Noordzee
 https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR17.mp3
@@ -735,7 +735,7 @@ https://server-26.stream-server.nl:8522/stream
 https://server-28.stream-server.nl:18828/stream
 #EXTINF:-1 tvg-id="famelack-0NlETzAgQU8XQw" tvg-country="NL" tvg-language="Dutch" tvg-logo="" tvg-status="live" group-title="news",Radio Ridderkerk
 https://nlpo.stream.vip/ridderk/mp3-192/nlpo.stream.vip
-#EXTINF:-1 tvg-id="famelack-86f6jSHlBkWTvx" tvg-country="NL" tvg-language="Dutch" tvg-logo="" tvg-status="live" group-title="hits",Radio Rijnmond
+#EXTINF:-1 tvg-id="famelack-86f6jSHlBkWTvx" tvg-country="NL" tvg-language="Dutch" tvg-logo="" tvg-status="live" group-title="news",Radio Rijnmond
 https://d2e9xgjjdd9cr5.cloudfront.net/icecast/rijnmond/radio-mp3
 #EXTINF:-1 tvg-id="famelack-JLz3Ietl0FQ9lT" tvg-country="NL" tvg-language="Dutch" tvg-logo="" tvg-status="live" group-title="talk",Radio Rijnmond Extra
 https://d2e9xgjjdd9cr5.cloudfront.net/icecast/rijnmond/radio-extra-mp3
@@ -791,7 +791,7 @@ https://s42.myradiostream.com/33512/listen.mp3
 https://caster04.streampakket.com/proxy/8090/stream
 #EXTINF:-1 tvg-id="famelack-BX1AGD3PPZ6vIp" tvg-country="BE" tvg-language="Dutch" tvg-logo="" tvg-status="live" group-title="easy-listening",RBS Radio
 https://streams.movemedia.eu/rbs
-#EXTINF:-1 tvg-id="famelack-JXEdNzpYFzsnMd" tvg-country="NL" tvg-language="Dutch" tvg-logo="" tvg-status="live" group-title="religious",Reformatorische Omroep Radio 1
+#EXTINF:-1 tvg-id="famelack-JXEdNzpYFzsnMd" tvg-country="NL" tvg-language="Dutch" tvg-logo="" tvg-status="live" group-title="classical",Reformatorische Omroep Radio 1
 https://stream01.sthhost.nl:8003/live
 #EXTINF:-1 tvg-id="famelack-3BRyM49PXEre8V" tvg-country="NL" tvg-language="Dutch" tvg-logo="" tvg-status="live" group-title="religious",Reformatorische Omroep Radio 2
 https://stream01.sthhost.nl:8020/live
@@ -899,7 +899,7 @@ https://stream2.slowradio.com/
 https://stream11.slowradio.com/
 #EXTINF:-1 tvg-id="famelack-e5RNwxR9t08VyO" tvg-country="NL" tvg-language="Dutch" tvg-logo="" tvg-status="live" group-title="news",Smelne FM
 https://smelnefm_icecast.streampartner.nl/live
-#EXTINF:-1 tvg-id="famelack-CIk9rUbWCT2ui9" tvg-country="NL" tvg-language="Dutch" tvg-logo="" tvg-status="live" group-title="soul",Soul Radio
+#EXTINF:-1 tvg-id="famelack-CIk9rUbWCT2ui9" tvg-country="NL" tvg-language="Dutch" tvg-logo="" tvg-status="live" group-title="jazz",Soul Radio
 https://22323.live.streamtheworld.com/SOULRADIOAAC_SC
 #EXTINF:-1 tvg-id="famelack-945q5VFMIwFicy" tvg-country="NL" tvg-language="Dutch" tvg-logo="" tvg-status="live" group-title="soul",Soulshow Radio
 https://icecast-soulshow-cdp.triple-it.nl/soulshow_128.mp3
@@ -931,9 +931,9 @@ https://stream.it-facilities.be:9006/stream;
 https://caster.hosting078.nl:1175/stream
 #EXTINF:-1 tvg-id="famelack-AM9iaEtlqR8u3b" tvg-country="NL" tvg-language="Dutch" tvg-logo="" tvg-status="live" group-title="General",Studio Music Station
 https://stream.studiomusicstation.nl/radio/8010/radio.mp3
-#EXTINF:-1 tvg-id="famelack-iUGFKB6JR3Wfm9" tvg-country="NL" tvg-language="Dutch" tvg-logo="" tvg-status="live" group-title="soul",Sublime
+#EXTINF:-1 tvg-id="famelack-iUGFKB6JR3Wfm9" tvg-country="NL" tvg-language="Dutch" tvg-logo="" tvg-status="live" group-title="jazz",Sublime
 https://playerservices.streamtheworld.com/api/livestream-redirect/SUBLIME.mp3
-#EXTINF:-1 tvg-id="famelack-iQdWzMwX2uT1Pz" tvg-country="NL" tvg-language="Dutch" tvg-logo="" tvg-status="live" group-title="chill",Sublime Jazz
+#EXTINF:-1 tvg-id="famelack-iQdWzMwX2uT1Pz" tvg-country="NL" tvg-language="Dutch" tvg-logo="" tvg-status="live" group-title="jazz",Sublime Jazz
 https://stream.sublime.nl/web21_mp3
 #EXTINF:-1 tvg-id="famelack-zZtW6WHESFNc6O" tvg-country="NL" tvg-language="Dutch" tvg-logo="" tvg-status="live" group-title="chill",Sublime Sunday Chill
 https://playerservices.streamtheworld.com/api/livestream-redirect/WEB23_AAC.aac
@@ -955,7 +955,7 @@ https://music.wixstatic.com/mp3/41d682_bb0f0fe50104482a9317480980b91e57
 https://server-28.stream-server.nl:8896/stream
 #EXTINF:-1 tvg-id="famelack-KqChv4vqbzi5CM" tvg-country="BE" tvg-language="Dutch" tvg-logo="" tvg-status="live" group-title="General",TSF Radio Allround
 https://ec5.yesstreaming.net:3430/stream
-#EXTINF:-1 tvg-id="famelack-Zx0QwJfBswWSJW" tvg-country="NL" tvg-language="Dutch" tvg-logo="" tvg-status="live" group-title="folk",Tukker FM
+#EXTINF:-1 tvg-id="famelack-Zx0QwJfBswWSJW" tvg-country="NL" tvg-language="Dutch" tvg-logo="" tvg-status="live" group-title="oldies",Tukker FM
 https://stream.tukkerfm.nl/tukkerfm
 #EXTINF:-1 tvg-id="famelack-bv3aA7Y9jtWcd6" tvg-country="NL" tvg-language="Dutch" tvg-logo="" tvg-status="live" group-title="religious",TWR
 https://twrnl.out.airtime.pro:8000/twrnl_a
@@ -973,7 +973,7 @@ https://stream-10.pmteurope.com:8040/stream
 https://mscp3.live-streams.nl:8082/live
 #EXTINF:-1 tvg-id="famelack-VIcpKtIFqCKahi" tvg-country="BE" tvg-language="Dutch" tvg-logo="" tvg-status="live" group-title="pop",Villa Bota
 https://caster04.streampakket.com/proxy/8186/stream
-#EXTINF:-1 tvg-id="famelack-ClyDasotawCWbY" tvg-country="BE" tvg-language="Dutch" tvg-logo="" tvg-status="live" group-title="folk",Vlaamse Wonderjaren
+#EXTINF:-1 tvg-id="famelack-ClyDasotawCWbY" tvg-country="BE" tvg-language="Dutch" tvg-logo="" tvg-status="live" group-title="oldies",Vlaamse Wonderjaren
 https://cast1.torontocast.com:3305/stream
 #EXTINF:-1 tvg-id="famelack-V7SCfyfoyyOluP" tvg-country="NL" tvg-language="Dutch" tvg-logo="" tvg-status="live" group-title="hits",Vlietstad Radio
 https://caster.hosting078.nl:1035/stream
