@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="PlusSBTNovelas.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/6/60/%2BSBT_2024.svg/960px-%2BSBT_2024.svg.png" tvg-status="live" group-title="Series",+SBT Novelas
+#EXTINF:-1 tvg-id="PlusSBTNovelas.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/6/60/%2BSBT_2024.svg/960px-%2BSBT_2024.svg.png" tvg-status="down" group-title="Series",+SBT Novelas
 https://novelas.maissbt.com/v1/master/215c0da80606fed29372070168106400a6ca7e1a/Novelas_cmaf/index.m3u8
 #EXTINF:-1 tvg-id="13T.cl" tvg-country="CL" tvg-language="Spanish" tvg-logo="https://i.imgur.com/csBNi2L.png" tvg-status="live" group-title="Series",13T
 https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8
@@ -175,6 +175,10 @@ https://amg00353-amg00353c40-xumo-us-4839.playouts.now.amagi.tv/playlist.m3u8
 https://jmp2.uk/plu-668bf7dd74f5ec000817e6d1.m3u8
 #EXTINF:-1 tvg-id="DiffrentStrokesArnold.us" tvg-country="US" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/jkmouY3.png" tvg-status="live" group-title="Series",Diff'rent Strokes Arnold
 https://jmp2.uk/plu-61f1d27a189ed10007b7393e.m3u8
+#EXTINF:-1 tvg-id="famelack-LbfmhqUBJd1O9n" tvg-country="US" tvg-language="English" tvg-logo="" tvg-status="live" group-title="Series",Disney Channel: Stuck in the Middle
+https://www.youtube-nocookie.com/embed/dt6dEz1rDzo
+#EXTINF:-1 tvg-id="famelack-nu7l4PSugK8FRQ" tvg-country="US" tvg-language="English" tvg-logo="" tvg-status="live" group-title="Series",Disney Channel: Wizards of Waverly
+https://www.youtube-nocookie.com/embed/s1Ylmj87gXY
 #EXTINF:-1 tvg-id="DocMartin.se" tvg-country="SE" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/62724ae034f5190007b63424/colorLogoSVG.svg" tvg-status="live" group-title="Series",Doc Martin
 https://jmp2.uk/plu-62b1e5e77d15410007f798c6.m3u8
 #EXTINF:-1 tvg-id="DocMartin.us" tvg-country="US" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/62e922f6675f71000736db3b/colorLogoSVG.svg" tvg-status="live" group-title="Series",Doc Martin
@@ -191,7 +195,7 @@ https://amg00426-lds-amg00426c15-samsung-au-3684.playouts.now.amagi.tv/playlist.
 https://streaming.softwarecreation.it/DonnaTv/DonnaTv/playlist.m3u8
 #EXTINF:-1 tvg-id="DramaChannel.th" tvg-country="TH" tvg-language="Thai" tvg-logo="https://i.imgur.com/ill1Ux6.png" tvg-status="down" group-title="Series",Drama Channel
 https://lb1-live-mv.v2h-cdn.com/hls/fdee/mvmalldd/mvmalldd.m3u8
-#EXTINF:-1 tvg-id="DramaSangat.my" tvg-country="MY" tvg-language="Malay" tvg-logo="https://i.imgur.com/BqIVmN1.png" tvg-status="live" group-title="Series",Drama Sangat
+#EXTINF:-1 tvg-id="DramaSangat.my" tvg-country="MY" tvg-language="Malay" tvg-logo="https://i.imgur.com/BqIVmN1.png" tvg-status="down" group-title="Series",Drama Sangat
 https://radiomy-tonton-proxy.api-danidev.workers.dev/tonton/live/6420342
 #EXTINF:-1 tvg-id="DuckDynasty.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/vMcSlwm.png" tvg-status="live" group-title="Series",Duck Dynasty
 https://jmp2.uk/plu-6540fe6fbfbaec0008a583ae.m3u8
@@ -377,7 +381,7 @@ https://jmp2.uk/plu-60e4573c9f963e00077ecf25.m3u8
 https://jmp2.uk/plu-62e92447ea1e2a000735ed33.m3u8
 #EXTINF:-1 tvg-id="MirSeriala.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/uzj7wVp.png" tvg-status="live" group-title="Series",Mir Seriala
 http://45.145.32.13:20440/ctc_kids_hd/index.m3u8?token=test
-#EXTINF:-1 tvg-id="Mireasa.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/k0VO0LH.png" tvg-status="live" group-title="Series",Mireasa
+#EXTINF:-1 tvg-id="famelack-U81csRB9YHDFcc" tvg-country="RO" tvg-language="Romanian" tvg-logo="" tvg-status="live" group-title="Series",Mireasa
 https://stream1.antenaplay.ro/live/MireasaExtra/playlist.m3u8
 #EXTINF:-1 tvg-id="MissionImpossible.de" tvg-country="DE" tvg-language="German" tvg-logo="https://images.pluto.tv/channels/634fe5afece2e60007c9d8b8/colorLogoSVG.svg" tvg-status="live" group-title="Movies",Mission Impossible
 https://jmp2.uk/plu-634fe5afece2e60007c9d8b8.m3u8
@@ -641,13 +645,15 @@ https://jmp2.uk/plu-6909e5c3a3a4b49706b8373b.m3u8
 https://jmp2.uk/plu-65786888b228b7000843ad9a.m3u8
 #EXTINF:-1 tvg-id="RakutenViki.us" tvg-country="US" tvg-language="Spanish" tvg-logo="https://i.imgur.com/pbyd1g2.png" tvg-status="live" group-title="Entertainment",Rakuten Viki
 https://fd18f1cadd404894a31a3362c5f319bd.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_RakutenViki-1/playlist.m3u8
+#EXTINF:-1 tvg-id="famelack-uro7Gvibaed6g8" tvg-country="PL" tvg-language="English" tvg-logo="" tvg-status="live" group-title="Series",Rakuten Viki Poland
+https://fd18f1cadd404894a31a3362c5f319bd.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_RakutenViki-1/playlist.m3u8
 #EXTINF:-1 tvg-id="Rawhide.se" tvg-country="SE" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/6964ba787e92438c2754e924/colorLogoSVG_1768209194548.svg" tvg-status="live" group-title="Series",Rawhide
 https://jmp2.uk/plu-6964ba787e92438c2754e924.m3u8
 #EXTINF:-1 tvg-id="Rawhide.us" tvg-country="US" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/65660223635c3c00086c2578/colorLogoSVG.svg" tvg-status="live" group-title="Movies",Rawhide
 https://jmp2.uk/plu-65660223635c3c00086c2578.m3u8
 #EXTINF:-1 tvg-id="REVNAction.us" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/ba/Heartland_TV_logo.png" tvg-status="live" group-title="Auto",REV'N Action
 https://freecast-lukentvlive.vgcdn.net/out/v1/a4f31f297fc5440f814bd2cffd77e689/index.m3u8
-#EXTINF:-1 tvg-id="RotanaDrama.sa" tvg-country="SA" tvg-language="Arabic" tvg-logo="https://i.imgur.com/btnhPjZ.png" tvg-status="live" group-title="Series",Rotana Drama
+#EXTINF:-1 tvg-id="RotanaDrama.sa" tvg-country="SA" tvg-language="Arabic" tvg-logo="https://i.imgur.com/btnhPjZ.png" tvg-status="down" group-title="Series",Rotana Drama
 https://rotana.hibridcdn.net/rotananet/drama_net-7Y83PP5adWixDF93/playlist.m3u8
 #EXTINF:-1 tvg-id="RTSDrama.rs" tvg-country="RS" tvg-language="Serbian" tvg-logo="https://i.imgur.com/bsTUhYK.png" tvg-status="down" group-title="Series",RTS Drama
 https://de1.dstv.cx/RTSDrama/index.m3u8
@@ -688,7 +694,7 @@ https://06cb85ad6ccb4a6b97f561e62d16ad3f.mediatailor.us-west-2.amazonaws.com/v1/
 #EXTINF:-1 tvg-id="StarChannel.cl" tvg-country="CL" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/960px-Star_Channel_2020.svg.png" tvg-status="live" group-title="Movies",Star Channel
 http://138.121.15.230:9002/STAR-CHANNEL/index.m3u8
 #EXTINF:-1 tvg-id="StarChannelLatinAmerica.us" tvg-country="US" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/960px-Star_Channel_2020.svg.png" tvg-status="live" group-title="Movies",Star Channel Latin America
-http://45.162.193.35/STAR_CHANNEL/index.m3u8
+http://15.204.246.24:8080/STARCHANNELHD/index.m3u8
 #EXTINF:-1 tvg-id="StarCrime.bg" tvg-country="BG" tvg-language="Bulgarian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Star_Crime_2023.svg/960px-Star_Crime_2023.svg.png" tvg-status="down" group-title="Series",Star Crime
 http://213.91.179.28:8000/play/a0cs
 #EXTINF:-1 tvg-id="StarCrime.si" tvg-country="SI" tvg-language="Slovenian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Star_Crime_2023.svg/960px-Star_Crime_2023.svg.png" tvg-status="down" group-title="Series",Star Crime
@@ -721,6 +727,8 @@ https://jmp2.uk/plu-5f24662bebe0f0000767de32.m3u8
 https://jmp2.uk/plu-6874ac742704ca31d815b8ed.m3u8
 #EXTINF:-1 tvg-id="SYFY.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/4fMWhUE.png" tvg-status="live" group-title="Movies",SYFY
 http://23.237.104.106:8080/USA_SYFY/index.m3u8
+#EXTINF:-1 tvg-id="famelack-jBHty7VgENQxrk" tvg-country="US" tvg-language="English" tvg-logo="" tvg-status="live" group-title="Series",SYFY East
+https://tvsen7.aynascope.net/syfy/index.m3u8
 #EXTINF:-1 tvg-id="TPlusE.ca" tvg-country="CA" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4e/T%2BE_Television.png" tvg-status="down" group-title="Series",T+E
 http://185.246.209.113/T+E/index.m3u8
 #EXTINF:-1 tvg-id="TelemundoTelenovelasClasicas.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/9bPcYIN.png" tvg-status="live" group-title="Series",Telemundo Telenovelas Clasicas
@@ -781,7 +789,7 @@ http://45.162.64.114/TNT_NOVELAS/index.m3u8
 https://dtsszjrztq9ti.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yshah5p4v45g1/ToDoNovelas_ES.m3u8
 #EXTINF:-1 tvg-id="famelack-jCCrC4uMCnnFWp" tvg-country="US" tvg-language="Japanese" tvg-logo="" tvg-status="live" group-title="Series",TokuSHOUTsu: Kamen Rider Ryuki
 https://www.youtube-nocookie.com/embed/W_aN_56zFaA
-#EXTINF:-1 tvg-id="TopCrime.it" tvg-country="IT" tvg-language="Italian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Top_Crime_-_Logo_2013.svg/960px-Top_Crime_-_Logo_2013.svg.png" tvg-status="live" group-title="Series",Top Crime
+#EXTINF:-1 tvg-id="TopCrime.it" tvg-country="IT" tvg-language="Italian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Top_Crime_-_Logo_2013.svg/960px-Top_Crime_-_Logo_2013.svg.png" tvg-status="down" group-title="Series",Top Crime
 https://live3-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(lt)/index.m3u8
 #EXTINF:-1 tvg-id="Tosh0.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/sXkluxg.png" tvg-status="live" group-title="Series",Tosh.0
 https://jmp2.uk/plu-5dae084727c8af0009fe40a4.m3u8
@@ -805,7 +813,7 @@ https://raw.githubusercontent.com/thomraider12/canaistvpt/main/m3u8s/tvificcao.m
 http://stream.mcquack.net/466/index.m3u8
 #EXTINF:-1 tvg-id="TVRUSPlus.de" tvg-country="DE" tvg-language="Russian" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv-rus-plus-de.png" tvg-status="live" group-title="Series",TVRUS+
 http://83.228.75.166:8000/play/a0aq
-#EXTINF:-1 tvg-id="Twentyseven.it" tvg-country="IT" tvg-language="Italian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Twentyseven_logo.svg/960px-Twentyseven_logo.svg.png" tvg-status="live" group-title="Movies",Twentyseven
+#EXTINF:-1 tvg-id="Twentyseven.it" tvg-country="IT" tvg-language="Italian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Twentyseven_logo.svg/960px-Twentyseven_logo.svg.png" tvg-status="down" group-title="Movies",Twentyseven
 https://live2.msf.cdn.mediaset.net/content/hls_h0_cls_vos/live/channel(ts)/index.m3u8
 #EXTINF:-1 tvg-id="UAlibi.uk" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/uazjv8g.png" tvg-status="down" group-title="Series",U&Alibi
 http://92.114.85.72:8000/play/a0bi
@@ -839,12 +847,12 @@ http://170.254.17.2/WE_TV/index.m3u8
 https://streamer1.nexgen.bz/WE_TV/index.m3u8
 #EXTINF:-1 tvg-id="WeedsNurseJackie.us" tvg-country="US" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/688a44cf5d73ec0a3f49718b/colorLogoPNG_1756145413989.png" tvg-status="live" group-title="Series",Weeds & Nurse Jackie
 https://jmp2.uk/plu-688a44cf5d73ec0a3f49718b.m3u8
-#EXTINF:-1 tvg-id="WildNOut.us" tvg-country="US" tvg-language="English" tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tv-plus/all-channels/08182020/Wild%20N%20Out_190x190.png?raw=true" tvg-status="live" group-title="Series",Wild 'N Out
+#EXTINF:-1 tvg-id="WildNOut.us" tvg-country="US" tvg-language="English" tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tv-plus/all-channels/08182020/Wild%20N%20Out_190x190.png?raw=true" tvg-status="down" group-title="Series",Wild 'N Out
 https://jmp2.uk/plu-5d48678d34ceb37d3c458a55.m3u8
-#EXTINF:-1 tvg-id="WildatHeart.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/kyVB8Ik.png" tvg-status="live" group-title="Series",Wild at Heart
+#EXTINF:-1 tvg-id="WildatHeart.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/kyVB8Ik.png" tvg-status="down" group-title="Series",Wild at Heart
 https://jmp2.uk/plu-60817936fd2d70000763d2b2.m3u8
 #EXTINF:-1 tvg-id="Wildfire.se" tvg-country="SE" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/62b9b63d3bbe9000073c0a2d/colorLogoSVG.svg" tvg-status="live" group-title="Series",Wildfire
-https://jmp2.uk/plu-62beb0de371e6c000775930c.m3u8
+https://jmp2.uk/plu-62beb7d7fbf54600076abc7b.m3u8
 #EXTINF:-1 tvg-id="XPTVUS.es" tvg-country="ES" tvg-language="English" tvg-logo="https://i.imgur.com/1m7kDmc.png" tvg-status="live" group-title="Series",XPTV US
 https://janus.xpbroadcasting.com:8443/hls/xptvUS.m3u8
 #EXTINF:-1 tvg-id="YamTichoni.il" tvg-country="IL" tvg-language="Herero" tvg-logo="https://upload.wikimedia.org/wikipedia/he/thumb/5/58/YamTichoniChannel.svg/1280px-YamTichoniChannel.svg.png" tvg-status="live" group-title="Series",Yam Tichoni

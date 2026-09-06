@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="ADBTV.pt" tvg-country="PT" tvg-language="Portuguese" tvg-logo="https://i.ibb.co/HGfTJwt/ADBTV.jpg" tvg-status="down" group-title="Religious",ADB TV
+#EXTINF:-1 tvg-id="ADBTV.pt" tvg-country="PT" tvg-language="Portuguese" tvg-logo="https://i.ibb.co/HGfTJwt/ADBTV.jpg" tvg-status="live" group-title="Religious",ADB TV
 https://live-tv.waytv.pt/adbtv/adbtv/playlist.m3u8
 #EXTINF:-1 tvg-id="famelack-k9YVnaB9vAhdV8" tvg-country="PT" tvg-language="Portuguese" tvg-logo="" tvg-status="live" group-title="Religious",Angel TV Portuguese
 https://janya-digimix.akamaized.net/vglive-sk-382409/portuese/ngrp:angelportuguese_all/playlist.m3u8
@@ -65,13 +65,13 @@ https://streaming-live.rtp.pt/liverepeater/smil:rtpmem.smil/playlist.m3u8
 https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="RTPNoticias.pt" tvg-country="PT" tvg-language="Portuguese" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/rtpnoticias_2026.png" tvg-status="live" group-title="News",RTP Noticias
 https://streaming-live.rtp.pt/livetvhlsDVR/rtpnHDdvr.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="SIC.pt" tvg-country="PT" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/SPMqiDG.png" tvg-status="live" group-title="General",SIC
+#EXTINF:-1 tvg-id="SIC.pt" tvg-country="PT" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/SPMqiDG.png" tvg-status="down" group-title="General",SIC
 https://sic.live.impresa.pt/sic.m3u8
 #EXTINF:-1 tvg-id="SICAltaDefinicao.pt" tvg-country="PT" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/VdPwyQv.png" tvg-status="live" group-title="General",SIC Alta Definicao
 https://production-fast-sic.content.okast.tv/fa2e8c4385712f9aa54bbe52b1bd9b6b/channels/d9070446-8448-455e-8075-773b1ba12562/fc831b20-f252-4e7d-8cc5-2d05f4d43c1c/media_.m3u8
 #EXTINF:-1 tvg-id="SICMulher.pt" tvg-country="PT" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c4/Sicmulher.png" tvg-status="down" group-title="General",SIC Mulher
 http://zntx.dyndns.org:8085/hls/sicm.m3u8
-#EXTINF:-1 tvg-id="SICNoticias.pt" tvg-country="PT" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/Gi6Q26M.png" tvg-status="live" group-title="News",SIC Noticias
+#EXTINF:-1 tvg-id="SICNoticias.pt" tvg-country="PT" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/Gi6Q26M.png" tvg-status="down" group-title="News",SIC Noticias
 https://sicnot.live.impresa.pt/sicnot.m3u8
 #EXTINF:-1 tvg-id="SICRadical.pt" tvg-country="PT" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/6g0obyk.png" tvg-status="down" group-title="General",SIC Radical
 http://znty.dyndns.org:5010/hls/sicr.m3u8
