@@ -15,9 +15,9 @@ https://stream8.cinerama.uz/1267/tracks-v1a1/mono.m3u8
 https://www.youtube-nocookie.com/embed/mWkb-BLcGAY
 #EXTINF:-1 tvg-id="2x2.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2x2_TV_Logo.svg/1920px-2x2_TV_Logo.svg.png" tvg-status="live" group-title="Entertainment",2x2
 https://bl.rutube.ru/livestream/392b4686b770bae2da6bf5ac4574add5/index.m3u8?e=2068731801&s=tenr-yHXUv1wibfka78s2A&scheme=https
-#EXTINF:-1 tvg-id="312Kino.kg" tvg-country="KG" tvg-language="Russian" tvg-logo="https://i.ibb.co/3m9LrLj/k7gIibH.png" tvg-status="down" group-title="Movies",312 Kino
+#EXTINF:-1 tvg-id="312Kino.kg" tvg-country="KG" tvg-language="Russian" tvg-logo="https://i.ibb.co/3m9LrLj/k7gIibH.png" tvg-status="live" group-title="Movies",312 Kino
 http://176.126.166.43:1935/live/312kino/playlist.m3u8
-#EXTINF:-1 tvg-id="312TV.kg" tvg-country="KG" tvg-language="Russian" tvg-logo="https://i.ibb.co/S6sZvqk/iLSGi6c.png" tvg-status="down" group-title="Entertainment",312 TV
+#EXTINF:-1 tvg-id="312TV.kg" tvg-country="KG" tvg-language="Russian" tvg-logo="https://i.ibb.co/S6sZvqk/iLSGi6c.png" tvg-status="live" group-title="Entertainment",312 TV
 http://176.126.166.43:1935/live/312musik/playlist.m3u8
 #EXTINF:-1 tvg-id="360.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/VTJqdoX.png" tvg-status="live" group-title="General",360°
 https://cdn-evacoder-tv.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/index.m3u8
@@ -86,7 +86,7 @@ http://77.89.199.174:8000/play/1024/index.m3u8
 #EXTINF:-1 tvg-id="Bashkortostan24.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/s34Wtz6.png" tvg-status="down" group-title="General",Bashkortostan 24
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/ufa/bashkortostan24-hd/index.m3u8
 #EXTINF:-1 tvg-id="Belarus1.by" tvg-country="BY" tvg-language="Russian" tvg-logo="https://i.imgur.com/sUD9t5j.png" tvg-status="live" group-title="General",Belarus-1
-https://ngtrk.dc.beltelecom.by/ngtrk/_definst_/smil:belarus1.smil/playlist.m3u8
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus1.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Belarus2.by" tvg-country="BY" tvg-language="Russian" tvg-logo="https://i.imgur.com/BpEHpPS.png" tvg-status="live" group-title="Entertainment",Belarus-2
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus2.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Belarus24.by" tvg-country="BY" tvg-language="Russian" tvg-logo="https://i.imgur.com/BP7tY6F.png" tvg-status="live" group-title="News",Belarus-24
@@ -209,8 +209,10 @@ https://rfe-ingest.akamaized.net/hls/live/2033043/tvmc05/master.m3u8
 http://hls127.freeott.top:8080/Da_Vinci_Learning/video.m3u8
 #EXTINF:-1 tvg-id="Dagestan.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/jumkRvc.png" tvg-status="live" group-title="General",Dagestan
 https://dagestan.mediacdn.ru/cdn/dagestan/playlist.m3u8
-#EXTINF:-1 tvg-id="Detskoekino.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/dJqFRhQ.png" tvg-status="down" group-title="Movies",Detskoe kino
+#EXTINF:-1 tvg-id="Detskoekino.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/dJqFRhQ.png" tvg-status="live" group-title="Movies",Detskoe kino
 https://autopilot.catcast.tv/content/38720/index.m3u8
+#EXTINF:-1 tvg-id="DetvoraPlus.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://interra-cdn-europe1.b-cdn.net/logo-detvora.png" tvg-status="live" group-title="Animation",Detvora+
+https://cdn.rostelekom-tv.xyz/live/WAYU4PTJ_VVz4wAQ.m3u8
 #EXTINF:-1 tvg-id="Dikayaokhota.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/EOue13e.png" tvg-status="live" group-title="Outdoor",Dikaya okhota
 http://stream.mcquack.net/274/index.m3u8
 #EXTINF:-1 tvg-id="Dikayarybalka.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/e3BFVgt.png" tvg-status="live" group-title="Outdoor",Dikaya rybalka
@@ -368,7 +370,7 @@ http://stream.mcquack.net/68/index.m3u8
 #EXTINF:-1 tvg-id="Komediynoe.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/cEKe8XC.png" tvg-status="live" group-title="Comedy",Komediynoe
 http://stream.mcquack.net/74/index.m3u8
 #EXTINF:-1 tvg-id="KongressTV.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://tvcongress.ru/bitrix/templates/mbntheme/img/logo_tvc.svg" tvg-status="live" group-title="General",Kongress TV
-https://stitch.teletarget.ru/api/v1/hls/504/158/index.m3u8
+https://live-3.otcnet.ru/congresstv/index.m3u8
 #EXTINF:-1 tvg-id="KrikTV.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/rtuChZR.png" tvg-status="live" group-title="News",Krik-TV
 http://cdn-01.bonus-tv.ru/kriktv_edge/playlist.m3u8
 #EXTINF:-1 tvg-id="KTK.kz" tvg-country="KZ" tvg-language="Russian" tvg-logo="https://i.imgur.com/BurrNTo.png" tvg-status="live" group-title="General",KTK
@@ -915,6 +917,22 @@ http://stream.mcquack.net/211/index.m3u8
 http://stream.mcquack.net/93/index.m3u8
 #EXTINF:-1 tvg-id="Vmirezhivotnykh.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/6uotdVQ.png" tvg-status="live" group-title="General",V mire zhivotnykh
 http://stream.mcquack.net/241/index.m3u8
+#EXTINF:-1 tvg-id="VelvetEuropeanMovies.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://antiabuse-container.b-cdn.net/eurkino.png" tvg-status="live" group-title="Movies",Velvet. European Movies
+https://cdn.rostelekom-tv.xyz/live/LQ3j0n7j0Kq4OQm8.m3u8
+#EXTINF:-1 tvg-id="VelvetGoldenCollection.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://interra-cdn-europe1.b-cdn.net/zolo.png" tvg-status="live" group-title="Movies",Velvet. Golden Collection
+https://cdn.rostelekom-tv.xyz/live/v804qFZr0QVQ1s9Z.m3u8
+#EXTINF:-1 tvg-id="VelvetMentovskiyeSerialy.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://interra-cdn-europe1.b-cdn.net/ment.png" tvg-status="live" group-title="Series",Velvet. Mentovskiye Serialy
+https://cdn.rostelekom-tv.xyz/live/tWQ0ge9rspBQhRst.m3u8
+#EXTINF:-1 tvg-id="VelvetScary.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://antiabuse-container.b-cdn.net/uzh1.png" tvg-status="live" group-title="Movies",Velvet. Scary
+https://cdn.rostelekom-tv.xyz/live/NImhIFLevxCbtcP-.m3u8
+#EXTINF:-1 tvg-id="VelvetSeriesHits.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://antiabuse-container.b-cdn.net/serialyhity.png" tvg-status="live" group-title="Series",Velvet. Series Hits
+https://cdn.rostelekom-tv.xyz/live/DeWr3Sgw1Aj2lJd0.m3u8
+#EXTINF:-1 tvg-id="VelvetSovetskoeKino.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://interra-cdn-europe1.b-cdn.net/soviet.png" tvg-status="live" group-title="Classic",Velvet. Sovetskoe Kino
+https://cdn.rostelekom-tv.xyz/live/nF4sFCa49nFPHSF_.m3u8
+#EXTINF:-1 tvg-id="VelvetSvaty.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://interra-cdn-europe1.b-cdn.net/svatyv.png" tvg-status="live" group-title="Series",Velvet. Svaty
+https://cdn.rostelekom-tv.xyz/live/HSxyMqDlSVR54UTN.m3u8
+#EXTINF:-1 tvg-id="VelvetWorldSeries.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://antiabuse-container.b-cdn.net/mirseriallogo.png" tvg-status="live" group-title="Series",Velvet. World Series
+https://cdn.rostelekom-tv.xyz/live/2RR44py-yGlIWQIp.m3u8
 #EXTINF:-1 tvg-id="Vera24.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/Qer5Lnh.png" tvg-status="down" group-title="Religious",Vera 24
 https://5f05e059699ae.streamlock.net/WEB_Vera24/ngrp:Vera24.stream-adaptive/playlist.m3u8
 #EXTINF:-1 tvg-id="VestiFM.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/ZBHqSZj.png" tvg-status="live" group-title="News",Vesti FM
@@ -922,7 +940,7 @@ https://stream.smotrim.ru/hls2/vesti_fm/playlist_4.m3u8
 #EXTINF:-1 tvg-id="Vetta24.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/zKH1b5k.png" tvg-status="live" group-title="General",Vetta 24
 http://serv24.vintera.tv:8081/vetta/vetta_office/playlist.m3u8
 #EXTINF:-1 tvg-id="ViasatKino.ua" tvg-country="UA" tvg-language="Russian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/Viasat_Kino_Logo_2025.svg" tvg-status="live" group-title="Movies",Viasat Kino
-http://176.61.157.250/TV1000/index.m3u8
+https://flash1.bogulus1.cfd/tivi10/usergenrxs4f7zc.m3u8
 #EXTINF:-1 tvg-id="ViasatKinoAction.ua" tvg-country="UA" tvg-language="Russian" tvg-logo="https://i.imgur.com/HwsNIDK.png" tvg-status="live" group-title="Movies",Viasat Kino Action
 http://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjUxOjcwMDAvY2g0Ny90cmFja3MtdjFhMS9tb25vLm0zdTg%2FbGl2ZT0xJmlwPTE3OC4xMzYuNDIuMjIwJmlkPTk0ODg2NSZzZWNyZXQ9bjF1N3VpMDYmc3NsPTEmMjF5bz0wJmU9MTc5MDU5OTA0MiZzdD1tVWRSQVFvbDY4SHVMTEc2MENpeTFn&master=105
 #EXTINF:-1 tvg-id="ViasatKinoComedy.ua" tvg-country="UA" tvg-language="Russian" tvg-logo="https://i.imgur.com/qVYt8kP.png" tvg-status="live" group-title="Movies",Viasat Kino Comedy
