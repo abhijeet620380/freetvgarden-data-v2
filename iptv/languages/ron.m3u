@@ -13,7 +13,7 @@ https://aom-live.maghost.ro/aomTV/streams/OOztu5o9Fx6dh9mD1711027803849.m3u8
 https://video.angelustv.ro/hls/angelustv.m3u8
 #EXTINF:-1 tvg-id="Antena1.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/EPmwuuv.png" tvg-status="live" group-title="General",Antena 1
 https://stream1.antenaplay.ro/as/asrolive1/playlist.m3u8
-#EXTINF:-1 tvg-id="famelack-uXqlv34zzBQ5z0" tvg-country="RO" tvg-language="Romanian" tvg-logo="" tvg-status="live" group-title="Entertainment",Antena Stars
+#EXTINF:-1 tvg-id="AntenaStars.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7e/A_Stars_2022.png/revision/latest/scale-to-width-down/300" tvg-status="live" group-title="Entertainment",Antena Stars
 https://stream1.antenaplay.ro/live/AntenaMonden/playlist.m3u8
 #EXTINF:-1 tvg-id="ArgesTV.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/qufz6nk.png" tvg-status="live" group-title="General",Arges TV
 https://btutzctahuf0wjoq.cdn.streamingserver.io/hls/yjvam8hlp2g3u08z02tv0yz66rq3cy.m3u8
@@ -61,8 +61,6 @@ rtmp://89.28.25.122/live/tnt_md
 https://thor1.syndula1.cfd/df/usergendlg1ks0t2n.m3u8
 #EXTINF:-1 tvg-id="famelack-GwJhdsRcye8S3I" tvg-country="RO" tvg-language="Romanian" tvg-logo="" tvg-status="live" group-title="Movies",FILMBOX+ Hits Romania
 https://nosignal1.antenaplay.ro/hls/fb-hits-sd/index.m3u8
-#EXTINF:-1 tvg-id="famelack-BjZVMVKPbgDPNQ" tvg-country="RO" tvg-language="Romanian" tvg-logo="" tvg-status="live" group-title="Movies",FILMBOX+ One Romania
-https://nosignal1.antenaplay.ro/hls/fb-one-sd/index.m3u8
 #EXTINF:-1 tvg-id="HD365TV.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/2cLx4ja.png" tvg-status="live" group-title="General",HD365 TV
 https://s2.netstreaming.eu/hd365.m3u8
 #EXTINF:-1 tvg-id="HelloTaste.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/TdKO0er.png" tvg-status="down" group-title="Cooking",Hello Taste
@@ -147,6 +145,8 @@ https://radiolive.trm.md:8001/hls_rmm/muzical.m3u8
 https://radiolive.trm.md:8001/hls_rmt/tineret.m3u8
 #EXTINF:-1 tvg-id="RadioRomaniaAntenaSatelor.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://www.antenasatelor.ro/templates/default/images/custom/logo-main.svg" tvg-status="live" group-title="Music",Radio Romania Antena Satelor
 https://stream3.srr.ro/live/AntenaSatelor/playlist.m3u8
+#EXTINF:-1 tvg-id="famelack-BEYVH24fbdnqEV" tvg-country="RO" tvg-language="Romanian" tvg-logo="" tvg-status="live" group-title="Music",Radio Romania Antena Satelor 720p
+https://stream3.srr.ro/live/AntenaSatelor/playlist.m3u8
 #EXTINF:-1 tvg-id="RealitateaPlus.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://mailx.realitatea.net/skins/elastic/rtv.svg?s=1769106830" tvg-status="live" group-title="General",Realitatea Plus
 https://stream.realitatea.net/realitatea/plus_md/ts:playlist.m3u8
 #EXTINF:-1 tvg-id="RealitateaSportiva.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/BaEyZto.png" tvg-status="live" group-title="Sports",Realitatea Sportiva
@@ -175,7 +175,7 @@ http://89.137.197.15:8080/testing/pl5/playlist/ram/playlist.m3u8
 https://vdo.ssl-stream.com:3247/stream/play.m3u8
 #EXTINF:-1 tvg-id="Telestar1.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/BTKh5ef.png" tvg-status="live" group-title="General",Telestar1
 https://dvb.tennet.ro/mobile_tv/telestar.m3u8
-#EXTINF:-1 tvg-id="TezaurTV.md" tvg-country="MD" tvg-language="Romanian" tvg-logo="https://i.imgur.com/eAagwLW.png" tvg-status="live" group-title="Music",Tezaur TV
+#EXTINF:-1 tvg-id="famelack-Vz912DM7zVlEgp" tvg-country="MD" tvg-language="Romanian" tvg-logo="" tvg-status="live" group-title="Music",Tezaur TV
 https://tezaurtv.md/stream/index.m3u8
 #EXTINF:-1 tvg-id="TimelessDiziChannel.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/s3Sqd4L.png" tvg-status="live" group-title="General",Timeless Dizi Channel
 https://atlantida1.aquax1.cfd/dizy/usergendlk0tas9c.m3u8
