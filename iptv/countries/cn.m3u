@@ -58,7 +58,7 @@ http://74.91.26.218:82/live/cctv7hd.m3u8
 #EXTINF:-1 tvg-id="CCTV8.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://i.imgur.com/GyHaZ8X.png" tvg-status="live" group-title="Culture",CCTV-8
 http://74.91.26.218:82/live/cctv8hd.m3u8
 #EXTINF:-1 tvg-id="CCTV8K.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://i.imgur.com/fxVPMJF.png" tvg-status="live" group-title="General",CCTV-8K
-http://192.151.150.154/live/cctv8k.m3u8
+http://198.204.240.250:82/live/cctv8k.m3u8
 #EXTINF:-1 tvg-id="CCTV9.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://i.imgur.com/3tivvMm.png" tvg-status="live" group-title="Documentary",CCTV-9
 https://xykt-fix.github.io/Y77.m3u8
 #EXTINF:-1 tvg-id="CCTVBilliards.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://i.imgur.com/WK3keM9.png" tvg-status="live" group-title="Sports",CCTV-Billiards
@@ -173,8 +173,8 @@ https://homeplushls.wns.live/hls/stream.m3u8
 http://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_346.m3u8
 #EXTINF:-1 tvg-id="HunanPoliticsLawChannel.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://www.tvchinese.net/uploads/tv/cszfpd.jpg" tvg-status="down" group-title="Legislative",Hunan Politics & Law Channel
 http://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_348.m3u8
-#EXTINF:-1 tvg-id="famelack-DmRj3yhamAblyQ" tvg-country="CN" tvg-language="Chinese" tvg-logo="" tvg-status="live" group-title="General",Hunan TV
-https://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
+#EXTINF:-1 tvg-id="HunanTV.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://parco-zh.github.io/demo/HNWS.png" tvg-status="live" group-title="General",Hunan TV
+http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
 #EXTINF:-1 tvg-id="HunanWomensChannel.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://www.tvchinese.net/uploads/tv/csnxpd.jpg" tvg-status="down" group-title="Lifestyle",Hunan Womens Channel
 http://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_349.m3u8
 #EXTINF:-1 tvg-id="JiangsuCityChannel.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://www.tvchinese.net/uploads/tv/jscs.jpg" tvg-status="down" group-title="General",Jiangsu City Channel
@@ -335,6 +335,8 @@ https://live.shaoxing.com.cn/video/s10001-sxtv1/index.m3u8
 https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
 #EXTINF:-1 tvg-id="famelack-9lXsFkxoK3Y81Q" tvg-country="CN" tvg-language="" tvg-logo="" tvg-status="live" group-title="General",浙江教科
 https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
+#EXTINF:-1 tvg-id="famelack-TT80T0Uhd4YSQT" tvg-country="CN" tvg-language="" tvg-logo="" tvg-status="live" group-title="General",浙江新闻
+https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
 #EXTINF:-1 tvg-id="famelack-DGN51eNb7kGHRy" tvg-country="CN" tvg-language="" tvg-logo="" tvg-status="live" group-title="General",浙江民生
 https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
 #EXTINF:-1 tvg-id="famelack-bed0qZJ8Xu4Wrw" tvg-country="CN" tvg-language="" tvg-logo="" tvg-status="live" group-title="General",浙江经济
@@ -347,5 +349,9 @@ https://live.zohi.tv/video/s10001-fztv-1/index.m3u8
 https://live.zohi.tv/video/s10001-fztv-3/index.m3u8
 #EXTINF:-1 tvg-id="famelack-53xcrNbACNtdim" tvg-country="CN" tvg-language="" tvg-logo="" tvg-status="live" group-title="General",福州电视台少儿频道 (FZTV-少儿)
 https://live.zohi.tv/video/s10001-fztv-4/index.m3u8
+#EXTINF:-1 tvg-id="famelack-HGBni7wKrtguXm" tvg-country="CN" tvg-language="" tvg-logo="" tvg-status="live" group-title="General",萧山新闻综合
+https://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8
+#EXTINF:-1 tvg-id="famelack-hlJLT7eqdRNqcv" tvg-country="CN" tvg-language="" tvg-logo="" tvg-status="live" group-title="General",蕭山生活頻道
+https://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8
 #EXTINF:-1 tvg-id="famelack-6nQrzZYDFKwB5C" tvg-country="CN" tvg-language="" tvg-logo="" tvg-status="live" group-title="General",餘姚姚江文化
 https://l.cztvcloud.com/channels/lantian/SXyuyao2/720p.m3u8

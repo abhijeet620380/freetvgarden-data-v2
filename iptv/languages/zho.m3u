@@ -66,7 +66,7 @@ http://74.91.26.218:82/live/cctv7hd.m3u8
 #EXTINF:-1 tvg-id="CCTV8.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://i.imgur.com/GyHaZ8X.png" tvg-status="live" group-title="Culture",CCTV-8
 http://74.91.26.218:82/live/cctv8hd.m3u8
 #EXTINF:-1 tvg-id="CCTV8K.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://i.imgur.com/fxVPMJF.png" tvg-status="live" group-title="General",CCTV-8K
-http://192.151.150.154/live/cctv8k.m3u8
+http://198.204.240.250:82/live/cctv8k.m3u8
 #EXTINF:-1 tvg-id="CCTV9.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://i.imgur.com/3tivvMm.png" tvg-status="live" group-title="Documentary",CCTV-9
 https://xykt-fix.github.io/Y77.m3u8
 #EXTINF:-1 tvg-id="CCTVBilliards.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://i.imgur.com/WK3keM9.png" tvg-status="live" group-title="Sports",CCTV-Billiards
@@ -135,6 +135,8 @@ http://live2.rxip.sc96655.com/live/zxs_4000.m3u8?A=&E=&K=&P=&S=&U=
 http://23.237.10.66:16372
 #EXTINF:-1 tvg-id="famelack-hNwc6ncr6s8reS" tvg-country="TW" tvg-language="Chinese" tvg-logo="" tvg-status="live" group-title="News",CTI+
 https://www.youtube-nocookie.com/embed/-Bk_tdwVDPQ
+#EXTINF:-1 tvg-id="famelack-otid9imSgOgaGV" tvg-country="TW" tvg-language="Chinese" tvg-logo="" tvg-status="live" group-title="News",CTITV News 中天新聞
+https://www.youtube-nocookie.com/embed/p6PYITiIz0E
 #EXTINF:-1 tvg-id="CTS.tw" tvg-country="TW" tvg-language="Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/8/8a/CTS_Logo.png" tvg-status="down" group-title="General",CTS
 rtmp://59.124.75.138:1935/sat/tv111
 #EXTINF:-1 tvg-id="CTSNews.tw" tvg-country="TW" tvg-language="Chinese" tvg-logo="https://i.imgur.com/V1EVtRm.png" tvg-status="down" group-title="News",CTS News
@@ -177,7 +179,7 @@ https://www.youtube-nocookie.com/embed/a1YWMrmwXQs
 https://www.youtube-nocookie.com/embed/6IquAgfvYmc
 #EXTINF:-1 tvg-id="famelack-vvHxH5PpOcQyf3" tvg-country="TW" tvg-language="Chinese" tvg-logo="" tvg-status="live" group-title="News",GlobalNews TV: Taiwan News
 https://www.youtube-nocookie.com/embed/w87VGpgd90U
-#EXTINF:-1 tvg-id="famelack-X2mzfNA1EyPeME" tvg-country="PK" tvg-language="Chinese" tvg-logo="" tvg-status="live" group-title="Kids",God Stands Kids Club TV Chinese
+#EXTINF:-1 tvg-id="famelack-X2mzfNA1EyPeME" tvg-country="PK" tvg-language="Chinese" tvg-logo="" tvg-status="live" group-title="Religious",God Stands Kids Club TV Chinese
 https://online.godstands.tv:5443/WebRTCApp/streams/KidsChinese.m3u8
 #EXTINF:-1 tvg-id="famelack-NcmIJl0QEk2Pmg" tvg-country="PK" tvg-language="Chinese" tvg-logo="" tvg-status="live" group-title="Religious",God Stands TV Chinese
 https://online.godstands.tv:5443/WebRTCApp/streams/chineselive.m3u8
@@ -217,8 +219,8 @@ http://117.156.28.119/270000001111/1110000146/index.m3u8
 http://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_346.m3u8
 #EXTINF:-1 tvg-id="HunanPoliticsLawChannel.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://www.tvchinese.net/uploads/tv/cszfpd.jpg" tvg-status="down" group-title="Legislative",Hunan Politics & Law Channel
 http://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_348.m3u8
-#EXTINF:-1 tvg-id="famelack-DmRj3yhamAblyQ" tvg-country="CN" tvg-language="Chinese" tvg-logo="" tvg-status="live" group-title="General",Hunan TV
-https://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
+#EXTINF:-1 tvg-id="HunanTV.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://parco-zh.github.io/demo/HNWS.png" tvg-status="live" group-title="General",Hunan TV
+http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
 #EXTINF:-1 tvg-id="HunanWomensChannel.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://www.tvchinese.net/uploads/tv/csnxpd.jpg" tvg-status="down" group-title="Lifestyle",Hunan Womens Channel
 http://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_349.m3u8
 #EXTINF:-1 tvg-id="IndigenousTV.tw" tvg-country="TW" tvg-language="Chinese" tvg-logo="https://i.imgur.com/vmk4F9u.png" tvg-status="down" group-title="Culture",Indigenous TV
