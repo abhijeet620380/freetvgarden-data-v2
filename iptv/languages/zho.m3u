@@ -15,7 +15,7 @@ https://hplayer1.juyun.tv/camera/154379194.m3u8
 https://stream2.jlntv.cn/baicheng1/sd/live.m3u8
 #EXTINF:-1 tvg-id="BeautifulLifeTV.tw" tvg-country="TW" tvg-language="Chinese" tvg-logo="https://i.imgur.com/hkwcBM9.png" tvg-status="live" group-title="Religious",Beautiful Life TV
 https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
-#EXTINF:-1 tvg-id="BeijingSatelliteTV.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://i.imgur.com/vsktAez.png" tvg-status="down" group-title="General",Beijing Satellite TV
+#EXTINF:-1 tvg-id="BeijingSatelliteTV.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://i.imgur.com/vsktAez.png" tvg-status="live" group-title="General",Beijing Satellite TV
 http://go.bkpcp.top/mg/bjws
 #EXTINF:-1 tvg-id="BingtuanSatelliteTV.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://i.imgur.com/Y4qxDqz.png" tvg-status="down" group-title="General",Bingtuan Satellite TV
 http://112.25.48.68/live/program/live/btws/1300000/mnf.m3u8
@@ -32,7 +32,7 @@ http://74.91.26.218:82/live/cctv11hd.m3u8
 #EXTINF:-1 tvg-id="CCTV12.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://i.imgur.com/3yTuiOM.png" tvg-status="live" group-title="Lifestyle",CCTV-12
 http://74.91.26.218:82/live/cctv12hd.m3u8
 #EXTINF:-1 tvg-id="CCTV13.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://i.imgur.com/6MTar6J.png" tvg-status="live" group-title="News",CCTV-13
-http://74.91.26.218:82/live/cctv13hd.m3u8
+http://go.bkpcp.top/mg/cctv13
 #EXTINF:-1 tvg-id="CCTV14.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://i.imgur.com/c5SXW7i.png" tvg-status="live" group-title="Kids",CCTV-14
 http://74.91.26.218:82/live/cctv14hd.m3u8
 #EXTINF:-1 tvg-id="CCTV15.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://i.imgur.com/CCV0eRG.png" tvg-status="live" group-title="Music",CCTV-15
@@ -64,7 +64,7 @@ http://74.91.26.218:82/live/cctv7hd.m3u8
 #EXTINF:-1 tvg-id="CCTV8.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://i.imgur.com/GyHaZ8X.png" tvg-status="live" group-title="Culture",CCTV-8
 http://74.91.26.218:82/live/cctv8hd.m3u8
 #EXTINF:-1 tvg-id="CCTV8K.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://i.imgur.com/fxVPMJF.png" tvg-status="live" group-title="General",CCTV-8K
-http://192.151.150.154/live/cctv8k.m3u8
+http://198.204.240.250:82/live/cctv8k.m3u8
 #EXTINF:-1 tvg-id="CCTV9.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://i.imgur.com/3tivvMm.png" tvg-status="live" group-title="Documentary",CCTV-9
 https://xykt-fix.github.io/Y77.m3u8
 #EXTINF:-1 tvg-id="CCTVBilliards.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://i.imgur.com/WK3keM9.png" tvg-status="live" group-title="Sports",CCTV-Billiards
@@ -175,7 +175,7 @@ https://www.youtube-nocookie.com/embed/a1YWMrmwXQs
 https://www.youtube-nocookie.com/embed/6IquAgfvYmc
 #EXTINF:-1 tvg-id="famelack-vvHxH5PpOcQyf3" tvg-country="TW" tvg-language="Chinese" tvg-logo="" tvg-status="live" group-title="News",GlobalNews TV: Taiwan News
 https://www.youtube-nocookie.com/embed/w87VGpgd90U
-#EXTINF:-1 tvg-id="famelack-X2mzfNA1EyPeME" tvg-country="PK" tvg-language="Chinese" tvg-logo="" tvg-status="live" group-title="Kids",God Stands Kids Club TV Chinese
+#EXTINF:-1 tvg-id="famelack-X2mzfNA1EyPeME" tvg-country="PK" tvg-language="Chinese" tvg-logo="" tvg-status="live" group-title="Religious",God Stands Kids Club TV Chinese
 https://online.godstands.tv:5443/WebRTCApp/streams/KidsChinese.m3u8
 #EXTINF:-1 tvg-id="famelack-NcmIJl0QEk2Pmg" tvg-country="PK" tvg-language="Chinese" tvg-logo="" tvg-status="live" group-title="Religious",God Stands TV Chinese
 https://online.godstands.tv:5443/WebRTCApp/streams/chineselive.m3u8
@@ -202,7 +202,7 @@ https://stream.hrbtv.net/xwzh/playlist.m3u8?_upt=ef41dd531755913594
 #EXTINF:-1 tvg-id="HarbinMovieChannel.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://www.tvchinese.net/uploads/tv/haerbin.jpg" tvg-status="live" group-title="Movies",Harbin Movie Channel
 https://stream.hrbtv.net/yspd/playlist.m3u8
 #EXTINF:-1 tvg-id="HebeiTV.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://i.imgur.com/Z5Ppzbi.png" tvg-status="live" group-title="General",Hebei TV
-https://event.pull.hebtv.com/live/live101.m3u8
+https://restream.pdtvhd.com/memfs/1db8c005-9365-4b32-94a4-3736987b5646.m3u8
 #EXTINF:-1 tvg-id="HebiNewsChannel.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://i.imgur.com/Osw5yRW.png" tvg-status="down" group-title="News",Hebi News Channel
 http://pili-live-hls.hebitv.com/hebi/hebi.m3u8
 #EXTINF:-1 tvg-id="HeilongjiangTV.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://i.imgur.com/9fj1uba.png" tvg-status="down" group-title="General",Heilongjiang TV
@@ -271,7 +271,7 @@ http://39.134.39.37/PLTV/88888888/224/3221226209/index.m3u8
 https://brightstar-chinese-pull-secure.akamaized.net/brightstarchinese/stream.m3u8
 #EXTINF:-1 tvg-id="MeiAhMovieChannel.hk" tvg-country="HK" tvg-language="Chinese" tvg-logo="https://i.imgur.com/laGiFM1.png" tvg-status="live" group-title="Movies",Mei Ah Movie Channel
 http://103.172.187.30:12000/stream/mytv/null-9/master.m3u8
-#EXTINF:-1 tvg-id="MOMOTV.tw" tvg-country="TW" tvg-language="Chinese" tvg-logo="https://m.momoshop.com.tw/img/message.png" tvg-status="live" group-title="Shop",MOMO TV
+#EXTINF:-1 tvg-id="MOMOTV.tw" tvg-country="TW" tvg-language="Chinese" tvg-logo="https://m.momoshop.com.tw/img/message.png" tvg-status="down" group-title="Shop",MOMO TV
 http://nmk.ioapk.com:5050/4gtv-live107/index.m3u8
 #EXTINF:-1 tvg-id="famelack-QCmvdu32Qo7gos" tvg-country="TW" tvg-language="Chinese" tvg-logo="" tvg-status="live" group-title="Kids",momokids親子台
 https://www.youtube-nocookie.com/embed/xJ6ySzzvnno
