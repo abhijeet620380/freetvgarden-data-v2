@@ -3,8 +3,8 @@
 https://5fc584f3f19c9.streamlock.net/genteopa/videogenteopa/playlist.m3u8
 #EXTINF:-1 tvg-id="360RFTV.cr" tvg-country="CR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/EBtgnxR.png" tvg-status="live" group-title="General",360 RFTV
 https://acceso.mediosdecostarica.com:3638/live/360rftvcrlive.m3u8
-#EXTINF:-1 tvg-id="88Stereo.cr" tvg-country="CR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/i3YwORV.png" tvg-status="live" group-title="Music",88 Stereo
-http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8
+#EXTINF:-1 tvg-id="famelack-3gZO8yQ0WOkQ8B" tvg-country="CR" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="Music",88 Stereo
+https://s1.tvdatta.com:3972/live/88stereolive.m3u8
 #EXTINF:-1 tvg-id="AgrotendenciaTV.cr" tvg-country="CR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/frd60hR.png" tvg-status="live" group-title="Outdoor",Agrotendencia TV
 https://5fc584f3f19c9.streamlock.net/agrotendencia/videoagrotendencia_hls1/playlist.m3u8
 #EXTINF:-1 tvg-id="AntenaSeisTV.cr" tvg-country="CR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/9Nh2mo9.png" tvg-status="live" group-title="General",Antena Seis TV
@@ -17,8 +17,6 @@ https://vid.canal1cr.com:3424/multi_live/play_720.m3u8
 https://acceso.mediosdecostarica.com:3606/live/canal10costaricalive.m3u8
 #EXTINF:-1 tvg-id="Canal11.cr" tvg-country="CR" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Repretel_11_logo.png/960px-Repretel_11_logo.png" tvg-status="live" group-title="General",Canal 11
 http://45.5.117.188:8000/play/a02w/index.m3u8
-#EXTINF:-1 tvg-id="famelack-Z3J6UkFFEng975" tvg-country="CR" tvg-language="" tvg-logo="" tvg-status="live" group-title="General",Canal 17 TV Nosara
-https://latamvdo.com:3870/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="Canal2.cr" tvg-country="CR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/Nn8BtH5.png" tvg-status="down" group-title="General",Canal 2
 https://d2hha8xu9trvi8.cloudfront.net/ts:abr.m3u8
 #EXTINF:-1 tvg-id="Canal3KMKTV.cr" tvg-country="CR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/sgRDRBK.jpg" tvg-status="live" group-title="Music",Canal 3 KMK TV
@@ -69,13 +67,13 @@ https://5cf4a2c2512a2.streamlock.net/8176/8176/playlist.m3u8
 https://5fe2654d6127d.streamlock.net/impactchannel/videoimpactchannel/playlist.m3u8
 #EXTINF:-1 tvg-id="IQChannel.cr" tvg-country="CR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/hwuaomt.png" tvg-status="live" group-title="Music",IQ Channel
 https://rtmp.info/iqtv/envivo/playlist.m3u8
-#EXTINF:-1 tvg-id="famelack-hWONN4ANlWd0XQ" tvg-country="CR" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="Entertainment",La Potente Radio TV
+#EXTINF:-1 tvg-id="LaPotenteRadioTV.cr" tvg-country="CR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/ti5Fg5D.png" tvg-status="live" group-title="Entertainment",La Potente Radio TV
 https://latamvdo.com:3626/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="LimonTV.cr" tvg-country="CR" tvg-language="Spanish" tvg-logo="https://i.ibb.co/rdpcv7C/1689421727166.jpg" tvg-status="live" group-title="General",Limon TV
 http://k4.usastreams.com/limontv1/limontv1/playlist.m3u8
 #EXTINF:-1 tvg-id="LosSantosTV.cr" tvg-country="CR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/5xw86wu.png" tvg-status="live" group-title="General",Los Santos TV
 https://lstv.duckdns.org:449/hls/lstv.m3u8
-#EXTINF:-1 tvg-id="famelack-UTisNlOtHENqTI" tvg-country="CR" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="Religious",Luz Naciente TV
+#EXTINF:-1 tvg-id="LuzNacienteTV.cr" tvg-country="CR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/GC2lubh.png" tvg-status="live" group-title="Religious",Luz Naciente TV
 https://streeming.protoscr.com:3858/live/streeminglive.m3u8
 #EXTINF:-1 tvg-id="famelack-fNzNQyxrdQA2dG" tvg-country="CR" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="News",Multimedios Costa Rica
 https://www.youtube-nocookie.com/embed/IyYX2vQGvu8
@@ -123,10 +121,8 @@ https://5eac7b031d945.streamlock.net/TICAVISION/TICAVISION/playlist.m3u8
 https://live20.bozztv.com/akamaissh101/ssh101/livetigocr/playlist.m3u8
 #EXTINF:-1 tvg-id="Trivision36.cr" tvg-country="CR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/aadWnIx.jpg" tvg-status="live" group-title="General",Trivision 36
 https://liveingesta118.cdnmedia.tv/trivisionlive/rtmp01-900/chunklist.m3u8?DVR=
-#EXTINF:-1 tvg-id="famelack-46bhWZVm1EdjmB" tvg-country="CR" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="Sports",TV Cartago Digital
+#EXTINF:-1 tvg-id="famelack-46bhWZVm1EdjmB" tvg-country="CR" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="Culture",TV Cartago Digital
 https://video2.getstreamhosting.com:19360/8110/8110.m3u8
-#EXTINF:-1 tvg-id="famelack-oFBYYfrHTKyW0r" tvg-country="CR" tvg-language="" tvg-logo="" tvg-status="live" group-title="General",TV Nosara
-https://latamvdo.com:3870/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="TVSurCanal14.cr" tvg-country="CR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/OpHYYZA.png" tvg-status="live" group-title="General",TV Sur Canal 14
 https://k20.usastreams.com:8081/tvsur/index.m3u8
 #EXTINF:-1 tvg-id="TVSurCanal9.cr" tvg-country="CR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/7HbISMV.png" tvg-status="live" group-title="General",TV Sur Canal 9
