@@ -15,9 +15,9 @@ https://stream8.cinerama.uz/1267/tracks-v1a1/mono.m3u8
 https://www.youtube-nocookie.com/embed/mWkb-BLcGAY
 #EXTINF:-1 tvg-id="2x2.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2x2_TV_Logo.svg/1920px-2x2_TV_Logo.svg.png" tvg-status="live" group-title="Entertainment",2x2
 https://bl.rutube.ru/livestream/392b4686b770bae2da6bf5ac4574add5/index.m3u8?e=2068731801&s=tenr-yHXUv1wibfka78s2A&scheme=https
-#EXTINF:-1 tvg-id="312Kino.kg" tvg-country="KG" tvg-language="Russian" tvg-logo="https://i.ibb.co/3m9LrLj/k7gIibH.png" tvg-status="live" group-title="Movies",312 Kino
+#EXTINF:-1 tvg-id="312Kino.kg" tvg-country="KG" tvg-language="Russian" tvg-logo="https://i.ibb.co/3m9LrLj/k7gIibH.png" tvg-status="down" group-title="Movies",312 Kino
 http://176.126.166.43:1935/live/312kino/playlist.m3u8
-#EXTINF:-1 tvg-id="312TV.kg" tvg-country="KG" tvg-language="Russian" tvg-logo="https://i.ibb.co/S6sZvqk/iLSGi6c.png" tvg-status="live" group-title="Entertainment",312 TV
+#EXTINF:-1 tvg-id="312TV.kg" tvg-country="KG" tvg-language="Russian" tvg-logo="https://i.ibb.co/S6sZvqk/iLSGi6c.png" tvg-status="down" group-title="Entertainment",312 TV
 http://176.126.166.43:1935/live/312musik/playlist.m3u8
 #EXTINF:-1 tvg-id="360.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/VTJqdoX.png" tvg-status="live" group-title="General",360°
 https://cdn-evacoder-tv.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/index.m3u8
@@ -86,7 +86,7 @@ http://77.89.199.174:8000/play/1024/index.m3u8
 #EXTINF:-1 tvg-id="Bashkortostan24.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/s34Wtz6.png" tvg-status="down" group-title="General",Bashkortostan 24
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/ufa/bashkortostan24-hd/index.m3u8
 #EXTINF:-1 tvg-id="Belarus1.by" tvg-country="BY" tvg-language="Russian" tvg-logo="https://i.imgur.com/sUD9t5j.png" tvg-status="live" group-title="General",Belarus-1
-https://ngtrk.dc.beltelecom.by/ngtrk/_definst_/smil:belarus1.smil/playlist.m3u8
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus1.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Belarus24.by" tvg-country="BY" tvg-language="Russian" tvg-logo="https://i.imgur.com/BP7tY6F.png" tvg-status="live" group-title="News",Belarus-24
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus24.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Belarus3.by" tvg-country="BY" tvg-language="Russian" tvg-logo="https://i.imgur.com/JkcDycn.png" tvg-status="live" group-title="Culture",Belarus-3
@@ -368,7 +368,7 @@ http://stream.mcquack.net/68/index.m3u8
 #EXTINF:-1 tvg-id="Komediynoe.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/cEKe8XC.png" tvg-status="live" group-title="Comedy",Komediynoe
 http://stream.mcquack.net/74/index.m3u8
 #EXTINF:-1 tvg-id="KongressTV.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://tvcongress.ru/bitrix/templates/mbntheme/img/logo_tvc.svg" tvg-status="live" group-title="General",Kongress TV
-https://live-3.otcnet.ru/congresstv/index.m3u8
+https://stitch.teletarget.ru/api/v1/hls/504/158/index.m3u8
 #EXTINF:-1 tvg-id="KrikTV.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/rtuChZR.png" tvg-status="live" group-title="News",Krik-TV
 http://cdn-01.bonus-tv.ru/kriktv_edge/playlist.m3u8
 #EXTINF:-1 tvg-id="KTK.kz" tvg-country="KZ" tvg-language="Russian" tvg-logo="https://i.imgur.com/BurrNTo.png" tvg-status="live" group-title="General",KTK
@@ -395,7 +395,7 @@ http://46.46.143.222:1935/live/mp4:ldpr.stream/playlist.m3u8
 https://sevas.1tvcrimea.ru/legendarniy24.m3u8
 #EXTINF:-1 tvg-id="LenTV24.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/d02uxkB.png" tvg-status="live" group-title="General",LenTV24
 https://player.smotrim.ru/iframe/stream/live_id/3e95d201-f87d-4ac1-8897-db2c66bb9657
-#EXTINF:-1 tvg-id="famelack-IPkLjLkp2JBRTC" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-status="live" group-title="Shop",Leomax 24
+#EXTINF:-1 tvg-id="Leomax24.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/qU9ohQu.png" tvg-status="live" group-title="Shop",Leomax 24
 https://tvshops.bonus-tv.ru/cdn/shop24/playlist.m3u8
 #EXTINF:-1 tvg-id="LifeTV.ee" tvg-country="EE" tvg-language="Russian" tvg-logo="https://i.imgur.com/JhrTB82.png" tvg-status="live" group-title="Religious",Life TV
 http://lifetv.bitflip.ee/live/stream1_1/index.m3u8
@@ -509,7 +509,7 @@ https://stream8.cinerama.uz/1500/playlist.m3u8
 https://stream8.cinerama.uz/1502/playlist.m3u8
 #EXTINF:-1 tvg-id="NikaTV.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/dccsFAu.png" tvg-status="live" group-title="General",Nika TV
 https://live-nikatv.cdnvideo.ru/nikatv/nikatv.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="NizhniyNovgorod24.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/ZWgPVIC.png" tvg-status="live" group-title="General",Nizhniy Novgorod 24
+#EXTINF:-1 tvg-id="famelack-y0xVte051Kr4xO" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-status="live" group-title="General",Nizhniy Novgorod 24
 https://live-vestinn.cdnvideo.ru/vestinn/nn24-khl/playlist.m3u8
 #EXTINF:-1 tvg-id="Nostalgia.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/YBdBc0J.png" tvg-status="live" group-title="Classic",Nostalgia
 http://hls127.freeott.top:8080/Nostalgiya/video.m3u8
@@ -765,9 +765,9 @@ http://hls127.freeott.top:8080/Spas/video.m3u8
 http://stream.mcquack.net/461/index.m3u8
 #EXTINF:-1 tvg-id="Sportivnyy.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/ujS6mMo.png" tvg-status="live" group-title="Sports",Sportivnyy
 https://live-3.otcnet.ru/sportivny/index.m3u8
-#EXTINF:-1 tvg-id="famelack-bGtZkBQX1pajI4" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-status="live" group-title="Movies",Star Cinema
+#EXTINF:-1 tvg-id="StarCinema.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/5sis895.png" tvg-status="live" group-title="Movies",Star Cinema
 https://dash2.antik.sk/live/test_star_cinema_atktv/playlist.m3u8
-#EXTINF:-1 tvg-id="famelack-HNOf8nkgiaINaY" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-status="live" group-title="Movies",Star Family
+#EXTINF:-1 tvg-id="StarFamily.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/eGuGHnZ.png" tvg-status="live" group-title="Movies",Star Family
 https://dash2.antik.sk/live/test_star_family_atktv/playlist.m3u8
 #EXTINF:-1 tvg-id="STARTAir.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://images.iptv.rt.ru/images/d60qp8omife4gis72tk0.png" tvg-status="live" group-title="Movies",START Air
 http://stream.mcquack.net/128/index.m3u8
