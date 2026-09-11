@@ -25,11 +25,11 @@ https://103f01c3ff79408e83c9212f8a374ecc.mediatailor.us-east-1.amazonaws.com/v1/
 https://emisja.btb.j00r.us/iptv/session/1/hls.m3u8
 #EXTINF:-1 tvg-id="BTB2.pl" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/C5g0ejM.png" tvg-status="live" group-title="General",BTB 2
 https://emisja.btb.j00r.us/iptv/session/2/hls.m3u8
-#EXTINF:-1 tvg-id="BTB3.pl" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/Z193940.png" tvg-status="live" group-title="General",BTB 3
+#EXTINF:-1 tvg-id="famelack-DHR1El8JiIdfUH" tvg-country="PL" tvg-language="Polish" tvg-logo="" tvg-status="live" group-title="General",BTB 3
 https://emisja3.btb.j00r.us/iptv/session/3/hls.m3u8
-#EXTINF:-1 tvg-id="BTBInfo.pl" tvg-country="PL" tvg-language="Polish" tvg-logo="https://btb.j00r.us/img.php?id=87fa06e1418604cb096a0bb3f24e4371&type=Primary&w=400&t=BTB+Info" tvg-status="live" group-title="Documentary",BTB Info
-https://emisja2.btb.j00r.us/iptv/session/4/hls.m3u8
-#EXTINF:-1 tvg-id="BTBMusic.pl" tvg-country="PL" tvg-language="Polish" tvg-logo="https://btb.j00r.us/images/logo_BTBMusic.webp" tvg-status="live" group-title="Music",BTB Music
+#EXTINF:-1 tvg-id="famelack-vifXiIDfcyAksy" tvg-country="PL" tvg-language="English" tvg-logo="" tvg-status="live" group-title="Documentary",BTB Info
+https://panel.btb.j00r.us/memfs/928cfb64-fed7-4c27-9937-f5ad72d9d73c.m3u8
+#EXTINF:-1 tvg-id="famelack-QpkwHa7GwFnKLp" tvg-country="PL" tvg-language="" tvg-logo="" tvg-status="live" group-title="Music",BTB Music
 https://panel.btb.j00r.us/memfs/ebaffae6-0086-49d7-843d-57f2c561de86.m3u8
 #EXTINF:-1 tvg-id="BuzzfeedUnsolved.pl" tvg-country="PL" tvg-language="English" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/e16cfcc7-2040-4bd5-8339-16d499f8799e-width200-quality90.png" tvg-status="live" group-title="General",Buzzfeed Unsolved
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883099
@@ -127,7 +127,7 @@ https://amg00378-mavtv-amg00378c2-rakuten-us-1048.playouts.now.amagi.tv/playlist
 https://1888165924.rsc.cdn77.org/live/RadioRAM/playlist.m3u8
 #EXTINF:-1 tvg-id="RadiowaCzworka.pl" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/VAtxF7k.png" tvg-status="live" group-title="Entertainment",Radiowa Czworka
 https://stream14.polskieradio.pl/pr4_video/video_pr4.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="famelack-uro7Gvibaed6g8" tvg-country="PL" tvg-language="English" tvg-logo="" tvg-status="live" group-title="Entertainment",Rakuten Viki Poland
+#EXTINF:-1 tvg-id="famelack-uro7Gvibaed6g8" tvg-country="PL" tvg-language="English" tvg-logo="" tvg-status="live" group-title="Series",Rakuten Viki Poland
 https://fd18f1cadd404894a31a3362c5f319bd.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_RakutenViki-1/playlist.m3u8
 #EXTINF:-1 tvg-id="RedCarpetTVInternational.pl" tvg-country="PL" tvg-language="Polish" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/a52f843a-9a9c-4d96-8f77-57f3ec96acb0-width200-quality90.jpeg" tvg-status="live" group-title="General",Red Carpet TV International
 https://fast-rakuten.okast.tv/fa2e8c4385712f9a9076eaf728c751de/channels/1a6ecfaa-40c6-41b8-8634-595c424f856e/21f67fd1-4d21-43ba-8ad8-3afac9982c25/master.m3u8
@@ -219,8 +219,6 @@ https://live.streamtvt.pl/LiveAppStreamTVT/streams/853271271313930867905724.m3u8
 http://gargoyle.tomkow.pl/hls/tvt.m3u8
 #EXTINF:-1 tvg-id="TwojaTV.pl" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.ibb.co/vxntQD60/twojatv-hd-online.png" tvg-status="live" group-title="General",Twoja.TV
 https://stream.twoja.tv/ttv_hls/live.m3u8
-#EXTINF:-1 tvg-id="UltraTV4K.pl" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/sRtjNdd.png" tvg-status="live" group-title="Music",Ultra TV 4K
-http://45.190.28.50/ULTRA/index.m3u8
 #EXTINF:-1 tvg-id="ViasatExploreClassic.pl" tvg-country="PL" tvg-language="Polish" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/1f51bd5f-5c9a-486d-8720-800de7f73129-width200-quality90.jpeg" tvg-status="live" group-title="General",Viasat Explore Classic
 https://da9c49fa.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLXBsX1ZpYXNhdEV4cGxvcmVfSExT/playlist.m3u8
 #EXTINF:-1 tvg-id="ViasatTrueCrime.pl" tvg-country="PL" tvg-language="Polish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/Viasat_True_Crime_%2820.05.2026%29.png" tvg-status="live" group-title="General",Viasat True Crime
@@ -231,7 +229,7 @@ https://lowa8026-cmyk.github.io/WPolscePL.m3u8
 https://amg00735-amg00735c57-rakuten-de-10677.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg00735-videosolutionsagfast-wedotvauta-rakutende/cb553d1e726c678e9cd43d67d3ef42a0df2416fc087a8d6933fb4b926bc10f41f4e2a581b212bb785d9914ce1c553f080132c0099c3a0bc6da73b6512d6c6021c9c3ed64d89d1b17b2c8797368e62c4119e10f11d93b53309dbb1858dd68ec2b005ebb0d6f577fdcec0fac6b5ac58402967a7c82fc8e68312f5e56cd543fa29a7c9b1f0f5d65e94693d1605aa34f1abbd31c9df63d81b2a13ebedf52bbc33eabe7b5c98c50d7acad5b3ef4ac466f6f236f8a816ed1b835750fce1b5bcd2552213354fcac85f74f76ee2d250ca9b29fe635ad50a6fd540358406cb1d865a44989e5902bf9691a80e7d6fa575336b4c1145626b2f6a19dc1d352d742d6adf3d47f7098b94136178925f92c2f2a9ff4cf54d5954ed69b2c87bd651863808353c1cce6daa1e0c40abb20c9ccfbd76c16172d5442a054b09f6bd4319229fc975d712e202ecabb5bc094d65734102dd7d6249b797c8cd5808dd01935b0163c5fe665cb52062ced3a686eea24fdda11638b2f06807751d65737894ef9f81cfda8d5e00c58e48e91a29ebd7f4ba5b486210eed8f29b009af85251fe39768f8/106/426x240_611520/index.m3u8
 #EXTINF:-1 tvg-id="famelack-XEnaPj4TUOsp8a" tvg-country="PL" tvg-language="Polish" tvg-logo="" tvg-status="live" group-title="Auto",wedotv Auta FAST
 https://amg00735-amg00735c57-rakuten-de-10677.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg00735-videosolutionsagfast-wedotvauta-rakutende/cb553d1e726c678e9cd43d67d3ef42a0df2416fc087a8d6933fb4b926bc10f41f4e2a581b212bb785d9914ce1c553f080132c0099c3a0bc6da73b6512d6c6021c9c3ed64d89d1b17b2c8797368e62c4119e10f11d93b53309dbb1858dd68ec2b005ebb0d6f577fdcec0fac6b5ac58402967a7c82fc8e68312f5e56cd543fa29a7c9b1f0f5d65e94693d1605aa34f1abbd31c9df63d81b2a13ebedf52bbc33eabe7b5c98c50d7acad5b3ef4ac466f6f236f8a816ed1b835750fce1b5bcd2552213354fcac85f74f76ee2d250ca9b29fe635ad50a6fd540358406cb1d865a44989e5902bf9691a80e7d6fa575336b4c1145626b2f6a19dc1d352d742d6adf3d47f7098b94136178925f92c2f2a9ff4cf54d5954ed69b2c87bd651863808353c1cce6daa1e0c40abb20c9ccfbd76c16172d5442a054b09f6bd4319229fc975d712e202ecabb5bc094d65734102dd7d6249b797c8cd5808dd01935b0163c5fe665cb52062ced3a686eea24fdda11638b2f06807751d65737894ef9f81cfda8d5e00c58e48e91a29ebd7f4ba5b486210eed8f29b009af85251fe39768f8/106/426x240_611520/index.m3u8
-#EXTINF:-1 tvg-id="famelack-MJU7VJSTDePIik" tvg-country="PL" tvg-language="English" tvg-logo="" tvg-status="live" group-title="General",World Billiards
+#EXTINF:-1 tvg-id="WorldBilliards.pl" tvg-country="PL" tvg-language="English" tvg-logo="https://provider-static.plex.tv/epg/cms/production/55d069fe-0219-447a-a712-e3ecaed26241/_Plex__WBT_Logo_Dark_Mode.png" tvg-status="live" group-title="General",World Billiards
 https://9a81dd4ee3884d0dbcacafaf0d81327a.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_BilliardsTV/playlist.m3u8
 #EXTINF:-1 tvg-id="famelack-B03jGEe29rjEvW" tvg-country="PL" tvg-language="English" tvg-logo="" tvg-status="live" group-title="Sports",World Poker Tour Poland
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/playlist.m3u8?ads.xumo_channelId=88883102

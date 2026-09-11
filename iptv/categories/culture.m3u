@@ -27,7 +27,7 @@ http://89.104.114.24:8080/art/index.m3u8
 http://45.162.64.114/ARTE1/index.m3u8
 #EXTINF:-1 tvg-id="ARTV.cl" tvg-country="CL" tvg-language="Spanish" tvg-logo="https://i.imgur.com/rKP1ihL.png" tvg-status="live" group-title="Culture",ARTV
 http://45.162.193.35/ARTV/index.m3u8
-#EXTINF:-1 tvg-id="AsiriTV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/7bGVFBa.png" tvg-status="live" group-title="Culture",AsiriTV
+#EXTINF:-1 tvg-id="AsiriTV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/7bGVFBa.png" tvg-status="down" group-title="Culture",AsiriTV
 https://video2.lhdserver.es/asiritv/live.m3u8
 #EXTINF:-1 tvg-id="ATR.ua" tvg-country="UA" tvg-language="Ukrainian" tvg-logo="https://i.imgur.com/lRJAXC7.png" tvg-status="live" group-title="Culture",ATR
 http://stream.mcquack.net/244/index.m3u8
@@ -43,6 +43,8 @@ https://belafrikamediatv.vedge.infomaniak.com/livecast/ik:belafrikamediatv/manif
 https://vs-cmaf-pushb-uk.live.fastly.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_four_hd/iptv_hd_abr_v1.mpd
 #EXTINF:-1 tvg-id="Belarus3.by" tvg-country="BY" tvg-language="Russian" tvg-logo="https://i.imgur.com/JkcDycn.png" tvg-status="live" group-title="Culture",Belarus-3
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus3.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="famelack-L3YkR6AcwrR8JI" tvg-country="BR" tvg-language="Portuguese" tvg-logo="" tvg-status="live" group-title="Culture",Bem Mais TV
+https://d1wphzgkgc.map.azionedge.net/bemmaistv01/bemmaistv01/playlist.m3u8
 #EXTINF:-1 tvg-id="Bonairetv.bq" tvg-country="BQ" tvg-language="Dutch" tvg-logo="https://i.ibb.co/rG8pHh9/bonaire-tv-logo-596x150.png" tvg-status="live" group-title="Culture",Bonaire.tv
 https://media.streambrothers.com:1936/8506/8506/playlist.m3u8
 #EXTINF:-1 tvg-id="BXArts.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/PF71rdZ.png" tvg-status="live" group-title="Culture",BX Arts
@@ -189,7 +191,7 @@ https://panel.5gtvhosting.com/hls/karadeniztv/karadeniztv.m3u8
 https://kemettv.cm/memfs/b6d60ea7-18b4-4afb-b84f-bd082ed7f74f.m3u8
 #EXTINF:-1 tvg-id="KIIOLD101.us" tvg-country="US" tvg-language="Armenian" tvg-logo="https://i.imgur.com/wkzwXFO.png" tvg-status="live" group-title="Culture",KIIO-LD 10.1
 http://livestream.usatv.com/hls/master-iUSATVLIVENET.m3u8
-#EXTINF:-1 tvg-id="famelack-qp46ccpG1UGKBD" tvg-country="US" tvg-language="English" tvg-logo="" tvg-status="live" group-title="Culture",KIIO-LD 10.4
+#EXTINF:-1 tvg-id="KIIOLD104.us" tvg-country="US" tvg-language="Armenian" tvg-logo="https://i.imgur.com/Spu4s89.png" tvg-status="live" group-title="Culture",KIIO-LD 10.4
 https://streamer1.connectto.com/AABC_WEB_1201/index.m3u8
 #EXTINF:-1 tvg-id="KomalaTV.se" tvg-country="SE" tvg-language="Kurdish" tvg-logo="https://i.imgur.com/D6KBLB8.png" tvg-status="live" group-title="Culture",Komala TV
 https://komhls.wns.live/hls/stream.m3u8
@@ -241,8 +243,8 @@ https://mrtvott.com/cache/MRTV-NRC-HD/master.m3u8
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01492-secomsasmediart-museumtv-eng-samsungit/playlist.m3u8
 #EXTINF:-1 tvg-id="NaturalTV.tr" tvg-country="TR" tvg-language="English" tvg-logo="https://i.imgur.com/rfcJ674.png" tvg-status="live" group-title="Culture",Natural TV
 https://edge1.socialsmart.tv/naturaltv/bant1/playlist.m3u8
-#EXTINF:-1 tvg-id="famelack-5kYv876l5SB1BL" tvg-country="CN" tvg-language="Mongolian" tvg-logo="" tvg-status="live" group-title="Culture",Nei Monggol TV 2 Mongolian Culture Channel
-https://play1-qk.nmtv.cn/live/1769652109096027.m3u8
+#EXTINF:-1 tvg-id="NeiMonggolTV2MongolianCultureChannel.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://i.imgur.com/kpsjahG.png" tvg-status="live" group-title="Culture",Nei Monggol TV 2 Mongolian Culture Channel
+http://play1-qk.nmtv.cn/live/1769652109096027.m3u8
 #EXTINF:-1 tvg-id="NHKWorldJapan.jp" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBOS3oZsG3YZoxF4qvBSiwVII1KbfdMrMHMg&s" tvg-status="live" group-title="News",NHK World-Japan
 https://nhk.lls.pbs.org/index.m3u8
 #EXTINF:-1 tvg-id="Nigbati.ng" tvg-country="NG" tvg-language="English" tvg-logo="" tvg-status="live" group-title="Culture",Nigbati
@@ -269,7 +271,7 @@ https://stmv4.voxtvhd.com.br/ondastereo/ondastereo/playlist.m3u8
 https://endour.net/hls/One_nationtv/index.m3u8
 #EXTINF:-1 tvg-id="OnlineTVNusantara.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://i.imgur.com/E9CCIpP.jpg" tvg-status="down" group-title="General",Online TV Nusantara
 https://5bf7b725107e5.streamlock.net/onlinetvnusantara/onlinetvnusantara/playlist.m3u8
-#EXTINF:-1 tvg-id="famelack-2YKn96rbCyY3de" tvg-country="AT" tvg-language="German" tvg-logo="" tvg-status="live" group-title="Culture",ORF III
+#EXTINF:-1 tvg-id="ORFIII.at" tvg-country="AT" tvg-language="German" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/ORF_III_Logo_Monochrom.svg/960px-ORF_III_Logo_Monochrom.svg.png" tvg-status="live" group-title="Culture",ORF III
 https://orf3.mdn.ors.at/orf/orf3/qxa/manifest.m3u8
 #EXTINF:-1 tvg-id="OrlerTV.it" tvg-country="IT" tvg-language="Italian" tvg-logo="https://i.imgur.com/Ia7iULa.png" tvg-status="live" group-title="Culture",Orler TV
 https://w1.mediastreaming.it/orlertv/livestream/playlist.m3u8
@@ -343,6 +345,8 @@ https://live.fptplay53.net/epzsd1/vinhlong5_vhls.smil/chunklist.m3u8
 https://live.suricloud.com/hls/tbntv/index.m3u8
 #EXTINF:-1 tvg-id="TRTGenc.tr" tvg-country="TR" tvg-language="Turkish" tvg-logo="https://i.imgur.com/fCHQYWS.png" tvg-status="live" group-title="General",TRT Genc
 https://tv-trtgenc.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="famelack-46bhWZVm1EdjmB" tvg-country="CR" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="Culture",TV Cartago Digital
+https://video2.getstreamhosting.com:19360/8110/8110.m3u8
 #EXTINF:-1 tvg-id="TVCuatro42.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/Of044Jx.png" tvg-status="live" group-title="Culture",TV Cuatro 4.2
 https://5f2c1b0d880e5.streamlock.net/tv42/tv42.smil/.m3u8
 #EXTINF:-1 tvg-id="TVdasArtes.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/fSWaiKt.png" tvg-status="down" group-title="Culture",TV das Artes
@@ -353,6 +357,8 @@ https://streaming.cloudecast.com/hls/tvlifeamerica/index.m3u8
 https://app.tvufop.com.br/hls/tvufop.m3u8
 #EXTINF:-1 tvg-id="TVVita.sk" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://i.imgur.com/Cx1GLbo.png" tvg-status="live" group-title="Culture",TV Vita
 https://dash3.antik.sk/live/test_vita/playlist.m3u8
+#EXTINF:-1 tvg-id="famelack-eTCuy4QKHtum76" tvg-country="BR" tvg-language="Portuguese" tvg-logo="" tvg-status="live" group-title="Culture",TVE RS
+https://streaming.procergs.com.br:8443/tve/stve/playlist.m3u8
 #EXTINF:-1 tvg-id="TVRCultural.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/U9i70C9.png" tvg-status="live" group-title="Culture",TVR Cultural
 https://tvr-cultural.lg.mncdn.com/tvrcultural/smil:tvrcultural.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="UAATV.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/brCSiGh.png" tvg-status="live" group-title="Education",UAA TV
@@ -361,7 +367,7 @@ https://5fe2654d6127d.streamlock.net:443/uaa2/videouaa2/playlist.m3u8
 https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8
 #EXTINF:-1 tvg-id="UCVTV.cl" tvg-country="CL" tvg-language="Spanish" tvg-logo="https://i.postimg.cc/jjGpZf4T/UCV-Logo.png" tvg-status="live" group-title="Culture",UCV TV
 https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="UMSATVULP.bo" tvg-country="BO" tvg-language="Spanish" tvg-logo="https://tvu.umsa.bo/documents/780216/12171558/logo+tvu+icon.png/4367e79e-4541-d340-0e82-3943b73e7b18?t=1747686917412" tvg-status="live" group-title="News",UMSA TVU LP
+#EXTINF:-1 tvg-id="famelack-fcllzx7ENtLcnw" tvg-country="BO" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="Culture",UMSA TVU LP
 https://edge.enhdtv.com/8190/index.m3u8
 #EXTINF:-1 tvg-id="UnisulTV.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/N0TvAFz.png" tvg-status="live" group-title="Education",Unisul TV
 https://sitetv.brasilstream.com.br/hls/sitetv/index.m3u8?token=
