@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="famelack-9v7vzS3xsxjDYS" tvg-country="KH" tvg-language="Khmer" tvg-logo="" tvg-status="live" group-title="General",Apsara TV11
 https://live.ams.com.kh/app/stream/playlist.m3u8
-#EXTINF:-1 tvg-id="ARDBTV.kh" tvg-country="KH" tvg-language="Khmer" tvg-logo="https://i.imgur.com/yOncWla.png" tvg-status="live" group-title="Outdoor",ARDB TV
+#EXTINF:-1 tvg-id="famelack-sPitwPVtngUuVb" tvg-country="KH" tvg-language="Khmer" tvg-logo="" tvg-status="live" group-title="Outdoor",ARDB TV
 https://ardbtv.ardb.com.kh:8443/tv-live/tv-online.m3u8
 #EXTINF:-1 tvg-id="BayonTV.kh" tvg-country="KH" tvg-language="Khmer" tvg-logo="https://i.imgur.com/Gry2KEN.jpg" tvg-status="down" group-title="General",Bayon TV
 https://live-evg2.tv360.metfone.com.kh/livebayontv/bayontvhd.stream/playlist.m3u8
@@ -11,7 +11,7 @@ https://live-evg2.tv360.metfone.com.kh/livetest/bayontest.stream/playlist.m3u8
 https://live.happywatch99.com/ctnhdtv/c83cc584a878608f6b36a9717bd7a8ab.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="CTV9.kh" tvg-country="KH" tvg-language="Khmer" tvg-logo="https://i.imgur.com/jgVJt2G.png" tvg-status="live" group-title="General",CTV 9
 http://43.252.18.195:5080/live/streams/ctv9_hd_playlist.m3u8
-#EXTINF:-1 tvg-id="famelack-YIjIVSot1z9UDS" tvg-country="KH" tvg-language="Khmer" tvg-logo="" tvg-status="live" group-title="General",CTV8 HD
+#EXTINF:-1 tvg-id="CTV8HD.kh" tvg-country="KH" tvg-language="Khmer" tvg-logo="https://i.imgur.com/yrdr4Po.png" tvg-status="live" group-title="General",CTV8 HD
 https://ip.pdtvhd.com/Khmer/streams/CTV8HD.m3u8
 #EXTINF:-1 tvg-id="DMusic.kh" tvg-country="KH" tvg-language="Khmer" tvg-logo="" tvg-status="down" group-title="Music",D Music
 http://43.252.18.195:5080/live/streams/WCVNews.playlist.m3u8
@@ -23,7 +23,7 @@ https://iptv.ebc.edu.kh/iptv/channel/1.m3u8
 http://streaming-android.freshnewsasia.tv:1935/live/ngrp:myStream_all/playlist.m3u8
 #EXTINF:-1 tvg-id="HangMeasHDTV.kh" tvg-country="KH" tvg-language="Khmer" tvg-logo="https://i.imgur.com/P8oOR8I.png" tvg-status="live" group-title="General",Hang Meas HDTV
 http://clive.malisresidences.com:1935/hm_hdtv/_definst_/smil:hmhdt12356.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="iTVHD.kh" tvg-country="KH" tvg-language="Khmer" tvg-logo="https://i.imgur.com/qIPvw8N.jpg" tvg-status="live" group-title="Entertainment",iTV HD
+#EXTINF:-1 tvg-id="iTVHD.kh" tvg-country="KH" tvg-language="Khmer" tvg-logo="https://i.imgur.com/qIPvw8N.jpg" tvg-status="down" group-title="Entertainment",iTV HD
 https://ip.pdtvhd.com/Khmer/streams/ITVHD.m3u8
 #EXTINF:-1 tvg-id="KomsanTV.kh" tvg-country="KH" tvg-language="Khmer" tvg-logo="https://i.imgur.com/SNTf2r3.png" tvg-status="down" group-title="Movies",Komsan TV
 http://tv.cootel.com.kh:8077/streams/d/Komsan/playlist.m3u8
@@ -31,8 +31,6 @@ http://tv.cootel.com.kh:8077/streams/d/Komsan/playlist.m3u8
 http://119.15.85.85:5080/LiveApp/streams/MSJTV_hd_playlist.m3u8
 #EXTINF:-1 tvg-id="MyTV.kh" tvg-country="KH" tvg-language="Khmer" tvg-logo="https://i.imgur.com/lhxRefQ.png" tvg-status="down" group-title="Entertainment",My TV
 https://live.happywatch99.com/mytvhdtv/c83cc584a878608f6b36a9717bd7a8ab.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="famelack-22GUfDaUhwRUJ1" tvg-country="KH" tvg-language="" tvg-logo="" tvg-status="live" group-title="General",Netlink TV
-https://netlink.netlinkbroadcaster.com/hls/test.m3u8
 #EXTINF:-1 tvg-id="NTV.kh" tvg-country="KH" tvg-language="Khmer" tvg-logo="https://i.imgur.com/SoBhuIb.png" tvg-status="down" group-title="General",NTV
 http://43.252.18.195:5080/LiveApp/streams/ntvhd.m3u8
 #EXTINF:-1 tvg-id="OneTVESchoolCambodia.kh" tvg-country="KH" tvg-language="Khmer" tvg-logo="https://i.imgur.com/wLzVdeT.png" tvg-status="live" group-title="Education",One TV E-School Cambodia

@@ -17,6 +17,8 @@ https://vid.canal1cr.com:3424/multi_live/play_720.m3u8
 https://acceso.mediosdecostarica.com:3606/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="Canal11.cr" tvg-country="CR" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Repretel_11_logo.png/960px-Repretel_11_logo.png" tvg-status="live" group-title="General",Canal 11
 http://45.5.117.188:8000/play/a02w/index.m3u8
+#EXTINF:-1 tvg-id="famelack-Z3J6UkFFEng975" tvg-country="CR" tvg-language="" tvg-logo="" tvg-status="live" group-title="General",Canal 17 TV Nosara
+https://latamvdo.com:3870/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="Canal2.cr" tvg-country="CR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/Nn8BtH5.png" tvg-status="down" group-title="General",Canal 2
 https://d2hha8xu9trvi8.cloudfront.net/ts:abr.m3u8
 #EXTINF:-1 tvg-id="Canal3KMKTV.cr" tvg-country="CR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/sgRDRBK.jpg" tvg-status="live" group-title="Music",Canal 3 KMK TV
@@ -29,8 +31,6 @@ http://45.5.118.188:8000/play/a02x/index.m3u8
 https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
 #EXTINF:-1 tvg-id="CartagoMediosTV.cr" tvg-country="CR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/Vcd40AL.png" tvg-status="down" group-title="General",Cartago Medios TV
 https://acceso.mediosdecostarica.com:3511/stream/play.m3u8
-#EXTINF:-1 tvg-id="famelack-Rbhi1IeYnyJ3gG" tvg-country="CR" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="Music",Cedros TV
-https://eu1.servers10.com:8081/cedrostv/index.m3u8
 #EXTINF:-1 tvg-id="ColosalTV.cr" tvg-country="CR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/0DZB3eB.png" tvg-status="live" group-title="Entertainment",Colosal TV
 http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/playlist.m3u8
 #EXTINF:-1 tvg-id="ConexionPositivaTelevision.cr" tvg-country="CR" tvg-language="Spanish" tvg-logo="https://i.ibb.co/HSSyRDs/conexion-positiva.png" tvg-status="live" group-title="Religious",Conexion Positiva Television
@@ -67,7 +67,7 @@ https://5cf4a2c2512a2.streamlock.net/8176/8176/playlist.m3u8
 https://5fe2654d6127d.streamlock.net/impactchannel/videoimpactchannel/playlist.m3u8
 #EXTINF:-1 tvg-id="IQChannel.cr" tvg-country="CR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/hwuaomt.png" tvg-status="live" group-title="Music",IQ Channel
 https://rtmp.info/iqtv/envivo/playlist.m3u8
-#EXTINF:-1 tvg-id="LaPotenteRadioTV.cr" tvg-country="CR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/ti5Fg5D.png" tvg-status="live" group-title="Entertainment",La Potente Radio TV
+#EXTINF:-1 tvg-id="LaPotenteRadioTV.cr" tvg-country="CR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/ti5Fg5D.png" tvg-status="down" group-title="Entertainment",La Potente Radio TV
 https://latamvdo.com:3626/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="LimonTV.cr" tvg-country="CR" tvg-language="Spanish" tvg-logo="https://i.ibb.co/rdpcv7C/1689421727166.jpg" tvg-status="live" group-title="General",Limon TV
 http://k4.usastreams.com/limontv1/limontv1/playlist.m3u8
@@ -121,8 +121,10 @@ https://5eac7b031d945.streamlock.net/TICAVISION/TICAVISION/playlist.m3u8
 https://live20.bozztv.com/akamaissh101/ssh101/livetigocr/playlist.m3u8
 #EXTINF:-1 tvg-id="Trivision36.cr" tvg-country="CR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/aadWnIx.jpg" tvg-status="live" group-title="General",Trivision 36
 https://liveingesta118.cdnmedia.tv/trivisionlive/rtmp01-900/chunklist.m3u8?DVR=
-#EXTINF:-1 tvg-id="famelack-46bhWZVm1EdjmB" tvg-country="CR" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="News",TV Cartago Digital
+#EXTINF:-1 tvg-id="famelack-46bhWZVm1EdjmB" tvg-country="CR" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="Culture",TV Cartago Digital
 https://video2.getstreamhosting.com:19360/8110/8110.m3u8
+#EXTINF:-1 tvg-id="famelack-oFBYYfrHTKyW0r" tvg-country="CR" tvg-language="" tvg-logo="" tvg-status="live" group-title="General",TV Nosara
+https://latamvdo.com:3870/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="TVSurCanal14.cr" tvg-country="CR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/OpHYYZA.png" tvg-status="live" group-title="General",TV Sur Canal 14
 https://k20.usastreams.com:8081/tvsur/index.m3u8
 #EXTINF:-1 tvg-id="TVSurCanal9.cr" tvg-country="CR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/7HbISMV.png" tvg-status="live" group-title="General",TV Sur Canal 9
