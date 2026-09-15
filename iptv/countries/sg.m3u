@@ -31,12 +31,16 @@ http://nmk.ioapk.com:5050/4gtv-live112/index.m3u8
 https://amg02159-amg02159c7-samsung-in-4001.playouts.now.amagi.tv/playlist/amg02159-kcglobal-kcm-samsungin/playlist.m3u8
 #EXTINF:-1 tvg-id="meWATCHLIVE1.sg" tvg-country="SG" tvg-language="English" tvg-logo="https://i.imgur.com/ppxUDxB.png" tvg-status="live" group-title="Entertainment",meWATCH LIVE 1
 https://tglmp04.akamaized.net/out/v1/898b1cbac7c747e3b1f3deb460e9b67e/manifest.mpd
-#EXTINF:-1 tvg-id="NickJrAsia.sg" tvg-country="SG" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_(outline).svg/960px-Nick_Jr._logo_2023_(outline).svg.png" tvg-status="down" group-title="Kids",Nick Jr. Asia
-http://nmk.ioapk.com:5050/4gtv-live032/index.m3u8
+#EXTINF:-1 tvg-id="NickJrAsia.sg" tvg-country="SG" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_(outline).svg/960px-Nick_Jr._logo_2023_(outline).svg.png" tvg-status="live" group-title="Kids",Nick Jr. Asia
+http://58.8.186.128:10003/bysid/2330
 #EXTINF:-1 tvg-id="NickelodeonAsia.sg" tvg-country="SG" tvg-language="English" tvg-logo="https://i.imgur.com/E84jnP8.png" tvg-status="down" group-title="Kids",Nickelodeon Asia
 http://nmk.ioapk.com:5050/4gtv-live105/index.m3u8
 #EXTINF:-1 tvg-id="ROCKAction.sg" tvg-country="SG" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Rock_Action.png" tvg-status="down" group-title="Entertainment",ROCK Action
 http://nmk.ioapk.com:5050/4gtv-live138/index.m3u8
+#EXTINF:-1 tvg-id="ROCKEntertainment.sg" tvg-country="SG" tvg-language="English" tvg-logo="https://i.imgur.com/PWzq0aU.png" tvg-status="live" group-title="Entertainment",ROCK Entertainment
+http://58.8.186.128:10006/bysid/2612
+#EXTINF:-1 tvg-id="ROCKXStream.sg" tvg-country="SG" tvg-language="English" tvg-logo="https://i.ibb.co/TM8d2yp8/Rock-X-Stream.webp" tvg-status="live" group-title="Entertainment",ROCK X Stream
+http://58.8.186.128:10007/bysid/2811
 #EXTINF:-1 tvg-id="Suria.sg" tvg-country="SG" tvg-language="Malay" tvg-logo="https://i.imgur.com/9xWAwzy.png" tvg-status="down" group-title="General",Suria
 https://d11h6a6nhl9kj9.cloudfront.net/hls/clr4ctv_suria/master.m3u8
 #EXTINF:-1 tvg-id="TechStorm.sg" tvg-country="SG" tvg-language="English" tvg-logo="https://i.imgur.com/fAprFBJ.png" tvg-status="down" group-title="General",TechStorm
