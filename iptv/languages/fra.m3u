@@ -45,7 +45,7 @@ https://edge13.vedge.infomaniak.com/livecast/ik:adhtv/manifest.m3u8
 https://goccn.cloud/hls/amanitv/index.m3u8
 #EXTINF:-1 tvg-id="AntenneA.cd" tvg-country="CD" tvg-language="French" tvg-logo="https://i.imgur.com/tgxrcv7.png" tvg-status="down" group-title="General",Antenne A
 http://51.254.199.122:8080/antenne_a-plus/index.m3u8
-#EXTINF:-1 tvg-id="famelack-MV7j6dHcEiwyvr" tvg-country="FR" tvg-language="French" tvg-logo="" tvg-status="live" group-title="General",Antenne Reunion
+#EXTINF:-1 tvg-id="AntenneReunion.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/EPIMMaB.png" tvg-status="live" group-title="General",Antenne Reunion
 https://live-antenne-reunion.zeop.tv/live/c3eds/antreunihd/hls_fta/antreunihd.m3u8?location=ZEOP01
 #EXTINF:-1 tvg-id="arte.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/ecXMjNl.png" tvg-status="down" group-title="Entertainment",arte
 https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8
@@ -55,7 +55,7 @@ https://guineetvdirect.online:3320/live/atvguineelive.m3u8
 https://www.youtube-nocookie.com/embed/VXuYZVHDmPA
 #EXTINF:-1 tvg-id="BAMTV.be" tvg-country="BE" tvg-language="French" tvg-logo="https://i.imgur.com/9UmR6cs.png" tvg-status="down" group-title="Culture",BAM-TV
 https://belafrikamediatv.vedge.infomaniak.com/livecast/ik:belafrikamediatv/manifest.m3u8
-#EXTINF:-1 tvg-id="famelack-cGjSaev20uBBta" tvg-country="FR" tvg-language="French" tvg-logo="" tvg-status="live" group-title="Animation",Banijay Mr Bean Animé
+#EXTINF:-1 tvg-id="famelack-cGjSaev20uBBta" tvg-country="FR" tvg-language="French" tvg-logo="" tvg-status="live" group-title="Kids",Banijay Mr Bean Animé
 https://amg00627-amg00627c31-rakuten-fr-3991.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanfrcc-rakutenfr/playlist.m3u8
 #EXTINF:-1 tvg-id="BarakaTelevision.cd" tvg-country="CD" tvg-language="French" tvg-logo="https://i.imgur.com/IKXddHN.png" tvg-status="live" group-title="News",Baraka Television
 https://stream.berosat.live:19360/baraka-hd/baraka-hd.m3u8
@@ -358,7 +358,7 @@ http://145.239.5.177/368/index.m3u8
 #EXTINF:-1 tvg-id="LCN.ca" tvg-country="CA" tvg-language="French" tvg-logo="https://i.imgur.com/iKDLgOG.png" tvg-status="down" group-title="News",LCN
 https://tvalive.akamaized.net/hls/live/2014213/tvan01/tvan01.m3u8
 #EXTINF:-1 tvg-id="LeFigaroTVIledeFrance.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/a8RuRUQ.png" tvg-status="live" group-title="General",Le Figaro TV Ile-de-France
-https://figarotv-live.freecaster.com/live/freecaster/figarotv.m3u8
+https://static.lefigaro.fr/secom/tnt.m3u8
 #EXTINF:-1 tvg-id="Lemiracledelamour.us" tvg-country="US" tvg-language="French" tvg-logo="https://i.imgur.com/3Xz4hjD.png" tvg-status="live" group-title="Series",Le miracle de l'amour
 https://jmp2.uk/plu-60549c238c3f21000753d3e0.m3u8
 #EXTINF:-1 tvg-id="LeMondeen24h.cd" tvg-country="CD" tvg-language="French" tvg-logo="https://i.imgur.com/2igwi7g.png" tvg-status="live" group-title="News",Le Monde en 24h
@@ -459,7 +459,7 @@ https://strhls.streamakaci.tv/ortb/ortb1-multi/playlist.m3u8
 http://69.64.57.208/ortm/playlist.m3u8
 #EXTINF:-1 tvg-id="P2MTV.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/TrecSeG.png" tvg-status="live" group-title="Music",P2M TV
 https://vdo2.pro-fhi.net:3207/stream/play.m3u8
-#EXTINF:-1 tvg-id="PanafricanMediaTV.cm" tvg-country="CM" tvg-language="French" tvg-logo="https://i.imgur.com/wneSSYM.png" tvg-status="down" group-title="News",Panafrican Media TV
+#EXTINF:-1 tvg-id="PanafricanMediaTV.cm" tvg-country="CM" tvg-language="French" tvg-logo="https://i.imgur.com/wneSSYM.png" tvg-status="live" group-title="News",Panafrican Media TV
 https://live20.bozztv.com/giatv/giatv-pmtv/pmtv/playlist.m3u8
 #EXTINF:-1 tvg-id="PlayTV.cm" tvg-country="CM" tvg-language="French" tvg-logo="https://i.imgur.com/1dmBqpf.png" tvg-status="live" group-title="Music",Play TV
 http://connectiktv.ddns.net:5000/playtv/@playtv/playlist.m3u8
@@ -529,7 +529,7 @@ http://teleginen.srfms.com:1935/teleginen/livestream/playlist.m3u8
 https://59d39900ebfb8.streamlock.net/RadioTelehit/RadioTelehit/playlist.m3u8
 #EXTINF:-1 tvg-id="RadioTeleKajou.us" tvg-country="US" tvg-language="French" tvg-logo="https://i.ibb.co/1MhvJ3B/logork.png" tvg-status="down" group-title="Music",Radio Tele Kajou
 https://59d39900ebfb8.streamlock.net/RadioTelekAJOU/RadioTelekAJOU/playlist.m3u8
-#EXTINF:-1 tvg-id="famelack-2NvBfaKzTD56zL" tvg-country="HT" tvg-language="French" tvg-logo="" tvg-status="live" group-title="General",Radio Tele Planet Compas
+#EXTINF:-1 tvg-id="RadioTelePlanetCompas.ht" tvg-country="HT" tvg-language="French" tvg-logo="https://i.imgur.com/ddb4lsa.png" tvg-status="live" group-title="General",Radio Tele Planet Compas
 https://5dcab9aed5331.streamlock.net/mrcompas1/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="RadioTelePuissance.us" tvg-country="US" tvg-language="French" tvg-logo="https://i.imgur.com/ZLPwJug.png" tvg-status="live" group-title="Religious",Radio Tele Puissance
 https://video1.getstreamhosting.com:1936/8560/8560/playlist.m3u8
@@ -603,7 +603,7 @@ http://41.205.93.154/SYFY/index.m3u8
 https://rakutenaa-zylo-screamin-rakuten-p11ej.amagi.tv/playlist/rakutenAA-zylo-screamin-rakuten/playlist.m3u8
 #EXTINF:-1 tvg-id="SenewebTV.sn" tvg-country="SN" tvg-language="French" tvg-logo="https://i.imgur.com/i9P2qjs.png" tvg-status="live" group-title="General",Seneweb TV
 https://vdo2.pro-fhi.net:3297/stream/play.m3u8
-#EXTINF:-1 tvg-id="famelack-RfhIP8Ek1pr7to" tvg-country="SN" tvg-language="French" tvg-logo="" tvg-status="live" group-title="General",SenJeunes TV
+#EXTINF:-1 tvg-id="SenJeunesTV.sn" tvg-country="SN" tvg-language="French" tvg-logo="https://i.imgur.com/MeCSPsI.jpg" tvg-status="live" group-title="General",SenJeunes TV
 https://stream.sen-gt.com/senjeunestv/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="SerieClub.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/V8wRRg5.png" tvg-status="down" group-title="General",Serie Club
 http://145.239.5.177/355/index.m3u8
