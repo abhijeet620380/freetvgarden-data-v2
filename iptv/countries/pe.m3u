@@ -5,8 +5,8 @@ https://live-evg10.tv360.bitel.com.pe/bitel/36tvSRT/playlist.m3u8
 https://live-evg10.tv360.bitel.com.pe/bitel/abctv/playlist.m3u8
 #EXTINF:-1 tvg-id="ABTelevision.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/tqMDscD.png" tvg-status="live" group-title="General",ABTelevision
 https://live-evg8.tv360.bitel.com.pe/bitel/abctelevisionSRT/playlist.m3u8
-#EXTINF:-1 tvg-id="famelack-zLbErKeLWlYtjV" tvg-country="PE" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="Outdoor",Agro TV
-https://play.agenciastreaming.com:8081/agrotv/index.m3u8
+#EXTINF:-1 tvg-id="AgroTV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/1uLGa3w.png" tvg-status="live" group-title="Outdoor",Agro TV
+https://live-evg8.tv360.bitel.com.pe/bitel/agroSRT/playlist.m3u8
 #EXTINF:-1 tvg-id="AlturaTV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/U6GwIL7.jpeg" tvg-status="live" group-title="General",Altura TV
 https://play.agenciastreaming.com:8081/tvalturalimalive/video.m3u8
 #EXTINF:-1 tvg-id="AmazoniaTV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/sSW7d8e.png" tvg-status="live" group-title="General",Amazonia TV
@@ -75,7 +75,7 @@ https://live.obslivestream.com/controversiatv/index.m3u8
 https://live.obslivestream.com/crtvmux/index.m3u8
 #EXTINF:-1 tvg-id="Cultura24.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/h0LxXsx.png" tvg-status="live" group-title="Culture",Cultura 24
 https://www.opencaster.com/resources/hls_stream/cultura24.m3u8
-#EXTINF:-1 tvg-id="famelack-V1ZiJWm44mlgNB" tvg-country="PE" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="General",CVN TV
+#EXTINF:-1 tvg-id="CVNTV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/QF5VUcy.png" tvg-status="live" group-title="General",CVN TV
 https://7.innovatestream.pe:19360/cvntumbes/cvntumbes.m3u8
 #EXTINF:-1 tvg-id="DacTV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/g4pZ3ZW.jpeg" tvg-status="live" group-title="General",Dac TV
 https://live-evg8.tv360.bitel.com.pe/bitel/dactvSRT/playlist.m3u8
@@ -101,7 +101,7 @@ https://mc.servidor.stream:19360/8274/8274.m3u8
 https://vivatv.juanjuiserver.com:3349/live/frecuenciaamazonicalive.m3u8
 #EXTINF:-1 tvg-id="GalacticaTV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/byL1zCV.jpeg" tvg-status="live" group-title="Music",Galactica TV
 https://stream.neux.site/memfs/e3f59eec-6b93-45e1-a2ab-c82381c2a9ec.m3u8
-#EXTINF:-1 tvg-id="GeniosTV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/iH2Lx6E.png" tvg-status="live" group-title="General",Genios TV
+#EXTINF:-1 tvg-id="famelack-mHRulAqsRUqjO2" tvg-country="PE" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="General",Genios TV
 https://sc3.wasidata.com/Genios2_1902/video.m3u8
 #EXTINF:-1 tvg-id="GlobalTV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/yuEou9C.png" tvg-status="live" group-title="General",Global TV
 http://190.93.224.42/GLOBAL/index.m3u8
@@ -191,7 +191,7 @@ http://45.171.108.253:8888/PANAMERICANA/index.m3u8
 http://190.93.224.42/PBO/index.m3u8
 #EXTINF:-1 tvg-id="PequesTV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/04/1767647409377/6123aa5e7fc7.png" tvg-status="live" group-title="Kids",Peques TV
 https://live-evg7.tv360.bitel.com.pe/bitel/pequestv/playlist.m3u8
-#EXTINF:-1 tvg-id="PiuraTV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/KnJAqbd.png" tvg-status="down" group-title="General",PiuraTV
+#EXTINF:-1 tvg-id="PiuraTV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/KnJAqbd.png" tvg-status="live" group-title="General",PiuraTV
 https://live-evg7.tv360.bitel.com.pe/bitel/piuratvSRT/playlist.m3u8
 #EXTINF:-1 tvg-id="PlaneaTV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/EoLhvBN.png" tvg-status="live" group-title="General",Planea TV
 https://live-evg8.tv360.bitel.com.pe/bitel/planeatvSRT/playlist.m3u8
@@ -275,9 +275,9 @@ https://live-evg11.tv360.bitel.com.pe/bitel/turbomixSRT/playlist.m3u8
 https://s2.tvdatta.com:3687/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="TVCosmos.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/nr4ctt4.png" tvg-status="live" group-title="General",TV Cosmos
 https://videoserver.tmcreativos.com:19360/tvcosmos/tvcosmos.m3u8
-#EXTINF:-1 tvg-id="TVKaliente.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/MFQpLuQ.png" tvg-status="live" group-title="Entertainment",TV Kaliente
+#EXTINF:-1 tvg-id="famelack-NDlCo3GFyqRAnN" tvg-country="PE" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="Entertainment",TV Kaliente
 https://lbgo.bozztv.com/ssh101/ssh101/kalientecusco/playlist.m3u8
-#EXTINF:-1 tvg-id="famelack-nXrcWfZsttDQtv" tvg-country="PE" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="General",TV MAR
+#EXTINF:-1 tvg-id="TVMAR.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/VXvbNjT.png" tvg-status="live" group-title="General",TV MAR
 https://live-evg11.tv360.bitel.com.pe/bitel/tvmarSRT/playlist.m3u8
 #EXTINF:-1 tvg-id="TVMAX.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/JFBpDJ1.jpeg" tvg-status="live" group-title="General",TV MAX
 https://live-evg8.tv360.bitel.com.pe/bitel/nexSRT_TRA/playlist.m3u8
