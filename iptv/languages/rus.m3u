@@ -86,7 +86,9 @@ http://77.89.199.174:8000/play/1024/index.m3u8
 #EXTINF:-1 tvg-id="Bashkortostan24.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/s34Wtz6.png" tvg-status="down" group-title="General",Bashkortostan 24
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/ufa/bashkortostan24-hd/index.m3u8
 #EXTINF:-1 tvg-id="Belarus1.by" tvg-country="BY" tvg-language="Russian" tvg-logo="https://i.imgur.com/sUD9t5j.png" tvg-status="live" group-title="General",Belarus-1
-https://ngtrk.dc.beltelecom.by/ngtrk/_definst_/smil:belarus1.smil/playlist.m3u8
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus1.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Belarus2.by" tvg-country="BY" tvg-language="Russian" tvg-logo="https://i.imgur.com/BpEHpPS.png" tvg-status="live" group-title="Entertainment",Belarus-2
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus2.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Belarus24.by" tvg-country="BY" tvg-language="Russian" tvg-logo="https://i.imgur.com/BP7tY6F.png" tvg-status="live" group-title="News",Belarus-24
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus24.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Belarus3.by" tvg-country="BY" tvg-language="Russian" tvg-logo="https://i.imgur.com/JkcDycn.png" tvg-status="live" group-title="Culture",Belarus-3
@@ -207,7 +209,7 @@ http://hls127.freeott.top:8080/Da_Vinci_Learning/video.m3u8
 https://dagestan.mediacdn.ru/cdn/dagestan/playlist.m3u8
 #EXTINF:-1 tvg-id="Detskoekino.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/dJqFRhQ.png" tvg-status="down" group-title="Movies",Detskoe kino
 https://autopilot.catcast.tv/content/38720/index.m3u8
-#EXTINF:-1 tvg-id="DetvoraPlus.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://interra-cdn-europe1.b-cdn.net/logo-detvora.png" tvg-status="live" group-title="Animation",Detvora+
+#EXTINF:-1 tvg-id="DetvoraPlus.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://interra-cdn-europe1.b-cdn.net/logo-detvora.png" tvg-status="down" group-title="Animation",Detvora+
 https://cdn.rostelekom-tv.xyz/live/WAYU4PTJ_VVz4wAQ.m3u8
 #EXTINF:-1 tvg-id="Dikayaokhota.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/EOue13e.png" tvg-status="live" group-title="Outdoor",Dikaya okhota
 http://stream.mcquack.net/274/index.m3u8
@@ -393,7 +395,7 @@ http://46.46.143.222:1935/live/mp4:ldpr.stream/playlist.m3u8
 https://sevas.1tvcrimea.ru/legendarniy24.m3u8
 #EXTINF:-1 tvg-id="LenTV24.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/d02uxkB.png" tvg-status="live" group-title="General",LenTV24
 https://player.smotrim.ru/iframe/stream/live_id/3e95d201-f87d-4ac1-8897-db2c66bb9657
-#EXTINF:-1 tvg-id="Leomax24.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/qU9ohQu.png" tvg-status="live" group-title="Shop",Leomax 24
+#EXTINF:-1 tvg-id="famelack-IPkLjLkp2JBRTC" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-status="live" group-title="Shop",Leomax 24
 https://tvshops.bonus-tv.ru/cdn/shop24/playlist.m3u8
 #EXTINF:-1 tvg-id="LifeTV.ee" tvg-country="EE" tvg-language="Russian" tvg-logo="https://i.imgur.com/JhrTB82.png" tvg-status="live" group-title="Religious",Life TV
 http://lifetv.bitflip.ee/live/stream1_1/index.m3u8
@@ -443,7 +445,7 @@ https://stream.smotrim.ru/hls/givc8/playlist.m3u8?entity=channel&id=798&sign=378
 https://stream.smotrim.ru/hls2/doverie/playlist_3.m3u8
 #EXTINF:-1 tvg-id="MovifyKino.lv" tvg-country="LV" tvg-language="Russian" tvg-logo="https://i.imgur.com/XIk5EJN.png" tvg-status="down" group-title="Movies",Movify Kino
 https://void.greenhosting.ru/MovifyKino_Mpeg4/index.m3u8
-#EXTINF:-1 tvg-id="Moymir.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://www.cableman.ru/sites/default/files/MM-TV_logo-1%5B1509%5D.png" tvg-status="live" group-title="Shop",Moy mir
+#EXTINF:-1 tvg-id="famelack-OHO6qCMuT5qMFT" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-status="live" group-title="Shop",Moy mir
 https://moymir.ru/hls/onair.m3u8
 #EXTINF:-1 tvg-id="MoyaPlaneta.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/uIiAdBv.png" tvg-status="live" group-title="Outdoor",Moya Planeta
 http://91.226.120.120/chid210/tracks-v1a1/mono.m3u8
@@ -580,7 +582,7 @@ https://jz2lo90hnpy.a.trbcdn.net/livemaster/yo8gr_live-5gorrrfpouq.smil/playlist
 #EXTINF:-1 tvg-id="Patriot.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://patriotkanal.ru/assets/cached/2025/02/resize/264_112_q100_patriot-only-logo.png" tvg-status="live" group-title="Movies",Patriot
 https://stream.smotrim.ru/hls2/static/playlist_4.m3u8
 #EXTINF:-1 tvg-id="PeretzInternational.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/Y84p1y6.png" tvg-status="live" group-title="Entertainment",Peretz International
-https://fs.uplink.kz/perec/mono.m3u8?token=onlinetv
+http://stream.mcquack.net/121/index.m3u8
 #EXTINF:-1 tvg-id="famelack-kDIn5P06JUE8QJ" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-status="live" group-title="General",Perviy Krymskiy
 https://live1.1tvcrimea.ru/1tvcrimea.m3u8
 #EXTINF:-1 tvg-id="Perviyotdel.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://cdn2-static.ntv.ru/home/promo/24740/perv_otdel_llive.jpg" tvg-status="live" group-title="Series",Perviy otdel
@@ -765,7 +767,7 @@ http://hls127.freeott.top:8080/Spas/video.m3u8
 http://stream.mcquack.net/461/index.m3u8
 #EXTINF:-1 tvg-id="Sportivnyy.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/ujS6mMo.png" tvg-status="live" group-title="Sports",Sportivnyy
 https://live-3.otcnet.ru/sportivny/index.m3u8
-#EXTINF:-1 tvg-id="StarCinema.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/5sis895.png" tvg-status="live" group-title="Movies",Star Cinema
+#EXTINF:-1 tvg-id="famelack-bGtZkBQX1pajI4" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-status="live" group-title="Movies",Star Cinema
 https://dash2.antik.sk/live/test_star_cinema_atktv/playlist.m3u8
 #EXTINF:-1 tvg-id="StarFamily.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/eGuGHnZ.png" tvg-status="live" group-title="Movies",Star Family
 https://dash2.antik.sk/live/test_star_family_atktv/playlist.m3u8
@@ -911,21 +913,21 @@ http://stream.mcquack.net/211/index.m3u8
 http://stream.mcquack.net/93/index.m3u8
 #EXTINF:-1 tvg-id="Vmirezhivotnykh.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/6uotdVQ.png" tvg-status="live" group-title="General",V mire zhivotnykh
 http://stream.mcquack.net/241/index.m3u8
-#EXTINF:-1 tvg-id="VelvetEuropeanMovies.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://antiabuse-container.b-cdn.net/eurkino.png" tvg-status="live" group-title="Movies",Velvet. European Movies
+#EXTINF:-1 tvg-id="VelvetEuropeanMovies.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://antiabuse-container.b-cdn.net/eurkino.png" tvg-status="down" group-title="Movies",Velvet. European Movies
 https://cdn.rostelekom-tv.xyz/live/LQ3j0n7j0Kq4OQm8.m3u8
-#EXTINF:-1 tvg-id="VelvetGoldenCollection.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://interra-cdn-europe1.b-cdn.net/zolo.png" tvg-status="live" group-title="Movies",Velvet. Golden Collection
+#EXTINF:-1 tvg-id="VelvetGoldenCollection.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://interra-cdn-europe1.b-cdn.net/zolo.png" tvg-status="down" group-title="Movies",Velvet. Golden Collection
 https://cdn.rostelekom-tv.xyz/live/v804qFZr0QVQ1s9Z.m3u8
-#EXTINF:-1 tvg-id="VelvetMentovskiyeSerialy.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://interra-cdn-europe1.b-cdn.net/ment.png" tvg-status="live" group-title="Series",Velvet. Mentovskiye Serialy
+#EXTINF:-1 tvg-id="VelvetMentovskiyeSerialy.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://interra-cdn-europe1.b-cdn.net/ment.png" tvg-status="down" group-title="Series",Velvet. Mentovskiye Serialy
 https://cdn.rostelekom-tv.xyz/live/tWQ0ge9rspBQhRst.m3u8
-#EXTINF:-1 tvg-id="VelvetScary.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://antiabuse-container.b-cdn.net/uzh1.png" tvg-status="live" group-title="Movies",Velvet. Scary
+#EXTINF:-1 tvg-id="VelvetScary.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://antiabuse-container.b-cdn.net/uzh1.png" tvg-status="down" group-title="Movies",Velvet. Scary
 https://cdn.rostelekom-tv.xyz/live/NImhIFLevxCbtcP-.m3u8
-#EXTINF:-1 tvg-id="VelvetSeriesHits.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://antiabuse-container.b-cdn.net/serialyhity.png" tvg-status="live" group-title="Series",Velvet. Series Hits
+#EXTINF:-1 tvg-id="VelvetSeriesHits.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://antiabuse-container.b-cdn.net/serialyhity.png" tvg-status="down" group-title="Series",Velvet. Series Hits
 https://cdn.rostelekom-tv.xyz/live/DeWr3Sgw1Aj2lJd0.m3u8
-#EXTINF:-1 tvg-id="VelvetSovetskoeKino.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://interra-cdn-europe1.b-cdn.net/soviet.png" tvg-status="live" group-title="Classic",Velvet. Sovetskoe Kino
+#EXTINF:-1 tvg-id="VelvetSovetskoeKino.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://interra-cdn-europe1.b-cdn.net/soviet.png" tvg-status="down" group-title="Classic",Velvet. Sovetskoe Kino
 https://cdn.rostelekom-tv.xyz/live/nF4sFCa49nFPHSF_.m3u8
-#EXTINF:-1 tvg-id="VelvetSvaty.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://interra-cdn-europe1.b-cdn.net/svatyv.png" tvg-status="live" group-title="Series",Velvet. Svaty
+#EXTINF:-1 tvg-id="VelvetSvaty.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://interra-cdn-europe1.b-cdn.net/svatyv.png" tvg-status="down" group-title="Series",Velvet. Svaty
 https://cdn.rostelekom-tv.xyz/live/HSxyMqDlSVR54UTN.m3u8
-#EXTINF:-1 tvg-id="VelvetWorldSeries.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://antiabuse-container.b-cdn.net/mirseriallogo.png" tvg-status="live" group-title="Series",Velvet. World Series
+#EXTINF:-1 tvg-id="VelvetWorldSeries.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://antiabuse-container.b-cdn.net/mirseriallogo.png" tvg-status="down" group-title="Series",Velvet. World Series
 https://cdn.rostelekom-tv.xyz/live/2RR44py-yGlIWQIp.m3u8
 #EXTINF:-1 tvg-id="Vera24.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/Qer5Lnh.png" tvg-status="down" group-title="Religious",Vera 24
 https://5f05e059699ae.streamlock.net/WEB_Vera24/ngrp:Vera24.stream-adaptive/playlist.m3u8
