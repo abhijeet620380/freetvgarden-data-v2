@@ -69,14 +69,14 @@ http://213.91.179.28:8000/play/a041
 https://streamer1.streamhost.org/salive/GMIlcbgM/playlist.m3u8
 #EXTINF:-1 tvg-id="MagicTV.bg" tvg-country="BG" tvg-language="Bulgarian" tvg-logo="https://i.imgur.com/n7bcrrp.png" tvg-status="live" group-title="Music",Magic TV
 https://bss1.neterra.tv/magictv/magictv.m3u8
-#EXTINF:-1 tvg-id="MaxSport1.bg" tvg-country="BG" tvg-language="Bulgarian" tvg-logo="https://i.imgur.com/0ohnpql.png" tvg-status="down" group-title="Sports",Max Sport 1
-http://213.91.179.28:8000/play/a0as
-#EXTINF:-1 tvg-id="MaxSport2.bg" tvg-country="BG" tvg-language="Bulgarian" tvg-logo="https://i.imgur.com/33m1wPN.png" tvg-status="down" group-title="Sports",Max Sport 2
-http://213.91.179.28:8000/play/a0at
-#EXTINF:-1 tvg-id="MaxSport3.bg" tvg-country="BG" tvg-language="Bulgarian" tvg-logo="https://i.imgur.com/eGiGgZ2.png" tvg-status="down" group-title="Sports",Max Sport 3
-http://213.91.179.28:8000/play/a0ar
-#EXTINF:-1 tvg-id="MaxSport4.bg" tvg-country="BG" tvg-language="Bulgarian" tvg-logo="https://i.imgur.com/7IxXX6f.png" tvg-status="down" group-title="Sports",Max Sport 4
-http://213.91.179.28:8000/play/a05n
+#EXTINF:-1 tvg-id="MaxSport1.bg" tvg-country="BG" tvg-language="Bulgarian" tvg-logo="https://i.imgur.com/0ohnpql.png" tvg-status="live" group-title="Sports",Max Sport 1
+http://hls127.freeott.top:8080/BG_MAX_Sport_1_HD/video.m3u8
+#EXTINF:-1 tvg-id="MaxSport2.bg" tvg-country="BG" tvg-language="Bulgarian" tvg-logo="https://i.imgur.com/33m1wPN.png" tvg-status="live" group-title="Sports",Max Sport 2
+http://hls127.freeott.top:8080/BG_MAX_Sport_2_HD/video.m3u8
+#EXTINF:-1 tvg-id="MaxSport3.bg" tvg-country="BG" tvg-language="Bulgarian" tvg-logo="https://i.imgur.com/eGiGgZ2.png" tvg-status="live" group-title="Sports",Max Sport 3
+http://hls127.freeott.top:8080/BG_MAX_Sport_3_HD/video.m3u8
+#EXTINF:-1 tvg-id="MaxSport4.bg" tvg-country="BG" tvg-language="Bulgarian" tvg-logo="https://i.imgur.com/7IxXX6f.png" tvg-status="live" group-title="Sports",Max Sport 4
+http://hls127.freeott.top:8080/BG_MAX_Sport_4_HD/video.m3u8
 #EXTINF:-1 tvg-id="MovieStar.bg" tvg-country="BG" tvg-language="Bulgarian" tvg-logo="https://i.imgur.com/DdZH49P.png" tvg-status="live" group-title="Movies",Movie Star
 https://shift03.isp.bg/MovieStar/index.m3u8
 #EXTINF:-1 tvg-id="NationalGeographic.bg" tvg-country="BG" tvg-language="Bulgarian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png" tvg-status="down" group-title="Documentary",National Geographic
@@ -99,10 +99,10 @@ http://213.91.179.28:8000/play/a06e
 https://transcoder1.bitcare.eu/streaming/rimextv/rmtv.m3u8
 #EXTINF:-1 tvg-id="StarChannel.bg" tvg-country="BG" tvg-language="Bulgarian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/960px-Star_Channel_2020.svg.png" tvg-status="down" group-title="Movies",Star Channel
 http://213.91.179.28:8000/play/a0c9
-#EXTINF:-1 tvg-id="StarCrime.bg" tvg-country="BG" tvg-language="Bulgarian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Star_Crime_2023.svg/960px-Star_Crime_2023.svg.png" tvg-status="down" group-title="Series",Star Crime
-http://213.91.179.28:8000/play/a0cs
-#EXTINF:-1 tvg-id="StarLife.bg" tvg-country="BG" tvg-language="Bulgarian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Star_Life_2021.svg/960px-Star_Life_2021.svg.png" tvg-status="down" group-title="Series",Star Life
-http://213.91.179.28:8000/play/a0cr
+#EXTINF:-1 tvg-id="StarCrime.bg" tvg-country="BG" tvg-language="Bulgarian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Star_Crime_2023.svg/960px-Star_Crime_2023.svg.png" tvg-status="live" group-title="Series",Star Crime
+http://hls127.freeott.top:8080/BG_FOX_Crime/video.m3u8
+#EXTINF:-1 tvg-id="StarLife.bg" tvg-country="BG" tvg-language="Bulgarian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Star_Life_2021.svg/960px-Star_Life_2021.svg.png" tvg-status="live" group-title="Series",Star Life
+http://hls127.freeott.top:8080/BG_FOX_Life/video.m3u8
 #EXTINF:-1 tvg-id="TheVoice.bg" tvg-country="BG" tvg-language="Bulgarian" tvg-logo="https://i.imgur.com/OoJSmoj.png" tvg-status="live" group-title="Music",The Voice
 https://bss1.neterra.tv/thevoice/thevoice.m3u8
 #EXTINF:-1 tvg-id="ThisisBulgariaHD.bg" tvg-country="BG" tvg-language="Bulgarian" tvg-logo="https://i.imgur.com/062jkXw.png" tvg-status="live" group-title="Entertainment",This is Bulgaria HD
@@ -127,5 +127,5 @@ https://shift03.isp.bg/ViasatExplorer_HD/index.m3u8
 https://shift03.isp.bg/ViasatHistory_HD/index.m3u8
 #EXTINF:-1 tvg-id="ViasatNature.bg" tvg-country="BG" tvg-language="Bulgarian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/Cropped-viasat-nature.png" tvg-status="live" group-title="Documentary",Viasat Nature
 https://shift03.isp.bg/ViasatNature_HD/index.m3u8
-#EXTINF:-1 tvg-id="VivacomArena.bg" tvg-country="BG" tvg-language="Bulgarian" tvg-logo="https://i.imgur.com/M7QKnH3.png" tvg-status="down" group-title="General",Vivacom Arena
-http://213.91.179.28:8000/play/a053
+#EXTINF:-1 tvg-id="VivacomArena.bg" tvg-country="BG" tvg-language="Bulgarian" tvg-logo="https://i.imgur.com/M7QKnH3.png" tvg-status="live" group-title="General",Vivacom Arena
+http://hls127.freeott.top:8080/BG_Vivacom_Arena_HD/video.m3u8
