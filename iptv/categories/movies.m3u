@@ -46,7 +46,7 @@ https://tv.alterna.ar/stream/hls/live.m3u8
 #EXTINF:-1 tvg-id="AMC.us" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png" tvg-status="live" group-title="Movies",AMC
 http://190.11.225.124:5000/live/amc_hd/playlist.m3u8
 #EXTINF:-1 tvg-id="AMCEurope.uk" tvg-country="UK" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png" tvg-status="live" group-title="Movies",AMC Europe
-http://212.70.131.37:8000/play/a05k
+http://hls127.freeott.top:8080/BG_AMC/video.m3u8
 #EXTINF:-1 tvg-id="AMCLatinAmerica.us" tvg-country="US" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png" tvg-status="live" group-title="Movies",AMC Latin America
 http://170.83.49.66:8083/AMCHD/index.m3u8
 #EXTINF:-1 tvg-id="AmediaHit.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/a8ZBGBw.png" tvg-status="live" group-title="Movies",Amedia Hit
@@ -471,7 +471,7 @@ http://dtv.vol.net.ua/Hollywood-HD/index.m3u8
 https://homeplushls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="famelack-sW1htecY1J2QHG" tvg-country="CN" tvg-language="Persian" tvg-logo="" tvg-status="live" group-title="Movies",HomePlus
 https://homeplushls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="famelack-GUp0mv9qudQwRw" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-status="live" group-title="Movies",Horoshee Kino
+#EXTINF:-1 tvg-id="HorosheeKino.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/ZbOqfy4.png" tvg-status="live" group-title="Movies",Horoshee Kino
 https://live-rian.cdnvideo.ru/rian/rus-radio/playlist.m3u8
 #EXTINF:-1 tvg-id="ICCplus.us" tvg-country="US" tvg-language="Persian" tvg-logo="" tvg-status="live" group-title="Movies",ICC plus
 https://icchls.wns.live/hls/stream.m3u8
@@ -486,7 +486,7 @@ https://live.presstv.ir/hls/ifilmar.m3u8
 #EXTINF:-1 tvg-id="iFilmEnglish.ir" tvg-country="IR" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/IFILM.png" tvg-status="down" group-title="Movies",iFilm English
 https://live.presstv.ir/hls/ifilmen.m3u8
 #EXTINF:-1 tvg-id="iFilmPersian.ir" tvg-country="IR" tvg-language="Persian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/IFILM.png" tvg-status="live" group-title="Movies",iFilm Persian
-https://live.presstv.ir/hls/ifilmfa.m3u8
+https://ncdn.telewebion.ir/ifilm/live/playlist.m3u8
 #EXTINF:-1 tvg-id="IllusionPlus.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/9GvuHQ5.png" tvg-status="down" group-title="Movies",Illusion+
 http://31.148.48.15/Illusion_plus/index.m3u8
 #EXTINF:-1 tvg-id="IndiyskoyeKino.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/LL8GyCh.png" tvg-status="live" group-title="Movies",Indiyskoye Kino
@@ -569,7 +569,7 @@ https://hls.maahtv.live/hls/stream.m3u8
 https://hls.maahtv.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="MadeInHollywood.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/p16HNIM.png" tvg-status="live" group-title="Movies",Made In Hollywood
 https://connection3-ent-nz.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="MagnificentMoviesNetwork.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/CXjo8kn.png" tvg-status="live" group-title="Movies",Magnificent Movies Network
+#EXTINF:-1 tvg-id="famelack-5UAjqF3w6vHQFH" tvg-country="US" tvg-language="English" tvg-logo="" tvg-status="live" group-title="Movies",Magnificent Movies Network
 https://mmn1-301f.kxcdn.com/hls/MMN-HLS.m3u8
 #EXTINF:-1 tvg-id="MagyarMoziTV.hu" tvg-country="HU" tvg-language="Hungarian" tvg-logo="https://i.imgur.com/cXajs8V.png" tvg-status="live" group-title="Movies",Magyar Mozi TV
 http://88.212.15.19/live/mozi/index.m3u8
@@ -748,7 +748,7 @@ https://euhls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="famelack-p3UIBhQreTrSmL" tvg-country="IR" tvg-language="Persian" tvg-logo="" tvg-status="live" group-title="Movies",Persiana Plus
 https://euhls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="Pitaara.in" tvg-country="IN" tvg-language="Panjabi" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_PITAARA/images/LOGO_HD/image.png" tvg-status="live" group-title="Movies",Pitaara
-https://vg-pitaaratvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-583798/playlist.m3u8
+https://mumt04.tangotv.in/m18aqlK4PITAARA/index.m3u8
 #EXTINF:-1 tvg-id="PlutoClassicMovieWesterns.us" tvg-country="US" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/66dad50215d2c60008d7afbd/colorLogoSVG.svg" tvg-status="live" group-title="Movies",Pluto Classic Movie Westerns
 https://jmp2.uk/plu-66dad50215d2c60008d7afbd.m3u8
 #EXTINF:-1 tvg-id="PlutoTV80sAction.de" tvg-country="DE" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/66d717d2abec540008ba7ec4/colorLogoSVG_1731067141251.svg" tvg-status="live" group-title="Movies",Pluto TV 80's Action
@@ -1076,7 +1076,7 @@ https://a89829b8dca2471ab52ea9a57bc28a35.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-id="SonyMax.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://i.imgur.com/LBICKI5.png" tvg-status="live" group-title="Movies",Sony Max
 https://cloudplay-sonyliv.pages.dev/maxhd.m3u8
 #EXTINF:-1 tvg-id="SonyMax2.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/SonyMAX2.png" tvg-status="live" group-title="Movies",Sony Max 2
-https://cloudplay-sonyliv.pages.dev/max2.m3u8
+http://107.167.16.138/sonymax2/index.m3u8?token=test
 #EXTINF:-1 tvg-id="SonyMovies.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/500px-Sony_Movies_Logo.svg.png" tvg-status="live" group-title="Movies",Sony Movies
 http://45.162.64.114/SONY_MOVIES/index.m3u8
 #EXTINF:-1 tvg-id="SonyMoviesLatinAmerica.us" tvg-country="US" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/500px-Sony_Movies_Logo.svg.png" tvg-status="live" group-title="Movies",Sony Movies Latin America
