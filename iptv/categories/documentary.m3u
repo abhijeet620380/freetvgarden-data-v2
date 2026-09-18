@@ -91,6 +91,8 @@ http://45.162.193.35/DOCU/index.m3u8
 https://cc-mgr91yrk4pehy.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-mgr91yrk4pehy/playlist.m3u8
 #EXTINF:-1 tvg-id="DocuBox.nl" tvg-country="NL" tvg-language="English" tvg-logo="https://i.imgur.com/pX4U9OG.png" tvg-status="live" group-title="Documentary",DocuBox
 https://iptv.prosto.tv/ch093/index.m3u8
+#EXTINF:-1 tvg-id="famelack-c1drY7BVrYSt3w" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-status="live" group-title="Documentary",DocuBox Russia
+https://iptv.prosto.tv/ch093/index.m3u8
 #EXTINF:-1 tvg-id="DocumentaryPlus.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/x57klfS.png" tvg-status="live" group-title="Documentary",Documentary+
 https://1d153317c8db4250b3789601274e2402.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-887-DOCUMENTARYINTERNATIONAL-DOCUMENTARYPLUS/mt/documentaryplus/887/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="famelack-2fMuVMErYSbQJN" tvg-country="US" tvg-language="English" tvg-logo="" tvg-status="live" group-title="Documentary",Documentary+ International
@@ -121,13 +123,11 @@ https://ca-rt.onetv.app/gemnature/index-0.m3u8?token=onetv202
 https://d1nhni5l2n8hjt.cloudfront.net/gf.m3u8
 #EXTINF:-1 tvg-id="famelack-QsnZdQrvWuaOtn" tvg-country="UK" tvg-language="English" tvg-logo="" tvg-status="live" group-title="Documentary",Get.factual UK
 https://d1nhni5l2n8hjt.cloudfront.net/gf.m3u8
-#EXTINF:-1 tvg-id="famelack-GOMdLvvyu3y5ss" tvg-country="TR" tvg-language="English" tvg-logo="" tvg-status="live" group-title="Documentary",GZT
-https://gzttv-live.lg.mncdn.com/gzttv/gzttv/playlist.m3u8
 #EXTINF:-1 tvg-id="H2.bg" tvg-country="BG" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/500px-History2_logo_%282022%29.svg.png" tvg-status="down" group-title="Documentary",H2
 http://213.91.179.28:8000/play/a03r
 #EXTINF:-1 tvg-id="H2HD.si" tvg-country="SI" tvg-language="Slovenian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/500px-History2_logo_%282022%29.svg.png" tvg-status="down" group-title="Documentary",H2 HD
 https://lb.dstvmultimedia.com/HistoryChannel2/index.m3u8
-#EXTINF:-1 tvg-id="HistoriaYVida.es" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/56ZtCA1.png" tvg-status="live" group-title="Documentary",Historia Y Vida
+#EXTINF:-1 tvg-id="HistoriaYVida.es" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/56ZtCA1.png" tvg-status="down" group-title="Documentary",Historia Y Vida
 https://jmp2.uk/plu-67517f923a61d40008c451f0.m3u8
 #EXTINF:-1 tvg-id="History.bg" tvg-country="BG" tvg-language="Bulgarian" tvg-logo="" tvg-status="down" group-title="Documentary",History
 http://213.91.179.28:8000/play/a0c1
@@ -148,7 +148,7 @@ http://58.8.186.128:10005/bysid/2517
 #EXTINF:-1 tvg-id="HistoryHit.uk" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/ulHoqlP.png" tvg-status="live" group-title="Documentary",History Hit
 https://lds-timeline-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="famelack-HZEhjsWnhssch2" tvg-country="US" tvg-language="English" tvg-logo="" tvg-status="live" group-title="Documentary",History Hit
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-timelinenz-samsungnz/playlist.m3u8
+https://lds-timeline-plex.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="HistoryLatinAmerica.us" tvg-country="US" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png" tvg-status="live" group-title="Documentary",History Latin America
 http://15.204.246.24:8080/HistoryHD/index.m3u8
 #EXTINF:-1 tvg-id="HistoryTV18.in" tvg-country="IN" tvg-language="English" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_HISTORY_TV18/images/LOGO_HD/image.png" tvg-status="live" group-title="Documentary",History TV18
@@ -187,6 +187,8 @@ https://amg01821-lovetv-amg01821c8-xumo-us-3443.playouts.now.amagi.tv/playlist.m
 https://d3j95sejv6mybj.cloudfront.net/Lucky_Dog.m3u8
 #EXTINF:-1 tvg-id="MagellanTVNow.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/gEraSp5.png" tvg-status="live" group-title="Documentary",MagellanTV Now
 https://amg00376-magellan-amg00376c5-samsung-au-1708.playouts.now.amagi.tv/playlist/amg00376-magellantv-magellantvnowww-samsungau/playlist.m3u8
+#EXTINF:-1 tvg-id="MRTVFarmer.mm" tvg-country="MM" tvg-language="Burmese" tvg-logo="https://i.imgur.com/f4PWvrW.jpg" tvg-status="live" group-title="Documentary",MRTV Farmer
+https://mrtvott.com/cache/MRTV-FARMER/master.m3u8
 #EXTINF:-1 tvg-id="MWDDocumentary.mm" tvg-country="MM" tvg-language="Burmese" tvg-logo="https://i.imgur.com/4XV7cjU.png" tvg-status="live" group-title="Documentary",MWD Documentary
 http://203.81.84.130/hls/mwd_document/index.m3u8
 #EXTINF:-1 tvg-id="N24Doku.de" tvg-country="DE" tvg-language="German" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/N24Doku.svg/960px-N24Doku.svg.png" tvg-status="live" group-title="Documentary",N24 Doku
@@ -235,6 +237,8 @@ https://nord.ayakkabiparti.lol/natgeowild/index.m3u8
 http://46.32.176.50/natgeowild/index.m3u8
 #EXTINF:-1 tvg-id="NationalGeographicWild.us" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/960px-National_Geographic_Wild_logo.svg.png" tvg-status="live" group-title="Documentary",National Geographic Wild
 http://198.58.104.90:8989/natgeowild/index.m3u8
+#EXTINF:-1 tvg-id="famelack-FmClQA6aIx4mGP" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-status="live" group-title="Documentary",National Geographic Wild
+https://fs.uplink.kz/nat_geo_wild/mono.m3u8?token=onlinetv
 #EXTINF:-1 tvg-id="famelack-AbcJxYxf3cyf3H" tvg-country="ES" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="Documentary",Nature Time
 https://amg00090-amgnaturetimeemea-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="famelack-SbCVyIRCGshv9Z" tvg-country="FR" tvg-language="French" tvg-logo="" tvg-status="live" group-title="Documentary",Nature Time
@@ -252,7 +256,7 @@ http://stream.mcquack.net/125/index.m3u8
 #EXTINF:-1 tvg-id="OzbekistonTarixi.uz" tvg-country="UZ" tvg-language="Uzbek" tvg-logo="https://i.imgur.com/iTTd3Ir.png" tvg-status="live" group-title="Documentary",O'zbekiston Tarixi
 https://stream8.cinerama.uz/1209/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-id="OnTheCase.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/TAmVjUL.png" tvg-status="live" group-title="Documentary",On The Case
-https://jmp2.uk/plu-62cd9f1cda044a00077b8f41.m3u8
+https://jmp2.uk/plu-62cd971cec90c20007081050.m3u8
 #EXTINF:-1 tvg-id="PersianaDocs.fr" tvg-country="FR" tvg-language="Persian" tvg-logo="" tvg-status="live" group-title="Documentary",Persiana Docs
 https://scihls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="famelack-6nVDnHEbOf1hio" tvg-country="IR" tvg-language="Persian" tvg-logo="" tvg-status="live" group-title="Documentary",Persiana Docs
@@ -349,7 +353,7 @@ https://jmp2.uk/plu-677d397b60fbeb00084b0bff.m3u8
 http://185.227.34.179:8080/polsat-viasat-history-hd/index.m3u8
 #EXTINF:-1 tvg-id="Reelz.us" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Reelz.svg/960px-Reelz.svg.png" tvg-status="live" group-title="Documentary",Reelz
 http://23.237.104.106:8080/USA_REELZ/index.m3u8
-#EXTINF:-1 tvg-id="RLPROTV.cd" tvg-country="CD" tvg-language="French" tvg-logo="https://i.imgur.com/PIBtCEN.jpeg" tvg-status="live" group-title="Documentary",RL PRO TV
+#EXTINF:-1 tvg-id="famelack-C9r0nQTewOjHW3" tvg-country="CD" tvg-language="French" tvg-logo="" tvg-status="live" group-title="Documentary",RL PRO TV
 https://stream.berosat.live:19360/rlpro-tv/rlpro-tv.m3u8
 #EXTINF:-1 tvg-id="RTDocumentary.ru" tvg-country="RU" tvg-language="English" tvg-logo="https://i.imgur.com/aeu5zIC.png" tvg-status="live" group-title="Documentary",RT Documentary
 https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8
@@ -396,7 +400,7 @@ https://aegis-cloudfront-1.tubi.video/b062c287-a170-47df-99e4-f5dcd441ee59/playl
 #EXTINF:-1 tvg-id="TringHistory.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="https://i.imgur.com/9wc2Wpt.png" tvg-status="down" group-title="Documentary",Tring History
 http://5.254.89.106/8765/index.m3u8
 #EXTINF:-1 tvg-id="TRTBelgesel.tr" tvg-country="TR" tvg-language="Turkish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/TRT_Belgesel_logo_%282019-%29.svg/960px-TRT_Belgesel_logo_%282019-%29.svg.png" tvg-status="live" group-title="Documentary",TRT Belgesel
-https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
+http://hls127.freeott.top:8080/TRT_BELGESEL_TR/video.m3u8
 #EXTINF:-1 tvg-id="TV8.md" tvg-country="MD" tvg-language="Romanian" tvg-logo="https://i.imgur.com/Rsn4oUh.png" tvg-status="live" group-title="News",TV8
 http://315e5a5d.ottrast.com/iptv/8KSD5KFDXA6H88/2454/index.m3u8
 #EXTINF:-1 tvg-id="UMSATVUInternacional.bo" tvg-country="BO" tvg-language="Spanish" tvg-logo="https://tvu.umsa.bo/documents/780216/12171558/Logo+TVU-Int.png/b67c9c61-7516-e38a-a425-72e61f3824c6?t=1751574228493" tvg-status="live" group-title="Education",UMSA TVU Internacional
