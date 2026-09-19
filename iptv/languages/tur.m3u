@@ -115,8 +115,6 @@ https://ekoltv-live.ercdn.net/ekolsport/ekolsport.m3u8
 https://ekoltv-live.ercdn.net/ekoltv/ekoltv.m3u8
 #EXTINF:-1 tvg-id="Ekoturk.tr" tvg-country="TR" tvg-language="Turkish" tvg-logo="https://www.dsmart.com.tr/epg/images/0x60/5ffc18c6cfef0b15933a8b65" tvg-status="live" group-title="News",Ekoturk
 https://cdn.ekoturk.net/hls/master.m3u8
-#EXTINF:-1 tvg-id="famelack-ZF8u92PVuJI4iM" tvg-country="TR" tvg-language="Turkish" tvg-logo="" tvg-status="live" group-title="News",EKOTÜRK TV
-https://www.youtube-nocookie.com/embed/7n0Qs8iAi1c
 #EXTINF:-1 tvg-id="famelack-aUMgSxs4t83jMD" tvg-country="TR" tvg-language="Turkish" tvg-logo="" tvg-status="live" group-title="Series",Emret Komutanım
 https://www.youtube-nocookie.com/embed/b4U9nt3s128
 #EXTINF:-1 tvg-id="famelack-NaLDKK2n9zWTIs" tvg-country="TR" tvg-language="Turkish" tvg-logo="" tvg-status="live" group-title="General",Erciyes TV
@@ -221,6 +219,8 @@ https://www.youtube-nocookie.com/embed/qWDd505ciJQ
 https://live.artidijitalmedya.com/artidijital_kentturktv/kentturktv/playlist.m3u8
 #EXTINF:-1 tvg-id="famelack-50XWlvMc7fhB99" tvg-country="CY" tvg-language="Turkish" tvg-logo="" tvg-status="live" group-title="General",Kibris Kanal T
 https://edge.kuzeykibrissmart.tv/kanalt/bant1/playlist.m3u8
+#EXTINF:-1 tvg-id="famelack-ebwfg6IXMkti4B" tvg-country="CY" tvg-language="Turkish" tvg-logo="" tvg-status="live" group-title="General",Kibris TV
+https://play.kibristv.com/stream/hls/stream.m3u8
 #EXTINF:-1 tvg-id="KocaeliTV.tr" tvg-country="TR" tvg-language="Turkish" tvg-logo="https://i.imgur.com/LeTP4zq.png" tvg-status="live" group-title="General",Kocaeli TV
 https://edge.taksimbilisim.com/kocaelitv/bant1/playlist.m3u8
 #EXTINF:-1 tvg-id="KonyaOlayTV.tr" tvg-country="TR" tvg-language="Turkish" tvg-logo="https://www.konyaolaytv.com/upload/tema/20230307__5154687762.jpg" tvg-status="live" group-title="General",Konya Olay TV
@@ -232,11 +232,13 @@ https://www.youtube-nocookie.com/embed/QYjD0SDP97w
 #EXTINF:-1 tvg-id="LalegulTV.tr" tvg-country="TR" tvg-language="Turkish" tvg-logo="https://i.imgur.com/wwCysFs.png" tvg-status="live" group-title="Religious",Lalegul TV
 https://lbl.netmedya.net/hls/lalegultv.m3u8
 #EXTINF:-1 tvg-id="famelack-oYLz4JWGWtAe6e" tvg-country="TR" tvg-language="Turkish" tvg-logo="" tvg-status="live" group-title="News",Lider Haber
-https://www.youtube-nocookie.com/embed/B8TLLwCojuM
+https://www.youtube-nocookie.com/embed/oNMq9PwC3DY
 #EXTINF:-1 tvg-id="LifeTV.tr" tvg-country="TR" tvg-language="Turkish" tvg-logo="https://i.imgur.com/lWeJxm0.png" tvg-status="live" group-title="News",Life TV
 https://live.artidijitalmedya.com/artidijital_lifetv/lifetv/playlist.m3u8
 #EXTINF:-1 tvg-id="LineTV.tr" tvg-country="TR" tvg-language="Turkish" tvg-logo="https://i.imgur.com/6GNp7f8.png" tvg-status="live" group-title="General",Line TV
 https://edge1.socialsmart.tv/linetv/bant1/playlist.m3u8
+#EXTINF:-1 tvg-id="LuysTV.tr" tvg-country="TR" tvg-language="Turkish" tvg-logo="https://i.imgur.com/9EruWIQ.png" tvg-status="live" group-title="Culture",Luys TV
+https://b01c02nl.mediatriple.net/videoonlylive/mtpayqrfkgirxelive/broadcast_5e91c5ac96898.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="MaviKaradenizTV.tr" tvg-country="TR" tvg-language="Turkish" tvg-logo="https://i.imgur.com/wyWappU.png" tvg-status="live" group-title="General",MaviKaradeniz TV
 https://live.artidijitalmedya.com/artidijital_mavikaradeniz/mavikaradeniz/playlist.m3u8
 #EXTINF:-1 tvg-id="MCTV.de" tvg-country="DE" tvg-language="Turkish" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/c/ca/MC_TV_logosu.png" tvg-status="live" group-title="Entertainment",MC TV
@@ -341,7 +343,7 @@ https://tv-trt3.live.trt.com.tr/master.m3u8
 https://tv-trtavaz.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TRTBelgesel.tr" tvg-country="TR" tvg-language="Turkish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/TRT_Belgesel_logo_%282019-%29.svg/960px-TRT_Belgesel_logo_%282019-%29.svg.png" tvg-status="live" group-title="Documentary",TRT Belgesel
 https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="famelack-YCPZsdEDhEaJOB" tvg-country="TR" tvg-language="Turkish" tvg-logo="" tvg-status="live" group-title="Kids",TRT Cocuk
+#EXTINF:-1 tvg-id="TRTCocuk.tr" tvg-country="TR" tvg-language="Turkish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/TRT_%C3%87ocuk_logo_%282021%29.svg/960px-TRT_%C3%87ocuk_logo_%282021%29.svg.png" tvg-status="live" group-title="Kids",TRT Cocuk
 https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TRTDiyanetCocuk.tr" tvg-country="TR" tvg-language="Turkish" tvg-logo="https://i.imgur.com/8PmXz9t.png" tvg-status="live" group-title="Kids",TRT Diyanet Cocuk
 https://tv-trtdiyanetcocuk.medya.trt.com.tr/master.m3u8
