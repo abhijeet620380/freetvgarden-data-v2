@@ -1,0 +1,46 @@
+name: Auto-translate UI strings
+
+# Runs whenever the English source strings or the language list change, and
+# can also be triggered manually from the Actions tab (useful for re-running
+# after a transient translation failure, without needing a dummy commit).
+on:
+  push:
+    branches: [main]
+    paths:
+      - "locales/en.json"
+      - "locales/_langs.json"
+  workflow_dispatch: {}
+
+# Needed so the final step can commit the generated locale files back to
+# this same repository.
+permissions:
+  contents: write
+
+jobs:
+  translate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          # Full history isn't needed; just enough to commit back cleanly.
+          fetch-depth: 1
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Run translation script
+        run: npm run translate
+
+      - name: Commit and push updated locale files
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore(i18n): auto-translate updated strings"
+          file_pattern: "locales/*.json"
+          commit_user_name: "freetvgarden-i18n-bot"
+          commit_user_email: "actions@users.noreply.github.com"
