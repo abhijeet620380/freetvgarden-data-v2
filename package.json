@@ -1,0 +1,12 @@
+{
+  "name": "freetvgarden-i18n",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Auto-translation pipeline for FreeTV Garden's UI/SEO strings",
+  "scripts": {
+    "translate": "node scripts/translate.js"
+  },
+  "dependencies": {
+    "google-translate-api-x": "^10.7.1"
+  }
+}
