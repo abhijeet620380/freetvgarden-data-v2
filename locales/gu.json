@@ -29,6 +29,10 @@
   "seo": {
     "homeTitle": "ફ્રીટીવી ગાર્ડન | વિશ્વભરના મફત લાઇવ ટીવી, રેડિયો અને વેબકૅમ્સ જુઓ",
     "homeDescription": "1000+ મફત લાઈવ ટીવી ચેનલો જુઓ, લાઈવ રેડિયો સ્ટેશનો સાંભળો અને 200+ દેશોમાંથી લાઈવ વેબકૅમ્સ જુઓ — કોઈ સાઇનઅપ, કોઈ સબ્સ્ક્રિપ્શનની જરૂર નથી.",
+    "verbWatch": "વોચ",
+    "verbListen": "સાંભળો",
+    "nounTVChannels": "ટીવી ચેનલો",
+    "nounRadioStations": "રેડિયો સ્ટેશનો",
     "channelTitle": "{verb} {channelName} લાઇવ ( {countryName} ) | ફ્રીટીવી ગાર્ડન",
     "channelDescription": "FreeTV ગાર્ડન પર {countryName} થી {verb} {channelName} લાઇવ — મફત, સાઇનઅપની જરૂર નથી.",
     "countryTitle": "{verb} મફત {countryName} {noun} ઑનલાઇન | ફ્રીટીવી ગાર્ડન",
@@ -37,10 +41,20 @@
     "categoryDescription": "ફ્રીટીવી ગાર્ડન પર {verb} મફત {genreName} {nounLower} ઑનલાઇન — કોઈ સાઇનઅપ નથી, કોઈ સબ્સ્ક્રિપ્શનની જરૂર નથી.",
     "languageTitle": "મફત {langName} {noun} ઑનલાઇન સાંભળો | ફ્રીટીવી ગાર્ડન",
     "languageDescription": "ફ્રીટીવી ગાર્ડન પર નિઃશુલ્ક {langName} {nounLower} ઑનલાઇન સાંભળો — કોઈ સાઇનઅપ નથી, કોઈ સબ્સ્ક્રિપ્શનની જરૂર નથી.",
-    "verbWatch": "વોચ",
-    "verbListen": "સાંભળો",
-    "nounTVChannels": "ટીવી ચેનલો",
-    "nounRadioStations": "રેડિયો સ્ટેશનો",
-    "nounWebcams": "વેબકેમ્સ"
+    "nounWebcams": "લાઇવ વેબકૅમ્સ",
+    "channelTitleNoCountry": "{verb} {channelName} લાઇવ | ફ્રીટીવી ગાર્ડન",
+    "channelDescriptionNoCountry": "{verb} {channelName} FreeTV ગાર્ડન પર લાઇવ — મફત, સાઇનઅપની જરૂર નથી.",
+    "channelTitleNoCountryTV": "{channelName} લાઇવ જુઓ | ફ્રીટીવી ગાર્ડન",
+    "channelDescriptionNoCountryTV": "FreeTV ગાર્ડન પર {channelName} લાઇવ જુઓ — મફત, સાઇનઅપની જરૂર નથી.",
+    "countryTitleTV": "નિઃશુલ્ક {countryName} લાઇવ ટીવી ચેનલો ઓનલાઇન જુઓ | ફ્રીટીવી ગાર્ડન",
+    "countryDescriptionTV": "મફત {countryName} લાઇવ ટીવી ચેનલો ઑનલાઇન જુઓ — સમાચાર, રમતગમત અને મનોરંજન તમારા બ્રાઉઝરમાં સ્ટ્રીમ થાય છે. કોઈ સાઇન અપ, કોઈ સબ્સ્ક્રિપ્શન આવશ્યક નથી.",
+    "countryH1TV": "નિઃશુલ્ક {countryName} લાઇવ ટીવી ચેનલો ઓનલાઇન જુઓ",
+    "genreCategoryTitle": "નિઃશુલ્ક {genreName} ચેનલ્સ ઑનલાઇન જુઓ | ફ્રીટીવી ગાર્ડન",
+    "genreCategoryDescription": "વિશ્વભરમાંથી મફત લાઇવ {genreName} ટીવી ચેનલો સ્ટ્રીમ કરો. કોઈ સાઇન અપ, કોઈ સબ્સ્ક્રિપ્શન આવશ્યક નથી.",
+    "genreH1": "નિઃશુલ્ક {genreName} ચેનલ્સ ઓનલાઇન જુઓ",
+    "languageH1": "મફત {langName} {noun} ઑનલાઇન સાંભળો",
+    "spokenLanguageTitle": "નિઃશુલ્ક {langName} ચેનલ્સ ઑનલાઇન જુઓ | ફ્રીટીવી ગાર્ડન",
+    "spokenLanguageDescription": "વિશ્વભરમાંથી મફત લાઇવ {langName} ટીવી ચેનલો સ્ટ્રીમ કરો. કોઈ સાઇન અપ, કોઈ સબ્સ્ક્રિપ્શન આવશ્યક નથી.",
+    "spokenLanguageH1": "નિઃશુલ્ક {langName} ચેનલ્સ ઓનલાઇન જુઓ"
   }
 }

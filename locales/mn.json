@@ -29,6 +29,10 @@
   "seo": {
     "homeTitle": "FreeTV Garden | Дэлхийн өнцөг булан бүрээс үнэгүй шууд ТВ, радио, вэбкамеруудыг үзээрэй",
     "homeDescription": "1000+ үнэгүй шууд ТВ сувгийг үзэж, радио станцуудыг шууд сонсож, 200 гаруй орны шууд вэбкамеруудыг үзэх - бүртгүүлэх, захиалга хийх шаардлагагүй.",
+    "verbWatch": "үзэх",
+    "verbListen": "Сонсооч",
+    "nounTVChannels": "Телевизийн сувгууд",
+    "nounRadioStations": "Радио станцууд",
     "channelTitle": "{verb} {channelName} Шууд ( {countryName} ) | FreeTV цэцэрлэг",
     "channelDescription": "{verb} {channelName} {countryName}-аас FreeTV Garden дээр шууд дамжуулна — үнэ төлбөргүй, бүртгүүлэх шаардлагагүй.",
     "countryTitle": "{verb} Үнэгүй {countryName} {noun} Онлайн | FreeTV цэцэрлэг",
@@ -37,10 +41,20 @@
     "categoryDescription": "{verb} үнэгүй {genreName} {nounLower} FreeTV Garden дээр онлайнаар - бүртгүүлэх шаардлагагүй, захиалга хийх шаардлагагүй.",
     "languageTitle": "Үнэгүй {langName} {noun} онлайнаар сонсоорой | FreeTV цэцэрлэг",
     "languageDescription": "{langName} {nounLower} дууг FreeTV Garden дээр онлайнаар үнэгүй сонсоорой - бүртгүүлэх шаардлагагүй, захиалга хийх шаардлагагүй.",
-    "verbWatch": "үзэх",
-    "verbListen": "Сонсооч",
-    "nounTVChannels": "Телевизийн сувгууд",
-    "nounRadioStations": "Радио станцууд",
-    "nounWebcams": "Вэбкамерууд"
+    "nounWebcams": "Шууд вэбкамерууд",
+    "channelTitleNoCountry": "{verb} {channelName} Шууд | FreeTV цэцэрлэг",
+    "channelDescriptionNoCountry": "{verb} {channelName} FreeTV Garden дээр шууд дамжуулж болно — үнэ төлбөргүй, бүртгүүлэх шаардлагагүй.",
+    "channelTitleNoCountryTV": "{channelName} шууд үзэх | FreeTV цэцэрлэг",
+    "channelDescriptionNoCountryTV": "{channelName}-г FreeTV Garden дээр шууд үзээрэй — үнэ төлбөргүй, бүртгүүлэх шаардлагагүй.",
+    "countryTitleTV": "Үнэгүй {countryName} ТВ сувгуудыг онлайнаар шууд үзэх | FreeTV цэцэрлэг",
+    "countryDescriptionTV": "{countryName} шууд ТВ сувгуудыг онлайнаар үнэ төлбөргүй үзээрэй — мэдээ, спорт, зугаа цэнгэлийг таны хөтөч дээр дамжуулна. Бүртгүүлэх шаардлагагүй, захиалга хийх шаардлагагүй.",
+    "countryH1TV": "Үнэгүй {countryName} ТВ сувгуудыг онлайнаар шууд үзэх",
+    "genreCategoryTitle": "Үнэгүй {genreName} сувгийг онлайнаар үзэх | FreeTV цэцэрлэг",
+    "genreCategoryDescription": "Дэлхийн өнцөг булан бүрээс {genreName} телевизийн сувгуудыг үнэгүй шууд дамжуулаарай. Бүртгүүлэх шаардлагагүй, захиалга хийх шаардлагагүй.",
+    "genreH1": "Үнэгүй {genreName} сувгийг онлайнаар үзээрэй",
+    "languageH1": "Үнэгүй {langName} {noun} онлайнаар сонсоорой",
+    "spokenLanguageTitle": "Үнэгүй {langName} сувгийг онлайнаар үзэх | FreeTV цэцэрлэг",
+    "spokenLanguageDescription": "Дэлхийн өнцөг булан бүрээс {langName} телевизийн сувгуудыг үнэгүй шууд дамжуулаарай. Бүртгүүлэх шаардлагагүй, захиалга хийх шаардлагагүй.",
+    "spokenLanguageH1": "Үнэгүй {langName} сувгийг онлайнаар үзээрэй"
   }
 }

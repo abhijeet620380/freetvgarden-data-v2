@@ -29,6 +29,10 @@
   "seo": {
     "homeTitle": "حديقة FreeTV | شاهد البث التلفزيوني المباشر والراديو وكاميرات الويب مجانًا من جميع أنحاء العالم",
     "homeDescription": "شاهد أكثر من 1000 قناة تلفزيونية مباشرة مجانية، واستمع إلى محطات الراديو المباشرة، واعرض كاميرات الويب المباشرة من أكثر من 200 دولة - بدون اشتراك، ولا يلزم الاشتراك.",
+    "verbWatch": "يشاهد",
+    "verbListen": "إستمع إلى",
+    "nounTVChannels": "القنوات التلفزيونية",
+    "nounRadioStations": "محطات الراديو",
     "channelTitle": "{verb} {channelName} مباشر ( {countryName} ) | حديقة التلفزيون المجاني",
     "channelDescription": "{verb} {channelName} مباشر من {countryName} على FreeTV Garden - مجانًا، لا يلزم الاشتراك.",
     "countryTitle": "{verb} مجاني {countryName} {noun} عبر الإنترنت | حديقة التلفزيون المجاني",
@@ -37,10 +41,20 @@
     "categoryDescription": "{verb} مجانًا {genreName} {nounLower} عبر الإنترنت على FreeTV Garden - بدون تسجيل، ولا يلزم الاشتراك.",
     "languageTitle": "استمع إلى {langName} {noun} مجانًا عبر الإنترنت | حديقة التلفزيون المجاني",
     "languageDescription": "استمع إلى {langName} {nounLower} مجانًا عبر الإنترنت على FreeTV Garden - بدون تسجيل، ولا يلزم الاشتراك.",
-    "verbWatch": "يشاهد",
-    "verbListen": "إستمع إلى",
-    "nounTVChannels": "القنوات التلفزيونية",
-    "nounRadioStations": "محطات الراديو",
-    "nounWebcams": "كاميرات الويب"
+    "nounWebcams": "كاميرات الويب الحية",
+    "channelTitleNoCountry": "{verb} {channelName} مباشر | حديقة التلفزيون المجاني",
+    "channelDescriptionNoCountry": "{verb} {channelName} مباشر على FreeTV Garden - مجانًا، لا يلزم الاشتراك.",
+    "channelTitleNoCountryTV": "شاهد {channelName} بث مباشر | حديقة التلفزيون المجاني",
+    "channelDescriptionNoCountryTV": "شاهد {channelName} مباشرة على FreeTV Garden — مجانًا، ولا يلزم الاشتراك.",
+    "countryTitleTV": "شاهد القنوات التلفزيونية المباشرة {countryName} مجانًا عبر الإنترنت | حديقة التلفزيون المجاني",
+    "countryDescriptionTV": "شاهد قنوات {countryName} التلفزيونية المباشرة مجانًا عبر الإنترنت - الأخبار والرياضة والترفيه التي يتم بثها في متصفحك. لا الاشتراك، لا الاشتراك المطلوبة.",
+    "countryH1TV": "شاهد القنوات التلفزيونية المباشرة {countryName} مجانًا عبر الإنترنت",
+    "genreCategoryTitle": "شاهد قنوات {genreName} المجانية عبر الإنترنت | حديقة التلفزيون المجاني",
+    "genreCategoryDescription": "قم ببث قنوات تلفزيونية مباشرة {genreName} مجانًا من جميع أنحاء العالم. لا الاشتراك، لا الاشتراك المطلوبة.",
+    "genreH1": "شاهد قنوات {genreName} المجانية عبر الإنترنت",
+    "languageH1": "استمع إلى {langName} {noun} مجانًا عبر الإنترنت",
+    "spokenLanguageTitle": "شاهد قنوات {langName} المجانية عبر الإنترنت | حديقة التلفزيون المجاني",
+    "spokenLanguageDescription": "قم ببث قنوات تلفزيونية مباشرة {langName} مجانًا من جميع أنحاء العالم. لا الاشتراك، لا الاشتراك المطلوبة.",
+    "spokenLanguageH1": "شاهد قنوات {langName} المجانية عبر الإنترنت"
   }
 }

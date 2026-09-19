@@ -29,6 +29,10 @@
   "seo": {
     "homeTitle": "FreeTV Garden | Titta på gratis live-tv, radio och webbkameror från hela världen",
     "homeDescription": "Titta på 1000+ gratis live-TV-kanaler, lyssna på liveradiostationer och se livewebbkameror från 200+ länder – ingen registrering, ingen prenumeration krävs.",
+    "verbWatch": "Titta",
+    "verbListen": "Lyssna på",
+    "nounTVChannels": "TV-kanaler",
+    "nounRadioStations": "Radiostationer",
     "channelTitle": "{verb} {channelName} Live ( {countryName} ) | FreeTV Garden",
     "channelDescription": "{verb} {channelName} live från {countryName} på FreeTV Garden — gratis, ingen registrering krävs.",
     "countryTitle": "{verb} Gratis {countryName} {noun} Online | FreeTV Garden",
@@ -37,10 +41,20 @@
     "categoryDescription": "{verb} gratis {genreName} {nounLower} online på FreeTV Garden — ingen registrering, ingen prenumeration krävs.",
     "languageTitle": "Lyssna på gratis {langName} {noun} Online | FreeTV Garden",
     "languageDescription": "Lyssna på gratis {langName} {nounLower} online på FreeTV Garden — ingen registrering, ingen prenumeration krävs.",
-    "verbWatch": "Titta",
-    "verbListen": "Lyssna på",
-    "nounTVChannels": "TV-kanaler",
-    "nounRadioStations": "Radiostationer",
-    "nounWebcams": "Webbkameror"
+    "nounWebcams": "Live webbkameror",
+    "channelTitleNoCountry": "{verb} {channelName} Live | FreeTV Garden",
+    "channelDescriptionNoCountry": "{verb} {channelName} live på FreeTV Garden — gratis, ingen registrering krävs.",
+    "channelTitleNoCountryTV": "Se {channelName} Live | FreeTV Garden",
+    "channelDescriptionNoCountryTV": "Se {channelName} live på FreeTV Garden — gratis, ingen registrering krävs.",
+    "countryTitleTV": "Titta på gratis {countryName} live-tv-kanaler online | FreeTV Garden",
+    "countryDescriptionTV": "Titta på gratis {countryName} live-TV-kanaler online — nyheter, sport och underhållning streamas i din webbläsare. Ingen registrering, ingen prenumeration krävs.",
+    "countryH1TV": "Titta på gratis {countryName} live-tv-kanaler online",
+    "genreCategoryTitle": "Titta på gratis {genreName} kanaler online | FreeTV Garden",
+    "genreCategoryDescription": "Strömma gratis live {genreName} TV-kanaler från hela världen. Ingen registrering, ingen prenumeration krävs.",
+    "genreH1": "Titta på gratis {genreName}-kanaler online",
+    "languageH1": "Lyssna på gratis {langName} {noun} online",
+    "spokenLanguageTitle": "Titta på gratis {langName} kanaler online | FreeTV Garden",
+    "spokenLanguageDescription": "Strömma gratis live {langName} TV-kanaler från hela världen. Ingen registrering, ingen prenumeration krävs.",
+    "spokenLanguageH1": "Titta på gratis {langName}-kanaler online"
   }
 }

@@ -29,6 +29,10 @@
   "seo": {
     "homeTitle": "フリーテレビガーデン | 世界中のライブ TV、ラジオ、ウェブカメラを無料で視聴",
     "homeDescription": "1,000 以上の無料ライブ TV チャンネルを視聴し、ライブ ラジオ局を聴き、200 か国以上のライブ Web カメラを視聴できます。サインアップやサブスクリプションは必要ありません。",
+    "verbWatch": "時計",
+    "verbListen": "聞いてください",
+    "nounTVChannels": "テレビチャンネル",
+    "nounRadioStations": "ラジオ局",
     "channelTitle": "{verb} {channelName} ライブ ( {countryName} ) | フリーテレビ ガーデン",
     "channelDescription": "{verb} {channelName} は FreeTV Garden で {countryName} からライブ配信されます — 無料、サインアップは必要ありません。",
     "countryTitle": "{verb} 無料 {countryName} {noun} オンライン | フリーテレビ ガーデン",
@@ -37,10 +41,20 @@
     "categoryDescription": "{verb} は FreeTV Garden でオンラインで無料 {genreName} {nounLower} できます — サインアップやサブスクリプションは必要ありません。",
     "languageTitle": "{langName} {noun} をオンラインで無料で聴く | フリーテレビ ガーデン",
     "languageDescription": "FreeTV Garden でオンラインで無料の {langName} {nounLower} をお聴きください — サインアップやサブスクリプションは必要ありません。",
-    "verbWatch": "時計",
-    "verbListen": "聞いてください",
-    "nounTVChannels": "テレビチャンネル",
-    "nounRadioStations": "ラジオ局",
-    "nounWebcams": "ウェブカメラ"
+    "nounWebcams": "ライブウェブカメラ",
+    "channelTitleNoCountry": "{verb} {channelName} ライブ | フリーテレビ ガーデン",
+    "channelDescriptionNoCountry": "{verb} {channelName} は FreeTV Garden でライブ配信しています — 無料、サインアップは必要ありません。",
+    "channelTitleNoCountryTV": "{channelName} をライブで見る | フリーテレビ ガーデン",
+    "channelDescriptionNoCountryTV": "FreeTV Garden で {channelName} をライブでご覧ください — 無料、サインアップは必要ありません。",
+    "countryTitleTV": "{countryName} ライブ TV チャンネルをオンラインで無料で視聴 | フリーテレビ ガーデン",
+    "countryDescriptionTV": "{countryName} ライブ TV チャンネルをオンラインで無料で視聴できます。ニュース、スポーツ、エンターテイメントがブラウザーでストリーミングされます。 サインアップも購読も必要ありません。",
+    "countryH1TV": "{countryName} ライブ TV チャンネルをオンラインで無料で視聴する",
+    "genreCategoryTitle": "{genreName} チャンネルをオンラインで無料視聴 | フリーテレビ ガーデン",
+    "genreCategoryDescription": "世界中のライブ {genreName} TV チャンネルを無料でストリーミングします。 サインアップも購読も必要ありません。",
+    "genreH1": "{genreName} チャンネルをオンラインで無料で視聴する",
+    "languageH1": "オンラインで無料 {langName} {noun} を聴く",
+    "spokenLanguageTitle": "{langName} チャンネルをオンラインで無料視聴 | フリーテレビ ガーデン",
+    "spokenLanguageDescription": "世界中のライブ {langName} TV チャンネルを無料でストリーミングします。 サインアップも購読も必要ありません。",
+    "spokenLanguageH1": "{langName} チャンネルをオンラインで無料で視聴する"
   }
 }

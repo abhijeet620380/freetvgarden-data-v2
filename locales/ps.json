@@ -29,6 +29,10 @@
   "seo": {
     "homeTitle": "د وړیا تلویزیون باغ | د نړۍ له ګوټ ګوټ څخه وړیا ژوندۍ تلویزیون ، راډیو او ویب کیمونه وګورئ",
     "homeDescription": "1000+ وړیا ژوندۍ تلویزیوني چینلونه وګورئ، ژوندۍ راډیو سټیشنونه واورئ، او د 200+ هیوادونو څخه ژوندۍ ویب کیمونه وګورئ - هیڅ لاسلیک کول، هیڅ ګډون ته اړتیا نشته.",
+    "verbWatch": "کتل",
+    "verbListen": "واورئ",
+    "nounTVChannels": "تلویزیوني چینلونه",
+    "nounRadioStations": "راډیو سټیشنونه",
     "channelTitle": "{verb} {channelName} په ژوندۍ بڼه ( {countryName} ) | د وړیا تلویزیون باغ",
     "channelDescription": "{verb} {channelName} په ژوندۍ بڼه له {countryName} څخه په FreeTV Garden — وړيا، د نوم ليکنې اړتيا نشته.",
     "countryTitle": "{verb} وړیا {countryName} {noun} آنلاین | د وړیا تلویزیون باغ",
@@ -37,10 +41,20 @@
     "categoryDescription": "{verb} وړیا {genreName} {nounLower} آنلاین په FreeTV ګارډن — نه لاسلیک کول، هیڅ ګډون ته اړتیا نشته.",
     "languageTitle": "وړیا واورئ {langName} {noun} آنلاین | د وړیا تلویزیون باغ",
     "languageDescription": "وړیا {langName} {nounLower} آنلاین په FreeTV ګارډن کې واورئ — نه لاسلیک کول، هیڅ ګډون ته اړتیا نشته.",
-    "verbWatch": "کتل",
-    "verbListen": "واورئ",
-    "nounTVChannels": "تلویزیوني چینلونه",
-    "nounRadioStations": "راډیو سټیشنونه",
-    "nounWebcams": "ویب کیمونه"
+    "nounWebcams": "ژوندی ویب کیمونه",
+    "channelTitleNoCountry": "{verb} {channelName} ژوندی | د وړیا تلویزیون باغ",
+    "channelDescriptionNoCountry": "{verb} {channelName} په FreeTV ګارډن کې په ژوندۍ بڼه - وړیا، هیڅ نوم لیکنه ته اړتیا نشته.",
+    "channelTitleNoCountryTV": "{channelName} په ژوندۍ بڼه وګورئ | د وړیا تلویزیون باغ",
+    "channelDescriptionNoCountryTV": "په FreeTV Garden کې {channelName} په ژوندۍ بڼه وګورئ — وړیا، هیڅ نوم لیکنه ته اړتیا نشته.",
+    "countryTitleTV": "وړیا {countryName} ژوندۍ تلویزیوني چینلونه آنلاین وګورئ | د وړیا تلویزیون باغ",
+    "countryDescriptionTV": "وړیا {countryName} ژوندۍ تلویزیوني چینلونه آنلاین وګورئ — خبرونه، سپورتونه او ساتیرۍ ستاسو په براوزر کې خپریږي. نه لاسلیک کول، هیڅ ګډون ته اړتیا نشته.",
+    "countryH1TV": "وړیا {countryName} ژوندۍ تلویزیوني چینلونه آنلاین وګورئ",
+    "genreCategoryTitle": "وړیا {genreName} چینلونه آنلاین وګورئ | د وړیا تلویزیون باغ",
+    "genreCategoryDescription": "د نړۍ له ګوټ ګوټ څخه وړیا ژوندۍ {genreName} تلویزیوني چینلونه جریان کړئ. نه لاسلیک کول، هیڅ ګډون ته اړتیا نشته.",
+    "genreH1": "وړیا {genreName} چینلونه آنلاین وګورئ",
+    "languageH1": "وړیا {langName} {noun} آنلاین واورئ",
+    "spokenLanguageTitle": "وړیا {langName} چینلونه آنلاین وګورئ | د وړیا تلویزیون باغ",
+    "spokenLanguageDescription": "د نړۍ له ګوټ ګوټ څخه وړیا ژوندۍ {langName} تلویزیوني چینلونه جریان کړئ. نه لاسلیک کول، هیڅ ګډون ته اړتیا نشته.",
+    "spokenLanguageH1": "وړیا {langName} چینلونه آنلاین وګورئ"
   }
 }

@@ -29,6 +29,10 @@
   "seo": {
     "homeTitle": "สวนฟรีทีวี | ดูทีวีสด วิทยุ และเว็บแคมฟรีจากทั่วโลก",
     "homeDescription": "ดูช่องทีวีสดฟรีกว่า 1,000 ช่อง ฟังสถานีวิทยุสด และดูเว็บแคมสดจากกว่า 200 ประเทศ — ไม่ต้องสมัคร ไม่ต้องสมัครสมาชิก",
+    "verbWatch": "ดู",
+    "verbListen": "ฟังนะ",
+    "nounTVChannels": "ช่องทีวี",
+    "nounRadioStations": "สถานีวิทยุ",
     "channelTitle": "{verb} {channelName} สด ( {countryName} ) | สวนฟรีทีวี",
     "channelDescription": "{verb} {channelName} ถ่ายทอดสดจาก {countryName} บน FreeTV Garden — ฟรี ไม่ต้องสมัคร",
     "countryTitle": "{verb} ฟรี {countryName} {noun} ออนไลน์ | สวนฟรีทีวี",
@@ -37,10 +41,20 @@
     "categoryDescription": "{verb} ฟรี {genreName} {nounLower} ออนไลน์บน FreeTV Garden — ไม่ต้องสมัคร ไม่ต้องสมัครสมาชิก",
     "languageTitle": "ฟังฟรี {langName} {noun} ออนไลน์ | สวนฟรีทีวี",
     "languageDescription": "ฟัง {langName} {nounLower} ฟรีออนไลน์บน FreeTV Garden — ไม่ต้องสมัคร ไม่ต้องสมัครสมาชิก",
-    "verbWatch": "ดู",
-    "verbListen": "ฟังนะ",
-    "nounTVChannels": "ช่องทีวี",
-    "nounRadioStations": "สถานีวิทยุ",
-    "nounWebcams": "เว็บแคม"
+    "nounWebcams": "เว็บแคมถ่ายทอดสด",
+    "channelTitleNoCountry": "{verb} {channelName} สด | สวนฟรีทีวี",
+    "channelDescriptionNoCountry": "{verb} {channelName} ถ่ายทอดสดทาง FreeTV Garden — ฟรี ไม่ต้องสมัคร",
+    "channelTitleNoCountryTV": "ดู {channelName} สด | สวนฟรีทีวี",
+    "channelDescriptionNoCountryTV": "ดู {channelName} สดบน FreeTV Garden — ฟรี ไม่ต้องสมัคร",
+    "countryTitleTV": "ดูช่องทีวีสด {countryName} ฟรีออนไลน์ | สวนฟรีทีวี",
+    "countryDescriptionTV": "ดูช่องทีวีสด {countryName} ออนไลน์ฟรี — ข่าว กีฬา และความบันเทิงที่สตรีมในเบราว์เซอร์ของคุณ ไม่ต้องสมัครสมาชิก ไม่ต้องสมัครสมาชิก",
+    "countryH1TV": "ดูช่องทีวีสด {countryName} ฟรีออนไลน์",
+    "genreCategoryTitle": "ดูช่อง {genreName} ฟรีออนไลน์ | สวนฟรีทีวี",
+    "genreCategoryDescription": "สตรีมช่องทีวี {genreName} สดฟรีจากทั่วโลก ไม่ต้องสมัครสมาชิก ไม่ต้องสมัครสมาชิก",
+    "genreH1": "ดูช่อง {genreName} ออนไลน์ฟรี",
+    "languageH1": "ฟังฟรี {langName} {noun} ออนไลน์",
+    "spokenLanguageTitle": "ดูช่อง {langName} ฟรีออนไลน์ | สวนฟรีทีวี",
+    "spokenLanguageDescription": "สตรีมช่องทีวี {langName} สดฟรีจากทั่วโลก ไม่ต้องสมัครสมาชิก ไม่ต้องสมัครสมาชิก",
+    "spokenLanguageH1": "ดูช่อง {langName} ออนไลน์ฟรี"
   }
 }

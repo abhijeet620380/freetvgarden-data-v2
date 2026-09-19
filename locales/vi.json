@@ -29,6 +29,10 @@
   "seo": {
     "homeTitle": "Vườn FreeTV | Xem truyền hình trực tiếp miễn phí, đài phát thanh và webcam từ khắp nơi trên thế giới",
     "homeDescription": "Xem hơn 1000 kênh truyền hình trực tiếp miễn phí, nghe đài phát thanh trực tiếp và xem webcam trực tiếp từ hơn 200 quốc gia — không cần đăng ký, không cần đăng ký.",
+    "verbWatch": "Đồng hồ",
+    "verbListen": "Nghe",
+    "nounTVChannels": "Kênh truyền hình",
+    "nounRadioStations": "Đài phát thanh",
     "channelTitle": "{verb} {channelName} Trực tiếp ( {countryName} ) | Vườn truyền hình miễn phí",
     "channelDescription": "{verb} {channelName} trực tiếp từ {countryName} trên FreeTV Garden — miễn phí, không cần đăng ký.",
     "countryTitle": "{verb} Miễn phí {countryName} {noun} Trực tuyến | Vườn truyền hình miễn phí",
@@ -37,10 +41,20 @@
     "categoryDescription": "{verb} miễn phí {genreName} {nounLower} trực tuyến trên FreeTV Garden — không cần đăng ký, không cần đăng ký.",
     "languageTitle": "Nghe Miễn phí {langName} {noun} Trực tuyến | Vườn truyền hình miễn phí",
     "languageDescription": "Nghe {langName} {nounLower} miễn phí trực tuyến trên FreeTV Garden — không cần đăng ký, không cần đăng ký.",
-    "verbWatch": "Đồng hồ",
-    "verbListen": "Nghe",
-    "nounTVChannels": "Kênh truyền hình",
-    "nounRadioStations": "Đài phát thanh",
-    "nounWebcams": "Webcam"
+    "nounWebcams": "Webcam trực tiếp",
+    "channelTitleNoCountry": "{verb} {channelName} Trực tiếp | Vườn truyền hình miễn phí",
+    "channelDescriptionNoCountry": "{verb} {channelName} trực tiếp trên FreeTV Garden — miễn phí, không cần đăng ký.",
+    "channelTitleNoCountryTV": "Xem {channelName} Trực tiếp | Vườn truyền hình miễn phí",
+    "channelDescriptionNoCountryTV": "Xem {channelName} trực tiếp trên FreeTV Garden — miễn phí, không cần đăng ký.",
+    "countryTitleTV": "Xem Miễn Phí {countryName} Kênh Truyền Hình Trực Tiếp Trực Tuyến | Vườn truyền hình miễn phí",
+    "countryDescriptionTV": "Xem trực tuyến các kênh truyền hình trực tiếp {countryName} miễn phí — tin tức, thể thao và giải trí được truyền trực tuyến trong trình duyệt của bạn. Không cần đăng ký, không cần đăng ký.",
+    "countryH1TV": "Xem miễn phí {countryName} Kênh truyền hình trực tiếp trực tuyến",
+    "genreCategoryTitle": "Xem Các Kênh {genreName} Miễn Phí Trực Tuyến | Vườn truyền hình miễn phí",
+    "genreCategoryDescription": "Phát trực tiếp miễn phí các kênh truyền hình {genreName} từ khắp nơi trên thế giới. Không cần đăng ký, không cần đăng ký.",
+    "genreH1": "Xem các kênh {genreName} miễn phí trực tuyến",
+    "languageH1": "Nghe miễn phí {langName} {noun} trực tuyến",
+    "spokenLanguageTitle": "Xem Các Kênh {langName} Miễn Phí Trực Tuyến | Vườn truyền hình miễn phí",
+    "spokenLanguageDescription": "Phát trực tiếp miễn phí các kênh truyền hình {langName} từ khắp nơi trên thế giới. Không cần đăng ký, không cần đăng ký.",
+    "spokenLanguageH1": "Xem các kênh {langName} miễn phí trực tuyến"
   }
 }

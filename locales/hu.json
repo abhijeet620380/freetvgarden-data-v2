@@ -29,6 +29,10 @@
   "seo": {
     "homeTitle": "FreeTV Garden | Nézzen ingyenes élő TV-t, rádiót és webkamerákat a világ minden tájáról",
     "homeDescription": "Nézzen több mint 1000 ingyenes élő TV-csatornát, hallgasson élő rádióállomásokat, és nézzen élő webkamerát több mint 200 országból – regisztráció és előfizetés nélkül.",
+    "verbWatch": "Óra",
+    "verbListen": "Figyelj",
+    "nounTVChannels": "TV-csatornák",
+    "nounRadioStations": "Rádióállomások",
     "channelTitle": "{verb} {channelName} Élő ( {countryName} ) | FreeTV Garden",
     "channelDescription": "{verb} {channelName} élő adás {countryName}-tól a FreeTV Gardenen – ingyenes, nem szükséges regisztráció.",
     "countryTitle": "{verb} Ingyenes {countryName} {noun} Online | FreeTV Garden",
@@ -37,10 +41,20 @@
     "categoryDescription": "{verb} ingyenes {genreName} {nounLower} online a FreeTV Gardenen – nincs regisztráció, nem szükséges előfizetés.",
     "languageTitle": "Hallgassa meg ingyen {langName} {noun} Online | FreeTV Garden",
     "languageDescription": "Hallgass ingyen {langName} {nounLower} online a FreeTV Garden-en – nincs regisztráció, nincs előfizetés.",
-    "verbWatch": "Óra",
-    "verbListen": "Figyelj",
-    "nounTVChannels": "TV-csatornák",
-    "nounRadioStations": "Rádióállomások",
-    "nounWebcams": "Webkamerák"
+    "nounWebcams": "Élő webkamerák",
+    "channelTitleNoCountry": "{verb} {channelName} Élő | FreeTV Garden",
+    "channelDescriptionNoCountry": "{verb} {channelName} élőben a FreeTV Gardenben – ingyenes, regisztráció nélkül.",
+    "channelTitleNoCountryTV": "Nézze meg a {channelName} élőben | FreeTV Garden",
+    "channelDescriptionNoCountryTV": "Nézze {channelName} élőben a FreeTV Gardenen – ingyenes, regisztráció nélkül.",
+    "countryTitleTV": "Nézze meg az ingyenes {countryName} élő TV-csatornákat online | FreeTV Garden",
+    "countryDescriptionTV": "Nézzen ingyenes {countryName} élő TV-csatornát online – a híreket, sportokat és szórakoztatást a böngészőjében streamelve. Nincs regisztráció, nem szükséges előfizetés.",
+    "countryH1TV": "Nézze meg az ingyenes {countryName} élő TV-csatornákat online",
+    "genreCategoryTitle": "Ingyenes {genreName} online csatornák megtekintése | FreeTV Garden",
+    "genreCategoryDescription": "Ingyenes élő {genreName} TV-csatornák közvetítése a világ minden tájáról. Nincs regisztráció, nem szükséges előfizetés.",
+    "genreH1": "Nézze meg az ingyenes {genreName} csatornákat online",
+    "languageH1": "Hallgass ingyen {langName} {noun} Online",
+    "spokenLanguageTitle": "Ingyenes {langName} online csatornák megtekintése | FreeTV Garden",
+    "spokenLanguageDescription": "Ingyenes élő {langName} TV-csatornák közvetítése a világ minden tájáról. Nincs regisztráció, nem szükséges előfizetés.",
+    "spokenLanguageH1": "Nézze meg az ingyenes {langName} csatornákat online"
   }
 }

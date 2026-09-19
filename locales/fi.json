@@ -29,6 +29,10 @@
   "seo": {
     "homeTitle": "FreeTV Garden | Katso ilmaisia ​​suoria televisio-, radio- ja verkkokameroita ympäri maailmaa",
     "homeDescription": "Katso yli 1000 ilmaista live-TV-kanavaa, kuuntele suoria radioasemia ja katsele suoria verkkokameroita yli 200 maasta – ilman rekisteröitymistä tai tilausta.",
+    "verbWatch": "Katsella",
+    "verbListen": "Kuuntele",
+    "nounTVChannels": "TV-kanavat",
+    "nounRadioStations": "Radioasemat",
     "channelTitle": "{verb} {channelName} Live ( {countryName} ) | FreeTV-puutarha",
     "channelDescription": "{verb} {channelName} suorana osoitteesta {countryName} FreeTV Gardenissa – ilmainen, ei vaadi rekisteröitymistä.",
     "countryTitle": "{verb} Ilmainen {countryName} {noun} Online | FreeTV-puutarha",
@@ -37,10 +41,20 @@
     "categoryDescription": "{verb} ilmainen {genreName} {nounLower} verkossa FreeTV Gardenissa – ei rekisteröitymistä, ei vaadi tilausta.",
     "languageTitle": "Kuuntele ilmaiseksi {langName} {noun} Online | FreeTV-puutarha",
     "languageDescription": "Kuuntele ilmaiseksi {langName} {nounLower} verkossa FreeTV Gardenissa – ei rekisteröitymistä tai tilausta.",
-    "verbWatch": "Katsella",
-    "verbListen": "Kuuntele",
-    "nounTVChannels": "TV-kanavat",
-    "nounRadioStations": "Radioasemat",
-    "nounWebcams": "Web-kamerat"
+    "nounWebcams": "Live-verkkokamerat",
+    "channelTitleNoCountry": "{verb} {channelName} Live | FreeTV-puutarha",
+    "channelDescriptionNoCountry": "{verb} {channelName} suorana FreeTV Gardenissa – ilmainen, ei vaadi rekisteröitymistä.",
+    "channelTitleNoCountryTV": "Katso {channelName} suorana | FreeTV-puutarha",
+    "channelDescriptionNoCountryTV": "Katso {channelName} suorana FreeTV Gardenissa – ilmainen, ei vaadi rekisteröitymistä.",
+    "countryTitleTV": "Katso ilmaisia ​​{countryName} suoria TV-kanavia verkossa | FreeTV-puutarha",
+    "countryDescriptionTV": "Katso ilmaisia ​​{countryName} suoria TV-kanavia verkossa – uutisia, urheilua ja viihdettä suoratoistettuna selaimessasi. Ei rekisteröitymistä, ei vaadi tilausta.",
+    "countryH1TV": "Katso ilmaisia ​​{countryName} suoria TV-kanavia verkossa",
+    "genreCategoryTitle": "Katso ilmaisia ​​{genreName} -kanavia verkossa | FreeTV-puutarha",
+    "genreCategoryDescription": "Suoratoista ilmaisia ​​suoria {genreName} TV-kanavia ympäri maailmaa. Ei rekisteröitymistä, ei vaadi tilausta.",
+    "genreH1": "Katso ilmaisia ​​{genreName} -kanavia verkossa",
+    "languageH1": "Kuuntele ilmaiseksi {langName} {noun} Online",
+    "spokenLanguageTitle": "Katso ilmaisia ​​{langName} -kanavia verkossa | FreeTV-puutarha",
+    "spokenLanguageDescription": "Suoratoista ilmaisia ​​suoria {langName} TV-kanavia ympäri maailmaa. Ei rekisteröitymistä, ei vaadi tilausta.",
+    "spokenLanguageH1": "Katso ilmaisia ​​{langName} -kanavia verkossa"
   }
 }

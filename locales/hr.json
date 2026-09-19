@@ -29,6 +29,10 @@
   "seo": {
     "homeTitle": "FreeTV Garden | Gledajte besplatnu TV uživo, radio i web kamere iz cijelog svijeta",
     "homeDescription": "Gledajte više od 1000 besplatnih TV kanala uživo, slušajte radio postaje uživo i gledajte web kamere uživo iz više od 200 zemalja — bez registracije i pretplate.",
+    "verbWatch": "Gledati",
+    "verbListen": "Slušajte",
+    "nounTVChannels": "TV kanali",
+    "nounRadioStations": "Radio stanice",
     "channelTitle": "{verb} {channelName} uživo ( {countryName} ) | FreeTV vrt",
     "channelDescription": "{verb} {channelName} uživo od {countryName} na FreeTV Gardenu — besplatno, nije potrebna registracija.",
     "countryTitle": "{verb} Besplatno {countryName} {noun} Online | FreeTV vrt",
@@ -37,10 +41,20 @@
     "categoryDescription": "{verb} besplatno {genreName} {nounLower} online na FreeTV Gardenu — nije potrebna registracija niti pretplata.",
     "languageTitle": "Slušajte besplatno {langName} {noun} na mreži | FreeTV vrt",
     "languageDescription": "Slušajte besplatno {langName} {nounLower} online na FreeTV Gardenu — nije potrebna registracija niti pretplata.",
-    "verbWatch": "Gledati",
-    "verbListen": "Slušajte",
-    "nounTVChannels": "TV kanali",
-    "nounRadioStations": "Radio stanice",
-    "nounWebcams": "Web kamere"
+    "nounWebcams": "Web kamere uživo",
+    "channelTitleNoCountry": "{verb} {channelName} uživo | FreeTV vrt",
+    "channelDescriptionNoCountry": "{verb} {channelName} uživo na FreeTV Gardenu — besplatno, nije potrebna registracija.",
+    "channelTitleNoCountryTV": "Gledajte {channelName} uživo | FreeTV vrt",
+    "channelDescriptionNoCountryTV": "Gledajte {channelName} uživo na FreeTV Gardenu — besplatno, nije potrebna registracija.",
+    "countryTitleTV": "Gledajte besplatne {countryName} TV kanale uživo na mreži | FreeTV vrt",
+    "countryDescriptionTV": "Gledajte besplatne {countryName} TV kanale uživo na mreži — vijesti, sport i zabava koji se emitiraju u vašem pregledniku. Nema prijave, nije potrebna pretplata.",
+    "countryH1TV": "Gledajte besplatne {countryName} TV kanale uživo na mreži",
+    "genreCategoryTitle": "Gledajte besplatne {genreName} kanale na mreži | FreeTV vrt",
+    "genreCategoryDescription": "Besplatno prenosite uživo {genreName} TV kanale iz cijelog svijeta. Nema prijave, nije potrebna pretplata.",
+    "genreH1": "Gledajte besplatne {genreName} kanale na mreži",
+    "languageH1": "Slušajte besplatno {langName} {noun} na mreži",
+    "spokenLanguageTitle": "Gledajte besplatne {langName} kanale na mreži | FreeTV vrt",
+    "spokenLanguageDescription": "Besplatno prenosite uživo {langName} TV kanale iz cijelog svijeta. Nema prijave, nije potrebna pretplata.",
+    "spokenLanguageH1": "Gledajte besplatne {langName} kanale na mreži"
   }
 }

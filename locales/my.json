@@ -29,6 +29,10 @@
   "seo": {
     "homeTitle": "FreeTV Garden | ကမ္ဘာတစ်ဝှမ်းမှ အခမဲ့ တိုက်ရိုက် TV၊ ရေဒီယိုနှင့် Webcams များကို ကြည့်ရှုပါ။",
     "homeDescription": "1000+ အခမဲ့ တိုက်ရိုက် TV ချန်နယ်များကို ကြည့်ရှုပါ၊ တိုက်ရိုက် ရေဒီယို ဘူတာရုံများကို နားထောင်ကာ နိုင်ငံပေါင်း 200+ မှ တိုက်ရိုက် webcams များကို ကြည့်ရှုပါ — စာရင်းသွင်းရန် မလိုအပ်ပါ၊ စာရင်းသွင်းရန် မလိုအပ်ပါ။",
+    "verbWatch": "ကင်း",
+    "verbListen": "နားထောင်ပါ။",
+    "nounTVChannels": "တီဗီချန်နယ်များ",
+    "nounRadioStations": "ရေဒီယိုစခန်းများ",
     "channelTitle": "{verb} {channelName} တိုက်ရိုက် ( {countryName} ) | FreeTV Garden",
     "channelDescription": "{verb} {channelName} FreeTV Garden တွင် {countryName} မှ တိုက်ရိုက်ထုတ်လွှင့်သည် — အခမဲ့၊ အကောင့်ဖွင့်စရာမလိုပါ။",
     "countryTitle": "{verb} အခမဲ့ {countryName} {noun} အွန်လိုင်း | FreeTV Garden",
@@ -37,10 +41,20 @@
     "categoryDescription": "FreeTV Garden တွင် {verb} အခမဲ့ {genreName} {nounLower} အွန်လိုင်း — အကောင့်ဖွင့်ခြင်း၊ စာရင်းသွင်းခြင်း မလိုအပ်ပါ။",
     "languageTitle": "အခမဲ့ {langName} {noun} အွန်လိုင်း | FreeTV Garden",
     "languageDescription": "FreeTV Garden တွင် အခမဲ့ {langName} {nounLower} ကို အွန်လိုင်းတွင် နားဆင်ပါ — အကောင့်ဖွင့်ခြင်း၊ စာရင်းသွင်းခြင်း မလိုအပ်ပါ။",
-    "verbWatch": "ကင်း",
-    "verbListen": "နားထောင်ပါ။",
-    "nounTVChannels": "တီဗီချန်နယ်များ",
-    "nounRadioStations": "ရေဒီယိုစခန်းများ",
-    "nounWebcams": "ဝက်ဘ်ကင်မရာများ"
+    "nounWebcams": "တိုက်ရိုက် Webcams",
+    "channelTitleNoCountry": "{verb} {channelName} တိုက်ရိုက် | FreeTV Garden",
+    "channelDescriptionNoCountry": "{verb} {channelName} FreeTV Garden တွင် တိုက်ရိုက်ထုတ်လွှင့်သည် — အခမဲ့၊ စာရင်းသွင်းစရာမလိုပါ။",
+    "channelTitleNoCountryTV": "{channelName} တိုက်ရိုက်ကြည့်ရှုရန် | FreeTV Garden",
+    "channelDescriptionNoCountryTV": "FreeTV Garden တွင် {channelName} တိုက်ရိုက်ကြည့်ရှုပါ — အခမဲ့၊ စာရင်းသွင်းစရာမလိုပါ။",
+    "countryTitleTV": "အွန်လိုင်း အခမဲ့ {countryName} တိုက်ရိုက် TV ချန်နယ်များကို ကြည့်ရှုပါ | FreeTV Garden",
+    "countryDescriptionTV": "အခမဲ့ {countryName} အွန်လိုင်း တိုက်ရိုက် TV ချန်နယ်များကို ကြည့်ရှုပါ — သတင်း၊ အားကစားနှင့် ဖျော်ဖြေရေးတို့ကို သင့်ဘရောက်ဆာတွင် တိုက်ရိုက်ကြည့်ရှုပါ။ စာရင်းသွင်းခြင်းမရှိပါ၊ စာရင်းသွင်းရန်မလိုအပ်ပါ။",
+    "countryH1TV": "အခမဲ့ {countryName} တိုက်ရိုက် TV ချန်နယ်များကို အွန်လိုင်းတွင် ကြည့်ရှုပါ။",
+    "genreCategoryTitle": "အွန်လိုင်း အခမဲ့ {genreName} ချန်နယ်များကို ကြည့်ရှုပါ | FreeTV Garden",
+    "genreCategoryDescription": "ကမ္ဘာတစ်ဝှမ်းမှ တီဗီချန်နယ် {genreName} အခမဲ့ တိုက်ရိုက်ကြည့်ရှုပါ။ စာရင်းသွင်းခြင်းမရှိပါ၊ စာရင်းသွင်းရန်မလိုအပ်ပါ။",
+    "genreH1": "အခမဲ့ {genreName} ချန်နယ်များကို အွန်လိုင်းတွင် ကြည့်ရှုပါ။",
+    "languageH1": "အွန်လိုင်း {langName} {noun} အခမဲ့ နားထောင်ပါ။",
+    "spokenLanguageTitle": "အွန်လိုင်း အခမဲ့ {langName} ချန်နယ်များကို ကြည့်ရှုပါ | FreeTV Garden",
+    "spokenLanguageDescription": "ကမ္ဘာတစ်ဝှမ်းမှ တီဗီချန်နယ် {langName} အခမဲ့ တိုက်ရိုက်ကြည့်ရှုပါ။ စာရင်းသွင်းခြင်းမရှိပါ၊ စာရင်းသွင်းရန်မလိုအပ်ပါ။",
+    "spokenLanguageH1": "အခမဲ့ {langName} ချန်နယ်များကို အွန်လိုင်းတွင် ကြည့်ရှုပါ။"
   }
 }

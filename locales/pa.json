@@ -29,6 +29,10 @@
   "seo": {
     "homeTitle": "ਫ੍ਰੀਟੀਵੀ ਗਾਰਡਨ | ਦੁਨੀਆ ਭਰ ਤੋਂ ਮੁਫ਼ਤ ਲਾਈਵ ਟੀਵੀ, ਰੇਡੀਓ ਅਤੇ ਵੈਬਕੈਮ ਦੇਖੋ",
     "homeDescription": "1000+ ਮੁਫ਼ਤ ਲਾਈਵ ਟੀਵੀ ਚੈਨਲ ਦੇਖੋ, ਲਾਈਵ ਰੇਡੀਓ ਸਟੇਸ਼ਨ ਸੁਣੋ, ਅਤੇ 200+ ਦੇਸ਼ਾਂ ਤੋਂ ਲਾਈਵ ਵੈਬਕੈਮ ਦੇਖੋ — ਕੋਈ ਸਾਈਨਅੱਪ ਨਹੀਂ, ਕੋਈ ਗਾਹਕੀ ਦੀ ਲੋੜ ਨਹੀਂ।",
+    "verbWatch": "ਦੇਖੋ",
+    "verbListen": "ਸੁਣੋ",
+    "nounTVChannels": "ਟੀਵੀ ਚੈਨਲ",
+    "nounRadioStations": "ਰੇਡੀਓ ਸਟੇਸ਼ਨ",
     "channelTitle": "{verb} {channelName} ਲਾਈਵ ( {countryName} ) | ਫ੍ਰੀਟੀਵੀ ਗਾਰਡਨ",
     "channelDescription": "FreeTV ਗਾਰਡਨ 'ਤੇ {countryName} ਤੋਂ {verb} {channelName} ਲਾਈਵ — ਮੁਫ਼ਤ, ਕੋਈ ਸਾਈਨ ਅੱਪ ਦੀ ਲੋੜ ਨਹੀਂ।",
     "countryTitle": "{verb} ਮੁਫ਼ਤ {countryName} {noun} ਔਨਲਾਈਨ | ਫ੍ਰੀਟੀਵੀ ਗਾਰਡਨ",
@@ -37,10 +41,20 @@
     "categoryDescription": "ਫ੍ਰੀਟੀਵੀ ਗਾਰਡਨ 'ਤੇ {verb} ਮੁਫ਼ਤ {genreName} {nounLower} ਔਨਲਾਈਨ - ਕੋਈ ਸਾਈਨ ਅੱਪ ਨਹੀਂ, ਕੋਈ ਗਾਹਕੀ ਦੀ ਲੋੜ ਨਹੀਂ ਹੈ।",
     "languageTitle": "ਮੁਫਤ {langName} {noun} ਔਨਲਾਈਨ ਸੁਣੋ | ਫ੍ਰੀਟੀਵੀ ਗਾਰਡਨ",
     "languageDescription": "FreeTV ਗਾਰਡਨ 'ਤੇ ਮੁਫ਼ਤ {langName} {nounLower} ਨੂੰ ਔਨਲਾਈਨ ਸੁਣੋ — ਕੋਈ ਸਾਈਨ ਅੱਪ ਨਹੀਂ, ਕੋਈ ਗਾਹਕੀ ਦੀ ਲੋੜ ਨਹੀਂ ਹੈ।",
-    "verbWatch": "ਦੇਖੋ",
-    "verbListen": "ਸੁਣੋ",
-    "nounTVChannels": "ਟੀਵੀ ਚੈਨਲ",
-    "nounRadioStations": "ਰੇਡੀਓ ਸਟੇਸ਼ਨ",
-    "nounWebcams": "ਵੈਬਕੈਮ"
+    "nounWebcams": "ਲਾਈਵ ਵੈਬਕੈਮ",
+    "channelTitleNoCountry": "{verb} {channelName} ਲਾਈਵ | ਫ੍ਰੀਟੀਵੀ ਗਾਰਡਨ",
+    "channelDescriptionNoCountry": "{verb} {channelName} ਫ੍ਰੀਟੀਵੀ ਗਾਰਡਨ 'ਤੇ ਲਾਈਵ — ਮੁਫ਼ਤ, ਸਾਈਨ ਅੱਪ ਦੀ ਲੋੜ ਨਹੀਂ।",
+    "channelTitleNoCountryTV": "ਦੇਖੋ {channelName} ਲਾਈਵ | ਫ੍ਰੀਟੀਵੀ ਗਾਰਡਨ",
+    "channelDescriptionNoCountryTV": "FreeTV ਗਾਰਡਨ 'ਤੇ {channelName} ਲਾਈਵ ਦੇਖੋ — ਮੁਫ਼ਤ, ਸਾਈਨ ਅੱਪ ਦੀ ਲੋੜ ਨਹੀਂ।",
+    "countryTitleTV": "ਮੁਫ਼ਤ ਦੇਖੋ {countryName} ਲਾਈਵ ਟੀਵੀ ਚੈਨਲ ਔਨਲਾਈਨ | ਫ੍ਰੀਟੀਵੀ ਗਾਰਡਨ",
+    "countryDescriptionTV": "ਮੁਫ਼ਤ {countryName} ਲਾਈਵ ਟੀਵੀ ਚੈਨਲ ਆਨਲਾਈਨ ਦੇਖੋ — ਖ਼ਬਰਾਂ, ਖੇਡਾਂ ਅਤੇ ਮਨੋਰੰਜਨ ਤੁਹਾਡੇ ਬ੍ਰਾਊਜ਼ਰ ਵਿੱਚ ਸਟ੍ਰੀਮ ਕੀਤੇ ਜਾਂਦੇ ਹਨ। ਕੋਈ ਸਾਈਨ ਅੱਪ ਨਹੀਂ, ਕੋਈ ਗਾਹਕੀ ਦੀ ਲੋੜ ਨਹੀਂ ਹੈ।",
+    "countryH1TV": "ਮੁਫ਼ਤ {countryName} ਲਾਈਵ ਟੀਵੀ ਚੈਨਲ ਔਨਲਾਈਨ ਦੇਖੋ",
+    "genreCategoryTitle": "ਮੁਫ਼ਤ {genreName} ਚੈਨਲਾਂ ਨੂੰ ਔਨਲਾਈਨ ਦੇਖੋ | ਫ੍ਰੀਟੀਵੀ ਗਾਰਡਨ",
+    "genreCategoryDescription": "ਦੁਨੀਆ ਭਰ ਦੇ ਮੁਫ਼ਤ ਲਾਈਵ {genreName} ਟੀਵੀ ਚੈਨਲਾਂ ਨੂੰ ਸਟ੍ਰੀਮ ਕਰੋ। ਕੋਈ ਸਾਈਨ ਅੱਪ ਨਹੀਂ, ਕੋਈ ਗਾਹਕੀ ਦੀ ਲੋੜ ਨਹੀਂ ਹੈ।",
+    "genreH1": "ਮੁਫ਼ਤ {genreName} ਚੈਨਲਾਂ ਨੂੰ ਔਨਲਾਈਨ ਦੇਖੋ",
+    "languageH1": "ਮੁਫਤ {langName} {noun} ਔਨਲਾਈਨ ਸੁਣੋ",
+    "spokenLanguageTitle": "ਮੁਫ਼ਤ {langName} ਚੈਨਲਾਂ ਨੂੰ ਔਨਲਾਈਨ ਦੇਖੋ | ਫ੍ਰੀਟੀਵੀ ਗਾਰਡਨ",
+    "spokenLanguageDescription": "ਦੁਨੀਆ ਭਰ ਦੇ ਮੁਫ਼ਤ ਲਾਈਵ {langName} ਟੀਵੀ ਚੈਨਲਾਂ ਨੂੰ ਸਟ੍ਰੀਮ ਕਰੋ। ਕੋਈ ਸਾਈਨ ਅੱਪ ਨਹੀਂ, ਕੋਈ ਗਾਹਕੀ ਦੀ ਲੋੜ ਨਹੀਂ ਹੈ।",
+    "spokenLanguageH1": "ਮੁਫ਼ਤ {langName} ਚੈਨਲਾਂ ਨੂੰ ਔਨਲਾਈਨ ਦੇਖੋ"
   }
 }

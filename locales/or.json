@@ -29,6 +29,10 @@
   "seo": {
     "homeTitle": "FreeTV ଉଦ୍ୟାନ | ସାରା ବିଶ୍ୱରୁ ମାଗଣା ଲାଇଭ ଟିଭି, ରେଡିଓ ଏବଂ ୱେବକ୍ୟାମ ଦେଖନ୍ତୁ |",
     "homeDescription": "1000+ ମାଗଣା ଲାଇଭ ଟିଭି ଚ୍ୟାନେଲ ଦେଖନ୍ତୁ, ଲାଇଭ ରେଡିଓ ଷ୍ଟେସନ ଶୁଣନ୍ତୁ, ଏବଂ 200+ ଦେଶରୁ ଲାଇଭ ୱେବକ୍ୟାମ ଦେଖନ୍ତୁ - କ sign ଣସି ସାଇନ୍ ଅପ୍ ନାହିଁ, ସଦସ୍ୟତା ଆବଶ୍ୟକ ନାହିଁ |",
+    "verbWatch": "ଦେଖନ୍ତୁ |",
+    "verbListen": "ଶୁଣ |",
+    "nounTVChannels": "ଟିଭି ଚ୍ୟାନେଲଗୁଡିକ |",
+    "nounRadioStations": "ରେଡିଓ ଷ୍ଟେସନ୍ |",
     "channelTitle": "{verb} {channelName} ଜୀବନ୍ତ ({countryName}) | | FreeTV ଉଦ୍ୟାନ |",
     "channelDescription": "{verb} {channelName} FreeTV ବଗିଚାରେ {countryName} ରୁ ଲାଇଭ୍ - ମାଗଣା, କ sign ଣସି ସାଇନ୍ ଅପ୍ ଆବଶ୍ୟକ ନାହିଁ |",
     "countryTitle": "{verb} ମାଗଣା {countryName} {noun} ଅନଲାଇନ୍ | | FreeTV ଉଦ୍ୟାନ |",
@@ -37,10 +41,20 @@
     "categoryDescription": "FreeTV ଗାର୍ଡେନରେ {verb} ମାଗଣା {genreName} {nounLower} ଅନଲାଇନରେ - କ sign ଣସି ସାଇନ୍ ଅପ୍ ନାହିଁ, ସଦସ୍ୟତା ଆବଶ୍ୟକ ନାହିଁ |",
     "languageTitle": "ମାଗଣା {langName} {noun} ଅନଲାଇନ୍ | ଶୁଣନ୍ତୁ | FreeTV ଉଦ୍ୟାନ |",
     "languageDescription": "ମାଗଣା ଟିଭି ଗାର୍ଡେନରେ ମାଗଣା {langName} {nounLower} ଶୁଣନ୍ତୁ - କ sign ଣସି ସାଇନ୍ ଅପ୍ ନାହିଁ, ସଦସ୍ୟତା ଆବଶ୍ୟକ ନାହିଁ |",
-    "verbWatch": "ଦେଖନ୍ତୁ |",
-    "verbListen": "ଶୁଣ |",
-    "nounTVChannels": "ଟିଭି ଚ୍ୟାନେଲଗୁଡିକ |",
-    "nounRadioStations": "ରେଡିଓ ଷ୍ଟେସନ୍ |",
-    "nounWebcams": "ୱେବକ୍ୟାମ"
+    "nounWebcams": "ଲାଇଭ ୱେବକ୍ୟାମ |",
+    "channelTitleNoCountry": "{verb} {channelName} ଜୀବନ୍ତ | | FreeTV ଉଦ୍ୟାନ |",
+    "channelDescriptionNoCountry": "{verb} {channelName} FreeTV ବଗିଚାରେ ଲାଇଭ୍ - ମାଗଣା, କ sign ଣସି ସାଇନ୍ ଅପ୍ ଆବଶ୍ୟକ ନାହିଁ |",
+    "channelTitleNoCountryTV": "{channelName} ଲାଇଭ୍ ଦେଖନ୍ତୁ | FreeTV ଉଦ୍ୟାନ |",
+    "channelDescriptionNoCountryTV": "FreeTV ଗାର୍ଡେନରେ {channelName} ଲାଇଭ୍ ଦେଖନ୍ତୁ - ମାଗଣା, କ sign ଣସି ସାଇନ୍ ଅପ୍ ଆବଶ୍ୟକ ନାହିଁ |",
+    "countryTitleTV": "ମାଗଣା {countryName} ଲାଇଭ୍ ଟିଭି ଚ୍ୟାନେଲଗୁଡିକ ଅନଲାଇନ୍ ଦେଖନ୍ତୁ | | FreeTV ଉଦ୍ୟାନ |",
+    "countryDescriptionTV": "ମାଗଣା {countryName} ଲାଇଭ୍ ଟିଭି ଚ୍ୟାନେଲଗୁଡିକ ଅନଲାଇନ୍ ଦେଖନ୍ତୁ - ସମ୍ବାଦ, କ୍ରୀଡା ଏବଂ ମନୋରଞ୍ଜନ ଆପଣଙ୍କ ବ୍ରାଉଜରରେ ଷ୍ଟ୍ରିମ୍ ହୋଇଛି | କ sign ଣସି ସାଇନ୍ ଅପ୍ ନାହିଁ, ସଦସ୍ୟତା ଆବଶ୍ୟକ ନାହିଁ |",
+    "countryH1TV": "ମାଗଣା {countryName} ଲାଇଭ୍ ଟିଭି ଚ୍ୟାନେଲଗୁଡିକ ଅନଲାଇନ୍ ଦେଖନ୍ତୁ |",
+    "genreCategoryTitle": "ମାଗଣା {genreName} ଚ୍ୟାନେଲଗୁଡିକ ଅନଲାଇନ୍ ଦେଖନ୍ତୁ | FreeTV ଉଦ୍ୟାନ |",
+    "genreCategoryDescription": "ସାରା ବିଶ୍ୱରୁ ମାଗଣା ଲାଇଭ୍ {genreName} ଟିଭି ଚ୍ୟାନେଲଗୁଡିକ ଷ୍ଟ୍ରିମ୍ କରନ୍ତୁ | କ sign ଣସି ସାଇନ୍ ଅପ୍ ନାହିଁ, ସଦସ୍ୟତା ଆବଶ୍ୟକ ନାହିଁ |",
+    "genreH1": "ମାଗଣା {genreName} ଚ୍ୟାନେଲଗୁଡିକ ଅନଲାଇନ୍ ଦେଖନ୍ତୁ |",
+    "languageH1": "ମାଗଣା {langName} {noun} ଅନଲାଇନ୍ ଶୁଣନ୍ତୁ |",
+    "spokenLanguageTitle": "ମାଗଣା {langName} ଚ୍ୟାନେଲଗୁଡିକ ଅନଲାଇନ୍ ଦେଖନ୍ତୁ | FreeTV ଉଦ୍ୟାନ |",
+    "spokenLanguageDescription": "ସାରା ବିଶ୍ୱରୁ ମାଗଣା ଲାଇଭ୍ {langName} ଟିଭି ଚ୍ୟାନେଲଗୁଡିକ ଷ୍ଟ୍ରିମ୍ କରନ୍ତୁ | କ sign ଣସି ସାଇନ୍ ଅପ୍ ନାହିଁ, ସଦସ୍ୟତା ଆବଶ୍ୟକ ନାହିଁ |",
+    "spokenLanguageH1": "ମାଗଣା {langName} ଚ୍ୟାନେଲଗୁଡିକ ଅନଲାଇନ୍ ଦେଖନ୍ତୁ |"
   }
 }

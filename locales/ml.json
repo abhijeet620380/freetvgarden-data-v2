@@ -29,6 +29,10 @@
   "seo": {
     "homeTitle": "FreeTV പൂന്തോട്ടം | ലോകമെമ്പാടുമുള്ള സൗജന്യ തത്സമയ ടിവി, റേഡിയോ, വെബ്‌ക്യാമുകൾ എന്നിവ കാണുക",
     "homeDescription": "1000+ സൗജന്യ തത്സമയ ടിവി ചാനലുകൾ കാണുക, തത്സമയ റേഡിയോ സ്റ്റേഷനുകൾ കേൾക്കുക, 200+ രാജ്യങ്ങളിൽ നിന്നുള്ള തത്സമയ വെബ്‌ക്യാമുകൾ കാണുക - സൈൻഅപ്പ് ഇല്ല, സബ്‌സ്‌ക്രിപ്‌ഷൻ ആവശ്യമില്ല.",
+    "verbWatch": "കാണുക",
+    "verbListen": "കേൾക്കുക",
+    "nounTVChannels": "ടിവി ചാനലുകൾ",
+    "nounRadioStations": "റേഡിയോ സ്റ്റേഷനുകൾ",
     "channelTitle": "{verb} {channelName} ലൈവ് ( {countryName} ) | ഫ്രീ ടിവി ഗാർഡൻ",
     "channelDescription": "{verb} {channelName} FreeTV ഗാർഡനിൽ {countryName} മുതൽ തത്സമയം — സൗജന്യമാണ്, സൈൻഅപ്പ് ആവശ്യമില്ല.",
     "countryTitle": "{verb} സൗജന്യം {countryName} {noun} ഓൺലൈൻ | ഫ്രീ ടിവി ഗാർഡൻ",
@@ -37,10 +41,20 @@
     "categoryDescription": "FreeTV ഗാർഡനിൽ {verb} സൗജന്യ {genreName} {nounLower} ഓൺലൈനായി — സൈൻഅപ്പ് ഇല്ല, സബ്‌സ്‌ക്രിപ്‌ഷൻ ആവശ്യമില്ല.",
     "languageTitle": "സൗജന്യമായി {langName} {noun} ഓൺലൈനിൽ കേൾക്കുക | ഫ്രീ ടിവി ഗാർഡൻ",
     "languageDescription": "FreeTV ഗാർഡനിൽ സൗജന്യമായി {langName} {nounLower} ഓൺലൈനായി കേൾക്കുക — സൈൻഅപ്പ് ഇല്ല, സബ്‌സ്‌ക്രിപ്‌ഷൻ ആവശ്യമില്ല.",
-    "verbWatch": "കാണുക",
-    "verbListen": "കേൾക്കുക",
-    "nounTVChannels": "ടിവി ചാനലുകൾ",
-    "nounRadioStations": "റേഡിയോ സ്റ്റേഷനുകൾ",
-    "nounWebcams": "വെബ്ക്യാമുകൾ"
+    "nounWebcams": "തത്സമയ വെബ്‌ക്യാമുകൾ",
+    "channelTitleNoCountry": "{verb} {channelName} ലൈവ് | ഫ്രീ ടിവി ഗാർഡൻ",
+    "channelDescriptionNoCountry": "{verb} {channelName} FreeTV ഗാർഡനിൽ തത്സമയം — സൗജന്യമാണ്, സൈൻഅപ്പ് ആവശ്യമില്ല.",
+    "channelTitleNoCountryTV": "{channelName} ലൈവ് കാണുക | ഫ്രീ ടിവി ഗാർഡൻ",
+    "channelDescriptionNoCountryTV": "FreeTV ഗാർഡനിൽ {channelName} തത്സമയം കാണുക - സൗജന്യമാണ്, സൈൻഅപ്പ് ആവശ്യമില്ല.",
+    "countryTitleTV": "സൗജന്യ {countryName} ലൈവ് ടിവി ചാനലുകൾ ഓൺലൈനായി കാണുക | ഫ്രീ ടിവി ഗാർഡൻ",
+    "countryDescriptionTV": "സൗജന്യമായി {countryName} ലൈവ് ടിവി ചാനലുകൾ ഓൺലൈനായി കാണുക — വാർത്തകളും കായിക വിനോദങ്ങളും നിങ്ങളുടെ ബ്രൗസറിൽ സ്ട്രീം ചെയ്യുന്നു. സൈൻഅപ്പ് ഇല്ല, സബ്സ്ക്രിപ്ഷൻ ആവശ്യമില്ല.",
+    "countryH1TV": "സൗജന്യ {countryName} ലൈവ് ടിവി ചാനലുകൾ ഓൺലൈനായി കാണുക",
+    "genreCategoryTitle": "സൗജന്യ {genreName} ചാനലുകൾ ഓൺലൈനായി കാണുക | ഫ്രീ ടിവി ഗാർഡൻ",
+    "genreCategoryDescription": "ലോകമെമ്പാടുമുള്ള {genreName} ടിവി ചാനലുകൾ സൗജന്യമായി സ്ട്രീം ചെയ്യുക. സൈൻഅപ്പ് ഇല്ല, സബ്സ്ക്രിപ്ഷൻ ആവശ്യമില്ല.",
+    "genreH1": "സൗജന്യ {genreName} ചാനലുകൾ ഓൺലൈനായി കാണുക",
+    "languageH1": "സൗജന്യമായി {langName} {noun} ഓൺലൈനായി കേൾക്കുക",
+    "spokenLanguageTitle": "സൗജന്യ {langName} ചാനലുകൾ ഓൺലൈനായി കാണുക | ഫ്രീ ടിവി ഗാർഡൻ",
+    "spokenLanguageDescription": "ലോകമെമ്പാടുമുള്ള {langName} ടിവി ചാനലുകൾ സൗജന്യമായി സ്ട്രീം ചെയ്യുക. സൈൻഅപ്പ് ഇല്ല, സബ്സ്ക്രിപ്ഷൻ ആവശ്യമില്ല.",
+    "spokenLanguageH1": "സൗജന്യ {langName} ചാനലുകൾ ഓൺലൈനായി കാണുക"
   }
 }

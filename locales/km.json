@@ -29,6 +29,10 @@
   "seo": {
     "homeTitle": "FreeTV Garden | មើលទូរទស្សន៍ផ្សាយផ្ទាល់ វិទ្យុ និងគេហទំព័រខេមដោយឥតគិតថ្លៃពីជុំវិញពិភពលោក",
     "homeDescription": "មើល 1000+ ប៉ុស្តិ៍ទូរទស្សន៍ផ្សាយបន្តផ្ទាល់ដោយឥតគិតថ្លៃ ស្តាប់ស្ថានីយ៍វិទ្យុបន្តផ្ទាល់ និងមើលគេហទំព័រខេមបន្តផ្ទាល់ពី 200+ ប្រទេស — គ្មានការចុះឈ្មោះ មិនចាំបាច់ជាវ។",
+    "verbWatch": "មើល",
+    "verbListen": "ស្តាប់",
+    "nounTVChannels": "ប៉ុស្តិ៍ទូរទស្សន៍",
+    "nounRadioStations": "ស្ថានីយ៍វិទ្យុ",
     "channelTitle": "{verb} {channelName} ផ្សាយផ្ទាល់ ( {countryName} ) | FreeTV Garden",
     "channelDescription": "{verb} {channelName} ផ្សាយផ្ទាល់ពី {countryName} នៅលើ FreeTV Garden — ឥតគិតថ្លៃ មិនចាំបាច់ចុះឈ្មោះទេ។",
     "countryTitle": "{verb} ឥតគិតថ្លៃ {countryName} {noun} អនឡាញ | FreeTV Garden",
@@ -37,10 +41,20 @@
     "categoryDescription": "{verb} ឥតគិតថ្លៃ {genreName} {nounLower} លើបណ្តាញ FreeTV Garden — គ្មានការចុះឈ្មោះ មិនចាំបាច់ជាវ។",
     "languageTitle": "ស្តាប់ដោយឥតគិតថ្លៃ {langName} {noun} អនឡាញ | FreeTV Garden",
     "languageDescription": "ស្តាប់ដោយឥតគិតថ្លៃ {langName} {nounLower} លើអ៊ីនធឺណិតនៅលើ FreeTV Garden — គ្មានការចុះឈ្មោះ មិនចាំបាច់ជាវ។",
-    "verbWatch": "មើល",
-    "verbListen": "ស្តាប់",
-    "nounTVChannels": "ប៉ុស្តិ៍ទូរទស្សន៍",
-    "nounRadioStations": "ស្ថានីយ៍វិទ្យុ",
-    "nounWebcams": "កាមេរ៉ាបណ្ដាញ"
+    "nounWebcams": "គេហទំព័រកាមេរ៉ាផ្ទាល់",
+    "channelTitleNoCountry": "{verb} {channelName} ផ្សាយផ្ទាល់ | FreeTV Garden",
+    "channelDescriptionNoCountry": "{verb} {channelName} ផ្សាយផ្ទាល់នៅលើ FreeTV Garden — ឥតគិតថ្លៃ មិនចាំបាច់ចុះឈ្មោះទេ។",
+    "channelTitleNoCountryTV": "មើល {channelName} ផ្សាយផ្ទាល់ | FreeTV Garden",
+    "channelDescriptionNoCountryTV": "មើល {channelName} ផ្សាយផ្ទាល់នៅលើ FreeTV Garden — ឥតគិតថ្លៃ មិនចាំបាច់ចុះឈ្មោះទេ។",
+    "countryTitleTV": "មើល {countryName} ប៉ុស្តិ៍ទូរទស្សន៍ផ្សាយផ្ទាល់តាមអ៊ីនធឺណិត | FreeTV Garden",
+    "countryDescriptionTV": "មើល {countryName} ប៉ុស្តិ៍ទូរទស្សន៍បន្តផ្ទាល់លើអ៊ីនធឺណិតដោយឥតគិតថ្លៃ — ព័ត៌មាន កីឡា និងការកម្សាន្តដែលបានផ្សាយនៅក្នុងកម្មវិធីរុករករបស់អ្នក។ គ្មានការចុះឈ្មោះ មិនចាំបាច់ជាវ។",
+    "countryH1TV": "មើល {countryName} ប៉ុស្តិ៍ទូរទស្សន៍ផ្សាយផ្ទាល់តាមអ៊ីនធឺណិតដោយឥតគិតថ្លៃ",
+    "genreCategoryTitle": "មើលដោយឥតគិតថ្លៃ {genreName} ប៉ុស្តិ៍អនឡាញ | FreeTV Garden",
+    "genreCategoryDescription": "ផ្សាយបន្តផ្ទាល់ {genreName} ប៉ុស្តិ៍ទូរទស្សន៍ឥតគិតថ្លៃពីជុំវិញពិភពលោក។ គ្មានការចុះឈ្មោះ មិនចាំបាច់ជាវ។",
+    "genreH1": "មើល {genreName} ប៉ុស្តិ៍អនឡាញដោយឥតគិតថ្លៃ",
+    "languageH1": "ស្តាប់ដោយឥតគិតថ្លៃ {langName} {noun} លើបណ្តាញ",
+    "spokenLanguageTitle": "មើលដោយឥតគិតថ្លៃ {langName} ប៉ុស្តិ៍អនឡាញ | FreeTV Garden",
+    "spokenLanguageDescription": "ផ្សាយបន្តផ្ទាល់ {langName} ប៉ុស្តិ៍ទូរទស្សន៍ឥតគិតថ្លៃពីជុំវិញពិភពលោក។ គ្មានការចុះឈ្មោះ មិនចាំបាច់ជាវ។",
+    "spokenLanguageH1": "មើល {langName} ប៉ុស្តិ៍អនឡាញដោយឥតគិតថ្លៃ"
   }
 }

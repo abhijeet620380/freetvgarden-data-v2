@@ -29,6 +29,10 @@
   "seo": {
     "homeTitle": "FreeTV የአትክልት ስፍራ | ከዓለም ዙሪያ ነፃ የቀጥታ ቲቪ፣ ሬዲዮ እና የድር ካሜራዎችን ይመልከቱ",
     "homeDescription": "1000+ ነፃ የቀጥታ የቴሌቪዥን ጣቢያዎችን ይመልከቱ፣ የቀጥታ የሬዲዮ ጣቢያዎችን ያዳምጡ እና ከ200+ ሀገራት የቀጥታ የድር ካሜራዎችን ይመልከቱ - ምንም ምዝገባ የለም፣ ምንም ምዝገባ አያስፈልግም።",
+    "verbWatch": "ይመልከቱ",
+    "verbListen": "ያዳምጡ",
+    "nounTVChannels": "የቲቪ ቻናሎች",
+    "nounRadioStations": "የሬዲዮ ጣቢያዎች",
     "channelTitle": "{verb} {channelName} ቀጥታ ስርጭት ({countryName}) | ፍሪቲቪ የአትክልት ስፍራ",
     "channelDescription": "{verb} {channelName} ከ{countryName} በቀጥታ ስርጭት በፍሪቲቪ አትክልት - ነፃ፣ ምንም ምዝገባ አያስፈልግም።",
     "countryTitle": "{verb} ነፃ {countryName} {noun} በመስመር ላይ | ፍሪቲቪ የአትክልት ስፍራ",
@@ -37,10 +41,20 @@
     "categoryDescription": "{verb} ነፃ {genreName} {nounLower} በመስመር ላይ በፍሪቲቪ የአትክልት ስፍራ - ምንም ምዝገባ የለም ፣ ምንም ምዝገባ አያስፈልግም።",
     "languageTitle": "ነጻ {langName} {noun} በመስመር ላይ ያዳምጡ | ፍሪቲቪ የአትክልት ስፍራ",
     "languageDescription": "በነጻ {langName} {nounLower} በመስመር ላይ በነጻ ቲቪ የአትክልት ስፍራ ያዳምጡ - ምንም ምዝገባ የለም ፣ ምንም ምዝገባ አያስፈልግም።",
-    "verbWatch": "ይመልከቱ",
-    "verbListen": "ያዳምጡ",
-    "nounTVChannels": "የቲቪ ቻናሎች",
-    "nounRadioStations": "የሬዲዮ ጣቢያዎች",
-    "nounWebcams": "የድር ካሜራዎች"
+    "nounWebcams": "የቀጥታ የድር ካሜራዎች",
+    "channelTitleNoCountry": "{verb} {channelName} ቀጥታ | ፍሪቲቪ የአትክልት ስፍራ",
+    "channelDescriptionNoCountry": "{verb} {channelName} በFreeTV Garden ላይ በቀጥታ ስርጭት - ነፃ፣ ምንም ምዝገባ አያስፈልግም።",
+    "channelTitleNoCountryTV": "{channelName} በቀጥታ ይመልከቱ | ፍሪቲቪ የአትክልት ስፍራ",
+    "channelDescriptionNoCountryTV": "{channelName}ን በቀጥታ በFreeTV Garden ይመልከቱ - ነፃ፣ ምንም ምዝገባ አያስፈልግም።",
+    "countryTitleTV": "ነጻ {countryName} የቀጥታ የቲቪ ቻናሎችን በመስመር ላይ ይመልከቱ | ፍሪቲቪ የአትክልት ስፍራ",
+    "countryDescriptionTV": "ነፃ የ{countryName} የቀጥታ የቴሌቪዥን ጣቢያዎችን በመስመር ላይ ይመልከቱ - ዜና፣ ስፖርት እና መዝናኛ በአሳሽዎ ውስጥ ይለቀቃሉ። ምንም ምዝገባ የለም፣ ምንም ምዝገባ አያስፈልግም።",
+    "countryH1TV": "ነጻ {countryName} የቀጥታ የቲቪ ጣቢያዎችን በመስመር ላይ ይመልከቱ",
+    "genreCategoryTitle": "ነፃ {genreName} ቻናሎችን በመስመር ላይ ይመልከቱ | ፍሪቲቪ የአትክልት ስፍራ",
+    "genreCategoryDescription": "ነጻ የቀጥታ ስርጭት {genreName} የቲቪ ጣቢያዎችን ከአለም ዙሪያ ይልቀቁ። ምንም ምዝገባ የለም፣ ምንም ምዝገባ አያስፈልግም።",
+    "genreH1": "ነፃ {genreName} ቻናሎችን በመስመር ላይ ይመልከቱ",
+    "languageH1": "ነፃ {langName} {noun} በመስመር ላይ ያዳምጡ",
+    "spokenLanguageTitle": "ነፃ {langName} ቻናሎችን በመስመር ላይ ይመልከቱ | ፍሪቲቪ የአትክልት ስፍራ",
+    "spokenLanguageDescription": "ነጻ የቀጥታ ስርጭት {langName} የቲቪ ጣቢያዎችን ከአለም ዙሪያ ይልቀቁ። ምንም ምዝገባ የለም፣ ምንም ምዝገባ አያስፈልግም።",
+    "spokenLanguageH1": "ነፃ {langName} ቻናሎችን በመስመር ላይ ይመልከቱ"
   }
 }

@@ -29,6 +29,10 @@
   "seo": {
     "homeTitle": "FreeTV ಗಾರ್ಡನ್ | ಪ್ರಪಂಚದಾದ್ಯಂತ ಉಚಿತ ಲೈವ್ ಟಿವಿ, ರೇಡಿಯೋ ಮತ್ತು ವೆಬ್‌ಕ್ಯಾಮ್‌ಗಳನ್ನು ವೀಕ್ಷಿಸಿ",
     "homeDescription": "1000+ ಉಚಿತ ಲೈವ್ ಟಿವಿ ಚಾನೆಲ್‌ಗಳನ್ನು ವೀಕ್ಷಿಸಿ, ಲೈವ್ ರೇಡಿಯೊ ಸ್ಟೇಷನ್‌ಗಳನ್ನು ಆಲಿಸಿ ಮತ್ತು 200+ ದೇಶಗಳಿಂದ ಲೈವ್ ವೆಬ್‌ಕ್ಯಾಮ್‌ಗಳನ್ನು ವೀಕ್ಷಿಸಿ — ಯಾವುದೇ ಸೈನ್‌ಅಪ್ ಇಲ್ಲ, ಯಾವುದೇ ಚಂದಾದಾರಿಕೆ ಅಗತ್ಯವಿಲ್ಲ.",
+    "verbWatch": "ವೀಕ್ಷಿಸಿ",
+    "verbListen": "ಆಲಿಸಿ",
+    "nounTVChannels": "ಟಿವಿ ಚಾನೆಲ್‌ಗಳು",
+    "nounRadioStations": "ರೇಡಿಯೋ ಕೇಂದ್ರಗಳು",
     "channelTitle": "{verb} {channelName} ಲೈವ್ ({countryName}) | ಫ್ರೀಟಿವಿ ಗಾರ್ಡನ್",
     "channelDescription": "{verb} {channelName} FreeTV Garden ನಲ್ಲಿ {countryName} ರಿಂದ ಲೈವ್ — ಉಚಿತ, ಯಾವುದೇ ಸೈನ್ ಅಪ್ ಅಗತ್ಯವಿಲ್ಲ.",
     "countryTitle": "{verb} ಉಚಿತ {countryName} {noun} ಆನ್‌ಲೈನ್ | ಫ್ರೀಟಿವಿ ಗಾರ್ಡನ್",
@@ -37,10 +41,20 @@
     "categoryDescription": "FreeTV ಗಾರ್ಡನ್‌ನಲ್ಲಿ {verb} ಉಚಿತ {genreName} {nounLower} ಆನ್‌ಲೈನ್ — ಯಾವುದೇ ಸೈನ್ ಅಪ್, ಯಾವುದೇ ಚಂದಾದಾರಿಕೆಯ ಅಗತ್ಯವಿಲ್ಲ.",
     "languageTitle": "ಉಚಿತ {langName} {noun} ಆನ್‌ಲೈನ್ | ಫ್ರೀಟಿವಿ ಗಾರ್ಡನ್",
     "languageDescription": "FreeTV ಗಾರ್ಡನ್‌ನಲ್ಲಿ ಉಚಿತ {langName} {nounLower} ಅನ್ನು ಆನ್‌ಲೈನ್‌ನಲ್ಲಿ ಆಲಿಸಿ — ಯಾವುದೇ ಸೈನ್‌ಅಪ್ ಇಲ್ಲ, ಯಾವುದೇ ಚಂದಾದಾರಿಕೆಯ ಅಗತ್ಯವಿಲ್ಲ.",
-    "verbWatch": "ವೀಕ್ಷಿಸಿ",
-    "verbListen": "ಆಲಿಸಿ",
-    "nounTVChannels": "ಟಿವಿ ಚಾನೆಲ್‌ಗಳು",
-    "nounRadioStations": "ರೇಡಿಯೋ ಕೇಂದ್ರಗಳು",
-    "nounWebcams": "ವೆಬ್‌ಕ್ಯಾಮ್‌ಗಳು"
+    "nounWebcams": "ಲೈವ್ ವೆಬ್‌ಕ್ಯಾಮ್‌ಗಳು",
+    "channelTitleNoCountry": "{verb} {channelName} ಲೈವ್ | ಫ್ರೀಟಿವಿ ಗಾರ್ಡನ್",
+    "channelDescriptionNoCountry": "{verb} {channelName} FreeTV Garden ನಲ್ಲಿ ಲೈವ್ — ಉಚಿತ, ಯಾವುದೇ ಸೈನ್ ಅಪ್ ಅಗತ್ಯವಿಲ್ಲ.",
+    "channelTitleNoCountryTV": "{channelName} ಲೈವ್ ವೀಕ್ಷಿಸಿ | ಫ್ರೀಟಿವಿ ಗಾರ್ಡನ್",
+    "channelDescriptionNoCountryTV": "FreeTV Garden ನಲ್ಲಿ {channelName} ಲೈವ್ ವೀಕ್ಷಿಸಿ — ಉಚಿತ, ಯಾವುದೇ ಸೈನ್ ಅಪ್ ಅಗತ್ಯವಿಲ್ಲ.",
+    "countryTitleTV": "ಉಚಿತ {countryName} ಲೈವ್ ಟಿವಿ ಚಾನೆಲ್‌ಗಳನ್ನು ಆನ್‌ಲೈನ್‌ನಲ್ಲಿ ವೀಕ್ಷಿಸಿ | ಫ್ರೀಟಿವಿ ಗಾರ್ಡನ್",
+    "countryDescriptionTV": "ಉಚಿತ {countryName} ಲೈವ್ ಟಿವಿ ಚಾನೆಲ್‌ಗಳನ್ನು ಆನ್‌ಲೈನ್‌ನಲ್ಲಿ ವೀಕ್ಷಿಸಿ — ನಿಮ್ಮ ಬ್ರೌಸರ್‌ನಲ್ಲಿ ಸುದ್ದಿ, ಕ್ರೀಡೆ ಮತ್ತು ಮನರಂಜನೆಯನ್ನು ಸ್ಟ್ರೀಮ್ ಮಾಡಲಾಗುತ್ತದೆ. ಯಾವುದೇ ಸೈನ್ ಅಪ್ ಇಲ್ಲ, ಚಂದಾದಾರಿಕೆ ಅಗತ್ಯವಿಲ್ಲ.",
+    "countryH1TV": "ಉಚಿತ {countryName} ಲೈವ್ ಟಿವಿ ಚಾನೆಲ್‌ಗಳನ್ನು ಆನ್‌ಲೈನ್‌ನಲ್ಲಿ ವೀಕ್ಷಿಸಿ",
+    "genreCategoryTitle": "ಉಚಿತ {genreName} ಚಾನೆಲ್‌ಗಳನ್ನು ಆನ್‌ಲೈನ್‌ನಲ್ಲಿ ವೀಕ್ಷಿಸಿ | ಫ್ರೀಟಿವಿ ಗಾರ್ಡನ್",
+    "genreCategoryDescription": "ಪ್ರಪಂಚದಾದ್ಯಂತ ಉಚಿತ ಲೈವ್ {genreName} ಟಿವಿ ಚಾನೆಲ್‌ಗಳನ್ನು ಸ್ಟ್ರೀಮ್ ಮಾಡಿ. ಯಾವುದೇ ಸೈನ್ ಅಪ್ ಇಲ್ಲ, ಚಂದಾದಾರಿಕೆ ಅಗತ್ಯವಿಲ್ಲ.",
+    "genreH1": "ಉಚಿತ {genreName} ಚಾನೆಲ್‌ಗಳನ್ನು ಆನ್‌ಲೈನ್‌ನಲ್ಲಿ ವೀಕ್ಷಿಸಿ",
+    "languageH1": "ಉಚಿತ {langName} {noun} ಆನ್‌ಲೈನ್‌ನಲ್ಲಿ ಆಲಿಸಿ",
+    "spokenLanguageTitle": "ಉಚಿತ {langName} ಚಾನೆಲ್‌ಗಳನ್ನು ಆನ್‌ಲೈನ್‌ನಲ್ಲಿ ವೀಕ್ಷಿಸಿ | ಫ್ರೀಟಿವಿ ಗಾರ್ಡನ್",
+    "spokenLanguageDescription": "ಪ್ರಪಂಚದಾದ್ಯಂತ ಉಚಿತ ಲೈವ್ {langName} ಟಿವಿ ಚಾನೆಲ್‌ಗಳನ್ನು ಸ್ಟ್ರೀಮ್ ಮಾಡಿ. ಯಾವುದೇ ಸೈನ್ ಅಪ್ ಇಲ್ಲ, ಚಂದಾದಾರಿಕೆ ಅಗತ್ಯವಿಲ್ಲ.",
+    "spokenLanguageH1": "ಉಚಿತ {langName} ಚಾನೆಲ್‌ಗಳನ್ನು ಆನ್‌ಲೈನ್‌ನಲ್ಲಿ ವೀಕ್ಷಿಸಿ"
   }
 }

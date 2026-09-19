@@ -29,6 +29,10 @@
   "seo": {
     "homeTitle": "프리TV 가든 | 전 세계 무료 라이브 TV, 라디오 및 웹캠을 시청하세요",
     "homeDescription": "1000개가 넘는 무료 라이브 TV 채널을 시청하고, 라이브 라디오 방송을 듣고, 200개 이상의 국가에서 라이브 웹캠을 시청하세요. 가입이나 구독이 필요하지 않습니다.",
+    "verbWatch": "보다",
+    "verbListen": "듣기",
+    "nounTVChannels": "TV 채널",
+    "nounRadioStations": "라디오 방송국",
     "channelTitle": "{verb} {channelName} 라이브( {countryName} ) | 프리TV 정원",
     "channelDescription": "{verb} {channelName}은(는) {countryName}에서 FreeTV Garden을 통해 생중계됩니다. 무료이며 가입이 필요하지 않습니다.",
     "countryTitle": "{verb} 무료 {countryName} {noun} 온라인 | 프리TV 정원",
@@ -37,10 +41,20 @@
     "categoryDescription": "{verb} 무료 {genreName} {nounLower} 온라인 FreeTV Garden — 가입이나 구독이 필요하지 않습니다.",
     "languageTitle": "무료 {langName} {noun} 온라인 듣기 | 프리TV 정원",
     "languageDescription": "FreeTV Garden에서 온라인으로 {langName} {nounLower}을(를) 무료로 들어보세요. 가입이나 구독이 필요하지 않습니다.",
-    "verbWatch": "보다",
-    "verbListen": "듣기",
-    "nounTVChannels": "TV 채널",
-    "nounRadioStations": "라디오 방송국",
-    "nounWebcams": "웹캠"
+    "nounWebcams": "라이브 웹캠",
+    "channelTitleNoCountry": "{verb} {channelName} 라이브 | 프리TV 정원",
+    "channelDescriptionNoCountry": "{verb} {channelName}은 FreeTV Garden에서 생중계됩니다. 무료이며 가입이 필요하지 않습니다.",
+    "channelTitleNoCountryTV": "{channelName} 라이브 시청 | 프리TV 정원",
+    "channelDescriptionNoCountryTV": "FreeTV Garden에서 {channelName} 라이브를 시청하세요. 무료이며 가입이 필요하지 않습니다.",
+    "countryTitleTV": "온라인으로 무료 {countryName} 라이브 TV 채널 시청 | 프리TV 정원",
+    "countryDescriptionTV": "{countryName} 라이브 TV 채널을 온라인으로 무료로 시청하세요. 뉴스, 스포츠, 엔터테인먼트가 브라우저에서 스트리밍됩니다. 가입이나 구독이 필요하지 않습니다.",
+    "countryH1TV": "온라인으로 무료 {countryName} 라이브 TV 채널 시청",
+    "genreCategoryTitle": "온라인으로 무료 {genreName} 채널 시청 | 프리TV 정원",
+    "genreCategoryDescription": "전 세계의 무료 라이브 {genreName} TV 채널을 스트리밍하세요. 가입이나 구독이 필요하지 않습니다.",
+    "genreH1": "온라인으로 무료 {genreName} 채널 시청",
+    "languageH1": "무료 {langName} {noun} 온라인 듣기",
+    "spokenLanguageTitle": "온라인으로 무료 {langName} 채널 시청 | 프리TV 정원",
+    "spokenLanguageDescription": "전 세계의 무료 라이브 {langName} TV 채널을 스트리밍하세요. 가입이나 구독이 필요하지 않습니다.",
+    "spokenLanguageH1": "온라인으로 무료 {langName} 채널 시청"
   }
 }

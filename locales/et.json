@@ -29,6 +29,10 @@
   "seo": {
     "homeTitle": "FreeTV Garden | Vaadake tasuta telesaadet, raadiot ja veebikaameraid kogu maailmast",
     "homeDescription": "Vaadake üle 1000 tasuta otseülekande telekanali, kuulake otseülekandeid raadiojaamu ja vaadake veebikaameraid enam kui 200 riigist – pole vaja registreeruda ega tellida.",
+    "verbWatch": "Vaata",
+    "verbListen": "Kuulake",
+    "nounTVChannels": "Telekanalid",
+    "nounRadioStations": "Raadiojaamad",
     "channelTitle": "{verb} {channelName} Otseülekanne ( {countryName} ) | FreeTV aed",
     "channelDescription": "{verb} {channelName} otseülekanne alates {countryName} FreeTV Gardenis – tasuta, pole vaja registreeruda.",
     "countryTitle": "{verb} Tasuta {countryName} {noun} Võrgus | FreeTV aed",
@@ -37,10 +41,20 @@
     "categoryDescription": "{verb} tasuta {genreName} {nounLower} võrgus FreeTV Gardenis – pole registreerumist ega tellimust vaja.",
     "languageTitle": "Kuulake tasuta {langName} {noun} Internetis | FreeTV aed",
     "languageDescription": "Kuulake tasuta {langName} {nounLower} veebis FreeTV Gardenis – pole vaja registreeruda ega tellida.",
-    "verbWatch": "Vaata",
-    "verbListen": "Kuulake",
-    "nounTVChannels": "Telekanalid",
-    "nounRadioStations": "Raadiojaamad",
-    "nounWebcams": "Veebikaamerad"
+    "nounWebcams": "Reaalajas veebikaamerad",
+    "channelTitleNoCountry": "{verb} {channelName} Otseülekanne | FreeTV aed",
+    "channelDescriptionNoCountry": "{verb} {channelName} otseülekanne FreeTV Gardenis – tasuta, pole vaja registreeruda.",
+    "channelTitleNoCountryTV": "Vaadake {channelName} otseülekannet | FreeTV aed",
+    "channelDescriptionNoCountryTV": "Vaadake {channelName} otseülekannet FreeTV Gardenis – tasuta, pole vaja registreeruda.",
+    "countryTitleTV": "Vaadake tasuta {countryName} otseülekandeid Internetis | FreeTV aed",
+    "countryDescriptionTV": "Vaadake veebis tasuta {countryName} otseülekandeid – uudiseid, sporti ja meelelahutust voogesitatakse teie brauseris. Registreerimist pole vaja, tellimust pole vaja.",
+    "countryH1TV": "Vaadake veebis tasuta {countryName} otseülekandeid",
+    "genreCategoryTitle": "Vaadake tasuta {genreName} Interneti-kanaleid | FreeTV aed",
+    "genreCategoryDescription": "Voogesitage tasuta reaalajas {genreName} telekanaleid kogu maailmast. Registreerimist pole vaja, tellimust pole vaja.",
+    "genreH1": "Vaadake veebis tasuta {genreName} kanaleid",
+    "languageH1": "Kuulake tasuta {langName} {noun} võrgus",
+    "spokenLanguageTitle": "Vaadake tasuta {langName} Interneti-kanaleid | FreeTV aed",
+    "spokenLanguageDescription": "Voogesitage tasuta reaalajas {langName} telekanaleid kogu maailmast. Registreerimist pole vaja, tellimust pole vaja.",
+    "spokenLanguageH1": "Vaadake veebis tasuta {langName} kanaleid"
   }
 }
