@@ -86,7 +86,7 @@ http://77.89.199.174:8000/play/1024/index.m3u8
 #EXTINF:-1 tvg-id="Bashkortostan24.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/s34Wtz6.png" tvg-status="down" group-title="General",Bashkortostan 24
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/ufa/bashkortostan24-hd/index.m3u8
 #EXTINF:-1 tvg-id="Belarus1.by" tvg-country="BY" tvg-language="Russian" tvg-logo="https://i.imgur.com/sUD9t5j.png" tvg-status="live" group-title="General",Belarus-1
-https://ngtrk.dc.beltelecom.by/ngtrk/_definst_/smil:belarus1.smil/playlist.m3u8
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus1.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Belarus24.by" tvg-country="BY" tvg-language="Russian" tvg-logo="https://i.imgur.com/BP7tY6F.png" tvg-status="live" group-title="News",Belarus-24
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus24.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Belarus3.by" tvg-country="BY" tvg-language="Russian" tvg-logo="https://i.imgur.com/JkcDycn.png" tvg-status="live" group-title="Culture",Belarus-3
@@ -288,7 +288,7 @@ https://stream8.cinerama.uz/1272/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="FoodTime.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/gxCYAwH.png" tvg-status="live" group-title="Cooking",FoodTime
 http://str2.iptvhd.ru:8080/Eda/index.m3u8
 #EXTINF:-1 tvg-id="Football.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/pEuaZVx.png" tvg-status="live" group-title="Sports",Football
-http://str2.iptvhd.ru:8080/Futbol/index.m3u8
+http://hls127.freeott.top:8080/Football/video.m3u8
 #EXTINF:-1 tvg-id="FREEDOM.ua" tvg-country="UA" tvg-language="Russian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/FreeDOMUAlogo.svg/960px-FreeDOMUAlogo.svg.png" tvg-status="live" group-title="News",FREEDOM
 https://dash2.antik.sk/live/test_uatv/playlist.m3u8
 #EXTINF:-1 tvg-id="famelack-iK2kLMwkLCeU8A" tvg-country="UA" tvg-language="Russian" tvg-logo="" tvg-status="live" group-title="News",Freedom (FREEДOM) (UATV)
@@ -475,7 +475,7 @@ https://moymir.ru/hls/onair.m3u8
 http://91.226.120.120/chid210/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Moyastikhiya.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/Sl8c9eB.png" tvg-status="live" group-title="Travel",Moya stikhiya
 http://stream.mcquack.net/141/index.m3u8
-#EXTINF:-1 tvg-id="famelack-5b8XYlH65LRz6N" tvg-country="KZ" tvg-language="Russian" tvg-logo="" tvg-status="live" group-title="General",MTRK
+#EXTINF:-1 tvg-id="MTRK.kz" tvg-country="KZ" tvg-language="Russian" tvg-logo="https://i.imgur.com/XMyRwDk.png" tvg-status="live" group-title="General",MTRK
 https://tvcdn01.oktv.kz/tv/mtrk/playlist.m3u8
 #EXTINF:-1 tvg-id="MTVVolgograd.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/pdCAUrP.png" tvg-status="live" group-title="General",MTV Volgograd
 http://hls.volgograd1vtv.cdnvideo.ru/volgograd1vtv/volgograd1vtv.sdp/playlist.m3u8
@@ -805,10 +805,10 @@ http://stream.mcquack.net/461/index.m3u8
 https://live-3.otcnet.ru/sportivny/index.m3u8
 #EXTINF:-1 tvg-id="SSSRTV.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/ieONjAZ.png" tvg-status="down" group-title="General",SSSR TV
 http://str2.iptvhd.ru:8080/sssr_kino/index.m3u8
-#EXTINF:-1 tvg-id="famelack-bGtZkBQX1pajI4" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-status="live" group-title="Movies",Star Cinema
+#EXTINF:-1 tvg-id="StarCinema.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/5sis895.png" tvg-status="live" group-title="Movies",Star Cinema
 https://dash2.antik.sk/live/test_star_cinema_atktv/playlist.m3u8
 #EXTINF:-1 tvg-id="StarFamily.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/eGuGHnZ.png" tvg-status="live" group-title="Movies",Star Family
-http://str2.iptvhd.ru:8080/112Ukraina/index.m3u8
+https://dash2.antik.sk/live/test_star_family_atktv/playlist.m3u8
 #EXTINF:-1 tvg-id="STARTAir.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://images.iptv.rt.ru/images/d60qp8omife4gis72tk0.png" tvg-status="live" group-title="Movies",START Air
 http://str2.iptvhd.ru:8080/START_Air_HD/index.m3u8
 #EXTINF:-1 tvg-id="StartTriumf.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/L9jTieL.png" tvg-status="down" group-title="Sports",Start Triumf
@@ -899,7 +899,7 @@ http://hls127.freeott.top:8080/Sovershenno_Sekretno/video.m3u8
 https://stream8.cinerama.uz/1274/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="TravelPlusAdventure.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/AlpdXC4.png" tvg-status="live" group-title="Travel",Travel+Adventure
 http://stream.mcquack.net/206/index.m3u8
-#EXTINF:-1 tvg-id="TsargradTV.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/Lp3xFxV.png" tvg-status="live" group-title="Religious",Tsargrad TV
+#EXTINF:-1 tvg-id="TsargradTV.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/Lp3xFxV.png" tvg-status="down" group-title="Religious",Tsargrad TV
 https://bl.rutube.ru/livestream/91815da4edb167b5bd617bae490e57da/index.m3u8?e=2070278263&s=is_mLq_kjPYLsOJ4qj85tw&scheme=https
 #EXTINF:-1 tvg-id="famelack-uBZeu6AwVshM7Q" tvg-country="MD" tvg-language="Russian" tvg-logo="" tvg-status="live" group-title="General",TSV
 https://tsv.md/stream/hls/tsv-online/index.m3u8
