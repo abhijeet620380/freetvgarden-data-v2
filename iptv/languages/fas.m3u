@@ -25,7 +25,7 @@ https://ncdn.telewebion.ir/aftab/live/playlist.m3u8
 https://iptv.almahditv.com/almahditv/playlist.m3u8
 #EXTINF:-1 tvg-id="AlborzTV.ir" tvg-country="IR" tvg-language="Persian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Alborz_TV_logo.svg/960px-Alborz_TV_logo.svg.png" tvg-status="live" group-title="General",Alborz TV
 https://ncdn.telewebion.ir/alborz/live/playlist.m3u8
-#EXTINF:-1 tvg-id="AmouzeshTV.ir" tvg-country="IR" tvg-language="Persian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Amouzesh_TV_logo_%282023%29.svg/500px-Amouzesh_TV_logo_%282023%29.svg.png" tvg-status="live" group-title="General",Amouzesh TV
+#EXTINF:-1 tvg-id="AmouzeshTV.ir" tvg-country="IR" tvg-language="Persian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Amouzesh_TV_logo_%282023%29.svg/500px-Amouzesh_TV_logo_%282023%29.svg.png" tvg-status="down" group-title="General",Amouzesh TV
 https://ncdn.telewebion.ir/amouzesh/live/playlist.m3u8
 #EXTINF:-1 tvg-id="AraTV.ir" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.ibb.co/dwSHt2SG/Ara.png" tvg-status="live" group-title="General",Ara TV
 https://ncdn.telewebion.ir/ara/live/playlist.m3u8
@@ -59,8 +59,8 @@ https://bravoohls.wns.live/hls/stream.m3u8
 https://cafefhls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="CafeTradeTV.ir" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.ibb.co/GW4cMfc/cafe-trade-tv.png" tvg-status="down" group-title="Business",Cafe Trade TV
 https://cafetradehls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="famelack-RMJta2uB0RhiFk" tvg-country="US" tvg-language="Persian" tvg-logo="" tvg-status="live" group-title="News",Channel One
-https://www.youtube-nocookie.com/embed/TKIO5M4j6ns
+#EXTINF:-1 tvg-id="ChannelOne.us" tvg-country="US" tvg-language="Persian" tvg-logo="https://i.imgur.com/igskUo0.png" tvg-status="live" group-title="News",Channel One
+https://pemirateshls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="ClassicTV.ir" tvg-country="IR" tvg-language="Persian" tvg-logo="" tvg-status="live" group-title="Classic",Classic TV
 https://clshls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="DatisTV.ir" tvg-country="IR" tvg-language="Persian" tvg-logo="" tvg-status="down" group-title="General",Datis TV
@@ -180,7 +180,7 @@ https://ic3hls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="iFilm2.ir" tvg-country="IR" tvg-language="Persian" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/c/ce/Ifilm2logo.png" tvg-status="down" group-title="Movies",iFilm 2
 https://live.presstv.ir/hls/ifilm2.m3u8
 #EXTINF:-1 tvg-id="iFilmPersian.ir" tvg-country="IR" tvg-language="Persian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/IFILM.png" tvg-status="live" group-title="Movies",iFilm Persian
-https://live.presstv.ir/hls/ifilmfa.m3u8
+https://ncdn.telewebion.ir/ifilm/live/playlist.m3u8
 #EXTINF:-1 tvg-id="IlamTV.ir" tvg-country="IR" tvg-language="Persian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Ilam_TV.png/960px-Ilam_TV.png" tvg-status="live" group-title="General",Ilam TV
 https://ncdn.telewebion.ir/ilam/live/playlist.m3u8
 #EXTINF:-1 tvg-id="ImamHusseinTV1.iq" tvg-country="IQ" tvg-language="Persian" tvg-logo="https://i.imgur.com/pDdUvz7.png" tvg-status="live" group-title="Religious",Imam Hussein TV 1
@@ -253,7 +253,7 @@ https://cdn3.wowza.com/5/aVJETlF0UFdmYTFu/LWPP/ngrp:persia.stream_all/playlist.m
 https://hls.maahtv.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="famelack-1h3TgefRfR3aSM" tvg-country="IR" tvg-language="Persian" tvg-logo="" tvg-status="live" group-title="Movies",Maah TV
 https://hls.maahtv.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="MahabadTV.ir" tvg-country="IR" tvg-language="Persian" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/c/cb/Mahabad_tv.png" tvg-status="down" group-title="General",Mahabad TV
+#EXTINF:-1 tvg-id="MahabadTV.ir" tvg-country="IR" tvg-language="Persian" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/c/cb/Mahabad_tv.png" tvg-status="live" group-title="General",Mahabad TV
 https://ncdn.telewebion.ir/mahabad/live/playlist.m3u8
 #EXTINF:-1 tvg-id="MarjaeyatTVPersian.iq" tvg-country="IQ" tvg-language="Persian" tvg-logo="https://i.imgur.com/fCj05f0.png" tvg-status="live" group-title="Religious",Marjaeyat TV Persian
 https://livefa.marjaeyattv.com/mtv_fa/playlist.m3u8
@@ -455,7 +455,7 @@ https://nl.livekadeh.com/hls2/velayattv.m3u8
 https://voaphls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="WestAzerbaijanTV.ir" tvg-country="IR" tvg-language="Persian" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/thumb/2/21/Urmia_TV.svg/960px-Urmia_TV.svg.png" tvg-status="down" group-title="General",West Azerbaijan TV
 https://ncdn.telewebion.ir/azarbayjangharbi/live/playlist.m3u8
-#EXTINF:-1 tvg-id="YazdTV.ir" tvg-country="IR" tvg-language="Persian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Yazd_taban.svg/960px-Yazd_taban.svg.png" tvg-status="live" group-title="General",Yazd TV
+#EXTINF:-1 tvg-id="YazdTV.ir" tvg-country="IR" tvg-language="Persian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Yazd_taban.svg/960px-Yazd_taban.svg.png" tvg-status="down" group-title="General",Yazd TV
 https://ncdn.telewebion.ir/taban/live/playlist.m3u8
 #EXTINF:-1 tvg-id="YourTimeTV.ir" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/X38vWJ1.png" tvg-status="live" group-title="Entertainment",YourTime TV
 https://hls.yourtime.live/hls/stream.m3u8
