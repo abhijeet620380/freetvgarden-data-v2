@@ -129,13 +129,13 @@ https://hlspackager.akamaized.net/live/DB/ALYAUM_TV/HLS/ALYAUM_TV.m3u8
 https://alaimma.tv/live/index.m3u8
 #EXTINF:-1 tvg-id="AlFadyTV.us" tvg-country="US" tvg-language="Arabic" tvg-logo="https://i.imgur.com/7L0l0iY.png" tvg-status="live" group-title="Religious",Al-Fady TV
 https://5d658d7e9f562.streamlock.net/alfadytv.tv/alfadytv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="AlImanTV.lb" tvg-country="LB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/4WKQppG.png" tvg-status="live" group-title="Religious",Al-Iman TV
+#EXTINF:-1 tvg-id="AlImanTV.lb" tvg-country="LB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/4WKQppG.png" tvg-status="down" group-title="Religious",Al-Iman TV
 https://svs.itworkscdn.net/alimanlive/imantv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="AlJawadainTV.iq" tvg-country="IQ" tvg-language="Arabic" tvg-logo="https://i.imgur.com/Eo3UYCK.png" tvg-status="live" group-title="Religious",Al-Jawadain TV
 https://live.aljawadain.org/live/aljawadaintv/playlist.m3u8
 #EXTINF:-1 tvg-id="AlManar.lb" tvg-country="LB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/sOQLV7L.png" tvg-status="live" group-title="News",Al-Manar
 https://edge.fastpublish.me/live/index.m3u8
-#EXTINF:-1 tvg-id="AlNaeemTV.iq" tvg-country="IQ" tvg-language="Arabic" tvg-logo="https://i.imgur.com/JyWjfIB.png" tvg-status="down" group-title="General",Al-Naeem TV
+#EXTINF:-1 tvg-id="AlNaeemTV.iq" tvg-country="IQ" tvg-language="Arabic" tvg-logo="https://i.imgur.com/JyWjfIB.png" tvg-status="live" group-title="General",Al-Naeem TV
 http://37.238.136.61/hls/stream.m3u8
 #EXTINF:-1 tvg-id="AlRafidainTV.tr" tvg-country="TR" tvg-language="Arabic" tvg-logo="https://i.imgur.com/rjXDCN5.png" tvg-status="down" group-title="Religious",Al-Rafidain TV
 https://arrafidain.tvplayer.online/arrafidaintv/source/playlist.m3u8
@@ -463,7 +463,7 @@ https://cdn.live.easybroadcast.io/abr_corp/83_medi1tv-arabic_g90v4ec/playlist.m3
 https://cdn.live.easybroadcast.io/abr_corp/83_medi1tv-maghreb_jnbspmg/playlist.m3u8
 #EXTINF:-1 tvg-id="MekameleenTV.tr" tvg-country="TR" tvg-language="Arabic" tvg-logo="https://i.imgur.com/q7iVchl.png" tvg-status="live" group-title="News",Mekameleen TV
 https://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="famelack-8JZH2jVeoWilfK" tvg-country="JO" tvg-language="Arabic" tvg-logo="" tvg-status="live" group-title="Music",Melody FM
+#EXTINF:-1 tvg-id="MelodyFM.jo" tvg-country="JO" tvg-language="Arabic" tvg-logo="https://i.imgur.com/J8omcNz.png" tvg-status="live" group-title="Music",Melody FM
 https://cdn3.wowza.com/1/OVRrOWxXUEswS2Yv/eGVxSWZy/hls/live/playlist.m3u8
 #EXTINF:-1 tvg-id="mfm.lb" tvg-country="LB" tvg-language="Arabic" tvg-logo="https://www.mtv.com.lb/images/header/mfm-logo.svg" tvg-status="live" group-title="Music",mfm
 https://hms.pfs.gdn/hms/v1/broadcast/hlmvmp2hfriode891/playlist.m3u8
@@ -523,8 +523,8 @@ https://live.paltodaytv.com/paltv/live/playlist_sfm4s.m3u8
 https://pbc.furrera.ps/PalestineEDU/index.m3u8
 #EXTINF:-1 tvg-id="famelack-kMBDQu4FHfVDdk" tvg-country="PS" tvg-language="Arabic" tvg-logo="" tvg-status="live" group-title="General",Palestine Mubasher
 https://pbc.furrera.ps/palestinelivehd/index.m3u8
-#EXTINF:-1 tvg-id="famelack-fwZ0THu9CrthiO" tvg-country="PS" tvg-language="Arabic" tvg-logo="" tvg-status="live" group-title="General",Palestine Satellite Channel
-https://pbc.furrera.ps/palestinehd/index.m3u8
+#EXTINF:-1 tvg-id="PalestineSatelliteChannel.ps" tvg-country="PS" tvg-language="Arabic" tvg-logo="https://i.imgur.com/4B5FvmX.png" tvg-status="live" group-title="General",Palestine Satellite Channel
+https://cdn-globecast.akamaized.net/live/eds/palestinian_satellite_channel/hls_roku/palestinian_satellite_channel.m3u8
 #EXTINF:-1 tvg-id="PalestineToday.ps" tvg-country="PS" tvg-language="Arabic" tvg-logo="https://i.imgur.com/BS8XXug.png" tvg-status="live" group-title="News",Palestine Today
 https://live.paltodaytv.com/paltv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="Palestinetv.ir" tvg-country="IR" tvg-language="Arabic" tvg-logo="https://i.ibb.co/svrZNZTX/Palestine.png" tvg-status="live" group-title="General",Palestinetv
@@ -595,9 +595,7 @@ https://www.youtube-nocookie.com/embed/A1cZxijueg4
 https://live.kwikmotion.com/royatvpublic/royatv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="RTArabic.ru" tvg-country="RU" tvg-language="Arabic" tvg-logo="https://i.imgur.com/G8vGrn1.png" tvg-status="live" group-title="News",RT Arabic
 https://rt-arb.rttv.com/dvr/rtarab/playlist.m3u8
-#EXTINF:-1 tvg-id="famelack-WQqSZQl27UG0sD" tvg-country="UK" tvg-language="Arabic" tvg-logo="" tvg-status="live" group-title="Religious",Safeer TV
-https://cdn3.wowza.com/1/YStGZlJRdktzZkdK/VXROZWNW/hls/live/playlist.m3u8
-#EXTINF:-1 tvg-id="famelack-PhXDu5yXp9uaMZ" tvg-country="IQ" tvg-language="Arabic" tvg-logo="" tvg-status="live" group-title="General",Samarra TV
+#EXTINF:-1 tvg-id="SamarraTV.iq" tvg-country="IQ" tvg-language="Arabic" tvg-logo="https://i.imgur.com/7uQoIXi.png" tvg-status="live" group-title="General",Samarra TV
 https://live.bradosti.net/live/samaraweb_playlist.m3u8
 #EXTINF:-1 tvg-id="Sat7Arabic.cy" tvg-country="CY" tvg-language="Arabic" tvg-logo="https://i.imgur.com/BzDjQeQ.png" tvg-status="live" group-title="General",Sat 7 Arabic
 https://svs.itworkscdn.net/sat7arabiclive/sat7arabic.smil/playlist_dvr.m3u8
@@ -645,7 +643,7 @@ https://stream.starmenajo.com/hls/app/live/ts:fhd.m3u8
 https://cd198.anystream.uk:9092/iqapp/t5kb86tv/playlist.m3u8
 #EXTINF:-1 tvg-id="TanasuhTV.ly" tvg-country="LY" tvg-language="Arabic" tvg-logo="https://i.imgur.com/iBAhM2v.png" tvg-status="live" group-title="General",Tanasuh TV
 https://kilolink.pulsarstarsolutions.com/live/smil:tanasuhtv.smil/manifest.m3u8
-#EXTINF:-1 tvg-id="Tarab.sa" tvg-country="SA" tvg-language="Arabic" tvg-logo="https://assets.mbcmood.com/channels/1738059679TARAB_Logo.png" tvg-status="live" group-title="Music",Tarab
+#EXTINF:-1 tvg-id="famelack-bLrhTddKmX53C8" tvg-country="SA" tvg-language="Arabic" tvg-logo="" tvg-status="live" group-title="Music",Tarab
 https://shd-amg-fast-btpls.shahid.net/tx002/playlist.m3u8
 #EXTINF:-1 tvg-id="TeleLiban.lb" tvg-country="LB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/5VPYxJi.png" tvg-status="down" group-title="General",Tele Liban
 https://cdn.catiacast.video/abr/ed8f807e2548db4507d2a6f4ba0c4a06/playlist.m3u8
