@@ -23,6 +23,8 @@ https://hls.tv.3angels.ru/stream.m3u8
 https://cdn-dvr.ntv.ru/5_minut_tishiny/index.m3u8
 #EXTINF:-1 tvg-id="555.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/JQZkxeA.png" tvg-status="live" group-title="General",555
 http://trk555.tv:8888/live
+#EXTINF:-1 tvg-id="6TVGorlovka.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/61/TV_6_HD_%E2%80%93_logo.png" tvg-status="live" group-title="General",6 TV Gorlovka
+http://91.214.48.158:4022/udp/224.2.2.4:10000
 #EXTINF:-1 tvg-id="86.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/0dRS4Cb.png" tvg-status="live" group-title="General",86
 https://sitv.ru/hls/s86.m3u8
 #EXTINF:-1 tvg-id="A2.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/NqHla2V.png" tvg-status="live" group-title="Series",A2
@@ -475,6 +477,8 @@ https://live-vestinn.cdnvideo.ru/vestinn/nn24-khl/playlist.m3u8
 https://fs.uplink.kz/nostalgia/mono.m3u8?token=onlinetv
 #EXTINF:-1 tvg-id="NovgorOblTV.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/2JspHVY.png" tvg-status="live" group-title="General",NovgorOblTV
 https://rt-nw-novg-htlive.cdn.ngenix.net/hls/CH_R02_NOVGORODTV/variant.m3u8
+#EXTINF:-1 tvg-id="NovorossiyaTV.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/ijmf0bV.png" tvg-status="live" group-title="News",Novorossiya TV
+http://31.131.139.253:9002/novoros/index.m3u8
 #EXTINF:-1 tvg-id="NovyiRusskii.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/iuRSScH.png" tvg-status="down" group-title="Movies",Novyi Russkii
 https://live.15plusmg.ru/memfs/f983b507-a170-41a9-85a9-d9afc6cba9c1.m3u8
 #EXTINF:-1 tvg-id="NST.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/uv2yxa5.png" tvg-status="live" group-title="General",NST
@@ -519,6 +523,8 @@ http://stream.mcquack.net/491/index.m3u8
 http://stream.mcquack.net/493/index.m3u8
 #EXTINF:-1 tvg-id="OkkoSport.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/SYOaOQc.png" tvg-status="live" group-title="Sports",Okko Sport
 http://stream.mcquack.net/492/index.m3u8
+#EXTINF:-1 tvg-id="OplotTV.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/RvUkId2.png" tvg-status="live" group-title="News",Oplot TV
+http://31.131.139.253:9002/oplot_hd/index.m3u8
 #EXTINF:-1 tvg-id="Oruzhie.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/lfJQJqa.png" tvg-status="live" group-title="Entertainment",Oruzhie
 https://fs.uplink.kz/oruzhie/mono.m3u8?token=onlinetv
 #EXTINF:-1 tvg-id="OsetiyaIryston.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/N0Zn4zU.png" tvg-status="live" group-title="General",Osetiya-Iryston
@@ -777,8 +783,8 @@ http://stream.mcquack.net/111/index.m3u8
 http://live.tkr.cdnvideo.ru/tkr/tkr.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="TNT.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/T4A6rEI.png" tvg-status="live" group-title="Entertainment",TNT
 http://str2.iptvhd.ru:8080/TNTHD/index.m3u8
-#EXTINF:-1 tvg-id="TNTInternational.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/l0RGbRI.png" tvg-status="down" group-title="Entertainment",TNT International
-https://cdn4.skygo.mn/live/disk1/THT/HLSv3-FTA/THT.m3u8
+#EXTINF:-1 tvg-id="TNTInternational.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/l0RGbRI.png" tvg-status="live" group-title="Entertainment",TNT International
+http://05cea6e8.ucomist.net/iptv/VK7YCHHWNDD8XC/15230/index.m3u8
 #EXTINF:-1 tvg-id="TNT4.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/gBokU5i.png" tvg-status="live" group-title="Entertainment",TNT4
 http://str2.iptvhd.ru:8080/TNT_4/index.m3u8
 #EXTINF:-1 tvg-id="TNT4International.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/gBokU5i.png" tvg-status="live" group-title="Entertainment",TNT4 International

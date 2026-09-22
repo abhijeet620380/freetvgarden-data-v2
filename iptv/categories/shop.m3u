@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="1001Noites.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/dWA9y2J.png" tvg-status="live" group-title="Shop",1001 Noites
+#EXTINF:-1 tvg-id="1001Noites.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/dWA9y2J.png" tvg-status="down" group-title="Shop",1001 Noites
 https://cdn.jmvstream.com/w/LVW-8155/ngrp:LVW8155_41E1ciuCvO_all/playlist.m3u8
 #EXTINF:-1 tvg-id="30ATheBeachShow.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/0j5Aget.png" tvg-status="live" group-title="Shop",30A The Beach Show
 https://30a-tv.com/beachy.m3u8
@@ -113,6 +113,8 @@ https://livefta.malimarcdn.com/ftaedge00/laostv.sdp/playlist.m3u8
 https://s1.tv-nano.com/Magnat_HD_5119705/video.m3u8
 #EXTINF:-1 tvg-id="MagnificentMoviesNetwork.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/CXjo8kn.png" tvg-status="down" group-title="Movies",Magnificent Movies Network
 https://mmn1-301f.kxcdn.com/hls/MMN-HLS.m3u8
+#EXTINF:-1 tvg-id="Mango.pl" tvg-country="PL" tvg-language="Polish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/NewLogoMango.svg" tvg-status="live" group-title="Shop",Mango
+https://lb2.pluscdn.pl/ch/1580235/3496/hls/a149fc4b/masterlist.m3u8
 #EXTINF:-1 tvg-id="MOMOTV.tw" tvg-country="TW" tvg-language="Chinese" tvg-logo="https://m.momoshop.com.tw/img/message.png" tvg-status="down" group-title="Shop",MOMO TV
 http://nmk.ioapk.com:5050/4gtv-live107/index.m3u8
 #EXTINF:-1 tvg-id="famelack-zp392zIs8jMyat" tvg-country="TW" tvg-language="Chinese" tvg-logo="" tvg-status="live" group-title="Shop",momo購物一台 CH48
@@ -196,8 +198,8 @@ https://cdn-shop-lc-01.akamaized.net/Content/HLS_HLS/Live/channel(TJCOTT)/index.
 #EXTINF:-1 tvg-id="famelack-hdo4XGj87XeZof" tvg-country="UK" tvg-language="English" tvg-logo="" tvg-status="live" group-title="Shop",TJC Style
 https://www.youtube-nocookie.com/embed/Zswxn5QW_54
 #EXTINF:-1 tvg-id="TSC.ca" tvg-country="CA" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/TSC_logo.svg/960px-TSC_logo.svg.png" tvg-status="live" group-title="Shop",TSC
-https://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8
-#EXTINF:-1 tvg-id="TUSO.ua" tvg-country="UA" tvg-language="Ukrainian" tvg-logo="https://i.imgur.com/kb4B9wN.png" tvg-status="live" group-title="Shop",TUSO
+https://tscamd.akamaized.net/hls/live/503340/TSCLive/master.m3u8
+#EXTINF:-1 tvg-id="famelack-WcoZqsaKguXix1" tvg-country="UA" tvg-language="Ukrainian" tvg-logo="" tvg-status="live" group-title="Shop",TUSO
 https://tuso.cdn-01.cosmonova.net.ua/hls/tuso_ua.m3u8
 #EXTINF:-1 tvg-id="TVSConsumerDirect.us" tvg-country="US" tvg-language="English" tvg-logo="https://www.watchyour.tv/channels/logo/tvs-consumer-direct.jpg" tvg-status="live" group-title="Shop",TVS Consumer Direct
 https://rpn.bozztv.com/gusa/gusa-ConsumerDirect/index.m3u8
