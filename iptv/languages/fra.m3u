@@ -45,7 +45,7 @@ https://edge13.vedge.infomaniak.com/livecast/ik:adhtv/manifest.m3u8
 https://goccn.cloud/hls/amanitv/index.m3u8
 #EXTINF:-1 tvg-id="AntenneA.cd" tvg-country="CD" tvg-language="French" tvg-logo="https://i.imgur.com/tgxrcv7.png" tvg-status="down" group-title="General",Antenne A
 http://51.254.199.122:8080/antenne_a-plus/index.m3u8
-#EXTINF:-1 tvg-id="AntenneReunion.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/EPIMMaB.png" tvg-status="live" group-title="General",Antenne Reunion
+#EXTINF:-1 tvg-id="famelack-MV7j6dHcEiwyvr" tvg-country="FR" tvg-language="French" tvg-logo="" tvg-status="live" group-title="General",Antenne Reunion
 https://live-antenne-reunion.zeop.tv/live/c3eds/antreunihd/hls_fta/antreunihd.m3u8?location=ZEOP01
 #EXTINF:-1 tvg-id="arte.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/ecXMjNl.png" tvg-status="down" group-title="Entertainment",arte
 https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8
@@ -87,7 +87,7 @@ https://live-cdn-bfmtvlyo-euw1.bfmtv.bct.nextradiotv.com/master.m3u8
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_MARSEILLEPROV/index.m3u8?end=END&start=LIVE
 #EXTINF:-1 tvg-id="famelack-cUhHOnv9aj6JeQ" tvg-country="FR" tvg-language="French" tvg-logo="" tvg-status="live" group-title="News",BFM Normandie
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_NORMANDIE/index.m3u8?end=END&start=LIVE
-#EXTINF:-1 tvg-id="famelack-oMWoXuzyayZcUr" tvg-country="FR" tvg-language="French" tvg-logo="" tvg-status="live" group-title="News",BFM Tech & Co
+#EXTINF:-1 tvg-id="famelack-oMWoXuzyayZcUr" tvg-country="FR" tvg-language="French" tvg-logo="" tvg-status="live" group-title="Science",BFM Tech & Co
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TECHANDCO/index.m3u8?end=END&start=LIVE
 #EXTINF:-1 tvg-id="BFMTV.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/YJCcczD.png" tvg-status="live" group-title="News",BFM TV
 https://live-cdn-stream-euw1.bfmtv.bct.nextradiotv.com/master.m3u8
@@ -95,6 +95,8 @@ https://live-cdn-stream-euw1.bfmtv.bct.nextradiotv.com/master.m3u8
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TOULONVAR/index.m3u8?end=END&start=LIVE
 #EXTINF:-1 tvg-id="BFM2.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://alloforfait.fr/wp-content/uploads/2024/03/logo-bfm2-300x200.jpg" tvg-status="live" group-title="News",BFM2
 https://d1ib1gsg71oarf.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-scp7wda722jph/BFM2_FR.m3u8
+#EXTINF:-1 tvg-id="Bobleponge.us" tvg-country="US" tvg-language="French" tvg-logo="https://images.pluto.tv/channels/66588931a3865300085ca800/colorLogoSVG.svg" tvg-status="live" group-title="Kids",Bob l'eponge
+https://jmp2.uk/plu-66588931a3865300085ca800.m3u8
 #EXTINF:-1 tvg-id="BossBrothersTV.cd" tvg-country="CD" tvg-language="French" tvg-logo="https://i.imgur.com/rc9MXm5.png" tvg-status="down" group-title="General",Boss Brothers TV
 http://51.254.199.122:8080/bossbrothersTV/index.m3u8
 #EXTINF:-1 tvg-id="Bouke.be" tvg-country="BE" tvg-language="French" tvg-logo="https://i.imgur.com/STLavel.png" tvg-status="live" group-title="General",Bouke
@@ -329,7 +331,7 @@ https://video1.getstreamhosting.com:1936/8055/8055/playlist.m3u8
 https://edge13.vedge.infomaniak.com/livecast/ik:kalactv/chunklist_w280736538.m3u8
 #EXTINF:-1 tvg-id="KassouaTV.bj" tvg-country="BJ" tvg-language="French" tvg-logo="https://i.imgur.com/EfX3HNG.png" tvg-status="live" group-title="General",KassouaTV
 https://playtv4k.live/live/kassouatv/index.m3u8
-#EXTINF:-1 tvg-id="famelack-MENDV9zQPKUclz" tvg-country="CM" tvg-language="French" tvg-logo="" tvg-status="live" group-title="Culture",Kemet TV
+#EXTINF:-1 tvg-id="KemetTV.cm" tvg-country="CM" tvg-language="French" tvg-logo="https://i.imgur.com/NZ0YqOb.jpeg" tvg-status="live" group-title="Culture",Kemet TV
 https://kemettv.cm/memfs/b6d60ea7-18b4-4afb-b84f-bd082ed7f74f.m3u8
 #EXTINF:-1 tvg-id="Kin24.cd" tvg-country="CD" tvg-language="French" tvg-logo="https://i.imgur.com/Lak10Wo.png" tvg-status="down" group-title="News",Kin24
 http://51.254.199.122:8080/kin24/index.m3u8
@@ -353,8 +355,6 @@ https://tvalive.akamaized.net/hls/live/2014213/tvan01/tvan01.m3u8
 https://static.lefigaro.fr/secom/tnt.m3u8
 #EXTINF:-1 tvg-id="Lemiracledelamour.us" tvg-country="US" tvg-language="French" tvg-logo="https://i.imgur.com/3Xz4hjD.png" tvg-status="live" group-title="Series",Le miracle de l'amour
 https://jmp2.uk/plu-60549c238c3f21000753d3e0.m3u8
-#EXTINF:-1 tvg-id="LeMondeen24h.cd" tvg-country="CD" tvg-language="French" tvg-logo="https://i.imgur.com/2igwi7g.png" tvg-status="live" group-title="News",Le Monde en 24h
-https://stream.berosat.live/hls/monde24h-tv-index/monde24h-tv-index.m3u8
 #EXTINF:-1 tvg-id="LeNouveauManagerTV.bj" tvg-country="BJ" tvg-language="French" tvg-logo="https://i.imgur.com/pEoOtEf.jpeg" tvg-status="live" group-title="Business",Le Nouveau Manager TV
 https://lnmlive.com/live/lnmtv.m3u8
 #EXTINF:-1 tvg-id="LemanBleu.ch" tvg-country="CH" tvg-language="French" tvg-logo="https://i.imgur.com/6ijbSTr.png" tvg-status="down" group-title="News",Leman Bleu
@@ -687,7 +687,7 @@ https://channels.trace.plus/Traceprod/AYITI_hd/index.m3u8
 https://channels.trace.plus/Traceprod/CARIBBEAN_hd/index.m3u8
 #EXTINF:-1 tvg-id="TraceGospel.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/X0UmU3K.png" tvg-status="live" group-title="Music",Trace Gospel
 https://channels.trace.plus/Traceprod/GOSPEL_ROA_hd/index.m3u8
-#EXTINF:-1 tvg-id="famelack-qlnlzIINox50mW" tvg-country="FR" tvg-language="French" tvg-logo="" tvg-status="live" group-title="Religious",Trace Gospel Southern Africa
+#EXTINF:-1 tvg-id="famelack-qlnlzIINox50mW" tvg-country="FR" tvg-language="French" tvg-logo="" tvg-status="live" group-title="Music",Trace Gospel Southern Africa
 https://channels.trace.plus/Traceprod/GOSPEL_SA_hd/index.m3u8
 #EXTINF:-1 tvg-id="TraceIvoire.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/W2l3rVx.png" tvg-status="live" group-title="Music",Trace Ivoire
 https://channels.trace.plus/Traceprod/TRACE_IVOIRE_hd/index.m3u8
@@ -719,7 +719,7 @@ https://jmp2.uk/plu-66f55c3955567d0008ef9b68.m3u8
 http://194.163.157.137:8080/hls/radioalsace.m3u8
 #EXTINF:-1 tvg-id="TVBreizh.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/O8W4yhn.png" tvg-status="down" group-title="General",TV Breizh
 http://145.239.5.177/318/index.m3u8
-#EXTINF:-1 tvg-id="famelack-usETpjVP1bzVNN" tvg-country="MQ" tvg-language="French" tvg-logo="" tvg-status="live" group-title="Family",TV Famille
+#EXTINF:-1 tvg-id="TVFamille.mq" tvg-country="MQ" tvg-language="French" tvg-logo="https://i.imgur.com/Kbfihk5.png" tvg-status="live" group-title="Family",TV Famille
 https://streamer1.streamhost.org/salive/GMItvfh/playlist.m3u8
 #EXTINF:-1 tvg-id="TVLux.be" tvg-country="BE" tvg-language="French" tvg-logo="https://i.imgur.com/ljbdWkC.png" tvg-status="live" group-title="General",TV Lux
 https://dlgt0tdl2hpq3.cloudfront.net/rtbf/clr-rtbf/764748cd/index.m3u8
@@ -785,7 +785,7 @@ https://streamer01.myvideoplace.tv/streamer02/hls/MDS_VIA_PAD_301117.m3u8
 https://srv.webtvmanager.fr:3970/live/viatelepaeselive.m3u8
 #EXTINF:-1 tvg-id="VosgesTV.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/7y7ancc.png" tvg-status="live" group-title="General",Vosges TV
 https://vosgestv.live-kd.com/live/vosgestv/vosgestv/playlist.m3u8
-#EXTINF:-1 tvg-id="famelack-dD79NkqD1a1tDQ" tvg-country="CD" tvg-language="French" tvg-logo="" tvg-status="live" group-title="Entertainment",Vox Kongo TV
+#EXTINF:-1 tvg-id="famelack-dD79NkqD1a1tDQ" tvg-country="CD" tvg-language="French" tvg-logo="" tvg-status="live" group-title="Music",Vox Kongo TV
 https://5caf24a595d94.streamlock.net:1937/8028/8028/playlist.m3u8
 #EXTINF:-1 tvg-id="VoyagesSaveurs.es" tvg-country="ES" tvg-language="French" tvg-logo="https://images.pluto.tv/channels/680291e38e1ff89c2427aefd/colorLogoPNG_1749650211442.png" tvg-status="live" group-title="Travel",Voyages & Saveurs
 https://jmp2.uk/plu-680291e38e1ff89c2427aefd.m3u8
