@@ -1,9 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="100AutoMotoTV.bg" tvg-country="BG" tvg-language="Bulgarian" tvg-logo="https://i.imgur.com/SZtJfOG.png" tvg-status="down" group-title="Auto",100% Auto Moto TV
+#EXTINF:-1 tvg-id="100AutoMotoTV.bg" tvg-country="BG" tvg-language="Bulgarian" tvg-logo="https://i.imgur.com/SZtJfOG.png" tvg-native-name="100% Ауто Мото ТВ" tvg-status="down" group-title="Auto",100% Auto Moto TV
 http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
-#EXTINF:-1 tvg-id="78TV.bg" tvg-country="BG" tvg-language="Bulgarian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Seven-Eight-TV.png/960px-Seven-Eight-TV.png" tvg-status="down" group-title="Entertainment",7/8 TV
+#EXTINF:-1 tvg-id="78TV.bg" tvg-country="BG" tvg-language="Bulgarian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Seven-Eight-TV.png/960px-Seven-Eight-TV.png" tvg-native-name="Седем-осми ТВ" tvg-status="down" group-title="Entertainment",7/8 TV
 http://213.91.179.28:8000/play/a0cn
-#EXTINF:-1 tvg-id="AgroTV.bg" tvg-country="BG" tvg-language="Bulgarian" tvg-logo="https://i.imgur.com/tPMNDtD.png" tvg-status="live" group-title="Outdoor",Agro TV
+#EXTINF:-1 tvg-id="AgroTV.bg" tvg-country="BG" tvg-language="Bulgarian" tvg-logo="https://i.imgur.com/tPMNDtD.png" tvg-native-name="АГРО ТВ" tvg-status="live" group-title="Outdoor",Agro TV
 https://restr2.bgtv.bg/agro/hls/agro.m3u8
 #EXTINF:-1 tvg-id="AXNBlack.us" tvg-country="US" tvg-language="Bulgarian" tvg-logo="https://i.imgur.com/Peo1QiZ.png" tvg-status="live" group-title="Movies",AXN Black
 http://88.212.15.19/live/test_black/playlist.m3u8
@@ -11,7 +11,7 @@ http://88.212.15.19/live/test_black/playlist.m3u8
 http://213.91.179.28:8000/play/a04m
 #EXTINF:-1 tvg-id="BNT1.bg" tvg-country="BG" tvg-language="Bulgarian" tvg-logo="https://i.imgur.com/7JU9b5j.png" tvg-status="live" group-title="General",BNT 1
 https://shift03.isp.bg/BNT1_HD/index.m3u8
-#EXTINF:-1 tvg-id="BNT2.bg" tvg-country="BG" tvg-language="Bulgarian" tvg-logo="https://i.imgur.com/FyTUr9Q.png" tvg-status="live" group-title="General",BNT 2
+#EXTINF:-1 tvg-id="BNT2.bg" tvg-country="BG" tvg-language="Bulgarian" tvg-logo="https://i.imgur.com/FyTUr9Q.png" tvg-status="down" group-title="General",BNT 2
 https://shift03.isp.bg/BNT2_HD/index.m3u8
 #EXTINF:-1 tvg-id="BNT3.bg" tvg-country="BG" tvg-language="Bulgarian" tvg-logo="https://i.imgur.com/pPpSJ4u.png" tvg-status="live" group-title="General",BNT 3
 https://shift03.isp.bg/BNT3_HD/index.m3u8
@@ -41,7 +41,7 @@ https://tv.city.bg/play/tshls/citytv/index.m3u8
 https://cdn2.invivo.bg/Codefashion_5500/index.m3u8
 #EXTINF:-1 tvg-id="CodeHealthTV.bg" tvg-country="BG" tvg-language="Bulgarian" tvg-logo="https://i.imgur.com/NXBMzGV.png" tvg-status="live" group-title="Lifestyle",Code Health TV
 https://cdn2.invivo.bg/codehealth_test/index.m3u8
-#EXTINF:-1 tvg-id="Diema.bg" tvg-country="BG" tvg-language="Bulgarian" tvg-logo="" tvg-status="down" group-title="Movies",Diema
+#EXTINF:-1 tvg-id="Diema.bg" tvg-country="BG" tvg-language="Bulgarian" tvg-logo="" tvg-native-name="Диема" tvg-status="down" group-title="Movies",Diema
 http://213.91.179.28:8000/play/a045
 #EXTINF:-1 tvg-id="DiemaFamily.bg" tvg-country="BG" tvg-language="Bulgarian" tvg-logo="https://i.imgur.com/SgNVY4d.png" tvg-status="down" group-title="Family",Diema Family
 http://213.91.179.28:8000/play/a047
@@ -51,7 +51,7 @@ http://213.91.179.28:8000/play/a059
 http://46.249.95.140:8081/hls/data.m3u8
 #EXTINF:-1 tvg-id="EKids.bg" tvg-country="BG" tvg-language="Bulgarian" tvg-logo="" tvg-status="live" group-title="Kids",EKids
 http://78.108.244.134:8899/ekids
-#EXTINF:-1 tvg-id="Eurocom.bg" tvg-country="BG" tvg-language="Bulgarian" tvg-logo="" tvg-status="down" group-title="General",Eurocom
+#EXTINF:-1 tvg-id="Eurocom.bg" tvg-country="BG" tvg-language="Bulgarian" tvg-logo="" tvg-native-name="Евроком" tvg-status="down" group-title="General",Eurocom
 https://live.ecomservice.bg/hls/stream.m3u8
 #EXTINF:-1 tvg-id="EuronewsBulgaria.bg" tvg-country="BG" tvg-language="Bulgarian" tvg-logo="https://i.imgur.com/RrQVoOg.png" tvg-status="down" group-title="News",Euronews Bulgaria
 http://213.91.179.28:8000/play/a05e
@@ -61,9 +61,9 @@ http://213.91.179.28:8000/play/a0c1
 http://213.91.179.28:8000/play/a0cl
 #EXTINF:-1 tvg-id="HopeChannelBulgaria.bg" tvg-country="BG" tvg-language="Bulgarian" tvg-logo="https://i.imgur.com/bxzeEML.png" tvg-status="down" group-title="Religious",Hope Channel Bulgaria
 https://hc1.hopetv.bg/live/hopetv_all.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="ID.bg" tvg-country="BG" tvg-language="Bulgarian" tvg-logo="" tvg-status="down" group-title="Documentary",ID
+#EXTINF:-1 tvg-id="ID.bg" tvg-country="BG" tvg-language="Bulgarian" tvg-logo="" tvg-native-name="ID България" tvg-status="down" group-title="Documentary",ID
 http://213.91.179.28:8000/play/a0cf
-#EXTINF:-1 tvg-id="KinoNova.bg" tvg-country="BG" tvg-language="Bulgarian" tvg-logo="https://i.imgur.com/hMqEY0J.png" tvg-status="down" group-title="Movies",Kino Nova
+#EXTINF:-1 tvg-id="KinoNova.bg" tvg-country="BG" tvg-language="Bulgarian" tvg-logo="https://i.imgur.com/hMqEY0J.png" tvg-native-name="Кино Нова" tvg-status="down" group-title="Movies",Kino Nova
 http://213.91.179.28:8000/play/a041
 #EXTINF:-1 tvg-id="LightChannel.bg" tvg-country="BG" tvg-language="Bulgarian" tvg-logo="https://i.imgur.com/S3Fbf8T.png" tvg-status="live" group-title="Religious",Light Channel
 https://streamer1.streamhost.org/salive/GMIlcbgM/playlist.m3u8
@@ -87,11 +87,11 @@ http://213.91.179.28:8000/play/a0cu
 http://213.91.179.28:8000/play/a056
 #EXTINF:-1 tvg-id="Nostalgia.bg" tvg-country="BG" tvg-language="Bulgarian" tvg-logo="https://i.imgur.com/JU1dFfK.png" tvg-status="down" group-title="Classic",Nostalgia
 http://213.91.179.28:8000/play/a03q
-#EXTINF:-1 tvg-id="Nova.bg" tvg-country="BG" tvg-language="Bulgarian" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4d/Nova_logo_re.svg" tvg-status="down" group-title="General",Nova
+#EXTINF:-1 tvg-id="Nova.bg" tvg-country="BG" tvg-language="Bulgarian" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4d/Nova_logo_re.svg" tvg-native-name="Нова Телевизия" tvg-status="down" group-title="General",Nova
 http://213.91.179.28:8000/play/a03l
 #EXTINF:-1 tvg-id="NovaNews.bg" tvg-country="BG" tvg-language="Bulgarian" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b3/Novanews_re.svg" tvg-status="down" group-title="News",Nova News
 http://213.91.179.28:8000/play/a063
-#EXTINF:-1 tvg-id="PlovdivOrthodoxTV.bg" tvg-country="BG" tvg-language="Bulgarian" tvg-logo="" tvg-status="live" group-title="Religious",Plovdiv Orthodox TV
+#EXTINF:-1 tvg-id="PlovdivOrthodoxTV.bg" tvg-country="BG" tvg-language="Bulgarian" tvg-logo="" tvg-native-name="Пловдивска Православна телевизия" tvg-status="live" group-title="Religious",Plovdiv Orthodox TV
 http://78.130.149.196:1935/live/pptv.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="RING.bg" tvg-country="BG" tvg-language="Bulgarian" tvg-logo="" tvg-status="down" group-title="Kids",RING
 http://213.91.179.28:8000/play/a06e
@@ -113,11 +113,11 @@ https://streamer103.neterra.tv/tiankov-folk/live.m3u8
 https://streamer103.neterra.tv/tiankov-orient/live.m3u8
 #EXTINF:-1 tvg-id="TravelTV.bg" tvg-country="BG" tvg-language="Bulgarian" tvg-logo="https://i.imgur.com/5xllfed.png" tvg-status="live" group-title="Travel",Travel TV
 https://streamer103.neterra.tv/travel/live.m3u8
-#EXTINF:-1 tvg-id="TVRodina.bg" tvg-country="BG" tvg-language="Bulgarian" tvg-logo="" tvg-status="live" group-title="Music",TV Rodina
+#EXTINF:-1 tvg-id="TVRodina.bg" tvg-country="BG" tvg-language="Bulgarian" tvg-logo="" tvg-native-name="ТВ Родина" tvg-status="live" group-title="Music",TV Rodina
 https://shift03.isp.bg/RodinaTV/index.m3u8
-#EXTINF:-1 tvg-id="TVSpravedlivaBulgariya.bg" tvg-country="BG" tvg-language="Bulgarian" tvg-logo="https://tvsb.bg/theme/images/logo.png" tvg-status="live" group-title="General",TV Spravedliva Bulgariya
+#EXTINF:-1 tvg-id="TVSpravedlivaBulgariya.bg" tvg-country="BG" tvg-language="Bulgarian" tvg-logo="https://tvsb.bg/theme/images/logo.png" tvg-native-name="ТВ Справедлива Бьлгариа" tvg-status="live" group-title="General",TV Spravedliva Bulgariya
 https://tv.tvsb.bg/112.m3u8
-#EXTINF:-1 tvg-id="TVZagora.bg" tvg-country="BG" tvg-language="Bulgarian" tvg-logo="https://i.imgur.com/DvBboqe.png" tvg-status="down" group-title="General",TV Zagora
+#EXTINF:-1 tvg-id="TVZagora.bg" tvg-country="BG" tvg-language="Bulgarian" tvg-logo="https://i.imgur.com/DvBboqe.png" tvg-native-name="ТВ Загора" tvg-status="down" group-title="General",TV Zagora
 http://zagoratv.ddns.net:8080/tvzagora.m3u8
 #EXTINF:-1 tvg-id="TV1000.bg" tvg-country="BG" tvg-language="Bulgarian" tvg-logo="https://i.imgur.com/GHNsctR.png" tvg-status="live" group-title="Movies",TV1000
 http://stream.mcquack.net/100/tracks-v1a1/mono.ts.m3u8?ads=1&filter.tracks=v1a1

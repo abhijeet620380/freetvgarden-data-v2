@@ -1,23 +1,23 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="30ALoomeredTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://cbs12.com/resources/media/0c1ecad8-fb09-4bb2-beaa-fc561dfe624a-small21x9_LoomerStill.jpg?1603419052801" tvg-status="live" group-title="News",30A Loomered TV
 https://30a-tv.com/loomer.m3u8
-#EXTINF:-1 tvg-id="365daysTV.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/NfnAiTR.png" tvg-status="live" group-title="Documentary",365 days TV
+#EXTINF:-1 tvg-id="365daysTV.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/NfnAiTR.png" tvg-native-name="365 дней ТВ" tvg-status="live" group-title="Documentary",365 days TV
 http://stream.mcquack.net/70/index.m3u8
 #EXTINF:-1 tvg-id="AdventureEarth.de" tvg-country="DE" tvg-language="English" tvg-logo="https://i.imgur.com/94Pq9Io.png" tvg-status="live" group-title="Documentary",Adventure Earth
 https://a57e9c69976649b582a8d7604c00e69a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AdventureEarth/playlist.m3u8
-#EXTINF:-1 tvg-id="AlArabiyaPrograms.ae" tvg-country="AE" tvg-language="Arabic" tvg-logo="https://i.imgur.com/Hoc3cfO.png" tvg-status="live" group-title="Documentary",Al Arabiya Programs
+#EXTINF:-1 tvg-id="AlArabiyaPrograms.ae" tvg-country="AE" tvg-language="Arabic" tvg-logo="https://i.imgur.com/Hoc3cfO.png" tvg-native-name="العربية برامج" tvg-status="live" group-title="Documentary",Al Arabiya Programs
 https://live.alarabiya.net/alarabiapublish/aaprograms.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="AlJazeeraDocumentary.qa" tvg-country="QA" tvg-language="Arabic" tvg-logo="https://i.imgur.com/5dNJlLo.png" tvg-status="down" group-title="Documentary",Al Jazeera Documentary
+#EXTINF:-1 tvg-id="AlJazeeraDocumentary.qa" tvg-country="QA" tvg-language="Arabic" tvg-logo="https://i.imgur.com/5dNJlLo.png" tvg-native-name="الجزيرة الوثائقية" tvg-status="down" group-title="Documentary",Al Jazeera Documentary
 https://live-hls-apps-ajd-fa.getaj.net/AJD/index.m3u8
 #EXTINF:-1 tvg-id="AlternaTV.ar" tvg-country="AR" tvg-language="Spanish" tvg-logo="https://tv.alterna.ar/alternatv.png" tvg-status="down" group-title="Music",AlternaTV
 https://tv.alterna.ar/stream/hls/live.m3u8
 #EXTINF:-1 tvg-id="ArchivosForenses.us" tvg-country="US" tvg-language="Spanish" tvg-logo="https://i.imgur.com/Pxrl9Ug.png" tvg-status="live" group-title="Documentary",Archivos Forenses
 https://jmp2.uk/plu-5f984f4a09e92d0007d74647.m3u8
-#EXTINF:-1 tvg-id="Arsenal.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/DBpVeb0.png" tvg-status="live" group-title="Documentary",Arsenal
+#EXTINF:-1 tvg-id="Arsenal.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/DBpVeb0.png" tvg-native-name="Арсенал" tvg-status="live" group-title="Documentary",Arsenal
 https://stream8.cinerama.uz/1414/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="AsharqDiscovery.sa" tvg-country="SA" tvg-language="Arabic" tvg-logo="https://i.imgur.com/Czxi7yk.png" tvg-status="live" group-title="Documentary",Asharq Discovery
+#EXTINF:-1 tvg-id="AsharqDiscovery.sa" tvg-country="SA" tvg-language="Arabic" tvg-logo="https://i.imgur.com/Czxi7yk.png" tvg-native-name="الشرق ديسكفري" tvg-status="live" group-title="Documentary",Asharq Discovery
 https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist_dvr.m3u8
-#EXTINF:-1 tvg-id="AsharqDocumentary.sa" tvg-country="SA" tvg-language="Arabic" tvg-logo="https://i.imgur.com/v6VsFEt.png" tvg-status="live" group-title="Documentary",Asharq Documentary
+#EXTINF:-1 tvg-id="AsharqDocumentary.sa" tvg-country="SA" tvg-language="Arabic" tvg-logo="https://i.imgur.com/v6VsFEt.png" tvg-native-name="الشرق الوثائقية" tvg-status="live" group-title="Documentary",Asharq Documentary
 https://svs.itworkscdn.net/asharqdocumentarylive/asharqdocumentary.smil/playlist_dvr.m3u8
 #EXTINF:-1 tvg-id="Atlas.us" tvg-country="US" tvg-language="English" tvg-logo="https://whiplash.cc/assets/img/channels/atlas.png" tvg-status="live" group-title="Documentary",Atlas
 https://cdn.whiplash.cc/whiplash-atlas/index.m3u8
@@ -31,8 +31,6 @@ http://88.212.15.29/live/test_bbc_eartch_hevc/playlist.m3u8
 https://vs-cmaf-pushb-uk.live.fastly.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_four_hd/iptv_hd_abr_v1.mpd
 #EXTINF:-1 tvg-id="BloombergOriginals.us" tvg-country="US" tvg-language="English" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a69341a2-fce3-4a05-af2e-469540b25d73/BBOriginals_2023_Plex_Stacked_WHTrdx.png" tvg-status="live" group-title="Documentary",Bloomberg Originals
 https://e96a7526.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0Jsb29tYmVyZ09yaWdpbmFsc19ITFM/playlist.m3u8
-#EXTINF:-1 tvg-id="famelack-WH7adDfFfMrDqi" tvg-country="US" tvg-language="English" tvg-logo="" tvg-status="live" group-title="Documentary",Bloomberg Originals US
-https://d3qwwydnxv5vo9.cloudfront.net/v1/bloomberg_quicktake_3/samsungheadend_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="BritBoxMysteries.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/PJdzoLN.png" tvg-status="live" group-title="Documentary",BritBox Mysteries
 https://jmp2.uk/plu-60f5d389985a0c0007357304.m3u8
 #EXTINF:-1 tvg-id="BTBInfo.pl" tvg-country="PL" tvg-language="Polish" tvg-logo="https://btb.j00r.us/img.php?id=87fa06e1418604cb096a0bb3f24e4371&type=Primary&w=400&t=BTB+Info" tvg-status="live" group-title="Documentary",BTB Info
@@ -41,17 +39,17 @@ https://emisja2.btb.j00r.us/iptv/session/4/hls.m3u8
 http://145.239.5.177/359a/index.m3u8
 #EXTINF:-1 tvg-id="CazadordeHomicidas.us" tvg-country="US" tvg-language="Spanish" tvg-logo="https://i.imgur.com/hy6FJLe.png" tvg-status="down" group-title="Documentary",Cazador de Homicidas
 https://jmp2.uk/plu-60ed5fb9c4716d0007d180c5.m3u8
-#EXTINF:-1 tvg-id="CCTV9.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://i.imgur.com/3tivvMm.png" tvg-status="live" group-title="Documentary",CCTV-9
+#EXTINF:-1 tvg-id="CCTV9.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://i.imgur.com/3tivvMm.png" tvg-native-name="CCTV-9 纪录" tvg-status="live" group-title="Documentary",CCTV-9
 https://xykt-fix.github.io/Y77.m3u8
-#EXTINF:-1 tvg-id="CCTVWeaponTechnology.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://i.imgur.com/QlF96eS.png" tvg-status="live" group-title="Documentary",CCTV-Weapon & Technology
+#EXTINF:-1 tvg-id="CCTVWeaponTechnology.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://i.imgur.com/QlF96eS.png" tvg-native-name="CCTV-兵器科技" tvg-status="live" group-title="Documentary",CCTV-Weapon & Technology
 http://38.75.136.137:98/gslb/dsdqpub/gfjs.m3u8?auth=testpub
 #EXTINF:-1 tvg-id="CGTNDocumentary.cn" tvg-country="CN" tvg-language="English" tvg-logo="https://i.imgur.com/JHv0WxM.png" tvg-status="live" group-title="Documentary",CGTN Documentary
 https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8
-#EXTINF:-1 tvg-id="ChemodanTV.ua" tvg-country="UA" tvg-language="Ukrainian" tvg-logo="https://i.imgur.com/1WjGN8u.png" tvg-status="live" group-title="Education",Chemodan TV
+#EXTINF:-1 tvg-id="ChemodanTV.ua" tvg-country="UA" tvg-language="Ukrainian" tvg-logo="https://i.imgur.com/1WjGN8u.png" tvg-native-name="Чемодан ТВ" tvg-status="live" group-title="Education",Chemodan TV
 http://stream.mcquack.net/399/index.m3u8
 #EXTINF:-1 tvg-id="ChinaTravel.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://i.imgur.com/vSgY3CD.png" tvg-status="live" group-title="Documentary",China Travel
 https://fastlive.cctvplus.com/out/v1/ca6f9297b7314a63959435028af287fc/index.m3u8
-#EXTINF:-1 tvg-id="CityEdenKinoDok.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/itRbMX3.png" tvg-status="live" group-title="Documentary",City Eden KinoDok
+#EXTINF:-1 tvg-id="CityEdenKinoDok.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/itRbMX3.png" tvg-native-name="Сити Эдем КиноДок" tvg-status="live" group-title="Documentary",City Eden KinoDok
 https://cityeden.catcast.tv/content/38354/index.m3u8
 #EXTINF:-1 tvg-id="ClickTVChile.cl" tvg-country="CL" tvg-language="Spanish" tvg-logo="https://i.imgur.com/H0XNbMS.png" tvg-status="live" group-title="Documentary",ClickTV Chile
 https://v2.tustreaming.cl/clicktv/playlist.m3u8
@@ -59,7 +57,7 @@ https://v2.tustreaming.cl/clicktv/playlist.m3u8
 https://www.youtube-nocookie.com/embed/fSUMKrxPEd8
 #EXTINF:-1 tvg-id="CNAOriginals.sg" tvg-country="SG" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/500px-CNA_new_logo.svg.png" tvg-status="live" group-title="Documentary",CNA Originals
 https://amg01082-cna-amg01082c1-rlaxx-us-11304.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="CNDFilmDiscoveryChannel.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://i.imgur.com/2FJfPDx.png" tvg-status="down" group-title="Documentary",CND Film Discovery Channel
+#EXTINF:-1 tvg-id="CNDFilmDiscoveryChannel.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://i.imgur.com/2FJfPDx.png" tvg-native-name="中央新影-发现之旅" tvg-status="down" group-title="Documentary",CND Film Discovery Channel
 http://125.210.152.18:9090/live/FXZL_750.m3u8
 #EXTINF:-1 tvg-id="CourtTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/qkfe3o9.png" tvg-status="live" group-title="Documentary",Court TV
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-courttv-tablo/playlist.m3u8
@@ -140,7 +138,7 @@ http://88.212.15.19/live/history_hun/index.m3u8
 #EXTINF:-1 tvg-id="History.si" tvg-country="SI" tvg-language="Slovenian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png" tvg-status="down" group-title="Documentary",History
 https://lb.dstvmultimedia.com/HistoryChannel/index.m3u8
 #EXTINF:-1 tvg-id="History.us" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png" tvg-status="live" group-title="Documentary",History
-http://4.30.180.36:8420/history/index.m3u8?token=test
+http://212.5.144.156:8080/history/index.m3u8
 #EXTINF:-1 tvg-id="History2LatinAmerica.us" tvg-country="US" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/500px-History2_logo_%282022%29.svg.png" tvg-status="live" group-title="Documentary",History 2 Latin America
 http://45.177.114.114/HISTORY_2/index.m3u8
 #EXTINF:-1 tvg-id="HistoryAsia.us" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png" tvg-status="live" group-title="Documentary",History Asia
@@ -159,9 +157,9 @@ http://dtv.vol.net.ua/History_HD/index.m3u8
 http://dtv.vol.net.ua/H2-HD/index.m3u8
 #EXTINF:-1 tvg-id="HRT3.hr" tvg-country="HR" tvg-language="Croatian" tvg-logo="https://i.imgur.com/4OrOJRx.png" tvg-status="live" group-title="Culture",HRT 3
 https://webtvstream.bhtelecom.ba/hrt3.m3u8
-#EXTINF:-1 tvg-id="ID.bg" tvg-country="BG" tvg-language="Bulgarian" tvg-logo="" tvg-status="down" group-title="Documentary",ID
+#EXTINF:-1 tvg-id="ID.bg" tvg-country="BG" tvg-language="Bulgarian" tvg-logo="" tvg-native-name="ID България" tvg-status="down" group-title="Documentary",ID
 http://213.91.179.28:8000/play/a0cf
-#EXTINF:-1 tvg-id="IndiaTVAapKiAdalat.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://play-lh.googleusercontent.com/2IlBX3IQHna8g4g-56vwGWb14K38spcviIh3i7uJCJ32ydfhcKZdOsacgijPkPeerEA" tvg-status="live" group-title="Documentary",India TV Aap Ki Adalat
+#EXTINF:-1 tvg-id="IndiaTVAapKiAdalat.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://play-lh.googleusercontent.com/2IlBX3IQHna8g4g-56vwGWb14K38spcviIh3i7uJCJ32ydfhcKZdOsacgijPkPeerEA" tvg-native-name="इंडिया टीवी आप की अदालत" tvg-status="live" group-title="Documentary",India TV Aap Ki Adalat
 https://amg01550-amg01550c6-samsung-in-4679.playouts.now.amagi.tv/playlist/amg01550-indiatvfast-indiatvakasamsung-samsungin/playlist.m3u8
 #EXTINF:-1 tvg-id="InkMaster.us" tvg-country="US" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/655f2d713944b60008bc7e90/colorLogoSVG.svg" tvg-status="live" group-title="Documentary",Ink Master
 https://jmp2.uk/plu-655f2d713944b60008bc7e90.m3u8
@@ -169,7 +167,7 @@ https://jmp2.uk/plu-655f2d713944b60008bc7e90.m3u8
 https://amg00711-zylo-amg00711c10-rakuten-fr-6731.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="INWILD.nl" tvg-country="NL" tvg-language="English" tvg-logo="https://cdn.uc.assets.prezly.com/92770c71-9d6f-400f-8311-38e9cfec52c2/InWild_landscape-green.png" tvg-status="live" group-title="Documentary",INWILD
 https://amg00861-terninternation-inwild-samsungau-3qrga.amagi.tv/playlist/amg00861-terninternation-inwild-samsungau/playlist.m3u8
-#EXTINF:-1 tvg-id="Istoriya.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/eEjPail.png" tvg-status="live" group-title="Documentary",Istoriya
+#EXTINF:-1 tvg-id="Istoriya.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/eEjPail.png" tvg-native-name="История" tvg-status="live" group-title="Documentary",Istoriya
 https://fs.uplink.kz/istoriya/mono.m3u8?token=onlinetv
 #EXTINF:-1 tvg-id="Jail.uk" tvg-country="UK" tvg-language="English" tvg-logo="https://provider-static.plex.tv/epg/cms/production/08872b9b-a4a7-4533-a19b-d2c24a7bf2f1/JAIL_-_channel_logo_-_light_-_dark_-_1500x1000.png_James_Roebuck.png" tvg-status="live" group-title="Documentary",Jail
 https://e85541db4ae943d9b5a09477d6b1d8ab.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_Jail/playlist.m3u8
@@ -193,7 +191,7 @@ https://mrtvott.com/cache/MRTV-FARMER/master.m3u8
 http://203.81.84.130/hls/mwd_document/index.m3u8
 #EXTINF:-1 tvg-id="N24Doku.de" tvg-country="DE" tvg-language="German" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/N24Doku.svg/960px-N24Doku.svg.png" tvg-status="live" group-title="Documentary",N24 Doku
 https://jmp2.uk/plu-60080e8a4bf36000076a81b1.m3u8
-#EXTINF:-1 tvg-id="Nano.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/dYj3XDa.png" tvg-status="live" group-title="Documentary",Nano
+#EXTINF:-1 tvg-id="Nano.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/dYj3XDa.png" tvg-native-name="Нано" tvg-status="live" group-title="Documentary",Nano
 http://s1.tv-nano.com/Nano_rec/index.m3u8
 #EXTINF:-1 tvg-id="famelack-kfNMC8gMIZfcGp" tvg-country="US" tvg-language="English" tvg-logo="" tvg-status="live" group-title="Documentary",Nat Geo Animals
 https://www.youtube-nocookie.com/embed/MiQe9ob9aDc
@@ -218,7 +216,7 @@ https://onyx1.mofta1.cfd/ngeo/usergenrnd84oeigt.m3u8
 #EXTINF:-1 tvg-id="NationalGeographic.tr" tvg-country="TR" tvg-language="Turkish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png" tvg-status="live" group-title="Documentary",National Geographic
 https://nord.ayakkabiparti.lol/natgeo/index.m3u8
 #EXTINF:-1 tvg-id="NationalGeographic.us" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png" tvg-status="live" group-title="Documentary",National Geographic
-http://198.58.104.90:8989/natgeo/index.m3u8
+http://212.5.144.156:8080/natgeo/index.m3u8
 #EXTINF:-1 tvg-id="famelack-jDb8tgaBS3dpwH" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-status="live" group-title="Documentary",National Geographic
 https://fs.uplink.kz/nat_geo/mono.m3u8?token=onlinetv
 #EXTINF:-1 tvg-id="NationalGeographicLatinAmerica.us" tvg-country="US" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png" tvg-status="live" group-title="Documentary",National Geographic Latin America
@@ -251,7 +249,7 @@ https://amg00090-blueantmedia-naturetime-samsungse-axgcn.amagi.tv/playlist/amg00
 https://amg00090-blueantllc-lovenature-au-samsungau-wggcn.amagi.tv/playlist/amg00090-blueantllc-lovenature-au-samsungau/playlist.m3u8
 #EXTINF:-1 tvg-id="famelack-T0TMY0MmpuHlBC" tvg-country="UK" tvg-language="English" tvg-logo="" tvg-status="live" group-title="Documentary",NatureTime UK
 https://amg01515-amg01515c43-samsung-gb-9038.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="Nauka.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/ZZxzueO.png" tvg-status="live" group-title="Documentary",Nauka
+#EXTINF:-1 tvg-id="Nauka.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/ZZxzueO.png" tvg-native-name="Наука" tvg-status="live" group-title="Documentary",Nauka
 http://stream.mcquack.net/125/index.m3u8
 #EXTINF:-1 tvg-id="OzbekistonTarixi.uz" tvg-country="UZ" tvg-language="Uzbek" tvg-logo="https://i.imgur.com/iTTd3Ir.png" tvg-status="live" group-title="Documentary",O'zbekiston Tarixi
 https://stream8.cinerama.uz/1209/tracks-v1a1/playlist.m3u8
@@ -353,7 +351,7 @@ http://185.227.34.179:8080/polsat-viasat-history-hd/index.m3u8
 http://23.237.104.106:8080/USA_REELZ/index.m3u8
 #EXTINF:-1 tvg-id="RLPROTV.cd" tvg-country="CD" tvg-language="French" tvg-logo="https://i.imgur.com/PIBtCEN.jpeg" tvg-status="live" group-title="Documentary",RL PRO TV
 https://stream.berosat.live:19360/rlpro-tv/rlpro-tv.m3u8
-#EXTINF:-1 tvg-id="RTDocumentary.ru" tvg-country="RU" tvg-language="English" tvg-logo="https://i.imgur.com/aeu5zIC.png" tvg-status="live" group-title="Documentary",RT Documentary
+#EXTINF:-1 tvg-id="RTDocumentary.ru" tvg-country="RU" tvg-language="English" tvg-logo="https://i.imgur.com/aeu5zIC.png" tvg-native-name="RTД" tvg-status="live" group-title="Documentary",RT Documentary
 https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8
 #EXTINF:-1 tvg-id="famelack-0mulGVhtSW9kDC" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-status="live" group-title="Documentary",RTД
 https://rt-doc.rttv.com/dvr/rtdru/playlist.m3u8
@@ -367,7 +365,7 @@ https://tvsen6.aynaott.com/skynature/index.m3u8
 https://jmp2.uk/plu-6298bd10d88ef000073f16b7.m3u8
 #EXTINF:-1 tvg-id="SmithsonianChannelSelects.se" tvg-country="SE" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/61fb988e032c0100077d5252/colorLogoSVG.svg" tvg-status="live" group-title="Documentary",Smithsonian Channel Selects
 https://jmp2.uk/plu-61fb988e032c0100077d5252.m3u8
-#EXTINF:-1 tvg-id="Smotrim100Fakty.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/dB3cJzO.png" tvg-status="live" group-title="Documentary",Smotrim 100% Fakty
+#EXTINF:-1 tvg-id="Smotrim100Fakty.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/dB3cJzO.png" tvg-native-name="Смотрим 100% Факты" tvg-status="live" group-title="Documentary",Smotrim 100% Fakty
 https://stream.smotrim.ru/hls/fasttv06/playlist_3.m3u8
 #EXTINF:-1 tvg-id="SonyBBCEarth.in" tvg-country="IN" tvg-language="English" tvg-logo="https://dtil.tmsimg.com/assets/s143799_ld_h15_aa.png?lock=720x540" tvg-status="live" group-title="Documentary",Sony BBC Earth
 https://cloudplay-sonyliv.pages.dev/bbcearthhd.m3u8
@@ -387,9 +385,9 @@ http://str2.iptvhd.ru:8080/TERRA_HD/index.m3u8
 https://amg01775-amg01775c1-amgplt0343.playout.now3.amagi.tv/playlist/amg01775-amg01775c1-amgplt0343/playlist.m3u8
 #EXTINF:-1 tvg-id="TheNest.us" tvg-country="US" tvg-language="English" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/12/The_Nest_2023.svg/revision/latest/scale-to-width-down/250" tvg-status="live" group-title="Entertainment",The Nest
 https://fast-channels.sinclairstoryline.com/THENEST/index.m3u8
-#EXTINF:-1 tvg-id="Tochkarf.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://cdn2.red-media.ru/wp-content/uploads/2016/08/TochkaRF-Logo.png" tvg-status="live" group-title="Documentary",Tochka.rf
+#EXTINF:-1 tvg-id="Tochkarf.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://cdn2.red-media.ru/wp-content/uploads/2016/08/TochkaRF-Logo.png" tvg-native-name="Точка РФ" tvg-status="live" group-title="Documentary",Tochka.rf
 http://str2.iptvhd.ru:8080/HD_Life/index.m3u8
-#EXTINF:-1 tvg-id="TopSecret.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/HM4xy4G.png" tvg-status="live" group-title="Documentary",Top Secret
+#EXTINF:-1 tvg-id="TopSecret.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/HM4xy4G.png" tvg-native-name="Совершенно секретно" tvg-status="live" group-title="Documentary",Top Secret
 http://str2.iptvhd.ru:8080/Sovershenno_sekretno/index.m3u8
 #EXTINF:-1 tvg-id="TotalCrime.ca" tvg-country="CA" tvg-language="English" tvg-logo="https://www.totalcrimetv.com/wp-content/uploads/2022/10/crimetime-logo-white.png" tvg-status="live" group-title="Documentary",Total Crime
 https://aegis-cloudfront-1.tubi.video/b062c287-a170-47df-99e4-f5dcd441ee59/playlist.m3u8
@@ -448,6 +446,8 @@ http://str2.iptvhd.ru:8080/Viasat_Nature_HD/index.m3u8
 #EXTINF:-1 tvg-id="vijuPlusPlanet.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/9Weqdsk.png" tvg-status="live" group-title="Documentary",viju+ Planet
 http://stream.mcquack.net/240/index.m3u8
 #EXTINF:-1 tvg-id="WaterBear.ch" tvg-country="CH" tvg-language="English" tvg-logo="https://framerusercontent.com/images/41VQQ7F0fYlp1MX1N4Ixog5QnPI.png" tvg-status="live" group-title="Documentary",WaterBear
+https://amg01415-waterbearnetwor-waterbear-samsunguk-1h0y8.amagi.tv/playlist/amg01415-waterbearnetwor-waterbear-samsunguk/playlist.m3u8
+#EXTINF:-1 tvg-id="famelack-zi0G4CpWbSYUlF" tvg-country="UK" tvg-language="English" tvg-logo="" tvg-status="live" group-title="Documentary",WaterBear
 https://amg01415-waterbearnetwor-waterbear-samsunguk-1h0y8.amagi.tv/playlist/amg01415-waterbearnetwor-waterbear-samsunguk/playlist.m3u8
 #EXTINF:-1 tvg-id="WedoBigStories.ch" tvg-country="CH" tvg-language="English" tvg-logo="https://provider-static.plex.tv/epg/cms/production/49cf6309-0a4a-4d39-bdcc-fa48e4ef84a7/WEDOBIGSTORIES_LIGHTTHEME_-_Sorin_Stoian.png" tvg-status="live" group-title="Documentary",Wedo Big Stories
 https://amg00735-videosolutionsa-wedobigdocs-ono-0urlz.amagi.tv/playlist/amg00735-videosolutionsa-wedobigdocs-ono/playlist.m3u8

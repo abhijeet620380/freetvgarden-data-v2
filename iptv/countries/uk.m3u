@@ -13,7 +13,7 @@ https://stream.ecable.tv/afrobeats/index.m3u8
 https://cd198.anystream.uk:8082/hls/abtv3ng/index.m3u8
 #EXTINF:-1 tvg-id="AkaalChannel.uk" tvg-country="UK" tvg-language="Panjabi" tvg-logo="https://i.imgur.com/K81vNbk.png" tvg-status="live" group-title="Religious",Akaal Channel
 https://cdn-globecast.akamaized.net/live/eds/akaal_tv/hls1_smart_akaal/akaal_tv.m3u8
-#EXTINF:-1 tvg-id="AlHiwarTV.uk" tvg-country="UK" tvg-language="Arabic" tvg-logo="https://i.imgur.com/UjOxwdd.png" tvg-status="live" group-title="Education",Al Hiwar TV
+#EXTINF:-1 tvg-id="AlHiwarTV.uk" tvg-country="UK" tvg-language="Arabic" tvg-logo="https://i.imgur.com/UjOxwdd.png" tvg-native-name="قناة الحوار" tvg-status="live" group-title="Education",Al Hiwar TV
 https://mn-nl.mncdn.com/alhiwar_live/smil:alhiwar.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="AlbUKTV.uk" tvg-country="UK" tvg-language="Albanian" tvg-logo="https://i.imgur.com/TMg4Kxi.png" tvg-status="live" group-title="General",Alb UK TV
 http://albuk.dyndns.tv:1935/albuk/albuk.stream/playlist.m3u8
@@ -37,7 +37,7 @@ http://138.121.15.230:9002/BABY-TV/index.m3u8
 https://www.youtube-nocookie.com/embed/sQ7gOdqi8Xw
 #EXTINF:-1 tvg-id="BBCAlba.uk" tvg-country="UK" tvg-language="Gaelic" tvg-logo="https://i.imgur.com/36KDxLg.png" tvg-status="down" group-title="General",BBC Alba
 https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_alba/hevc_iptv_mse_v0.mpd
-#EXTINF:-1 tvg-id="BBCArabic.uk" tvg-country="UK" tvg-language="Arabic" tvg-logo="https://i.imgur.com/ScyTG6P.png" tvg-status="live" group-title="News",BBC Arabic
+#EXTINF:-1 tvg-id="BBCArabic.uk" tvg-country="UK" tvg-language="Arabic" tvg-logo="https://i.imgur.com/ScyTG6P.png" tvg-native-name="بي بي سي عربي" tvg-status="live" group-title="News",BBC Arabic
 https://vs-cmaf-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2.mpd
 #EXTINF:-1 tvg-id="famelack-jwxJ88yTnvCRN9" tvg-country="UK" tvg-language="English" tvg-logo="" tvg-status="live" group-title="Comedy",BBC Comedy Greats
 https://www.youtube-nocookie.com/embed/hJbIWakkNNI
@@ -65,7 +65,7 @@ https://www.youtube-nocookie.com/embed/O1pGmVtj2Y8
 https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_channel_islands/pc_hd_abr_v2.mpd
 #EXTINF:-1 tvg-id="BBCParliament.uk" tvg-country="UK" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/BBC_Parliament_Logo.svg/960px-BBC_Parliament_Logo.svg.png" tvg-status="down" group-title="Legislative",BBC Parliament
 https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_parliament/iptv_hd_abr_v1.mpd
-#EXTINF:-1 tvg-id="BBCPersian.uk" tvg-country="UK" tvg-language="Persian" tvg-logo="https://i.imgur.com/4uTMnPb.png" tvg-status="live" group-title="News",BBC Persian
+#EXTINF:-1 tvg-id="BBCPersian.uk" tvg-country="UK" tvg-language="Persian" tvg-logo="https://i.imgur.com/4uTMnPb.png" tvg-native-name="تلویزیون فارسی بی‌بی‌سی" tvg-status="live" group-title="News",BBC Persian
 https://vs-cmaf-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_persian_tv/pc_hd_abr_v2.mpd
 #EXTINF:-1 tvg-id="BBCRedButton1.uk" tvg-country="UK" tvg-language="English" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb2051.png" tvg-status="down" group-title="General",BBC Red Button 1
 https://vs-cmaf-pushb-uk.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:red_button_one/iptv_hd_abr_v1.mpd
@@ -300,7 +300,7 @@ https://amg00111-hearstmediafast-amg00111c1-samsung-gb-2186.playouts.now.amagi.t
 #EXTINF:-1 tvg-id="Jail.uk" tvg-country="UK" tvg-language="English" tvg-logo="https://provider-static.plex.tv/epg/cms/production/08872b9b-a4a7-4533-a19b-d2c24a7bf2f1/JAIL_-_channel_logo_-_light_-_dark_-_1500x1000.png_James_Roebuck.png" tvg-status="live" group-title="Documentary",Jail
 https://e85541db4ae943d9b5a09477d6b1d8ab.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_Jail/playlist.m3u8
 #EXTINF:-1 tvg-id="JimJamEurope.uk" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/ODhkYyx.png" tvg-status="live" group-title="Kids",JimJam Europe
-http://158.160.149.81:8080/269/index.m3u8
+http://212.5.144.156:8080/jimjam/index.m3u8
 #EXTINF:-1 tvg-id="KalemehTV.uk" tvg-country="UK" tvg-language="Persian" tvg-logo="https://i.imgur.com/RsKKULI.png" tvg-status="live" group-title="Religious",Kalemeh TV
 https://klmhls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="KalsanTV.uk" tvg-country="UK" tvg-language="Somali" tvg-logo="https://i.imgur.com/AqyY1bR.png" tvg-status="down" group-title="Culture",Kalsan TV
@@ -319,7 +319,7 @@ https://amg26277-amg26277c11-samsung-gb-11286.playouts.now.amagi.tv/playlist.m3u
 https://amg02757-amg02757c5-samsung-gb-5765.playouts.now.amagi.tv/playlist/amg02757-loolookids-llkenfast-samsunggb/playlist.m3u8
 #EXTINF:-1 tvg-id="MagnavisionTV.uk" tvg-country="UK" tvg-language="Malayalam" tvg-logo="https://i.imgur.com/mUHixbi.png" tvg-status="live" group-title="Entertainment",Magnavision TV
 https://manatv.akamaized.net/120723/smil:magnavision.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="MasterChefsAcademyTV.uk" tvg-country="UK" tvg-language="Arabic" tvg-logo="https://platform-iuoamc.uk/storage/tv/branding/mca-tv-official-logo.png" tvg-status="live" group-title="Cooking",Master Chefs Academy TV
+#EXTINF:-1 tvg-id="MasterChefsAcademyTV.uk" tvg-country="UK" tvg-language="Arabic" tvg-logo="https://platform-iuoamc.uk/storage/tv/branding/mca-tv-official-logo.png" tvg-native-name="أكاديمية ماستر شيف TV" tvg-status="live" group-title="Cooking",Master Chefs Academy TV
 https://platform-iuoamc.uk/iptv/mca-tv/index.m3u8
 #EXTINF:-1 tvg-id="famelack-cikgs9Ad4zULYg" tvg-country="UK" tvg-language="" tvg-logo="" tvg-status="live" group-title="General",Masterchef UK
 https://d1nn4ic5ci0eid.cloudfront.net/MasterchefUKPoweredbyBanijay_GB.m3u8
@@ -351,7 +351,7 @@ https://amg00627-amg00627c28-rakuten-uk-3984.playouts.now.amagi.tv/playlist/amg0
 https://chlivemta1.akamaized.net/hls/live/2008145/mta1/playlist.m3u8
 #EXTINF:-1 tvg-id="MTA2Europe.uk" tvg-country="UK" tvg-language="Hindi" tvg-logo="https://i.imgur.com/aVts0sz.png" tvg-status="live" group-title="Religious",MTA2 Europe
 https://chlivemta1.akamaized.net/hls/live/2008145/mta2/playlist.m3u8
-#EXTINF:-1 tvg-id="MTA3AlArabia.uk" tvg-country="UK" tvg-language="Arabic" tvg-logo="https://i.imgur.com/m3PEldJ.png" tvg-status="live" group-title="Religious",MTA3 Al-Arabia
+#EXTINF:-1 tvg-id="MTA3AlArabia.uk" tvg-country="UK" tvg-language="Arabic" tvg-logo="https://i.imgur.com/m3PEldJ.png" tvg-native-name="MTA3 العربیتہ" tvg-status="live" group-title="Religious",MTA3 Al-Arabia
 https://chlivemta1.akamaized.net/hls/live/2010556/mta3alarabia/playlist.m3u8
 #EXTINF:-1 tvg-id="MTA4Africa.uk" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/lmVeQQX.png" tvg-status="live" group-title="Religious",MTA4 Africa
 https://chlivemta.akamaized.net/hls/live/2010555/mtaafrica1/playlist.m3u8
@@ -451,7 +451,7 @@ https://setarehhls.wns.live/hls/stream.m3u8
 https://www.youtube-nocookie.com/embed/PvWa9XUzOz8
 #EXTINF:-1 tvg-id="SheffieldLiveTV.uk" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/p0QzCFs.png" tvg-status="live" group-title="General",Sheffield Live TV
 http://tv.sheffieldlive.org/hls/main.m3u8
-#EXTINF:-1 tvg-id="SimayeAzadi.uk" tvg-country="UK" tvg-language="Persian" tvg-logo="https://i.imgur.com/yXcczMq.png" tvg-status="down" group-title="General",Simaye Azadi
+#EXTINF:-1 tvg-id="SimayeAzadi.uk" tvg-country="UK" tvg-language="Persian" tvg-logo="https://i.imgur.com/yXcczMq.png" tvg-native-name="Iran National Televisionسیمای آزادی" tvg-status="down" group-title="General",Simaye Azadi
 https://simaytv.akamaized.net/hls/live/2043550/simayhls/index.m3u8
 #EXTINF:-1 tvg-id="SkyMix.uk" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/hHEz5rq.png" tvg-status="down" group-title="General",Sky Mix
 http://188.138.29.131/skymix/index.m3u8
@@ -573,7 +573,7 @@ https://d2n3779oy6efpi.cloudfront.net/playlist.m3u8
 http://88.212.15.29/live/test_epic_drama_atk_tv/playlist.m3u8
 #EXTINF:-1 tvg-id="famelack-9WZGExiOnwyMBU" tvg-country="UK" tvg-language="" tvg-logo="" tvg-status="live" group-title="General",Video Game Heroes
 https://amg01076-amg01076c16-samsung-gb-4793.playouts.now.amagi.tv/playlist/amg01076-lightning-kcvideogameseng-samsunggb/playlist.m3u8
-#EXTINF:-1 tvg-id="famelack-zi0G4CpWbSYUlF" tvg-country="UK" tvg-language="English" tvg-logo="" tvg-status="live" group-title="Outdoor",WaterBear
+#EXTINF:-1 tvg-id="famelack-zi0G4CpWbSYUlF" tvg-country="UK" tvg-language="English" tvg-logo="" tvg-status="live" group-title="Documentary",WaterBear
 https://amg01415-waterbearnetwor-waterbear-samsunguk-1h0y8.amagi.tv/playlist/amg01415-waterbearnetwor-waterbear-samsunguk/playlist.m3u8
 #EXTINF:-1 tvg-id="famelack-PdlsmNwPyLUBKV" tvg-country="UK" tvg-language="" tvg-logo="" tvg-status="live" group-title="General",Wheels & Steel
 https://amg01775-amg01775c2-amgplt0002.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg01775-amg01775c2-amgplt0002/playlist.m3u8
