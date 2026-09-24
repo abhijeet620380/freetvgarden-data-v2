@@ -46,7 +46,7 @@ https://www.youtube-nocookie.com/embed/ieWEsxh3R6c
 #EXTINF:-1 tvg-id="AlternaTV.ar" tvg-country="AR" tvg-language="Spanish" tvg-logo="https://tv.alterna.ar/alternatv.png" tvg-status="down" group-title="Music",AlternaTV
 https://tv.alterna.ar/stream/hls/live.m3u8
 #EXTINF:-1 tvg-id="AMC.us" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png" tvg-status="live" group-title="Movies",AMC
-http://190.11.225.124:5000/live/amc_hd/playlist.m3u8
+http://23.239.31.26:8989/amc/index.m3u8
 #EXTINF:-1 tvg-id="AMCEurope.uk" tvg-country="UK" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png" tvg-status="live" group-title="Movies",AMC Europe
 http://212.70.131.37:8000/play/a05k
 #EXTINF:-1 tvg-id="AMCLatinAmerica.us" tvg-country="US" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png" tvg-status="live" group-title="Movies",AMC Latin America
@@ -711,7 +711,7 @@ https://jmp2.uk/plu-6728d2be529ac9000830dc15.m3u8
 https://a-cdn.klowdtv.com/live2/nost_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="NovyiRusskii.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/iuRSScH.png" tvg-native-name="Новый Русский" tvg-status="down" group-title="Movies",Novyi Russkii
 https://live.15plusmg.ru/memfs/f983b507-a170-41a9-85a9-d9afc6cba9c1.m3u8
-#EXTINF:-1 tvg-id="famelack-mhvyiXoz4qgSYK" tvg-country="VN" tvg-language="Vietnamese" tvg-logo="" tvg-status="live" group-title="Movies",ON Movies
+#EXTINF:-1 tvg-id="ONMovies.vn" tvg-country="VN" tvg-language="Vietnamese" tvg-logo="https://i.ibb.co/fdbgvtT8/IMG-2523.webp" tvg-status="live" group-title="Movies",ON Movies
 https://freem3u.xyz/api/live/play.m3u8?vid=181
 #EXTINF:-1 tvg-id="OrbitaChileTV.cl" tvg-country="CL" tvg-language="Spanish" tvg-logo="https://i.imgur.com/gbNh79Z.png" tvg-status="down" group-title="Movies",Orbita Chile TV
 https://orbitachiletv.org/hls/0/stream.m3u8
@@ -1089,7 +1089,7 @@ http://138.121.15.230:9002/STAR-CHANNEL/index.m3u8
 http://92.36.202.5:10001/play/a01s
 #EXTINF:-1 tvg-id="StarChannelLatinAmerica.us" tvg-country="US" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/960px-Star_Channel_2020.svg.png" tvg-status="live" group-title="Movies",Star Channel Latin America
 http://15.204.246.24:8080/STARCHANNELHD/index.m3u8
-#EXTINF:-1 tvg-id="famelack-bGtZkBQX1pajI4" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-status="live" group-title="Movies",Star Cinema
+#EXTINF:-1 tvg-id="StarCinema.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/5sis895.png" tvg-status="live" group-title="Movies",Star Cinema
 https://dash2.antik.sk/live/test_star_cinema_atktv/playlist.m3u8
 #EXTINF:-1 tvg-id="StarFamily.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/eGuGHnZ.png" tvg-status="live" group-title="Movies",Star Family
 https://dash2.antik.sk/live/test_star_family_atktv/playlist.m3u8
@@ -1186,7 +1186,7 @@ https://live2.msf.cdn.mediaset.net/content/hls_h0_cls_vos/live/channel(ts)/index
 #EXTINF:-1 tvg-id="UniversalComedy.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/avBL8pQ.png" tvg-status="live" group-title="Movies",Universal Comedy
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/universalcomedy/playlist.m3u8
 #EXTINF:-1 tvg-id="USANetwork.us" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/960px-USA_Network_logo_%282016%29.svg.png" tvg-status="live" group-title="Movies",USA Network
-http://190.11.225.124:5000/live/usa_hd/playlist.m3u8
+http://4.30.180.36:8420/usa/index.m3u8?token=test
 #EXTINF:-1 tvg-id="VelvetEuropeanMovies.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://antiabuse-container.b-cdn.net/eurkino.png" tvg-native-name="Velvet. Европейское кино" tvg-status="down" group-title="Movies",Velvet. European Movies
 https://cdn.rostelekom-tv.xyz/live/LQ3j0n7j0Kq4OQm8.m3u8
 #EXTINF:-1 tvg-id="VelvetGoldenCollection.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://interra-cdn-europe1.b-cdn.net/zolo.png" tvg-native-name="Velvet. Золотая коллекция" tvg-status="down" group-title="Movies",Velvet. Golden Collection
