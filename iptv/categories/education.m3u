@@ -82,7 +82,7 @@ http://stream.mcquack.net/238/index.m3u8
 #EXTINF:-1 tvg-id="DabangaTV.sd" tvg-country="SD" tvg-language="Arabic" tvg-logo="https://i.imgur.com/BH1N6TA.png" tvg-native-name="راديو دبنقا" tvg-status="live" group-title="News",Dabanga TV
 https://hls.dabangasudan.org/hls/stream.m3u8
 #EXTINF:-1 tvg-id="DDKisan.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DD_KISAN/images/LOGO_HD/image.png" tvg-status="live" group-title="Education",DD Kisan
-https://mumbai-edge.smartplaytv.in/DDKisan/index.m3u8
+https://d2lk5u59tns74c.cloudfront.net/out/v1/4f053f2c12a24641bf701fb7f2376750/index.m3u8
 #EXTINF:-1 tvg-id="DensKnowledge.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1701335417_tvchannels_v1.jpg" tvg-status="down" group-title="Education",Dens Knowledge
 https://op-group1-swiftservehd-1.dens.tv/h/h236/index.m3u8
 #EXTINF:-1 tvg-id="DerryTV23.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/MRR6UL3.png" tvg-status="live" group-title="General",DerryTV 23
@@ -187,7 +187,7 @@ https://mumt05.tangotv.in/87NeALx2GYANDARSHAN/index.m3u8
 https://reflect-hudsonctv.cablecast.tv/live-26/live/stream-1/live.m3u8
 #EXTINF:-1 tvg-id="HKTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/AYzdlMz.png" tvg-status="down" group-title="Education",HKTV
 https://reflect-hktv.cablecast.tv/live-3/live/live.m3u8
-#EXTINF:-1 tvg-id="famelack-6EdtrtcTzJTHBM" tvg-country="VN" tvg-language="Vietnamese" tvg-logo="" tvg-status="live" group-title="Education",HTV4
+#EXTINF:-1 tvg-id="HTV4.vn" tvg-country="VN" tvg-language="Vietnamese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/HTV4_logo.webp/960px-HTV4_logo.webp.png" tvg-status="live" group-title="Education",HTV4
 https://freem3u.xyz/api/live/play.m3u8?vid=9
 #EXTINF:-1 tvg-id="ILCECanal15SummaSaberes.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/r7czgOc.png" tvg-status="live" group-title="Education",ILCE Canal 15 Summa Saberes
 https://live-ilce.ovp-vivaro.digital/ovp-origin-abr/ngrp:6359ef999f3fb_all/playlist.m3u8
@@ -355,6 +355,8 @@ https://player.internetaovivo.com:8443/live_tvmackenzieabr/tvmackenzieabr/playli
 https://5ca9af4645e15.streamlock.net/mayas/videomayas/playlist.m3u8
 #EXTINF:-1 tvg-id="TVUFG.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/Yp3dbJo.png" tvg-status="down" group-title="Education",TV UFG
 http://flash.softhost.com.br:1935/ufg/tvufgweb/playlist.m3u8
+#EXTINF:-1 tvg-id="TVUFOP.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://raw.githubusercontent.com/daniloroxette/tvufop/refs/heads/main/images/tvufop_logo.png" tvg-status="live" group-title="Public",TV UFOP
+https://app.tvufop.com.br/hls/tvufop.m3u8
 #EXTINF:-1 tvg-id="TVUG.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/pxkDpTU.jpeg" tvg-status="live" group-title="Education",TV UG
 https://5ca3e84a76d30.streamlock.net/universidadgto/videouniversidadgto/playlist.m3u8
 #EXTINF:-1 tvg-id="TVUJAT.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/4demWOi.png" tvg-status="down" group-title="Education",TV UJAT
@@ -365,6 +367,8 @@ https://stratus.stream.cespi.unlp.edu.ar/hls/tvunlp.m3u8
 https://stv4.janus.cl/playlist/stream.m3u8
 #EXTINF:-1 tvg-id="TV7.dz" tvg-country="DZ" tvg-language="Arabic" tvg-logo="https://i.imgur.com/40rR4hD.png" tvg-native-name="الجزائرية السابعة" tvg-status="live" group-title="Education",TV7
 http://185.9.2.18/chid_352/index.m3u8
+#EXTINF:-1 tvg-id="TVERS.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/MQ6lJpS.png" tvg-status="live" group-title="Culture",TVE RS
+https://streaming.procergs.com.br:8443/tve/stve/playlist.m3u8
 #EXTINF:-1 tvg-id="TVK2.kh" tvg-country="KH" tvg-language="Khmer" tvg-logo="https://i.imgur.com/L36ptO2.png" tvg-status="live" group-title="Education",TVK 2
 https://live.kh.malimarcdn.com/live/tvk2.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="UAATV.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/brCSiGh.png" tvg-status="live" group-title="Education",UAA TV

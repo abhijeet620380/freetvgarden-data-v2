@@ -146,7 +146,7 @@ https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a44
 #EXTINF:-1 tvg-id="famelack-zcW6vCKG9ZO6s9" tvg-country="JP" tvg-language="Japanese" tvg-logo="" tvg-status="live" group-title="News",ABCテレビニュース
 https://www.youtube-nocookie.com/embed/LJtlWB1LXjU
 #EXTINF:-1 tvg-id="ABNAndhraJyoti.in" tvg-country="IN" tvg-language="Telugu" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ABN_Andhra_Jyothi.png" tvg-status="live" group-title="News",ABN Andhra Jyoti
-https://mumbai-edge.smartplaytv.in/ABNAJ/index.m3u8
+https://cdn.pishow.tv/ott/live/407/master.m3u8
 #EXTINF:-1 tvg-id="ABNNews.pk" tvg-country="PK" tvg-language="Urdu" tvg-logo="https://i.imgur.com/R7BThkR.jpeg" tvg-status="live" group-title="News",ABN News
 https://vodzong.mjunoon.tv:8087/streamtest/ABN-161/playlist.m3u8
 #EXTINF:-1 tvg-id="famelack-8AXm6Uithii9dP" tvg-country="IN" tvg-language="Telugu" tvg-logo="" tvg-status="live" group-title="News",ABN Telugu
@@ -493,12 +493,16 @@ https://live-evg2.tv360.metfone.com.kh/livetest/bayontest.stream/playlist.m3u8
 https://servilive.com:3508/stream/play.m3u8
 #EXTINF:-1 tvg-id="BulgariaOnAir.bg" tvg-country="BG" tvg-language="Bulgarian" tvg-logo="https://i.imgur.com/mvShl7F.png" tvg-status="down" group-title="News",Bulgaria On Air
 http://213.91.179.28:8000/play/a05x
+#EXTINF:-1 tvg-id="famelack-kZDRP1VwdKK5y9" tvg-country="US" tvg-language="English" tvg-logo="" tvg-status="live" group-title="News",BX Inform
+https://reflect-stream-bronxnet.cablecast.tv/live-8/live/stream-4/live.m3u8
 #EXTINF:-1 tvg-id="famelack-zn3NIcdYjMvD3s" tvg-country="AR" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="News",C5N
 https://www.youtube-nocookie.com/embed/j6oh4Kqz3UM
 #EXTINF:-1 tvg-id="C9N.py" tvg-country="PY" tvg-language="Spanish" tvg-logo="https://i.imgur.com/iXkwP31.png" tvg-status="down" group-title="News",C9N
 https://d2b5h5wyivfnfl.cloudfront.net/live/48f53430-9014-4459-a048-6169dac14140/ts:abr.m3u8
 #EXTINF:-1 tvg-id="famelack-ogoRpKP9hQVP4l" tvg-country="IN" tvg-language="Bengali" tvg-logo="" tvg-status="live" group-title="News",Calcutta News
 https://www.youtube-nocookie.com/embed/GSAGNBNYgKA
+#EXTINF:-1 tvg-id="famelack-YKXcBcU301g5xd" tvg-country="ES" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="News",Canal 1 Mar Menor Torre Pacheco
+https://directo.tuwebtv.es/canal1.m3u8
 #EXTINF:-1 tvg-id="famelack-Gu6k19yrwk0QaT" tvg-country="AR" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="News",Canal 13 San Juan
 https://www.youtube-nocookie.com/embed/0OX5rC5K8xY
 #EXTINF:-1 tvg-id="Canal26.ar" tvg-country="AR" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/500px-Canal_26_logo_%282022%29.svg.png" tvg-status="live" group-title="News",Canal 26
@@ -1179,7 +1183,7 @@ https://server.thelegitpro.in/kashishnews/kashishnews/index.m3u8
 https://stream.ottlive.co.in/kbcnews/index.m3u8
 #EXTINF:-1 tvg-id="famelack-DYc6FdzoKztkkH" tvg-country="JP" tvg-language="Japanese" tvg-logo="" tvg-status="live" group-title="News",KBC News
 https://www.youtube-nocookie.com/embed/xEbGUGufpx0
-#EXTINF:-1 tvg-id="KBPTimes.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/KBPTimes.png" tvg-status="live" group-title="News",KBP Times
+#EXTINF:-1 tvg-id="famelack-Zt7m6gNnIdd9pw" tvg-country="IN" tvg-language="Hindi" tvg-logo="" tvg-status="live" group-title="News",KBP Times
 https://kbpnews.cloud/Kbptimes/Kbptimeslive/video.m3u8
 #EXTINF:-1 tvg-id="famelack-Z5dt0NMdPPY3fJ" tvg-country="KR" tvg-language="Korean" tvg-logo="" tvg-status="live" group-title="News",KBS News
 https://www.youtube-nocookie.com/embed/OISj_GhoT74
@@ -1309,7 +1313,7 @@ https://htvmada.mada.ps:4443/maannews/index.m3u8
 https://mumt01.tangotv.in/O5aw8Zn3MATHIMUGAMTV/index.m3u8
 #EXTINF:-1 tvg-id="MahaaNews.in" tvg-country="IN" tvg-language="Telugu" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Mahaa-News-logo_2000_X_1125-Transpharent.png" tvg-status="live" group-title="News",Mahaa News
 https://cdn.pishow.tv/ott/live/401/master.m3u8
-#EXTINF:-1 tvg-id="Makan33.il" tvg-country="IL" tvg-language="Arabic" tvg-logo="https://i.imgur.com/RVtQTed.png" tvg-native-name="מכאן 33" tvg-status="live" group-title="News",Makan 33
+#EXTINF:-1 tvg-id="famelack-hbcJB1RCRT6pmz" tvg-country="IL" tvg-language="Arabic" tvg-logo="" tvg-native-name="מכאן 33" tvg-status="live" group-title="News",Makan 33
 https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/makan/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="MalaiMurasuTV.in" tvg-country="IN" tvg-language="Tamil" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/MalaiMurasu%20Seithigal.png" tvg-native-name="மாலைமுரசு செய்திகள்" tvg-status="live" group-title="News",Malai Murasu TV
 https://amg17783-amg17783c1-amgplt0173.playout.now3.amagi.tv/playlist/amg17783-amg17783c1-amgplt0173/playlist.m3u8
@@ -1633,6 +1637,10 @@ https://media.streambrothers.com:1936/8226/8226/playlist.m3u8
 https://legitpro.co.in/nsc9/index.m3u8
 #EXTINF:-1 tvg-id="NTDTVEnglish.us" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/NTD_Logo_with_symbol.svg/960px-NTD_Logo_with_symbol.svg.png" tvg-status="live" group-title="News",NTD TV English
 https://ntd02.akamaized.net/NTD-UK/index.m3u8
+#EXTINF:-1 tvg-id="famelack-tC8c3F84BXvXxm" tvg-country="UK" tvg-language="English" tvg-logo="" tvg-status="live" group-title="News",NTD TV English UK
+https://ntd02.akamaized.net/NTD-UK/index.m3u8
+#EXTINF:-1 tvg-id="famelack-pp7b0Cgw2wZXEQ" tvg-country="US" tvg-language="English" tvg-logo="" tvg-status="live" group-title="News",NTD TV English USA
+https://amg17596-amg17596c1-ntdtv-worldwide-3276.playouts.now.amagi.tv/playlist/amg17596-newtangdynastytelevision-ntdtv-ntdtvworldwide/playlist.m3u8
 #EXTINF:-1 tvg-id="NTN24.co" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/UoKmSAP.png" tvg-status="live" group-title="News",NTN24
 http://181.78.8.199:8000/play/a0a6/index.m3u8
 #EXTINF:-1 tvg-id="ntv.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="https://i.imgur.com/gtZLzxq.png" tvg-status="live" group-title="News",ntv
@@ -1755,6 +1763,8 @@ https://hls02ns.antenaplay.ro/hls/prima-news-hd/index.m3u8
 https://mumt07.tangotv.in/zHjX9OFlPRIMENEWS/index.m3u8
 #EXTINF:-1 tvg-id="Prime9News.in" tvg-country="IN" tvg-language="Telugu" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_CHANNEL_36_UP_UK/images/LOGO_HD/image.png" tvg-status="live" group-title="News",Prime9 News
 https://mumt01.tangotv.in/O5aw8Zn3PRIME9NEWS/index.m3u8
+#EXTINF:-1 tvg-id="famelack-cu9S3t2cvLny0T" tvg-country="MD" tvg-language="Romanian" tvg-logo="" tvg-status="live" group-title="News",PRO TV Chisinau
+https://stream.protv.md/live/sursa-1/index.m3u8
 #EXTINF:-1 tvg-id="ProbashiTVNews.ca" tvg-country="CA" tvg-language="Bengali" tvg-logo="https://i.imgur.com/7oTsfQ4.png" tvg-status="live" group-title="News",Probashi TV News
 http://158.69.24.53:8080/probashi_tv/index.m3u8
 #EXTINF:-1 tvg-id="PROTVNews.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="" tvg-status="live" group-title="News",PROTV News
@@ -2053,7 +2063,7 @@ https://live.tcm10.com.br/tcm10hd/stream.m3u8
 https://live3.tdm.com.mo/ch5/info_ch5.live/playlist.m3u8
 #EXTINF:-1 tvg-id="famelack-PSsEgUNjn9R4KH" tvg-country="FR" tvg-language="French" tvg-logo="" tvg-status="live" group-title="News",Tech & Co
 https://www.youtube-nocookie.com/embed/j9uQt53dmNY
-#EXTINF:-1 tvg-id="Telecanal.cl" tvg-country="CL" tvg-language="Spanish" tvg-logo="https://i.imgur.com/3g6SbSt.png" tvg-status="live" group-title="News",Telecanal
+#EXTINF:-1 tvg-id="famelack-7sW89jZSTBCKqN" tvg-country="CL" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="News",Telecanal
 https://tr.live.clarovtrcdn.vtrplay.com/telecanalsdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 #EXTINF:-1 tvg-id="TelecanalSantaCruz.cl" tvg-country="CL" tvg-language="Spanish" tvg-logo="https://i.imgur.com/5byPkd7.png" tvg-status="down" group-title="News",Telecanal Santa Cruz
 https://origin-us.streaminghd.cl/telecanal/telecanal/playlist.m3u8
@@ -2149,7 +2159,7 @@ https://amg01821-lovetvchannels-lovemagazineuk-samsungse-p1sf1.amagi.tv/playlist
 https://amg01821-lovetvchannels-lovemagazineuk-samsungse-p1sf1.amagi.tv/playlist/amg01821-lovetvchannels-lovemagazineuk-samsungse/playlist.m3u8
 #EXTINF:-1 tvg-id="TribunaTV.sv" tvg-country="SV" tvg-language="Spanish" tvg-logo="https://i.imgur.com/C5vHpd0.png" tvg-status="down" group-title="News",Tribuna TV
 https://cloudflare.streamgato.us:3300/live/tribunatvlive.m3u8
-#EXTINF:-1 tvg-id="TRT.gr" tvg-country="GR" tvg-language="Greek" tvg-logo="https://i.imgur.com/g0jPOcC.png" tvg-native-name="Θεσσαλική Ραδιοφωνία Τηλεόραση" tvg-status="live" group-title="News",TRT
+#EXTINF:-1 tvg-id="famelack-m8BDyIFQ09DrYt" tvg-country="GR" tvg-language="Greek" tvg-logo="" tvg-native-name="Θεσσαλική Ραδιοφωνία Τηλεόραση" tvg-status="live" group-title="News",TRT
 https://av.hellasnet.tv/rst/trt/main_stream.m3u8
 #EXTINF:-1 tvg-id="TRTArabi.tr" tvg-country="TR" tvg-language="Arabic" tvg-logo="https://i.imgur.com/dEfI2M9.png" tvg-status="live" group-title="News",TRT Arabi
 https://tv-trtarabi.medya.trt.com.tr/master.m3u8
@@ -2167,9 +2177,9 @@ https://mdstrm.com/live-stream-playlist/6287fdc9303e3008289ab711.m3u8
 https://59d8c0cee6f3d.streamlock.net/tsn/tsn_mobile/playlist.m3u8
 #EXTINF:-1 tvg-id="famelack-8x10WRiweiEa7q" tvg-country="RO" tvg-language="Romanian" tvg-logo="" tvg-status="live" group-title="News",Tu Decizi
 https://www.youtube-nocookie.com/embed/EYK--w9nLjI
-#EXTINF:-1 tvg-id="TurkHaberTV.tr" tvg-country="TR" tvg-language="Turkish" tvg-logo="https://i.imgur.com/2AcRKdL.png" tvg-status="live" group-title="News",TurkHaber TV
-https://edge1.socialsmart.tv/turkhaber/bant1/playlist.m3u8
-#EXTINF:-1 tvg-id="Turno.cl" tvg-country="CL" tvg-language="Spanish" tvg-logo="https://i.imgur.com/XuSeHBt.png" tvg-status="live" group-title="News",Turno
+#EXTINF:-1 tvg-id="famelack-MhRzY1TKeTMMWB" tvg-country="TR" tvg-language="Turkish" tvg-logo="" tvg-status="live" group-title="News",TurkHaber TV
+https://edge2.taksimbilisim.com/turkhaber/bant1/playlist.m3u8
+#EXTINF:-1 tvg-id="famelack-BxUFWVeIJ8Rr1U" tvg-country="CL" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="News",Turno
 https://redirector.dps.live/hls/turno/playlist.m3u8
 #EXTINF:-1 tvg-id="famelack-uFUnpsEwjM0TgY" tvg-country="BR" tvg-language="Portuguese" tvg-logo="" tvg-status="live" group-title="News",TV A Folha
 https://video01.logicahost.com.br/tvafolha/tvafolha/playlist.m3u8
@@ -2296,7 +2306,7 @@ https://verginanews.gr:8443/hls_live/stream1.m3u8
 #EXTINF:-1 tvg-id="VestiFM.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/ZBHqSZj.png" tvg-native-name="Вести FM" tvg-status="live" group-title="News",Vesti FM
 https://stream.smotrim.ru/hls2/vesti_fm/playlist_4.m3u8
 #EXTINF:-1 tvg-id="VinhLongTV1.vn" tvg-country="VN" tvg-language="Vietnamese" tvg-logo="https://i.imgur.com/5YFsqPx.png" tvg-status="live" group-title="News",Vinh Long TV 1
-https://dethich.pw/thvl1/index.m3u8
+http://125hvt.ddns.net:21585/thvl1/playlist.m3u8
 #EXTINF:-1 tvg-id="VIPNews.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_VIP_NEWS/images/LOGO_HD/image.png" tvg-status="down" group-title="News",VIP News
 https://live.vipnews24x7.co.in/vipnews24x7/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="Visir.is" tvg-country="IS" tvg-language="Icelandic" tvg-logo="https://i.imgur.com/07Vlt6i.jpg" tvg-status="live" group-title="News",Visir
