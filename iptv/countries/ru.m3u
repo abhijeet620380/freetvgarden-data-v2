@@ -8,7 +8,7 @@ http://stream.mcquack.net/180/index.m3u8
 #EXTINF:-1 tvg-id="15PlusMusic.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/kj21hwd.png" tvg-status="down" group-title="Music",15+ Music
 https://live.15plusmg.ru/memfs/ce3366b1-bf25-4e24-96bb-1adf0d44bd3d.m3u8
 #EXTINF:-1 tvg-id="1HDMusicTelevision.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/4Ww7CsR.png" tvg-native-name="Музыка Первого" tvg-status="live" group-title="Music",1HD Music Television
-http://str2.iptvhd.ru:8080/1HD/index.m3u8
+http://176.118.197.101/1HD/index.m3u8
 #EXTINF:-1 tvg-id="2x2.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2x2_TV_Logo.svg/1920px-2x2_TV_Logo.svg.png" tvg-native-name="Дважды два" tvg-status="live" group-title="Entertainment",2x2
 https://bl.rutube.ru/livestream/392b4686b770bae2da6bf5ac4574add5/index.m3u8?e=2068731801&s=tenr-yHXUv1wibfka78s2A&scheme=https
 #EXTINF:-1 tvg-id="360.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/VTJqdoX.png" tvg-status="live" group-title="General",360°
@@ -23,7 +23,7 @@ https://hls.tv.3angels.ru/stream.m3u8
 https://cdn-dvr.ntv.ru/5_minut_tishiny/index.m3u8
 #EXTINF:-1 tvg-id="555.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/JQZkxeA.png" tvg-native-name="Телерадиокомания 555" tvg-status="live" group-title="General",555
 http://trk555.tv:8888/live
-#EXTINF:-1 tvg-id="6TVGorlovka.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/61/TV_6_HD_%E2%80%93_logo.png" tvg-native-name="6 ТВ Горловка" tvg-status="live" group-title="General",6 TV Gorlovka
+#EXTINF:-1 tvg-id="6TVGorlovka.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/61/TV_6_HD_%E2%80%93_logo.png" tvg-native-name="6 ТВ Горловка" tvg-status="down" group-title="General",6 TV Gorlovka
 http://91.214.48.158:4022/udp/224.2.2.4:10000
 #EXTINF:-1 tvg-id="86.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/0dRS4Cb.png" tvg-status="live" group-title="General",86
 https://sitv.ru/hls/s86.m3u8
@@ -84,7 +84,7 @@ https://fs.uplink.kz/bober/mono.m3u8?token=onlinetv
 #EXTINF:-1 tvg-id="BoksTV.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/R1UjyfX.png" tvg-native-name="Бокс ТВ" tvg-status="live" group-title="Sports",Boks TV
 http://stream.mcquack.net/154/index.m3u8
 #EXTINF:-1 tvg-id="Bollywood.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/YLQRnXt.png" tvg-status="live" group-title="Movies",Bollywood
-http://str2.iptvhd.ru:8080/Bollywood_HD/index.m3u8
+http://176.118.197.101/Bollywood_HD/index.m3u8
 #EXTINF:-1 tvg-id="famelack-RkE4eVl7ofwaod" tvg-country="RU" tvg-language="Hindi" tvg-logo="" tvg-status="live" group-title="Movies",Bollywood HD Russia
 https://xykt-fix.github.io/cinerama_edge01/hls/BOLLYWOOD_RU/Movie009.m3u8
 #EXTINF:-1 tvg-id="Bolt.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/YdIHXOR.png" tvg-status="down" group-title="Movies",Bolt
@@ -282,7 +282,7 @@ https://live-rian.cdnvideo.ru/rian/rus-radio/playlist.m3u8
 #EXTINF:-1 tvg-id="HuzurTV.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/Abg1fct.png" tvg-native-name="Хузур ТВ" tvg-status="live" group-title="Religious",Huzur TV
 https://hls-mycdn08724960135.cdnvideo.ru/mycdn08724960135/stream1/playlist.m3u8
 #EXTINF:-1 tvg-id="IllusionPlus.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/9GvuHQ5.png" tvg-native-name="Иллюзион+" tvg-status="live" group-title="Movies",Illusion+
-http://str2.iptvhd.ru:8080/Illyuzion/index.m3u8
+http://176.118.197.101/Illuzion+/index.m3u8
 #EXTINF:-1 tvg-id="India.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/xDVcDOc.png" tvg-native-name="Индия" tvg-status="live" group-title="Entertainment",India
 https://fs.uplink.kz/india/mono.m3u8?token=onlinetv
 #EXTINF:-1 tvg-id="IndiyskoyeKino.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/LL8GyCh.png" tvg-native-name="Индийское кино" tvg-status="live" group-title="Movies",Indiyskoye Kino
@@ -318,7 +318,7 @@ http://kino-1.catcast.tv/content/38617/index.m3u8
 #EXTINF:-1 tvg-id="Kino24.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/QAdDARF.png" tvg-native-name="Кино 24" tvg-status="down" group-title="Movies",Kino 24
 http://sirius.greenhosting.ru/Kino24Ru/video.m3u8
 #EXTINF:-1 tvg-id="KinoTV.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/sMpamNO.png" tvg-native-name="Кино ТВ" tvg-status="live" group-title="Movies",Kino TV
-http://stream.mcquack.net/221/index.m3u8
+http://176.118.197.101/KinoTvHD/playlist.m3u8
 #EXTINF:-1 tvg-id="KinoHit.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/Ge8vkQM.png" tvg-native-name="Кинохит" tvg-status="live" group-title="Movies",KinoHit
 http://stream.mcquack.net/126/index.m3u8
 #EXTINF:-1 tvg-id="Kinokomedija.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/dVjtth0.png" tvg-native-name="Кинокомедия" tvg-status="live" group-title="Comedy",Kinokomedija
@@ -416,7 +416,7 @@ https://stream.smotrim.ru/hls2/doverie/playlist_3.m3u8
 #EXTINF:-1 tvg-id="Moymir.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://www.cableman.ru/sites/default/files/MM-TV_logo-1%5B1509%5D.png" tvg-native-name="Мой мир" tvg-status="live" group-title="Shop",Moy mir
 https://moymir.ru/hls/onair.m3u8
 #EXTINF:-1 tvg-id="MoyaPlaneta.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/uIiAdBv.png" tvg-native-name="Моя Планета" tvg-status="live" group-title="Outdoor",Moya Planeta
-http://stream.mcquack.net/124/index.m3u8
+http://91.226.120.120/chid210/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Moyastikhiya.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/Sl8c9eB.png" tvg-native-name="Моя стихия" tvg-status="live" group-title="Travel",Moya stikhiya
 http://stream.mcquack.net/141/index.m3u8
 #EXTINF:-1 tvg-id="MTVVolgograd.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/pdCAUrP.png" tvg-native-name="МТВ" tvg-status="live" group-title="General",MTV Volgograd
