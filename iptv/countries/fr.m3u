@@ -63,7 +63,7 @@ https://live-cdn-bfmtvlyo-euw1.bfmtv.bct.nextradiotv.com/master.m3u8
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_MARSEILLEPROV/index.m3u8?end=END&start=LIVE
 #EXTINF:-1 tvg-id="famelack-cUhHOnv9aj6JeQ" tvg-country="FR" tvg-language="French" tvg-logo="" tvg-status="live" group-title="News",BFM Normandie
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_NORMANDIE/index.m3u8?end=END&start=LIVE
-#EXTINF:-1 tvg-id="famelack-oMWoXuzyayZcUr" tvg-country="FR" tvg-language="French" tvg-logo="" tvg-status="live" group-title="News",BFM Tech & Co
+#EXTINF:-1 tvg-id="famelack-oMWoXuzyayZcUr" tvg-country="FR" tvg-language="French" tvg-logo="" tvg-status="live" group-title="Science",BFM Tech & Co
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TECHANDCO/index.m3u8?end=END&start=LIVE
 #EXTINF:-1 tvg-id="BFMTV.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/YJCcczD.png" tvg-status="live" group-title="News",BFM TV
 https://live-cdn-stream-euw1.bfmtv.bct.nextradiotv.com/master.m3u8
@@ -89,11 +89,11 @@ https://www.youtube-nocookie.com/embed/C6hI2WB3wH8
 https://zylo-cinenanar-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="CineWestern.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/tteOFkL.png" tvg-status="live" group-title="Movies",Cine Western
 https://amg00711-zylo-amg00711c8-rakuten-uk-2686.playouts.now.amagi.tv/playlist/amg00711-zylofast-cinewestern-rakutenuk/playlist.m3u8
-#EXTINF:-1 tvg-id="CinePlusClassic.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/y2zeLS3.jpeg" tvg-status="live" group-title="Movies",Cine+ Classic
+#EXTINF:-1 tvg-id="CinePlusClassic.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/y2zeLS3.jpeg" tvg-status="down" group-title="Movies",Cine+ Classic
 http://99.27.51.147/CineClassic/index.m3u8
 #EXTINF:-1 tvg-id="CinePlusEmotion.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/upYjPvc.jpeg" tvg-status="down" group-title="Movies",Cine+ Emotion
 http://145.239.5.177/337/index.m3u8
-#EXTINF:-1 tvg-id="CinePlusFrisson.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/MwFtbnR.jpeg" tvg-status="live" group-title="Movies",Cine+ Frisson
+#EXTINF:-1 tvg-id="CinePlusFrisson.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/MwFtbnR.jpeg" tvg-status="down" group-title="Movies",Cine+ Frisson
 http://99.27.51.147:8080/CineFrisson/index.m3u8
 #EXTINF:-1 tvg-id="CNews.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/sSNhk2g.png" tvg-status="live" group-title="News",CNews
 https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Stream/Live/CNews.m3u8
@@ -201,7 +201,7 @@ http://99.27.51.147:8080/Gulli/index.m3u8
 https://srv.webtvmanager.fr:3697/stream/play.m3u8
 #EXTINF:-1 tvg-id="famelack-R7QQGzMYNAADi7" tvg-country="FR" tvg-language="" tvg-logo="" tvg-status="live" group-title="General",Homicide la chaîne du fait divers
 https://rakutenaa-fastmedia-homicide-rakuten-pw6g3.amagi.tv/playlist/rakutenAA-fastmedia-homicide-rakuten/playlist.m3u8
-#EXTINF:-1 tvg-id="famelack-Grm4rZFIs5yHyN" tvg-country="FR" tvg-language="French" tvg-logo="" tvg-status="live" group-title="General",ILTV
+#EXTINF:-1 tvg-id="ILTV.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/fVhrJHK.png" tvg-status="live" group-title="General",ILTV
 https://live.creacast.com/iltv/smil:iltv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="famelack-BHURXFJmympW7l" tvg-country="FR" tvg-language="" tvg-logo="" tvg-status="live" group-title="General",INA 70s
 https://fast-rakuten.okast.tv/fa2e8c4385712f9af3e719ec904b3543/channels/34d82f76-b51f-4bf5-9b35-769fb5904e79/96f96405-90e7-489a-a1e6-8ede5d2b4933/media_.m3u8
@@ -220,7 +220,7 @@ http://145.239.5.177/354/index.m3u8
 #EXTINF:-1 tvg-id="LCI.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/DED8EXs.png" tvg-status="down" group-title="News",LCI
 http://145.239.5.177/368/index.m3u8
 #EXTINF:-1 tvg-id="LeFigaroTVIledeFrance.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/a8RuRUQ.png" tvg-status="live" group-title="General",Le Figaro TV Ile-de-France
-https://static.lefigaro.fr/secom/tnt.m3u8
+https://figarotv-live.freecaster.com/live/freecaster/figarotv.m3u8
 #EXTINF:-1 tvg-id="famelack-Tx5RswMvDJkzju" tvg-country="FR" tvg-language="" tvg-logo="" tvg-status="live" group-title="General",Le Meilleur d'Arthur
 https://amg02393-awpg-amg02393c2-rakuten-uk-2464.playouts.now.amagi.tv/playlist/amg02393-awpg-lemeilleurdarthur-rakutenuk/playlist.m3u8
 #EXTINF:-1 tvg-id="famelack-jcLePfmR9eaQ5w" tvg-country="FR" tvg-language="" tvg-logo="" tvg-status="live" group-title="General",Le Meilleur de la TV Realite
@@ -387,9 +387,9 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracebrazuca-samsungb
 https://channels.trace.plus/Traceprod/CARIBBEAN_hd/index.m3u8
 #EXTINF:-1 tvg-id="TraceGospel.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/X0UmU3K.png" tvg-status="live" group-title="Music",Trace Gospel
 https://channels.trace.plus/Traceprod/GOSPEL_ROA_hd/index.m3u8
-#EXTINF:-1 tvg-id="famelack-Y4qPq23OdBqrZm" tvg-country="FR" tvg-language="English" tvg-logo="" tvg-status="live" group-title="Religious",Trace Gospel Nigeria and East Africa
+#EXTINF:-1 tvg-id="famelack-Y4qPq23OdBqrZm" tvg-country="FR" tvg-language="English" tvg-logo="" tvg-status="live" group-title="Music",Trace Gospel Nigeria and East Africa
 https://channels.trace.plus/Traceprod/GOSPEL_ROA_hd/index.m3u8
-#EXTINF:-1 tvg-id="famelack-qlnlzIINox50mW" tvg-country="FR" tvg-language="French" tvg-logo="" tvg-status="live" group-title="Religious",Trace Gospel Southern Africa
+#EXTINF:-1 tvg-id="famelack-qlnlzIINox50mW" tvg-country="FR" tvg-language="French" tvg-logo="" tvg-status="live" group-title="Music",Trace Gospel Southern Africa
 https://channels.trace.plus/Traceprod/GOSPEL_SA_hd/index.m3u8
 #EXTINF:-1 tvg-id="TraceIvoire.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/W2l3rVx.png" tvg-status="live" group-title="Music",Trace Ivoire
 https://channels.trace.plus/Traceprod/TRACE_IVOIRE_hd/index.m3u8
@@ -398,7 +398,7 @@ https://channels.trace.plus/Traceprod/JAMA_hd/index.m3u8
 #EXTINF:-1 tvg-id="TraceKitoko.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/q6vkMrU.png" tvg-status="live" group-title="Music",Trace Kitoko
 https://channels.trace.plus/Traceprod/KITOKO_hd/index.m3u8
 #EXTINF:-1 tvg-id="TraceLatina.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/CUVAi4u.png" tvg-status="live" group-title="Music",Trace Latina
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracelatinait-samsungit/playlist.m3u8
+https://channels.trace.plus/Traceprod/LATINA_hd/index.m3u8
 #EXTINF:-1 tvg-id="TraceMboa.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/cYwkCj2.png" tvg-status="live" group-title="Music",Trace Mboa
 https://channels.trace.plus/Traceprod/MBOA_hd/index.m3u8
 #EXTINF:-1 tvg-id="TraceMuzika.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/xsEGIXO.png" tvg-status="live" group-title="Music",Trace Muzika
