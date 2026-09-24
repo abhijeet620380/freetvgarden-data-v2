@@ -117,6 +117,8 @@ http://str2.iptvhd.ru:8080/5_kanal/index.m3u8
 http://178.134.1.158:8081/5channel/index.m3u8
 #EXTINF:-1 tvg-id="Channel8.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/nUSx1jF.png" tvg-native-name="8 канал" tvg-status="live" group-title="Entertainment",Channel 8
 http://45.11.139.43:8555/8kanal/index.m3u8
+#EXTINF:-1 tvg-id="Channel8International.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/I8OU9oa.png" tvg-native-name="8 канал International" tvg-status="live" group-title="General",Channel 8 International
+http://live-11cinema.cdnvideo.net/11cinemanet/11cinemanet/playlist.m3u8
 #EXTINF:-1 tvg-id="Channel8Krasnoyarsk.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/q3JCAC3.png" tvg-native-name="8 канал Красноярск" tvg-status="live" group-title="General",Channel 8 Krasnoyarsk
 https://tshift-1.telecoma.tv/8channel/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="Channel8Novosibirsk.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/eHGETvU.png" tvg-native-name="8 канал Новосибирск" tvg-status="live" group-title="General",Channel 8 Novosibirsk
@@ -661,8 +663,8 @@ https://stream.smotrim.ru/hls2/ext_spbtv/playlist_5.m3u8
 http://77.232.131.211/Sapfir/manifest.m3u8
 #EXTINF:-1 tvg-id="Sarafan.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/u4q1rMT.png" tvg-native-name="Сарафан" tvg-status="live" group-title="General",Sarafan
 http://stream.mcquack.net/81/index.m3u8
-#EXTINF:-1 tvg-id="SetantaSports1.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/8ANUZAu.png" tvg-status="down" group-title="Sports",Setanta Sports 1
-http://158.101.222.193:88/georgia_play.php?id=setanta_georgia
+#EXTINF:-1 tvg-id="SetantaSports1.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/8ANUZAu.png" tvg-status="live" group-title="Sports",Setanta Sports 1
+https://fs.uplink.kz/setanta_sports_1_hd/mono.m3u8?token=onlinetv
 #EXTINF:-1 tvg-id="SetantaSports2.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/NOBACb6.png" tvg-status="down" group-title="Sports",Setanta Sports 2
 http://158.101.222.193:88/georgia_play.php?id=setanta_sports_plus_georgia
 #EXTINF:-1 tvg-id="Sever.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/sTOQLYl.png" tvg-native-name="Север" tvg-status="live" group-title="General",Sever
@@ -726,7 +728,7 @@ http://str2.iptvhd.ru:8080/sssr_kino/index.m3u8
 #EXTINF:-1 tvg-id="StarCinema.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/5sis895.png" tvg-status="live" group-title="Movies",Star Cinema
 https://dash2.antik.sk/live/test_star_cinema_atktv/playlist.m3u8
 #EXTINF:-1 tvg-id="StarFamily.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/eGuGHnZ.png" tvg-status="live" group-title="Movies",Star Family
-http://str2.iptvhd.ru:8080/112Ukraina/index.m3u8
+https://dash2.antik.sk/live/test_star_family_atktv/playlist.m3u8
 #EXTINF:-1 tvg-id="STARTAir.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://images.iptv.rt.ru/images/d60qp8omife4gis72tk0.png" tvg-status="live" group-title="Movies",START Air
 http://str2.iptvhd.ru:8080/START_Air_HD/index.m3u8
 #EXTINF:-1 tvg-id="StartTriumf.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/L9jTieL.png" tvg-native-name="Старт Триумф" tvg-status="down" group-title="Sports",Start Triumf
@@ -917,6 +919,8 @@ http://stream.mcquack.net/76/index.m3u8
 http://s91030.cdn.ngenix.net/hls/CH_R01_OTT_DV_VLD_VOSTOK24_OTT/variant.m3u8
 #EXTINF:-1 tvg-id="Vremya.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/jZlj3ga.png" tvg-native-name="Время" tvg-status="live" group-title="General",Vremya
 https://cdn4.skygo.mn/live/disk1/Vremya/HLSv3-FTA/Vremya.m3u8
+#EXTINF:-1 tvg-id="YaltaTV.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://img.cataloxy.ru/fl/97/e3/808131.gif" tvg-status="live" group-title="General",Yalta TV
+http://195.26.83.96:7029/play/a006
 #EXTINF:-1 tvg-id="YaPervyy.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://yarreg.ru/gallery/news/2025/03/293241/3.jpeg" tvg-native-name="ЯПервый" tvg-status="live" group-title="General",YaPervyy
 https://yaroslavl.mediacdn.ru/cdn/pervyaroslavsk/playlist.m3u8
 #EXTINF:-1 tvg-id="Yuvelirochka.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/IcWtXCZ.png" tvg-native-name="Ювелирочка" tvg-status="live" group-title="Shop",Yuvelirochka

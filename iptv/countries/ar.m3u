@@ -29,7 +29,7 @@ https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223
 https://vivo.solumedia.com:19360/bvnet/bvnet.m3u8
 #EXTINF:-1 tvg-id="famelack-zn3NIcdYjMvD3s" tvg-country="AR" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="News",C5N
 https://www.youtube-nocookie.com/embed/j6oh4Kqz3UM
-#EXTINF:-1 tvg-id="famelack-E4hNnqL8PG669C" tvg-country="AR" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="General",Cable Imagen Armstrong
+#EXTINF:-1 tvg-id="CableImagenArmstrong.ar" tvg-country="AR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/U9NuJQC.png" tvg-status="live" group-title="General",Cable Imagen Armstrong
 https://stream.arcast.com.ar/casse/casse/playlist.m3u8
 #EXTINF:-1 tvg-id="famelack-uzAFcXeAxgQGru" tvg-country="AR" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="Music",CADENA HEAT 91.9 FM
 https://www.youtube-nocookie.com/embed/k9bMyNGsmhU
@@ -101,7 +101,7 @@ https://iptv.ixfo.com.ar:30443/live/c6digital/playlist.m3u8
 https://stmvideo6.livecastv.com/vientorecio/vientorecio/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal7Jujuy.ar" tvg-country="AR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/K0jk8p4.png" tvg-status="live" group-title="General",Canal 7 Jujuy
 https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8
-#EXTINF:-1 tvg-id="famelack-k2LkhDSkZpJMsq" tvg-country="AR" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="General",Canal 7 Neuquen
+#EXTINF:-1 tvg-id="Canal7Neuquen.ar" tvg-country="AR" tvg-language="Spanish" tvg-logo="https://i.ibb.co/BrvQsWm/C7neuquenlogo2023.png" tvg-status="live" group-title="General",Canal 7 Neuquen
 https://stream.arcast.com.ar/c7nq/ngrp:c7nq_all/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal7Salta.ar" tvg-country="AR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/CudG6sl.png" tvg-status="live" group-title="General",Canal 7 Salta
 https://vivo.solumedia.com:19360/cooperativa/cooperativa.m3u8
@@ -139,7 +139,7 @@ https://g4.vxral-hor.transport.edge-access.net/a11/ngrp:canal_luz01-100009_all/P
 https://stream.arcast.net:4443/canal21/ngrp:canal21_all/playlist.m3u8
 #EXTINF:-1 tvg-id="famelack-Rexjgi9hzCbRd0" tvg-country="AR" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="General",Canal Provincial
 https://streaming.telered.com.ar/provincial/streaming/mystream.m3u8
-#EXTINF:-1 tvg-id="famelack-lEav7DEwkvbo0f" tvg-country="AR" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="Entertainment",Canal Pulpo TV
+#EXTINF:-1 tvg-id="CanalPulpoTV.ar" tvg-country="AR" tvg-language="Spanish" tvg-logo="https://new.opencaster.com/uploads/logos/logo_306_1756336707.png" tvg-status="live" group-title="Entertainment",Canal Pulpo TV
 https://vs20.live.opencaster.com/canalpulpotv_bdeee6e2/index.m3u8
 #EXTINF:-1 tvg-id="famelack-cr7dUtjS9IvgbI" tvg-country="AR" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="Religious",Canal Santa Maria
 https://streaming.telered.com.ar/santa-maria/streaming/mystream.m3u8
@@ -183,7 +183,7 @@ https://www.youtube-nocookie.com/embed/_SH6DL3AGig
 http://181.78.8.199:8000/play/a0dn/index.m3u8
 #EXTINF:-1 tvg-id="DisneyJrLatinAmerica.ar" tvg-country="AR" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg" tvg-status="live" group-title="Animation",Disney Jr. Latin America
 http://190.14.10.19:16000/play/a02d/index.m3u8
-#EXTINF:-1 tvg-id="famelack-aDVjvDueowqzIg" tvg-country="AR" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="Animation",Disney Jr. Latin America South
+#EXTINF:-1 tvg-id="famelack-aDVjvDueowqzIg" tvg-country="AR" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="Kids",Disney Jr. Latin America South
 https://tr.live.clarovtrcdn.vtrplay.com/disneyjrhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 #EXTINF:-1 tvg-id="EcoTV.ar" tvg-country="AR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/V2ldYVd.jpg" tvg-status="live" group-title="General",Eco TV
 https://stream.arcast.com.ar/ecotv/ngrp:ecotv_all/playlist.m3u8
@@ -255,8 +255,12 @@ http://45.134.141.161:2200/ARG/Net_TV/index.m3u8
 http://www.coninfo.net:1935/tvlink/live/playlist.m3u8
 #EXTINF:-1 tvg-id="NorteTV.ar" tvg-country="AR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/jTX2vp0.png" tvg-status="live" group-title="General",Norte TV
 https://ntvcanal7.com.ar:81/dash/stream.mpd
+#EXTINF:-1 tvg-id="Pakapaka.ar" tvg-country="AR" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Paka-Paka-2025.svg/1920px-Paka-Paka-2025.svg.png" tvg-status="live" group-title="Kids",Pakapaka
+https://xyktmobile00.s.gy/PPV910_PAKAKA_ARG
 #EXTINF:-1 tvg-id="PancTV.ar" tvg-country="AR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/u1dnEVv.png" tvg-status="down" group-title="General",Panc TV
 https://panel.host-live.com:19360/20004/20004.m3u8
+#EXTINF:-1 tvg-id="PlimPlim.ar" tvg-country="AR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/MYc8srh.png" tvg-status="live" group-title="Animation",Plim Plim
+https://xyktmobile00.s.gy/PPV911_CANCION_BEBE
 #EXTINF:-1 tvg-id="famelack-ajBSt6NuLSUT5M" tvg-country="AR" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="Music",Pop Radio 101.5
 https://www.youtube-nocookie.com/embed/B3UccrSiWms
 #EXTINF:-1 tvg-id="PowerMaxRadioTV.ar" tvg-country="AR" tvg-language="Spanish" tvg-logo="https://i.ibb.co/qgZLYDj/channels4-profile-6.jpg" tvg-status="live" group-title="Entertainment",Power Max Radio TV
