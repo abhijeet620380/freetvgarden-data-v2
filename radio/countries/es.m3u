@@ -1,11 +1,15 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="famelack-pqfOcNgtjQTNSP" tvg-country="ES" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="latin",100% Salsa
 https://stm01.streammaximum.com:8194/;
+#EXTINF:-1 tvg-id="famelack-AOEq3NoerlOlHl" tvg-country="ES" tvg-language="English" tvg-logo="" tvg-status="live" group-title="80s",1000 Hits 80s
+https://c2.auracast.net:8048/stream
+#EXTINF:-1 tvg-id="famelack-fZt4e6clVeSsXv" tvg-country="ES" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="hits",1000 Hits Spain
+https://c2.auracast.net:8022/;
 #EXTINF:-1 tvg-id="famelack-bqdbpxrfV4qN0R" tvg-country="ES" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="hits",24FM Axarquía
 https://axarquia.emisiononline.es:8030/radio.mp3
 #EXTINF:-1 tvg-id="famelack-tQidSBpjUig9hQ" tvg-country="ES" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="General",7TV Cádiz
 https://streaming004.gestec-video.com/hls/7TVCADIZ.m3u8
-#EXTINF:-1 tvg-id="famelack-Ha1dkeOs5Vd6bJ" tvg-country="ES" tvg-language="English" tvg-logo="" tvg-status="live" group-title="80s",80s Super Dancefloor
+#EXTINF:-1 tvg-id="famelack-Ha1dkeOs5Vd6bJ" tvg-country="ES" tvg-language="English" tvg-logo="" tvg-status="live" group-title="electronic",80s Super Dancefloor
 https://s41.myradiostream.com:33604/;
 #EXTINF:-1 tvg-id="famelack-IdYqaXlfBXeNIB" tvg-country="ES" tvg-language="Basque" tvg-logo="" tvg-status="live" group-title="General",97 Irratia
 https://airtime.97irratia.info/radio-ssl.ogg
@@ -22,17 +26,21 @@ https://stream.tunerplay.com/radio/8010/adagioradioHD.mp3
 #EXTINF:-1 tvg-id="famelack-5JFNsrfmIx7DcJ" tvg-country="ES" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="classical",AdagioRadio
 https://stream.tunerplay.com/radio/8010/adagioradio.mp3
 #EXTINF:-1 tvg-id="famelack-lKjR4vZuOQPL49" tvg-country="ES" tvg-language="English" tvg-logo="" tvg-status="live" group-title="news",AFN Rota
-https://22193.live.streamtheworld.com/AFNE_RTA_SC
+https://27823.live.streamtheworld.com/AFNE_RTA_SC
 #EXTINF:-1 tvg-id="famelack-crwfzps1IVPf0H" tvg-country="ES" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="hits",Ágora Sol Radio
 https://cervera.eldialdigital.com:23141/stream
 #EXTINF:-1 tvg-id="famelack-7cN5VzcKAmzfWa" tvg-country="ES" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="talk",Agro Radio
 https://sonicpanel.streamsolutions.us/8038/stream
 #EXTINF:-1 tvg-id="famelack-dC7lm33fq8LjQe" tvg-country="ES" tvg-language="Catalan" tvg-logo="" tvg-status="live" group-title="hits",Alcúdia Ràdio
 https://streaming.enacast.com/alcudiaradio128.mp3
-#EXTINF:-1 tvg-id="famelack-3M8mle8G61WWfD" tvg-country="ES" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="latin",Almodóvar en La Onda
+#EXTINF:-1 tvg-id="famelack-yZNLSK2sjkNU4Q" tvg-country="ES" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="hits",Alhaurín Radio
+https://server8.emitironline.com:18266/radio
+#EXTINF:-1 tvg-id="famelack-3M8mle8G61WWfD" tvg-country="ES" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="electronic",Almodóvar en La Onda
 https://nrf1.newradio.it:9972/stream
+#EXTINF:-1 tvg-id="famelack-wHnvwL5KDmuU1O" tvg-country="ES" tvg-language="Catalan" tvg-logo="" tvg-status="live" group-title="electronic",Alpicat Ràdio
+https://streaming.enacast.com/alpicatradio128.mp3
 #EXTINF:-1 tvg-id="famelack-rTlvowIDSgzBJx" tvg-country="ES" tvg-language="Catalan" tvg-logo="" tvg-status="live" group-title="indie",Altafulla Ràdio
-https://enacast.com/altafullaradio/streams/HD
+https://streaming.enacast.com/altafulla128.mp3
 #EXTINF:-1 tvg-id="famelack-2cjKJHC9H2izRp" tvg-country="ES" tvg-language="Catalan" tvg-logo="" tvg-status="live" group-title="reggae",Alzira Ràdio
 https://alziraradiomob.streaming-pro.com:6172/alziraradio.mp3
 #EXTINF:-1 tvg-id="famelack-qtEdcL6deFL3nQ" tvg-country="ES" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="General",Amor FM
@@ -43,10 +51,6 @@ https://sonic.mediatelekom.net/9980/stream
 https://sonic.sistemahost.es:7002/;
 #EXTINF:-1 tvg-id="famelack-ql5GuJdBxFa5jL" tvg-country="ES" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="electronic",Aqua Radio
 https://quincy.torontocast.com:2260/;
-#EXTINF:-1 tvg-id="famelack-zi53Iic7sxqsGP" tvg-country="ES" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="news",Aragón Radio
-https://cartv.streaming.aranova.es/hls/live/aragonradio_aragonradio1.m3u8
-#EXTINF:-1 tvg-id="famelack-eKNeVwDGkPB5Og" tvg-country="ES" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="General",Aragón TV
-https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
 #EXTINF:-1 tvg-id="famelack-XD18UsvuKkdI14" tvg-country="ES" tvg-language="Basque" tvg-logo="" tvg-status="live" group-title="General",Arrate Irratia
 https://online.arrateirratia.eus/zuzenean
 #EXTINF:-1 tvg-id="famelack-C01kXUnqsnhm9B" tvg-country="ES" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="electronic",Ática FM
@@ -65,16 +69,14 @@ https://stream.beachgrooves.com:9000/;
 https://eu1.lhdserver.es:8039/stream
 #EXTINF:-1 tvg-id="famelack-LMH2aQdD1VBB8T" tvg-country="ES" tvg-language="Basque" tvg-logo="" tvg-status="live" group-title="General",Bilbo Hiria Irratia
 https://server8.emitironline.com:18392//stream
-#EXTINF:-1 tvg-id="famelack-lqF71f9UB0PsKm" tvg-country="ES" tvg-language="English" tvg-logo="" tvg-status="live" group-title="chill",Blue Marlin Ibiza
+#EXTINF:-1 tvg-id="famelack-lqF71f9UB0PsKm" tvg-country="ES" tvg-language="English" tvg-logo="" tvg-status="live" group-title="electronic",Blue Marlin Ibiza
 https://ibizasonica.streaming-pro.com:8001/bluemarlin
-#EXTINF:-1 tvg-id="famelack-MvoZQiuG7aj5xv" tvg-country="ES" tvg-language="English" tvg-logo="" tvg-status="live" group-title="indie",BSide
-https://flow.emisiononline.es/radio/8010/bside.aac
 #EXTINF:-1 tvg-id="famelack-TVabKXQSK8AYH3" tvg-country="ES" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="hits",Cadena 100
-https://cadena100-cope.flumotion.com/playlist.m3u8
+https://cadena100-cope.flumotion.com/chunks.m3u8
 #EXTINF:-1 tvg-id="famelack-Xxlx3Dp7bAGRd3" tvg-country="ES" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="General",Cadena Azul Radio
 https://azura5.emisiononline.es/listen/cadena_azul_radio/cadenaazuldirecto
 #EXTINF:-1 tvg-id="famelack-M95N5Bmk7hRJrW" tvg-country="ES" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="latin",Cadena Dial
-https://playerservices.streamtheworld.com/api/livestream-redirect/DIAL_ASO_MORON.mp3
+https://playerservices.streamtheworld.com/api/livestream-redirect/CADENADIAL.mp3
 #EXTINF:-1 tvg-id="famelack-3UmIiSIREIjU21" tvg-country="ES" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="latin",Cadena Dial Baladas
 https://playerservices.streamtheworld.com/api/livestream-redirect/CADENADIAL_03.mp3
 #EXTINF:-1 tvg-id="famelack-Sxg3I2CWzmxIQS" tvg-country="ES" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="latin",Cadena Dial Latino
@@ -110,9 +112,9 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/SER_EXTREMADUR
 #EXTINF:-1 tvg-id="famelack-RCcJY8ypBmVLFi" tvg-country="ES" tvg-language="Galician" tvg-logo="" tvg-status="live" group-title="news",Cadena SER Radio Ferrol
 https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_FERROL.mp3
 #EXTINF:-1 tvg-id="famelack-WAXhSefArKJWA7" tvg-country="ES" tvg-language="Galician" tvg-logo="" tvg-status="live" group-title="news",Cadena SER Radio Galicia
-https://20043.live.streamtheworld.com/SER_GALICIA_SC
+https://27943.live.streamtheworld.com/SER_GALICIA_SC
 #EXTINF:-1 tvg-id="famelack-oRA0lq2GNsgyGE" tvg-country="ES" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="news",Cadena SER Radio Guadix
-https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_GUADIXAAC_SC
+https://25543.live.streamtheworld.com/SER_ASO_GUADIXAAC_SC
 #EXTINF:-1 tvg-id="famelack-pEJqGx1tEjlkfb" tvg-country="ES" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="news",Cadena SER Radio León
 https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_LEON.mp3
 #EXTINF:-1 tvg-id="famelack-dS9liFsVVdVoA3" tvg-country="ES" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="news",Cadena SER Radio Mallorca
@@ -197,7 +199,7 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/SER_MAS_VALLAD
 https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_MAS_VIGO.mp3
 #EXTINF:-1 tvg-id="famelack-YqPXfDeXdljUNu" tvg-country="ES" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="news",Cadena SER+ Zaragoza
 https://playerservices.streamtheworld.com/api/livestream-redirect/SER_MAS_ZARAGOZA.mp3
-#EXTINF:-1 tvg-id="famelack-SAAeJ11QXz8tKm" tvg-country="ES" tvg-language="English" tvg-logo="" tvg-status="live" group-title="chill",Café del Mar Calm
+#EXTINF:-1 tvg-id="famelack-SAAeJ11QXz8tKm" tvg-country="ES" tvg-language="English" tvg-logo="" tvg-status="live" group-title="electronic",Café del Mar Calm
 https://streamer.radio.co/sb748f24ad/listen
 #EXTINF:-1 tvg-id="famelack-qbjaWHug0LjRNM" tvg-country="ES" tvg-language="English" tvg-logo="" tvg-status="live" group-title="electronic",Café del Mar House
 https://s4.radio.co/seeae9c220/listen
@@ -205,14 +207,14 @@ https://s4.radio.co/seeae9c220/listen
 https://streams.radio.co/se1a320b47/listen
 #EXTINF:-1 tvg-id="famelack-cq7JWg8MhI2l3i" tvg-country="ES" tvg-language="English" tvg-logo="" tvg-status="live" group-title="electronic",Café Mambo Radio
 https://streamer.radio.co/sd7b28e5f3/listen
-#EXTINF:-1 tvg-id="famelack-aNSrudHqEA38ad" tvg-country="ES" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="chill",Calimbre Radio
+#EXTINF:-1 tvg-id="famelack-aNSrudHqEA38ad" tvg-country="ES" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="soul",Calimbre Radio
 https://control.streaming-pro.com:6048/stream
 #EXTINF:-1 tvg-id="famelack-wan1HPvHMEW126" tvg-country="ES" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="religious",Camino FM
 https://www.radioking.com/play/camino-fm/668404
 #EXTINF:-1 tvg-id="famelack-S0s5igKabpfnIi" tvg-country="ES" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="news",Canal 4 Tenerife
 https://panel5.soydigital.fm/8024/live
 #EXTINF:-1 tvg-id="famelack-PNGvpGraqBYyOg" tvg-country="ES" tvg-language="Catalan" tvg-logo="" tvg-status="live" group-title="news",Canal Blau
-https://streaming.enacast.com/canalblau128.mp3
+https://enacast.com/canalblau/streams/SD
 #EXTINF:-1 tvg-id="famelack-xMPphedUFCurav" tvg-country="ES" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="latin",Canal Fiesta Radio
 https://rtva-live-radio.flumotion.com/rtva/cfr.mp3
 #EXTINF:-1 tvg-id="famelack-F3pXx7M0Bq0H2R" tvg-country="ES" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="latin",Canal Sur Música
@@ -240,13 +242,13 @@ https://server8.emitironline.com:10891/;
 #EXTINF:-1 tvg-id="famelack-Tu81uAQlYycI81" tvg-country="ES" tvg-language="Catalan" tvg-logo="" tvg-status="live" group-title="news",Catalunya Informació
 https://shoutcast.ccma.cat/ccma/catalunyainformacioHD.mp3
 #EXTINF:-1 tvg-id="famelack-X7HPfj3x6LEVIb" tvg-country="ES" tvg-language="Catalan" tvg-logo="" tvg-status="live" group-title="classical",Catalunya Música
-https://shoutcast.ccma.cat/ccma/catalunyamusicaHD.mp3
+https://directes-radio-int.3catdirectes.cat/live-content/catalunya-musica-hls/bitrate_1.m3u8
 #EXTINF:-1 tvg-id="famelack-F3nDo9g3XRGBkq" tvg-country="ES" tvg-language="Catalan" tvg-logo="" tvg-status="live" group-title="news",Catalunya Ràdio
 https://shoutcast.ccma.cat/ccma/catalunyaradioHD.mp3
-#EXTINF:-1 tvg-id="famelack-hioDa9VvpiPZyN" tvg-country="ES" tvg-language="English" tvg-logo="" tvg-status="live" group-title="electronic",CCmixes
-https://audio.apps.dj/ccmixes
 #EXTINF:-1 tvg-id="famelack-qwOqtYkeb6gfMK" tvg-country="ES" tvg-language="English" tvg-logo="" tvg-status="live" group-title="hits",Central FM
 https://s29.myradiostream.com/4922/listen.mp3
+#EXTINF:-1 tvg-id="famelack-vdHcilKNSICHQR" tvg-country="ES" tvg-language="Chinese" tvg-logo="" tvg-status="live" group-title="oldies",China FM
+https://radioserver12.profesionalhosting.com/proxy/pkg152387/stream
 #EXTINF:-1 tvg-id="famelack-IFTBsBE3d5m8id" tvg-country="ES" tvg-language="English" tvg-logo="" tvg-status="live" group-title="talk",Classic Old Time Radio
 https://stream.zeno.fm/b6v6nu8uhnruv
 #EXTINF:-1 tvg-id="famelack-LeRTcvUd1fQDKx" tvg-country="ES" tvg-language="English" tvg-logo="" tvg-status="live" group-title="hits",Coast FM Tenerife
@@ -260,17 +262,19 @@ https://listen.openstream.co/6781/audio
 #EXTINF:-1 tvg-id="famelack-sSVOl0pvUYN9LQ" tvg-country="ES" tvg-language="Galician" tvg-logo="" tvg-status="live" group-title="news",COPE A Coruña
 https://wecast-bl01.flumotion.com/copesedes/lacoruna.mp3
 #EXTINF:-1 tvg-id="famelack-zz4nc5wKWNax4R" tvg-country="ES" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="news",COPE Albacete
-https://wecast23-o-cloud.flumotion.com/copesedes/albacete.mp3
-#EXTINF:-1 tvg-id="famelack-JMmIFuQ9TBb6RQ" tvg-country="ES" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="news",COPE Espuña
+https://wecast10-o-cloud.flumotion.com/copesedes/albacete.mp3
+#EXTINF:-1 tvg-id="famelack-JMmIFuQ9TBb6RQ" tvg-country="ES" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="hits",COPE Espuña
 https://eu1.lhdserver.es:3197/stream
 #EXTINF:-1 tvg-id="famelack-Buoa3KSXxqnGgs" tvg-country="ES" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="news",COPE Gijón
-https://wecast24-o-cloud.flumotion.com/copesedes/gijon.mp3
+https://wecast07-o-cloud.flumotion.com/copesedes/gijon.mp3
 #EXTINF:-1 tvg-id="famelack-JmfYVN0wvPNWgd" tvg-country="ES" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="news",COPE Granada
 https://granada-copesedes-rrcast.flumotion.com/copesedes/granada-low.mp3
 #EXTINF:-1 tvg-id="famelack-lBC7H9WMX2TTSW" tvg-country="ES" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="news",COPE Salamanca
 https://salamanca-copesedes-rrcast.flumotion.com/copesedes/salamanca-low.mp3
 #EXTINF:-1 tvg-id="famelack-TILno9MuSzxrT1" tvg-country="ES" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="news",COPE Sierra Norte
 https://sonic.mediatelekom.net/8096/stream
+#EXTINF:-1 tvg-id="famelack-BTBj0IFl4yVYAr" tvg-country="ES" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="news",COPE Tenerife
+https://wecast01-o-cloud.flumotion.com/copesedes/tenerife-mas.mp3
 #EXTINF:-1 tvg-id="famelack-RFVGlRIhgVKd2e" tvg-country="ES" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="news",COPE+ Sevilla
 https://wecast09-h-cloud.flumotion.com/copesedes/sevilla-mas.mp3
 #EXTINF:-1 tvg-id="famelack-HbvX3LkSPI1o7P" tvg-country="ES" tvg-language="English" tvg-logo="" tvg-status="live" group-title="hits",Costa Blanca Radio
@@ -311,7 +315,7 @@ https://dc1.serverse.com/proxy/ywycfrxn/live
 https://stream.zeno.fm/x7wm4rrv5yzuv
 #EXTINF:-1 tvg-id="famelack-TIAShROfVH3zc3" tvg-country="ES" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="hits",Dos FM Radio
 https://control.streaming-pro.com:8008/stream
-#EXTINF:-1 tvg-id="famelack-1d2VzANEXoQsyD" tvg-country="ES" tvg-language="English" tvg-logo="" tvg-status="live" group-title="indie",dublab BCN
+#EXTINF:-1 tvg-id="famelack-1d2VzANEXoQsyD" tvg-country="ES" tvg-language="English" tvg-logo="" tvg-status="live" group-title="electronic",dublab BCN
 https://dublabbcn.out.airtime.pro:8000/dublabbcn_a
 #EXTINF:-1 tvg-id="famelack-VnwQ7yXQYejgez" tvg-country="ES" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="news",Dunas FM
 https://sonic.mediatelekom.net/8424/stream/;
@@ -325,6 +329,8 @@ https://stream.zeno.fm/sbe8jjdhr2lvv
 https://radio.eduneu.eu:8020/radio.mp3
 #EXTINF:-1 tvg-id="famelack-aEGFhfxoqacSMs" tvg-country="ES" tvg-language="Basque" tvg-logo="" tvg-status="live" group-title="folk",EITB Euskal Kantak
 https://multimedia.eitb.eus/live-content/eitbeuskalkantak-hls/master.m3u8
+#EXTINF:-1 tvg-id="famelack-CndeeJaYClmCoQ" tvg-country="ES" tvg-language="Catalan" tvg-logo="" tvg-status="live" group-title="pop",Eixample Barcelona Radio
+https://directe.eixamplebarcelonaradio.com:8443/radioOnline
 #EXTINF:-1 tvg-id="famelack-Z4WUEeDPxCBDc3" tvg-country="ES" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="news",El Toro TV
 https://edge-nodo-002.streaming.hitcloser.net/eltorotv-streaming-web/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="famelack-t49dKsIdITQxKL" tvg-country="ES" tvg-language="English" tvg-logo="" tvg-status="live" group-title="electronic",ElectroDanceWorld Radio
@@ -369,7 +375,7 @@ https://nr9.newradio.it/proxy/essereas
 https://stream.zeno.fm/se76qau1hc9uv
 #EXTINF:-1 tvg-id="famelack-5WkuYLwSK2YmQi" tvg-country="ES" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="hits",Exa FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/XHPSFM_SC.aac
-#EXTINF:-1 tvg-id="famelack-zNHAsZ0PSq9D17" tvg-country="ES" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="indie",Fedi Drama Radio
+#EXTINF:-1 tvg-id="famelack-zNHAsZ0PSq9D17" tvg-country="ES" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="rock",Fedi Drama Radio
 https://dramaradio.tuiter.ovh/listen/fedi_drama_radio/radio.mp3
 #EXTINF:-1 tvg-id="famelack-rnvdqImYpJSjie" tvg-country="ES" tvg-language="English" tvg-logo="" tvg-status="live" group-title="hits",FeelGood Radio Costa del Sol
 https://caster05.streampakket.com/proxy/8321/stream
@@ -392,7 +398,7 @@ https://rtva-live-radio.flumotion.com/rtva/flamenco.mp3
 #EXTINF:-1 tvg-id="famelack-QqyAYv5iFJlZrL" tvg-country="ES" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="hits",Flash Radio
 https://flashradioserver.es/radio/8000/radio.mp3
 #EXTINF:-1 tvg-id="famelack-C1lUKSDH92d5cR" tvg-country="ES" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="latin",FLOW Radio
-https://st1.urbanrevolution.es:8445/flow
+https://flow.urbanrevolution.es:8445/flow
 #EXTINF:-1 tvg-id="famelack-1mZDiwRWnmYK6Y" tvg-country="ES" tvg-language="English" tvg-logo="" tvg-status="live" group-title="rock",Forever The Beatles
 https://stream.zeno.fm/bucptksk6ebtv
 #EXTINF:-1 tvg-id="famelack-Xr98ZkbaUaMYFl" tvg-country="ES" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="hits",Fórmula 10 Música
@@ -413,8 +419,6 @@ https://stream.zeno.fm/31nnibfpnxktv
 https://stream.zeno.fm/a5h7vfret68uv
 #EXTINF:-1 tvg-id="famelack-8iY8ne3Vsfwm4g" tvg-country="ES" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="christmas",Free FM X-Mas
 https://stream.zeno.fm/h60er015v68uv
-#EXTINF:-1 tvg-id="famelack-wzqnh8YjV6a14G" tvg-country="ES" tvg-language="English" tvg-logo="" tvg-status="live" group-title="electronic",Free Techno
-https://audio.apps.dj/freetechno
 #EXTINF:-1 tvg-id="famelack-rRgm812CHfL5BX" tvg-country="ES" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="hip-hop",Fresh Radio
 https://stream.zeno.fm/gzaf75yevceuv
 #EXTINF:-1 tvg-id="famelack-tKoIstPKzFCowI" tvg-country="ES" tvg-language="English" tvg-logo="" tvg-status="live" group-title="soul",Funky Corner Radio
@@ -430,14 +434,16 @@ https://streaming.shoutcast.com/gozadera
 #EXTINF:-1 tvg-id="famelack-dNKv7Bgch3sbwR" tvg-country="ES" tvg-language="English" tvg-logo="" tvg-status="live" group-title="electronic",Graba Radio Ibiza
 https://radio.grabamusic.com/gmr-hd
 #EXTINF:-1 tvg-id="famelack-21sDFz42wN6Ymj" tvg-country="ES" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="hits",HIT FM
-https://bbhitfm.kissfmradio.cires21.com/bbhitfm.mp3
+https://hitfm.kissfmradio.cires21.com/hitfm.mp3
 #EXTINF:-1 tvg-id="famelack-QNrr7ngbInRjHa" tvg-country="ES" tvg-language="English" tvg-logo="" tvg-status="live" group-title="electronic",Hits 1 Ibiza
 https://hits1spain-audiomediaradio.radioca.st/hits1mallorca
 #EXTINF:-1 tvg-id="famelack-A5wd5CK4kK0umh" tvg-country="ES" tvg-language="English" tvg-logo="" tvg-status="live" group-title="electronic",Hits 1 Mallorca
 https://radio7.pro-fhi.net/radio/9006/hits1ibiza
+#EXTINF:-1 tvg-id="famelack-NUmlkvtVUEEjah" tvg-country="ES" tvg-language="English" tvg-logo="" tvg-status="live" group-title="90s",Hits 90s
+https://c4.auracast.net:8050/stream
 #EXTINF:-1 tvg-id="famelack-q5Qxyfadci8Qau" tvg-country="ES" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="90s",Hitz 90s FM
 https://stream.zeno.fm/1q3dwmd6yf8uv
-#EXTINF:-1 tvg-id="famelack-yeSNWlr52JqPiZ" tvg-country="ES" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="hip-hop",Hitz 91.0
+#EXTINF:-1 tvg-id="famelack-yeSNWlr52JqPiZ" tvg-country="ES" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="soul",Hitz 91.0
 https://stream.zeno.fm/f2qmny74gd0uv
 #EXTINF:-1 tvg-id="famelack-1otPNYcV1s9OA8" tvg-country="ES" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="soul",Hitz Funky Radio
 https://stream.zeno.fm/azgx0ktf4p8uv
@@ -463,7 +469,7 @@ https://uksoutha.streaming.broadcast.radio/ibiza-live-radio
 https://stream.aiir.com/ilduibssvzbtv
 #EXTINF:-1 tvg-id="famelack-JnKvGCtudCJtU4" tvg-country="ES" tvg-language="English" tvg-logo="" tvg-status="live" group-title="hits",Ibiza Radios Hits
 https://radio2.vip-radios.fm:18024/stream-128kmp3-IbizaHits
-#EXTINF:-1 tvg-id="famelack-pEaDn463oi4BLO" tvg-country="ES" tvg-language="English" tvg-logo="" tvg-status="live" group-title="chill",Ibiza Sonica Radio
+#EXTINF:-1 tvg-id="famelack-pEaDn463oi4BLO" tvg-country="ES" tvg-language="English" tvg-logo="" tvg-status="live" group-title="electronic",Ibiza Sonica Radio
 https://ibizasonica.streaming-pro.com:8000/ibizasonica
 #EXTINF:-1 tvg-id="famelack-Ok2YvoBVvxpGmL" tvg-country="ES" tvg-language="English" tvg-logo="" tvg-status="live" group-title="chill",Ibiza SoniCalm
 https://ibizasonica.streaming-pro.com:8014/sonicalm
@@ -505,13 +511,13 @@ https://stream-165.zeno.fm/hvnu0rfuifguv
 https://ibizasonica.streaming-pro.com:8013/kaiboradio
 #EXTINF:-1 tvg-id="famelack-DZTy8NlrRKeGYz" tvg-country="ES" tvg-language="English" tvg-logo="" tvg-status="live" group-title="religious",Kairos FM
 https://c7.radioboss.fm:8255/autodj
-#EXTINF:-1 tvg-id="famelack-vK5DIpaK6IUspc" tvg-country="ES" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="90s",Khaos FM
+#EXTINF:-1 tvg-id="famelack-vK5DIpaK6IUspc" tvg-country="ES" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="electronic",Khaos FM
 https://streaming0103.sonicpanelradio.com:8050/stream
 #EXTINF:-1 tvg-id="famelack-SiLEkoNzeq0DRT" tvg-country="ES" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="oldies",Kiss FM
 https://frontend.streamonkey.net/fhn-gong971/stream/mp3
 #EXTINF:-1 tvg-id="famelack-Lak561KUSMDT17" tvg-country="ES" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="oldies",Kiss FM Canarias
 https://bbkissfm.kissfmradio.cires21.com/bbkissfm.mp3
-#EXTINF:-1 tvg-id="famelack-Q3aqyOWiPwcFjS" tvg-country="ES" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="news",La Cuarta FM
+#EXTINF:-1 tvg-id="famelack-Q3aqyOWiPwcFjS" tvg-country="ES" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="oldies",La Cuarta FM
 https://radio.amgroupmkt.com:1050/stream
 #EXTINF:-1 tvg-id="famelack-lo23Zv84vogR3z" tvg-country="ES" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="news",La Diez Capital Radio
 https://panel5.soydigital.fm/8030/stream
@@ -532,20 +538,20 @@ https://server2.ejeserver.com:8400/stream
 #EXTINF:-1 tvg-id="famelack-ZXQynXJPaECIn7" tvg-country="ES" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="latin",La Patrona FM
 https://lapatrona-zikoxweb2.radioca.st/stream
 #EXTINF:-1 tvg-id="famelack-3axbJ4G3arE6vB" tvg-country="ES" tvg-language="Catalan" tvg-logo="" tvg-status="live" group-title="news",La Plana Ràdio
-https://enacast.com/laplanaradio/streams/HD
+https://streaming.enacast.com/laplanaradio128.mp3
 #EXTINF:-1 tvg-id="famelack-yd57T5afRdx5Ja" tvg-country="ES" tvg-language="Catalan" tvg-logo="" tvg-status="live" group-title="news",La Veu d'Ondara
 https://relay.stream.enacast-cloud.com:40235/laveudondaraSD.mp3
 #EXTINF:-1 tvg-id="famelack-TA7PE70cOarSkL" tvg-country="ES" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="latin",La Villa FM
 https://sonic.mediatelekom.net:10907/stream
-#EXTINF:-1 tvg-id="famelack-jYFikiWs8RyyCQ" tvg-country="ES" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="pop",Laciana FM
+#EXTINF:-1 tvg-id="famelack-jYFikiWs8RyyCQ" tvg-country="ES" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="talk",Laciana FM
 https://nodo102.liveradio.com.es/8004/stream
 #EXTINF:-1 tvg-id="famelack-9JI2m0hYd1azbZ" tvg-country="ES" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="latin",laFRESCA
 https://stream.produccionesdale.com:8899/moviles
 #EXTINF:-1 tvg-id="famelack-zKwu9mj3QMa3qp" tvg-country="ES" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="latin",Latina FM Canarias
 https://radiostreaming.online:8002/stream
-#EXTINF:-1 tvg-id="famelack-iv7Nw8DJf532zl" tvg-country="ES" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="80s",Loca 80s
+#EXTINF:-1 tvg-id="famelack-iv7Nw8DJf532zl" tvg-country="ES" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="electronic",Loca 80s
 https://s02.fjperezdj.com:8075/live
-#EXTINF:-1 tvg-id="famelack-Ox1WH1HEEF9vBW" tvg-country="ES" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="90s",Loca 90s
+#EXTINF:-1 tvg-id="famelack-Ox1WH1HEEF9vBW" tvg-country="ES" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="electronic",Loca 90s
 https://s2.we4stream.com/listen/loca_90s_/live
 #EXTINF:-1 tvg-id="famelack-dbI6xDFfIsdZou" tvg-country="ES" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="chill",Loca Ambient
 https://s02.fjperezdj.com:8036/live
@@ -584,7 +590,7 @@ https://20103.live.streamtheworld.com/LOS40_SC
 #EXTINF:-1 tvg-id="famelack-sPkxC3gU84ImPV" tvg-country="ES" tvg-language="Catalan" tvg-logo="" tvg-status="live" group-title="hits",LOS40 Catalunya
 https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_CAT_SC
 #EXTINF:-1 tvg-id="famelack-RjpHP4sqlFIVlp" tvg-country="ES" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="rock",LOS40 Classic
-https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_CLASSIC_SC
+https://25633.live.streamtheworld.com/LOS40_CLASSIC.mp3
 #EXTINF:-1 tvg-id="famelack-SHVe5FKlFbH7co" tvg-country="ES" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="electronic",LOS40 Dance
 https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_DANCE_SC
 #EXTINF:-1 tvg-id="famelack-XkXFc5qeOlbZwh" tvg-country="ES" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="hits",LOS40 Lanzarote
@@ -600,14 +606,16 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/M80RADIO_SC
 #EXTINF:-1 tvg-id="famelack-wkU2C5y9O2NOql" tvg-country="ES" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="electronic",Mad Radio Medellín
 https://c25.radioboss.fm/stream/181
 #EXTINF:-1 tvg-id="famelack-3wvS3ugjyKV4Bx" tvg-country="ES" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="electronic",Makina FM
-https://stream-157.zeno.fm/roqewn7dp4gtv
+https://stream.zeno.fm/roqewn7dp4gtv
 #EXTINF:-1 tvg-id="famelack-YJt5CM8YZqx6IJ" tvg-country="ES" tvg-language="German" tvg-logo="" tvg-status="live" group-title="easy-listening",Mallorca Sunshine Radio
 https://mallorcasunshine--di--nacs-ais-lgc--05--cdn.cast.addradio.de/mallorcasunshine/live/mp3/high
 #EXTINF:-1 tvg-id="famelack-j7BuNDsjJnMApb" tvg-country="ES" tvg-language="French" tvg-logo="" tvg-status="live" group-title="news",Marbescop
 https://play.radioking.io/marbescop
+#EXTINF:-1 tvg-id="famelack-jATHhyGOhB44OF" tvg-country="ES" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="rock",MariskalRock Radio
+https://media.profesionalhosting.com:8047/stream
 #EXTINF:-1 tvg-id="famelack-0NPlc15dCqr1sr" tvg-country="ES" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="electronic",Mas Buena FM
 https://sonic.mediatelekom.net/8156/stream
-#EXTINF:-1 tvg-id="famelack-ZOGHDdwXxl0bwr" tvg-country="ES" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="latin",Master FM Guadalhorce
+#EXTINF:-1 tvg-id="famelack-ZOGHDdwXxl0bwr" tvg-country="ES" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="electronic",Master FM Guadalhorce
 https://radios.lamaster.es:8000/guadalhorce
 #EXTINF:-1 tvg-id="famelack-26TCTwZMTJFHQy" tvg-country="ES" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="hits",Master FM Madrid
 https://radios.lamaster.es:8000/web24
@@ -630,12 +638,12 @@ https://listen1.myradio24.com/37511
 #EXTINF:-1 tvg-id="famelack-hM0Un4mkmvdQfl" tvg-country="ES" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="hits",Mega Star
 https://stream.zeno.fm/04uk5f3aqs8uv
 #EXTINF:-1 tvg-id="famelack-Hq48AT62G5ydwQ" tvg-country="ES" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="hits",MegaStar FM
-https://megastar-cope.flumotion.com/playlist.m3u8
+https://megastar-cope.flumotion.com/chunks.m3u8
 #EXTINF:-1 tvg-id="famelack-BbHSnExZRAKI6X" tvg-country="ES" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="easy-listening",Melodía Para Dos
 https://sp.totalstreaming.net:8170/stream
 #EXTINF:-1 tvg-id="famelack-GhE3FnPHNaeauv" tvg-country="ES" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="hits",Misterio FM
 https://stream-38.zeno.fm/zr1ntv61fchvv
-#EXTINF:-1 tvg-id="famelack-9lKSPtf3tvICSv" tvg-country="ES" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="chill",Misterium
+#EXTINF:-1 tvg-id="famelack-9lKSPtf3tvICSv" tvg-country="ES" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="classical",Misterium
 https://streamingv2.shoutcast.com/Misterium
 #EXTINF:-1 tvg-id="famelack-iNtl6jjg57JZZb" tvg-country="ES" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="classical",Misterium II
 https://streamingv2.shoutcast.com/misterium-ii
@@ -643,10 +651,10 @@ https://streamingv2.shoutcast.com/misterium-ii
 https://s31.myradiostream.com/64442/listen.mp3
 #EXTINF:-1 tvg-id="famelack-Gtp1hx6rSgZERl" tvg-country="ES" tvg-language="English" tvg-logo="" tvg-status="live" group-title="80s",Mix 80 Radio
 https://stream.tunerplay.com/radio/8040/radio.mp3
-#EXTINF:-1 tvg-id="famelack-tQFxcplECvYnQg" tvg-country="ES" tvg-language="German" tvg-logo="" tvg-status="live" group-title="chill",Mix Radio
+#EXTINF:-1 tvg-id="famelack-tQFxcplECvYnQg" tvg-country="ES" tvg-language="German" tvg-logo="" tvg-status="live" group-title="rock",Mix Radio
 https://mixfm.radionetz.de/mixfm.mp3
 #EXTINF:-1 tvg-id="famelack-WnxEvusuqPK2LA" tvg-country="ES" tvg-language="Catalan" tvg-logo="" tvg-status="live" group-title="religious",Montserrat Ràdio
-https://streaming.enacast.com/radioabadiademontserrat96.mp3
+https://enacast.com/radioabadiademontserrat/streams/HD
 #EXTINF:-1 tvg-id="famelack-JDE9Olp5KB6SKh" tvg-country="ES" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="electronic",Mortal FM
 https://server10.emitironline.com:8044/;
 #EXTINF:-1 tvg-id="famelack-5sWD1h6IAK8zuW" tvg-country="ES" tvg-language="Basque" tvg-logo="" tvg-status="live" group-title="talk",Mozoilo Irratia
@@ -747,14 +755,14 @@ https://srv7031.dns-lcinternet.com/8052/stream
 https://stream.zeno.fm/89t31p4mdwzuv
 #EXTINF:-1 tvg-id="famelack-NxjV6QZsp72FIc" tvg-country="ES" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="talk",Onda Polígono
 https://icecast.ondapoligono.org/stream
-#EXTINF:-1 tvg-id="famelack-IG4OKGqzeYLlNK" tvg-country="ES" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="pop",Onda Pro
+#EXTINF:-1 tvg-id="famelack-IG4OKGqzeYLlNK" tvg-country="ES" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="talk",Onda Pro
 https://hoth.alonhosting.com:1045/stream
 #EXTINF:-1 tvg-id="famelack-26kccYnXxHGVrY" tvg-country="ES" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="news",Onda Regional de Murcia
 https://crmlive.redctnet.es/liveedge/orm/orm/chunklist_w329392737.m3u8
 #EXTINF:-1 tvg-id="famelack-aUtqR1t0dwGHyK" tvg-country="ES" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="rock",Onda Regional Música
-https://crmlive.redctnet.es/liveedge/orm/ormmusical/playlist.m3u8
-#EXTINF:-1 tvg-id="famelack-3Squ4dh2QfB3df" tvg-country="ES" tvg-language="Portuguese" tvg-logo="" tvg-status="live" group-title="indie",Onda Wantuki
-https://stream.zeno.fm/5dfkzqm70s8uv
+https://crmlive.redctnet.es/liveedge/orm/ormmusical/chunklist_w835504041.m3u8
+#EXTINF:-1 tvg-id="famelack-3Squ4dh2QfB3df" tvg-country="ES" tvg-language="Portuguese" tvg-logo="" tvg-status="live" group-title="rock",Onda Wantuki
+https://stream-53.zeno.fm/5dfkzqm70s8uv
 #EXTINF:-1 tvg-id="famelack-BuYc6lOh5ZolyU" tvg-country="ES" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="pop",Onda Zamora
 https://eu1.lhdserver.es:8003/stream
 #EXTINF:-1 tvg-id="famelack-oZejZeDQn0lq5z" tvg-country="ES" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="80s",Ondamar80
@@ -779,14 +787,18 @@ https://stream.radiojar.com/1uqnt5zp1v8uv.mp3
 https://stream.radiojar.com/asngk2sg798uv
 #EXTINF:-1 tvg-id="famelack-2wBHBSKxlISrdG" tvg-country="ES" tvg-language="Italian" tvg-logo="" tvg-status="live" group-title="hits",Perfect Italian Hits
 https://n02.radiojar.com/9fdycttep7uvv
+#EXTINF:-1 tvg-id="famelack-QGhqnXO670OLTG" tvg-country="ES" tvg-language="English" tvg-logo="" tvg-status="live" group-title="rock",Perfect SoftRock
+https://stream.radiojar.com/eq8txpg1b5zuv
 #EXTINF:-1 tvg-id="famelack-vOubVGkpNsOupE" tvg-country="ES" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="electronic",Play FM
 https://radioplaneta.emitironline.com:8000/
-#EXTINF:-1 tvg-id="famelack-MULMIeEsqc6t91" tvg-country="ES" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="pop",Play Radio Valencia
+#EXTINF:-1 tvg-id="famelack-MULMIeEsqc6t91" tvg-country="ES" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="talk",Play Radio Valencia
 https://radio1.serviciosderadio.com/listen/playradio/web.mp3
 #EXTINF:-1 tvg-id="famelack-RRVksghUDLu5RN" tvg-country="ES" tvg-language="English" tvg-logo="" tvg-status="live" group-title="electronic",PlayTrance Radio
-https://live-ff.playtrance.com/playtrance-main.mp3
+https://streaming.playtrance.com/playtrance-main-high
 #EXTINF:-1 tvg-id="famelack-TGJ2s3eUDzlIId" tvg-country="ES" tvg-language="English" tvg-logo="" tvg-status="live" group-title="electronic",PlayTrance Uplifting
 https://streaming.playtrance.com/playtrance-uplifting-high
+#EXTINF:-1 tvg-id="famelack-OOhJy5oLMwqzx9" tvg-country="ES" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="talk",Plaza Radio
+https://stream1.solstreaming.com:8112/stream
 #EXTINF:-1 tvg-id="famelack-kkBRrjeuIe4ncg" tvg-country="ES" tvg-language="Galician" tvg-logo="" tvg-status="live" group-title="news",Pontevedra Viva Radio
 https://server8.emitironline.com:9402/radio
 #EXTINF:-1 tvg-id="famelack-5hgwlj1gmcIj4f" tvg-country="ES" tvg-language="English" tvg-logo="" tvg-status="live" group-title="pop",Pop Music Station
@@ -807,16 +819,16 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/RAC105.mp3
 https://stream-166.zeno.fm/sf0qn4ddftktv
 #EXTINF:-1 tvg-id="famelack-oWBFoFgi9SXsao" tvg-country="ES" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="General",Radio Agalaria
 https://stream.zeno.fm/u7u1gx32608uv
-#EXTINF:-1 tvg-id="famelack-H5RTkwxGEydeWv" tvg-country="ES" tvg-language="Catalan" tvg-logo="" tvg-status="live" group-title="indie",Ràdio Alfacs
+#EXTINF:-1 tvg-id="famelack-H5RTkwxGEydeWv" tvg-country="ES" tvg-language="Catalan" tvg-logo="" tvg-status="live" group-title="rock",Ràdio Alfacs
 https://radioalfacs.com/emissioogg
 #EXTINF:-1 tvg-id="famelack-n9igfJXwEPDWUa" tvg-country="ES" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="talk",Radio Almaina
-https://radiobot.radioslibres.info:8020/radio.mp3
+https://radiobot.radioslibres.info/listen/radio_almaina/radio.mp3
 #EXTINF:-1 tvg-id="famelack-FqAK0GDsFbJ3iD" tvg-country="ES" tvg-language="Catalan" tvg-logo="" tvg-status="live" group-title="news",Ràdio Altea
-https://enacast.com/radioaltea/streams/HD
+https://streaming.enacast.com/radioaltea128.mp3
 #EXTINF:-1 tvg-id="famelack-JKH7ueDh7nr73Q" tvg-country="ES" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="news",Radio Andalucía Información
 https://rtva-live-radio.flumotion.com/rtva/raisev.mp3
 #EXTINF:-1 tvg-id="famelack-ayDsijzr6F0PGI" tvg-country="ES" tvg-language="Catalan" tvg-logo="" tvg-status="live" group-title="news",Ràdio Arenys de Munt
-https://streaming.enacast.com/radioarenysmunt128.mp3
+https://enacast.com/radioarenysdemunt/streams/HD
 #EXTINF:-1 tvg-id="famelack-l3sKTfCtRIWnvO" tvg-country="ES" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="General",Radio Argayo
 https://radiobot.radioslibres.info/radio/8030/radio.ogg
 #EXTINF:-1 tvg-id="famelack-lXXb9fAUbXBvgU" tvg-country="ES" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="General",Radio Arte 107.7 FM
@@ -855,7 +867,7 @@ https://streaming.enacast.com/radiocorbera128.mp3
 https://enacast.com/radiocornella/streams/SD
 #EXTINF:-1 tvg-id="famelack-5NKN4mzG8Z7KuA" tvg-country="ES" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="news",Radio Cuéllar
 https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_CUELLAR.mp3
-#EXTINF:-1 tvg-id="famelack-Iq5acjYkmKBfiZ" tvg-country="ES" tvg-language="English" tvg-logo="" tvg-status="live" group-title="folk",Radio del Hogar de la Brisa
+#EXTINF:-1 tvg-id="famelack-Iq5acjYkmKBfiZ" tvg-country="ES" tvg-language="English" tvg-logo="" tvg-status="live" group-title="classical",Radio del Hogar de la Brisa
 https://stream.zeno.fm/4vwgvyq82k8uv
 #EXTINF:-1 tvg-id="famelack-cmStXq4qbTSvzg" tvg-country="ES" tvg-language="Catalan" tvg-logo="" tvg-status="live" group-title="General",Ràdio Desvern
 https://enacast.com/radiodesvern/streams/HD
@@ -872,18 +884,16 @@ https://streaming.enacast.com/rtvelvendrell56.mp3
 #EXTINF:-1 tvg-id="famelack-ScFhTegENRHNhS" tvg-country="ES" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="General",Radio Espacio 89.5 FM
 https://eu1.lhdserver.es:8037/stream
 #EXTINF:-1 tvg-id="famelack-BYejJrVUl02vGM" tvg-country="ES" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="news",Radio España
-https://stream.zeno.fm/7ywx2u45vv8uv
+https://stream.zeno.fm/ocinyyji4rntv
 #EXTINF:-1 tvg-id="famelack-ygxKcf9HIoj1bz" tvg-country="ES" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="jazz",Radio Esperantia
 https://radios.solumedia.com/6526/stream
-#EXTINF:-1 tvg-id="famelack-M56xqA5pUdKkJM" tvg-country="ES" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="General",Radio Espiritrompa 102.2 FM
-https://radiobot.radioslibres.info/listen/radio_espiritrompa/radio.mp3
 #EXTINF:-1 tvg-id="famelack-5HON6ufXWK2QUr" tvg-country="ES" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="sports",Radio Esport Valencia
 https://streaming.radioesport914.com:58000/stream
 #EXTINF:-1 tvg-id="famelack-UdPi41A779w5P0" tvg-country="ES" tvg-language="German" tvg-logo="" tvg-status="live" group-title="hits",Radio Europa
 https://server9.emitironline.com:19144/
 #EXTINF:-1 tvg-id="famelack-oDiT2RCjY9pPLk" tvg-country="ES" tvg-language="Arabic" tvg-logo="" tvg-status="live" group-title="news",Radio Exterior de España
 https://dispatcher.rndfnk.com/crtve/rneree/main/mp3/high
-#EXTINF:-1 tvg-id="famelack-oRcCTu9b7FJGkg" tvg-country="ES" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="hip-hop",Radio Fanática
+#EXTINF:-1 tvg-id="famelack-oRcCTu9b7FJGkg" tvg-country="ES" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="soul",Radio Fanática
 https://radio1-zikoxweb.radioca.st/stream
 #EXTINF:-1 tvg-id="famelack-irbxAN4vrHh34g" tvg-country="ES" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="General",Radio Faycan
 https://radio.streamenginelogin.com:8016/stream
@@ -947,9 +957,9 @@ https://streaming.enacast.com/radiolaselva56.mp3
 https://server8.emitironline.com:18528/stream
 #EXTINF:-1 tvg-id="famelack-YPsaIaxrnxgoNM" tvg-country="ES" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="General",Radio Laredo
 https://radio.radiolaredo.com/8002/stream
-#EXTINF:-1 tvg-id="famelack-1xVCU0ZPXgyWRB" tvg-country="ES" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="news",Radio Libertad
-https://server9.emitironline.com:19482/stream
-#EXTINF:-1 tvg-id="famelack-6YmuG8Ym83Ju6W" tvg-country="ES" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="latin",Radio Líder
+#EXTINF:-1 tvg-id="famelack-1xVCU0ZPXgyWRB" tvg-country="ES" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="religious",Radio Libertad
+https://ice42.securenetsystems.net/KDAE
+#EXTINF:-1 tvg-id="famelack-6YmuG8Ym83Ju6W" tvg-country="ES" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="electronic",Radio Líder
 https://server9.emitironline.com:8200/stream
 #EXTINF:-1 tvg-id="famelack-G9uGtYmkON97JG" tvg-country="ES" tvg-language="Galician" tvg-logo="" tvg-status="live" group-title="latin",Radio Líder Santiago
 https://server8.emitironline.com:18520/stream
@@ -957,7 +967,7 @@ https://server8.emitironline.com:18520/stream
 https://radiolinguas.eu:8001/radiolinguas
 #EXTINF:-1 tvg-id="famelack-9qDREfLVlaAa5l" tvg-country="ES" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="easy-listening",Ràdio Litoral
 https://stream.serviciospararadios.es/radio/8310/litoralfm.mp3
-#EXTINF:-1 tvg-id="famelack-6nb4quodiEKm8h" tvg-country="ES" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="latin",Ràdio Litoral Oro
+#EXTINF:-1 tvg-id="famelack-6nb4quodiEKm8h" tvg-country="ES" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="easy-listening",Ràdio Litoral Oro
 https://stream.serviciospararadios.es/listen/litoral_oro/litoral-oro.mp3
 #EXTINF:-1 tvg-id="famelack-O3W1B8JdVhasyH" tvg-country="ES" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="General",Ràdio Llavaneres 107.8
 https://streaming.enacast.com/radiollavaneres128.mp3
@@ -989,19 +999,17 @@ https://streaming.enacast.com/radiomarina128.mp3
 https://topradio.uno/proxy/radiomatorral/stream
 #EXTINF:-1 tvg-id="famelack-bfOqI8KRMUuuyS" tvg-country="ES" tvg-language="Dutch" tvg-logo="" tvg-status="live" group-title="70s",Radio Mi Amigo
 https://stan319bisbis.radioca.st/stream
-#EXTINF:-1 tvg-id="famelack-LRtBE8kNG4mQR8" tvg-country="ES" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="pop",Radio Miramar
+#EXTINF:-1 tvg-id="famelack-LRtBE8kNG4mQR8" tvg-country="ES" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="talk",Radio Miramar
 https://eu1.lhdserver.es:8097/stream
-#EXTINF:-1 tvg-id="famelack-N0XBMBLmLDbn11" tvg-country="ES" tvg-language="Catalan" tvg-logo="" tvg-status="live" group-title="General",Ràdio Mistelera
-https://radiobot.radioslibres.info/listen/radio_mistelera/radio.mp3
 #EXTINF:-1 tvg-id="famelack-hLyQPIMc243Jdp" tvg-country="ES" tvg-language="Catalan" tvg-logo="" tvg-status="live" group-title="General",Ràdio Molins de Rei
 https://enacast.com/radiomolinsderei/streams/HD
 #EXTINF:-1 tvg-id="famelack-wOooD0L0zjk2RF" tvg-country="ES" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="70s",Radio Moscatel 107.1 FM
 https://axarquia.emisiononline.es/radio/8040/radio.mp3
 #EXTINF:-1 tvg-id="famelack-AqqnFkkUuj66Oj" tvg-country="ES" tvg-language="Catalan" tvg-logo="" tvg-status="live" group-title="classical",Radio Murta
 https://stream.recasound.es/proxy/radiomurta/stream
-#EXTINF:-1 tvg-id="famelack-6AJ0Q4Ch4Rf48M" tvg-country="ES" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="chill",Radio Nature
-https://stream.zeno.fm/3ac97ysh6f0uv.aac
-#EXTINF:-1 tvg-id="famelack-nNUnIPoSuaGqmV" tvg-country="ES" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="pop",Radio Nervión
+#EXTINF:-1 tvg-id="famelack-6AJ0Q4Ch4Rf48M" tvg-country="ES" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="electronic",Radio Nature
+https://stream.zeno.fm/sfpqezsh6f0uv
+#EXTINF:-1 tvg-id="famelack-nNUnIPoSuaGqmV" tvg-country="ES" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="talk",Radio Nervión
 https://gruponervion.streaming-pro.com:6131/
 #EXTINF:-1 tvg-id="famelack-eLSKdQnPZwG99V" tvg-country="ES" tvg-language="English" tvg-logo="" tvg-status="live" group-title="80s",Radio Nostalgia Spain
 https://streamingv2.shoutcast.com/nostalgiaspain
@@ -1015,15 +1023,17 @@ https://radioserver10.profesionalhosting.com:45969/stream
 https://www.ivoox.com/emision-1451_mh_120373925_feed_1.mp3
 #EXTINF:-1 tvg-id="famelack-H3deaAEL4lzUsx" tvg-country="ES" tvg-language="Catalan" tvg-logo="" tvg-status="live" group-title="hits",Ràdio Pineda 94.6
 https://streaming.enacast.com/radiopineda56.mp3
+#EXTINF:-1 tvg-id="famelack-0rpgWaB3Amop3f" tvg-country="ES" tvg-language="Galician" tvg-logo="" tvg-status="live" group-title="talk",Radio Piratona
+https://zeppelin.streampunk.cc/_stream/radiopiratona.ogg
 #EXTINF:-1 tvg-id="famelack-B1aAKB2QtODH3z" tvg-country="ES" tvg-language="English" tvg-logo="" tvg-status="live" group-title="electronic",Radio Planeta 92.8
 https://radioplaneta.emitironline.com/radio
-#EXTINF:-1 tvg-id="famelack-6Uh3Rw9e7jwnoB" tvg-country="ES" tvg-language="Catalan" tvg-logo="" tvg-status="live" group-title="pop",Ràdio Pollença
+#EXTINF:-1 tvg-id="famelack-6Uh3Rw9e7jwnoB" tvg-country="ES" tvg-language="Catalan" tvg-logo="" tvg-status="live" group-title="talk",Ràdio Pollença
 https://stream.recasound.es/proxy/radiopollensa/stream
 #EXTINF:-1 tvg-id="famelack-Wz0tdSPyNH0ABA" tvg-country="ES" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="soul",Radio Poniente 94.5 FM
 https://broadcast.radioponiente.org:8036/;
-#EXTINF:-1 tvg-id="famelack-deiZDwG6WRcdz2" tvg-country="ES" tvg-language="Catalan" tvg-logo="" tvg-status="live" group-title="pop",Ràdio Ponts
+#EXTINF:-1 tvg-id="famelack-deiZDwG6WRcdz2" tvg-country="ES" tvg-language="Catalan" tvg-logo="" tvg-status="live" group-title="talk",Ràdio Ponts
 https://enacast.com/radioponts/streams/HD
-#EXTINF:-1 tvg-id="famelack-thfdFcbKLjpzMr" tvg-country="ES" tvg-language="Catalan" tvg-logo="" tvg-status="live" group-title="pop",Ràdio Ponts 107.1
+#EXTINF:-1 tvg-id="famelack-thfdFcbKLjpzMr" tvg-country="ES" tvg-language="Catalan" tvg-logo="" tvg-status="live" group-title="talk",Ràdio Ponts 107.1
 https://streaming.enacast.com/radioponts128.mp3
 #EXTINF:-1 tvg-id="famelack-kyxB0yR7bENZhF" tvg-country="ES" tvg-language="Portuguese" tvg-logo="" tvg-status="live" group-title="General",Rádio POP
 https://pop.jmvstream.com/stream
@@ -1035,43 +1045,41 @@ https://stream.radio-pv.com/
 https://cdn-rtpa.watchity.net/wct-3545e416-1a16-44b5-b0db-481136ecacc9/continuous/7be5c015-1da2-4927-a49b-8d232faa69be/radio/index.m3u8
 #EXTINF:-1 tvg-id="famelack-D9FsNtvInkVr8y" tvg-country="ES" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="latin",Radio Puebla 107.2 FM
 https://server10.emitironline.com:9321/
-#EXTINF:-1 tvg-id="famelack-Kx71VF8mrRPDdl" tvg-country="ES" tvg-language="Catalan" tvg-logo="" tvg-status="live" group-title="pop",Ràdio Puig-reig
+#EXTINF:-1 tvg-id="famelack-Kx71VF8mrRPDdl" tvg-country="ES" tvg-language="Catalan" tvg-logo="" tvg-status="live" group-title="talk",Ràdio Puig-reig
 https://enacast.com/puigreig/streams/SD
 #EXTINF:-1 tvg-id="famelack-LLizMiL1U61iul" tvg-country="ES" tvg-language="Catalan" tvg-logo="" tvg-status="live" group-title="hits",Ràdio Puig-Reig 107.3
 https://streaming.enacast.com/radiopuigreig56.mp3
-#EXTINF:-1 tvg-id="famelack-ajW88jWj8F5Jzd" tvg-country="ES" tvg-language="Asturian" tvg-logo="" tvg-status="live" group-title="pop",Radio QK 107.2 FM
+#EXTINF:-1 tvg-id="famelack-ajW88jWj8F5Jzd" tvg-country="ES" tvg-language="Asturian" tvg-logo="" tvg-status="live" group-title="talk",Radio QK 107.2 FM
 https://icecast.radioqk.org:8443/radioqk_master.mp3
 #EXTINF:-1 tvg-id="famelack-1KjdOFlRTfxES0" tvg-country="ES" tvg-language="English" tvg-logo="" tvg-status="live" group-title="jazz",Radio Radio Network
 https://cast5.magicstreams.gr/sc/rrn/stream.mp3
-#EXTINF:-1 tvg-id="famelack-WQAMd8HGTQ5qDv" tvg-country="ES" tvg-language="Catalan" tvg-logo="" tvg-status="live" group-title="pop",Ràdio Ràpita
+#EXTINF:-1 tvg-id="famelack-WQAMd8HGTQ5qDv" tvg-country="ES" tvg-language="Catalan" tvg-logo="" tvg-status="live" group-title="talk",Ràdio Ràpita
 https://enacast.com/radiorapita/streams/SD
-#EXTINF:-1 tvg-id="famelack-KmFg5aTnb0Tbyk" tvg-country="ES" tvg-language="Catalan" tvg-logo="" tvg-status="live" group-title="pop",Ràdio Ràpita 107.9
+#EXTINF:-1 tvg-id="famelack-KmFg5aTnb0Tbyk" tvg-country="ES" tvg-language="Catalan" tvg-logo="" tvg-status="live" group-title="talk",Ràdio Ràpita 107.9
 https://streaming.enacast.com/radiorapita56.mp3
 #EXTINF:-1 tvg-id="famelack-PRujTNvnjnxIq3" tvg-country="ES" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="news",Radio Realejos 107.9 FM
 https://radioserver9.profesionalhosting.com:38035/stream
 #EXTINF:-1 tvg-id="famelack-iWGN13WUCONgHi" tvg-country="ES" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="news",Radio Red
 https://streams.radio.co/s450f67578/listen
-#EXTINF:-1 tvg-id="famelack-JbqLFuSSupFWHs" tvg-country="ES" tvg-language="Galician" tvg-logo="" tvg-status="live" group-title="pop",Radio Redondela 94.9 FM
+#EXTINF:-1 tvg-id="famelack-JbqLFuSSupFWHs" tvg-country="ES" tvg-language="Galician" tvg-logo="" tvg-status="live" group-title="talk",Radio Redondela 94.9 FM
 https://stream.visualtec.host:8000/redondela.mp3
 #EXTINF:-1 tvg-id="famelack-W6c5OMAyKwNv8G" tvg-country="ES" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="electronic",Radio Relativa
 https://streamer.radio.co/sd6131729c/listen
-#EXTINF:-1 tvg-id="famelack-ZAjRhT8s67IeDr" tvg-country="ES" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="90s",Radio Remember
+#EXTINF:-1 tvg-id="famelack-ZAjRhT8s67IeDr" tvg-country="ES" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="electronic",Radio Remember
 https://stream-164.zeno.fm/vth4gamdntzuv
-#EXTINF:-1 tvg-id="famelack-2p3rFWf0ts3cbE" tvg-country="ES" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="90s",Radio Remember Last
+#EXTINF:-1 tvg-id="famelack-2p3rFWf0ts3cbE" tvg-country="ES" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="electronic",Radio Remember Last
 https://node-25.zeno.fm/5nvz43btqg8uv
-#EXTINF:-1 tvg-id="famelack-u4Nt0wmIOUGUWO" tvg-country="ES" tvg-language="Catalan" tvg-logo="" tvg-status="live" group-title="pop",Ràdio Riba-roja
+#EXTINF:-1 tvg-id="famelack-u4Nt0wmIOUGUWO" tvg-country="ES" tvg-language="Catalan" tvg-logo="" tvg-status="live" group-title="talk",Ràdio Riba-roja
 https://streaming.enacast.com/radioribarroja128.mp3
 #EXTINF:-1 tvg-id="famelack-DSqFJbR4htxxeF" tvg-country="ES" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="talk",Ràdio Riba-roja 105.2
 https://streaming.enacast.com/radioribarroja56.mp3
 #EXTINF:-1 tvg-id="famelack-Vg0k1Iuw9dyByJ" tvg-country="ES" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="talk",Radio San Borondón
 https://cast5.my-control-panel.com/proxy/carlosal/stream
-#EXTINF:-1 tvg-id="famelack-2x5A8BHNjZ9jr3" tvg-country="ES" tvg-language="Catalan" tvg-logo="" tvg-status="live" group-title="pop",Ràdio Sant Andreu
-https://www.radiosantandreu.com:8443/online
-#EXTINF:-1 tvg-id="famelack-XPA4yqkOEc19h2" tvg-country="ES" tvg-language="Catalan" tvg-logo="" tvg-status="live" group-title="pop",Ràdio Sant Boi 89.4
+#EXTINF:-1 tvg-id="famelack-XPA4yqkOEc19h2" tvg-country="ES" tvg-language="Catalan" tvg-logo="" tvg-status="live" group-title="talk",Ràdio Sant Boi 89.4
 https://streaming.enacast.com/radiosantboi128.mp3
 #EXTINF:-1 tvg-id="famelack-1njoBpMY9gaDgI" tvg-country="ES" tvg-language="Catalan" tvg-logo="" tvg-status="live" group-title="news",Ràdio Sant Fruitós
 https://ascella.streamerr.co/listen/radiosantfruitos/radio.mp3
-#EXTINF:-1 tvg-id="famelack-2naRvgqKQlULY2" tvg-country="ES" tvg-language="Catalan" tvg-logo="" tvg-status="live" group-title="pop",Ràdio SantVi 107.4 FM
+#EXTINF:-1 tvg-id="famelack-2naRvgqKQlULY2" tvg-country="ES" tvg-language="Catalan" tvg-logo="" tvg-status="live" group-title="talk",Ràdio SantVi 107.4 FM
 https://dhits.frilab.com:8443/santvi
 #EXTINF:-1 tvg-id="famelack-jAFOTiddflpQUC" tvg-country="ES" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="talk",Radio Sefarad
 https://www2.radiosefarad.com/joomla/images/mp3/sefaradparaweb.mp3
@@ -1079,13 +1087,13 @@ https://www2.radiosefarad.com/joomla/images/mp3/sefaradparaweb.mp3
 https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_SEGOVIAAAC.aac
 #EXTINF:-1 tvg-id="famelack-FYAbe6snNzUz6n" tvg-country="ES" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="70s",Radio Selenne
 https://sonic.sistemahost.es/8016/stream
-#EXTINF:-1 tvg-id="famelack-503RJaVfXtUWW6" tvg-country="ES" tvg-language="Catalan" tvg-logo="" tvg-status="live" group-title="pop",Ràdio Sentmenat
+#EXTINF:-1 tvg-id="famelack-503RJaVfXtUWW6" tvg-country="ES" tvg-language="Catalan" tvg-logo="" tvg-status="live" group-title="talk",Ràdio Sentmenat
 https://enacast.com/radiosentmenat/streams/HD
 #EXTINF:-1 tvg-id="famelack-2fwiX5NjLIszmB" tvg-country="ES" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="pop",Ràdio Sentmenat 106.4
 https://streaming.enacast.com/radiosentmenat96.mp3
 #EXTINF:-1 tvg-id="famelack-IjNdurIyQPoVmK" tvg-country="ES" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="news",Radio Serranía
 https://stream-59.zeno.fm/suyydyfgwf9uv
-#EXTINF:-1 tvg-id="famelack-QKrcAouscQZqn2" tvg-country="ES" tvg-language="Catalan" tvg-logo="" tvg-status="live" group-title="pop",Ràdio Silenci
+#EXTINF:-1 tvg-id="famelack-QKrcAouscQZqn2" tvg-country="ES" tvg-language="Catalan" tvg-logo="" tvg-status="live" group-title="talk",Ràdio Silenci
 https://enacast.com/radiosilenci/streams/HD
 #EXTINF:-1 tvg-id="famelack-T8bVsFLtl1BKXv" tvg-country="ES" tvg-language="Catalan" tvg-logo="" tvg-status="live" group-title="news",Ràdio Silenci 107.4
 https://streaming.enacast.com:8000/radiosilenci56.mp3
@@ -1097,7 +1105,7 @@ https://eu1.lhdserver.es:8055/stream
 https://s2.radio.co/s8e5dffe5e/listen
 #EXTINF:-1 tvg-id="famelack-7fJnWdAY9kZEel" tvg-country="ES" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="news",Radio Sur Adeje
 https://streaming.enacast.com/radiosuradeje128.mp3
-#EXTINF:-1 tvg-id="famelack-cZMoTSFsOOGdDv" tvg-country="ES" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="pop",Radio Surco
+#EXTINF:-1 tvg-id="famelack-cZMoTSFsOOGdDv" tvg-country="ES" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="talk",Radio Surco
 https://carina.streamerr.co:8032/surco
 #EXTINF:-1 tvg-id="famelack-Z97TcO3N9BUL6v" tvg-country="ES" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="hits",Radio Taberna
 https://stream.zeno.fm/7h0bc4fb5tqvv
@@ -1109,23 +1117,21 @@ https://enacast.com/radiotarrega/streams/HD
 https://streaming.enacast.com/radiotarrega128.mp3
 #EXTINF:-1 tvg-id="famelack-MCt7PrURYXai2f" tvg-country="ES" tvg-language="English" tvg-logo="" tvg-status="live" group-title="electronic",Radio THE CLUB 92.0 FM
 https://relay.stream.enacast-cloud.com:30256/radioclubmovilHD.mp3
-#EXTINF:-1 tvg-id="famelack-eC8WN9NtMDnAPE" tvg-country="ES" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="pop",Radio Tinamar
+#EXTINF:-1 tvg-id="famelack-eC8WN9NtMDnAPE" tvg-country="ES" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="talk",Radio Tinamar
 https://radiostreaming.online/8012/stream
 #EXTINF:-1 tvg-id="famelack-Ix37mnT5HlqsCa" tvg-country="ES" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="talk",Radio Topo
 https://radiobot.radioslibres.info/radio/8060/radio.mp3
-#EXTINF:-1 tvg-id="famelack-4AM70x1wFKpGJs" tvg-country="ES" tvg-language="Catalan" tvg-logo="" tvg-status="live" group-title="pop",Ràdio Tordera 107.1 FM
+#EXTINF:-1 tvg-id="famelack-4AM70x1wFKpGJs" tvg-country="ES" tvg-language="Catalan" tvg-logo="" tvg-status="live" group-title="talk",Ràdio Tordera 107.1 FM
 https://relay.stream.enacast-cloud.com:40295/radiotorderaHD.mp3
-#EXTINF:-1 tvg-id="famelack-keMRbJAnzoAjNW" tvg-country="ES" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="news",Radio Túria
-https://streaming.enacast.com:8000/radioturiaHD.mp3
 #EXTINF:-1 tvg-id="famelack-GVMLQEVXoOSf0u" tvg-country="ES" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="70s",Radio TX
 https://radiotx.radioca.st/stream
-#EXTINF:-1 tvg-id="famelack-IglAvQMeKbJ9Ll" tvg-country="ES" tvg-language="Catalan" tvg-logo="" tvg-status="live" group-title="pop",Ràdio Ulldecona
+#EXTINF:-1 tvg-id="famelack-IglAvQMeKbJ9Ll" tvg-country="ES" tvg-language="Catalan" tvg-logo="" tvg-status="live" group-title="talk",Ràdio Ulldecona
 https://enacast.com/radioulldecona/streams/HD
 #EXTINF:-1 tvg-id="famelack-irs1vq8wqe9qiV" tvg-country="ES" tvg-language="Catalan" tvg-logo="" tvg-status="live" group-title="news",Ràdio Ulldecona 95.0
 https://streaming.enacast.com/radioulldecona128.mp3
-#EXTINF:-1 tvg-id="famelack-a5dgnlSJi98q4U" tvg-country="ES" tvg-language="English" tvg-logo="" tvg-status="live" group-title="pop",Radio Universidad de Navarra 98.3 FM
+#EXTINF:-1 tvg-id="famelack-a5dgnlSJi98q4U" tvg-country="ES" tvg-language="English" tvg-logo="" tvg-status="live" group-title="talk",Radio Universidad de Navarra 98.3 FM
 https://s2.radio.co/sb23429e9f/listen
-#EXTINF:-1 tvg-id="famelack-YMB8qouNGLPoUB" tvg-country="ES" tvg-language="English" tvg-logo="" tvg-status="live" group-title="pop",Radio Valencia
+#EXTINF:-1 tvg-id="famelack-YMB8qouNGLPoUB" tvg-country="ES" tvg-language="English" tvg-logo="" tvg-status="live" group-title="talk",Radio Valencia
 https://listen.radiovalencia.fm/live
 #EXTINF:-1 tvg-id="famelack-Is4pSTEaXVbr7e" tvg-country="ES" tvg-language="Catalan" tvg-logo="" tvg-status="live" group-title="sports",Radio Valencianismo
 https://stream.zeno.fm/oqux7fanb3lvv
@@ -1133,13 +1139,13 @@ https://stream.zeno.fm/oqux7fanb3lvv
 https://radio.radiobot.org/listen/rvk/rvk.mp3
 #EXTINF:-1 tvg-id="famelack-X7dOI1180ZoPuS" tvg-country="ES" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="talk",Ràdio Vila
 https://streaming.enacast.com/radiovila128.mp3
-#EXTINF:-1 tvg-id="famelack-fCAZhGTXaK4QCR" tvg-country="ES" tvg-language="Catalan" tvg-logo="" tvg-status="live" group-title="pop",Ràdio Vilablareix
+#EXTINF:-1 tvg-id="famelack-fCAZhGTXaK4QCR" tvg-country="ES" tvg-language="Catalan" tvg-logo="" tvg-status="live" group-title="talk",Ràdio Vilablareix
 https://enacast.com/radiovilablareix/streams/SD
-#EXTINF:-1 tvg-id="famelack-pc7wXI4eyvSLtL" tvg-country="ES" tvg-language="Catalan" tvg-logo="" tvg-status="live" group-title="pop",Ràdio Vilafant 107.3 FM
+#EXTINF:-1 tvg-id="famelack-pc7wXI4eyvSLtL" tvg-country="ES" tvg-language="Catalan" tvg-logo="" tvg-status="live" group-title="talk",Ràdio Vilafant 107.3 FM
 https://sonic.mediatelekom.net/9986/stream
 #EXTINF:-1 tvg-id="famelack-Y2NOmWjPw1KbF1" tvg-country="ES" tvg-language="English" tvg-logo="" tvg-status="live" group-title="electronic",Radio Vilasound Ibiza 92.7 FM
 https://s9.citrus3.com:8174/stream
-#EXTINF:-1 tvg-id="famelack-nquihstKH2q5VH" tvg-country="ES" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="pop",Radio Villalba 107.4 FM
+#EXTINF:-1 tvg-id="famelack-nquihstKH2q5VH" tvg-country="ES" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="talk",Radio Villalba 107.4 FM
 https://srv7041.dns-lcinternet.com/8042/stream
 #EXTINF:-1 tvg-id="famelack-YvkvXC4zXaAFII" tvg-country="ES" tvg-language="Basque" tvg-logo="" tvg-status="live" group-title="news",Radio Vitoria
 https://multimedia.eitb.eus/live-content/radiovitoria-hls/bitrate_1.m3u8
@@ -1157,7 +1163,7 @@ https://live.radiovoz.es/mp3/stream_vigo.mp3
 https://radio.radiobot.org/listen/xata/radio.mp3
 #EXTINF:-1 tvg-id="famelack-JvMFzglts0VN9z" tvg-country="ES" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="news",Radio Zaragoza
 https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ZARAGOZA.mp3
-#EXTINF:-1 tvg-id="famelack-tExr9w8m4xSdqo" tvg-country="ES" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="90s",Radio Zona Benetússer
+#EXTINF:-1 tvg-id="famelack-tExr9w8m4xSdqo" tvg-country="ES" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="electronic",Radio Zona Benetússer
 https://stream.zeno.fm/31tbhym5cm8uv
 #EXTINF:-1 tvg-id="famelack-H97nbSRYWBsbtU" tvg-country="ES" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="news",Radiocable
 https://radio.radiobot.org/listen/radiocable/radio.mp3
@@ -1174,7 +1180,7 @@ https://stream.radiomv.com/spanish-nt/stream.mp3
 #EXTINF:-1 tvg-id="famelack-VgZfahJlYBMjYu" tvg-country="ES" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="religious",RadioMv Spanish
 https://ice.radiomv.co:8440/spanish.mp3
 #EXTINF:-1 tvg-id="famelack-aKIoLniLYq01jd" tvg-country="ES" tvg-language="Catalan" tvg-logo="" tvg-status="live" group-title="news",RàdioSeu 107.2 FM
-https://enacast.com/radioseu/streams/HD
+https://streaming.enacast.com/radiolaseu128.mp3
 #EXTINF:-1 tvg-id="famelack-8KBD5rGM04kQRu" tvg-country="ES" tvg-language="Romanian" tvg-logo="" tvg-status="live" group-title="electronic",RadioSky Hits
 https://stream.gestiondeservidor.com/8000/stream
 #EXTINF:-1 tvg-id="famelack-WFgWtfo3ALEDQ3" tvg-country="ES" tvg-language="Romanian" tvg-logo="" tvg-status="live" group-title="electronic",RadioSky Manele
@@ -1183,9 +1189,9 @@ https://stream.gestiondeservidor.com/8100/stream
 https://sonic.sistemahost.es/8014/stream
 #EXTINF:-1 tvg-id="famelack-AG45GFjvenNy43" tvg-country="ES" tvg-language="Catalan" tvg-logo="" tvg-status="live" group-title="oldies",Remember Ràdio Joventut
 https://stream.idelta.es/listen/radio_joventut/stream
-#EXTINF:-1 tvg-id="famelack-VRBNaAs7IUUgxy" tvg-country="ES" tvg-language="Catalan" tvg-logo="" tvg-status="live" group-title="90s",Remember the music FM 96.6
+#EXTINF:-1 tvg-id="famelack-VRBNaAs7IUUgxy" tvg-country="ES" tvg-language="Catalan" tvg-logo="" tvg-status="live" group-title="electronic",Remember the music FM 96.6
 https://eu1.lhdserver.es:9041/stream
-#EXTINF:-1 tvg-id="famelack-pPk5zE12udQWSh" tvg-country="ES" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="90s",Remember VIP Radio
+#EXTINF:-1 tvg-id="famelack-pPk5zE12udQWSh" tvg-country="ES" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="electronic",Remember VIP Radio
 https://node-19.zeno.fm/471az1pu2nhvv
 #EXTINF:-1 tvg-id="famelack-IPrOMqsTD47XjZ" tvg-country="ES" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="electronic",Remember Vip Techno
 https://stream-153.zeno.fm/xilwjn4t17qvv
@@ -1221,7 +1227,7 @@ https://dispatcher.rndfnk.com/crtve/rne1/gal/mp3/high
 https://rockfm-cope-rrcast.flumotion.com/cope/rockfm-low.mp3
 #EXTINF:-1 tvg-id="famelack-MPniZaRkCgzYNT" tvg-country="ES" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="metal",Rock Radioo
 https://a10.asurahosting.com:7570/radio.mp3
-#EXTINF:-1 tvg-id="famelack-MTghnsF08h0jeR" tvg-country="ES" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="90s",RockSatelite One
+#EXTINF:-1 tvg-id="famelack-MTghnsF08h0jeR" tvg-country="ES" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="rock",RockSatelite One
 https://stream.tunerplay.com/radio/8050/rocksateliteradio.mp3
 #EXTINF:-1 tvg-id="famelack-DCFeRUqyFkdRDT" tvg-country="ES" tvg-language="Russian" tvg-logo="" tvg-status="live" group-title="hits",RusRadio Marbella
 https://streaming.enacast.com:8000/rusradiomarbellaHD.mp3
@@ -1253,7 +1259,7 @@ https://azura.abcorp.es/radio/8220/solradio
 https://crtvg-songalicia-hls.flumotion.cloud/chunklist_b300000.m3u8
 #EXTINF:-1 tvg-id="famelack-DoIIy0TB59NmCT" tvg-country="ES" tvg-language="English" tvg-logo="" tvg-status="live" group-title="electronic",Sonica Club Radio
 https://ibizasonica.streaming-pro.com:8011/sonicaclub
-#EXTINF:-1 tvg-id="famelack-kSoJPpBvc5dMbw" tvg-country="ES" tvg-language="English" tvg-logo="" tvg-status="live" group-title="chill",Sonica Tribe
+#EXTINF:-1 tvg-id="famelack-kSoJPpBvc5dMbw" tvg-country="ES" tvg-language="English" tvg-logo="" tvg-status="live" group-title="electronic",Sonica Tribe
 https://ibizasonica.streaming-pro.com:8010/sonicatribe
 #EXTINF:-1 tvg-id="famelack-H5A4U6D5cVg90D" tvg-country="ES" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="hits",Sonoramente Radio
 https://stream.zeno.fm/zkbtmkgkechuv
@@ -1261,7 +1267,7 @@ https://stream.zeno.fm/zkbtmkgkechuv
 https://radio.hostlagarto.com/8054/stream
 #EXTINF:-1 tvg-id="famelack-7Jkq9wPIPSmFb8" tvg-country="ES" tvg-language="English" tvg-logo="" tvg-status="live" group-title="90s",Splash 90s
 https://c4.auracast.net/radio/8050/radio.mp3
-#EXTINF:-1 tvg-id="famelack-mmrXaWEl3tSo1N" tvg-country="ES" tvg-language="English" tvg-logo="" tvg-status="live" group-title="90s",Splash 90s Dance
+#EXTINF:-1 tvg-id="famelack-mmrXaWEl3tSo1N" tvg-country="ES" tvg-language="English" tvg-logo="" tvg-status="live" group-title="electronic",Splash 90s Dance
 https://c6.auracast.net/radio/8090/radio.mp3
 #EXTINF:-1 tvg-id="famelack-ClWMsDuM2wLxFr" tvg-country="ES" tvg-language="English" tvg-logo="" tvg-status="live" group-title="chill",Splash Coffee
 https://ais-sa2.cdnstream1.com/2345_128.mp3
@@ -1283,6 +1289,8 @@ https://s3.yesstreaming.net:7014/stream
 https://enacast.com/tarragonaradio/streams/SD
 #EXTINF:-1 tvg-id="famelack-xZBe0cAE64J449" tvg-country="ES" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="news",Teleganés
 https://nlb2-live.emitstream.com/hls/5z6oj7ziwxzfnj78vg2m/master.m3u8
+#EXTINF:-1 tvg-id="famelack-4509isE9PEZYnH" tvg-country="ES" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="hip-hop",The Flow
+https://server8.emitironline.com:18738/stream
 #EXTINF:-1 tvg-id="famelack-XAOn7yWKx6aJEm" tvg-country="ES" tvg-language="English" tvg-logo="" tvg-status="live" group-title="chill",The Waiting Room
 https://streaming.coolmusicradio.com/listen/waiting-room/radio
 #EXTINF:-1 tvg-id="famelack-QxA0YX9kW4NGIb" tvg-country="ES" tvg-language="Catalan" tvg-logo="" tvg-status="live" group-title="latin",Tot Ràdio
@@ -1291,6 +1299,8 @@ https://www.totradio.com:8000/128kbps
 https://s1.nexuscast.com:8054/1
 #EXTINF:-1 tvg-id="famelack-ZFcTJb1mYSbSBb" tvg-country="ES" tvg-language="Catalan" tvg-logo="" tvg-status="live" group-title="news",UA1 Lleida
 https://panel5.soydigital.fm/8032/stream
+#EXTINF:-1 tvg-id="famelack-Rs6HZy8K6tYLyN" tvg-country="ES" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="news",Ucrania FM
+https://sonicpanel.streaming10.net:8084/stream
 #EXTINF:-1 tvg-id="famelack-ROacWultgVoNUe" tvg-country="ES" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="electronic",Únika FM
 https://server1.easystreaming.pro:8443/unika
 #EXTINF:-1 tvg-id="famelack-EUBg7iuzc0m4Do" tvg-country="ES" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="electronic",Ushuaia Radio
