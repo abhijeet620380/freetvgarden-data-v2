@@ -43,7 +43,7 @@ http://74.91.26.218:82/live/cctv3hd.m3u8
 https://h5cul1yar48um3t.wcetv.com/hls/cctv4.m3u8
 #EXTINF:-1 tvg-id="CCTV4Asia.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://i.imgur.com/tWt4Wou.png" tvg-native-name="CCTV-4 中文国际亚洲" tvg-status="live" group-title="General",CCTV-4 Asia
 http://74.91.26.218:82/live/cctv4hd.m3u8
-#EXTINF:-1 tvg-id="famelack-1ygWi2hNNf9GHE" tvg-country="CN" tvg-language="English" tvg-logo="" tvg-native-name="CCTV-4 中文国际欧洲" tvg-status="live" group-title="General",CCTV-4 Europe
+#EXTINF:-1 tvg-id="CCTV4Europe.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://i.imgur.com/HGLFdfk.png" tvg-native-name="CCTV-4 中文国际欧洲" tvg-status="live" group-title="General",CCTV-4 Europe
 https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8
 #EXTINF:-1 tvg-id="CCTV4K.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://i.imgur.com/fxusYlX.png" tvg-native-name="CCTV-4K 超高清" tvg-status="live" group-title="General",CCTV-4K
 http://198.204.240.250:82/live/cctv4k.m3u8
@@ -158,7 +158,7 @@ https://stream.hrbtv.net/xwzh/playlist.m3u8?_upt=ef41dd531755913594
 #EXTINF:-1 tvg-id="HarbinMovieChannel.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://www.tvchinese.net/uploads/tv/haerbin.jpg" tvg-status="live" group-title="Movies",Harbin Movie Channel
 https://stream.hrbtv.net/yspd/playlist.m3u8
 #EXTINF:-1 tvg-id="HebeiTV.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://i.imgur.com/Z5Ppzbi.png" tvg-native-name="河北电视台" tvg-status="live" group-title="General",Hebei TV
-https://restream.pdtvhd.com/memfs/1db8c005-9365-4b32-94a4-3736987b5646.m3u8
+https://event.pull.hebtv.com/live/live101.m3u8
 #EXTINF:-1 tvg-id="HebiNewsChannel.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://i.imgur.com/Osw5yRW.png" tvg-status="down" group-title="News",Hebi News Channel
 http://pili-live-hls.hebitv.com/hebi/hebi.m3u8
 #EXTINF:-1 tvg-id="HeilongjiangTV.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://i.imgur.com/9fj1uba.png" tvg-native-name="黑龙江电视台" tvg-status="down" group-title="General",Heilongjiang TV
@@ -307,8 +307,6 @@ https://ali-m-l.cztv.com/channels/lantian/channel10/1080p.m3u8
 http://39.134.115.163:8080/PLTV/88888910/224/3221225703/index.m3u8
 #EXTINF:-1 tvg-id="famelack-PQS6mmZySzL6Rf" tvg-country="CN" tvg-language="" tvg-logo="" tvg-status="live" group-title="General",上虞1新闻综合
 https://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8
-#EXTINF:-1 tvg-id="famelack-2Fb8Um99xfgPRq" tvg-country="CN" tvg-language="" tvg-logo="" tvg-status="live" group-title="General",上虞3新商都
-https://l.cztvcloud.com/channels/lantian/SXshangyu3/720p.m3u8
 #EXTINF:-1 tvg-id="famelack-ZMTYKvEKk1dmYw" tvg-country="CN" tvg-language="" tvg-logo="" tvg-status="live" group-title="General",上虞經濟文化
 https://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8
 #EXTINF:-1 tvg-id="famelack-HzvN0O8csJFrwx" tvg-country="CN" tvg-language="" tvg-logo="" tvg-status="live" group-title="General",之江纪录
@@ -321,10 +319,6 @@ https://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8
 https://www.youtube-nocookie.com/embed/W1HuQdjl5SA
 #EXTINF:-1 tvg-id="famelack-9wRBNHe95BnBON" tvg-country="CN" tvg-language="" tvg-logo="" tvg-status="live" group-title="General",嵊州综合
 https://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8
-#EXTINF:-1 tvg-id="famelack-LWZapZpACANZ13" tvg-country="CN" tvg-language="" tvg-logo="" tvg-status="live" group-title="General",新昌休闲影视
-https://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8
-#EXTINF:-1 tvg-id="famelack-4rBoFSFcNpIZxe" tvg-country="CN" tvg-language="" tvg-logo="" tvg-status="live" group-title="General",新昌新聞綜合
-https://l.cztvcloud.com/channels/lantian/SXxinchang1/720p.m3u8
 #EXTINF:-1 tvg-id="famelack-THg2ymDAp3wTLF" tvg-country="CN" tvg-language="" tvg-logo="" tvg-status="live" group-title="General",河源综合
 https://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8
 #EXTINF:-1 tvg-id="famelack-2D80wABwXq6SL0" tvg-country="CN" tvg-language="" tvg-logo="" tvg-status="live" group-title="General",浙江 I 绍兴影视
