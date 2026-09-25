@@ -88,7 +88,7 @@ http://77.89.199.174:8000/play/1024/index.m3u8
 #EXTINF:-1 tvg-id="Bashkortostan24.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/s34Wtz6.png" tvg-native-name="Башкортостан 24" tvg-status="down" group-title="General",Bashkortostan 24
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/ufa/bashkortostan24-hd/index.m3u8
 #EXTINF:-1 tvg-id="Belarus1.by" tvg-country="BY" tvg-language="Russian" tvg-logo="https://i.imgur.com/sUD9t5j.png" tvg-native-name="Беларусь 1" tvg-status="live" group-title="General",Belarus-1
-https://ngtrk.dc.beltelecom.by/ngtrk/_definst_/smil:belarus1.smil/playlist.m3u8
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus1.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Belarus2.by" tvg-country="BY" tvg-language="Russian" tvg-logo="https://i.imgur.com/BpEHpPS.png" tvg-native-name="Беларусь 2" tvg-status="live" group-title="Entertainment",Belarus-2
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus2.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Belarus24.by" tvg-country="BY" tvg-language="Russian" tvg-logo="https://i.imgur.com/BP7tY6F.png" tvg-native-name="Беларусь 24" tvg-status="live" group-title="News",Belarus-24
@@ -96,7 +96,7 @@ https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus24.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Belarus3.by" tvg-country="BY" tvg-language="Russian" tvg-logo="https://i.imgur.com/JkcDycn.png" tvg-native-name="Беларусь 3" tvg-status="live" group-title="Culture",Belarus-3
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus3.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Belarus4.by" tvg-country="BY" tvg-language="Russian" tvg-logo="https://i.imgur.com/XNkQrMr.png" tvg-native-name="Беларусь 4" tvg-status="live" group-title="General",Belarus-4
-https://ngtrk.dc.beltelecom.by/vtv/bt4.stream/playlist.m3u8
+https://live.dc.beltelecom.by/trkgomel/trkgomel.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="famelack-HbRUt7FKalezmx" tvg-country="BY" tvg-language="Russian" tvg-logo="" tvg-status="live" group-title="General",Belarus-4 Vitebsk
 https://ngtrk.dc.beltelecom.by/vtv/bt4.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="Belarus5.by" tvg-country="BY" tvg-language="Russian" tvg-logo="https://i.imgur.com/NJsRFud.png" tvg-native-name="Беларусь 5" tvg-status="live" group-title="Sports",Belarus-5
@@ -169,7 +169,7 @@ https://stream8.cinerama.uz/1227/tracks-v1a1/mono.m3u8
 https://cityeden.catcast.tv/content/47515/index.m3u8
 #EXTINF:-1 tvg-id="CityEdenBirmaPlay.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/38Q5L5W.png" tvg-native-name="Сити Эдем Бирма Play" tvg-status="live" group-title="Music",City Eden Birma Play
 https://cityeden.catcast.tv/content/34364/index.m3u8
-#EXTINF:-1 tvg-id="CityEdenClassicMusic.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/l7BE8l6.png" tvg-native-name="Сити Эдем Классическая Музыка" tvg-status="live" group-title="Music",City Eden Classic Music
+#EXTINF:-1 tvg-id="famelack-Lk2MXbqIFnMEMM" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-native-name="Сити Эдем Классическая Музыка" tvg-status="live" group-title="Music",City Eden Classic Music
 https://cityeden.catcast.tv/content/47400/index.m3u8
 #EXTINF:-1 tvg-id="CityEdenKinoAction.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/uuzuvD0.png" tvg-native-name="Сити Эдем КиноЭкшен" tvg-status="live" group-title="Movies",City Eden KinoAction
 https://cityeden.catcast.tv/content/41333/index.m3u8
@@ -282,7 +282,7 @@ http://str2.iptvhd.ru:8080/FastFunBoxHD/index.m3u8
 #EXTINF:-1 tvg-id="FeniksplusKino.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/S9OPMLE.png" tvg-native-name="Феникс плюс кино" tvg-status="down" group-title="Movies",Feniks plus Kino
 http://31.148.48.15/Feniks_plus_kino/index.m3u8
 #EXTINF:-1 tvg-id="FilmUADrama.ua" tvg-country="UA" tvg-language="Russian" tvg-logo="https://i.imgur.com/Hnwsh5d.png" tvg-status="live" group-title="Movies",FilmUADrama
-http://88.99.215.227/FilmUADrama/index.m3u8
+https://dash2.antik.sk/live/test_film_drama_atktv/playlist.m3u8
 #EXTINF:-1 tvg-id="FirstMusicChannel.by" tvg-country="BY" tvg-language="Russian" tvg-logo="https://i.imgur.com/YdyFJrl.png" tvg-native-name="Первый Музыкальный Канал" tvg-status="live" group-title="Music",First Music Channel
 http://hz1.teleport.cc/HLS/SD.m3u8
 #EXTINF:-1 tvg-id="FirstMusicChannelRussia.by" tvg-country="BY" tvg-language="Russian" tvg-logo="https://i.imgur.com/rEo7nR1.png" tvg-native-name="Первый Музыкальный Канал Россия" tvg-status="live" group-title="Music",First Music Channel Russia
@@ -396,7 +396,7 @@ http://stream.mcquack.net/68/index.m3u8
 #EXTINF:-1 tvg-id="Komediynoe.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/cEKe8XC.png" tvg-native-name="Комедийное" tvg-status="live" group-title="Comedy",Komediynoe
 http://stream.mcquack.net/74/index.m3u8
 #EXTINF:-1 tvg-id="KongressTV.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://tvcongress.ru/bitrix/templates/mbntheme/img/logo_tvc.svg" tvg-native-name="Конгресс ТВ" tvg-status="live" group-title="General",Kongress TV
-https://stitch.teletarget.ru/api/v1/hls/504/158/index.m3u8
+https://live-3.otcnet.ru/congresstv/index.m3u8
 #EXTINF:-1 tvg-id="KrikTV.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/rtuChZR.png" tvg-native-name="Крик-ТВ" tvg-status="live" group-title="News",Krik-TV
 http://cdn-01.bonus-tv.ru/kriktv_edge/playlist.m3u8
 #EXTINF:-1 tvg-id="KTK.kz" tvg-country="KZ" tvg-language="Russian" tvg-logo="https://i.imgur.com/BurrNTo.png" tvg-status="live" group-title="General",KTK
@@ -714,7 +714,7 @@ http://str2.iptvhd.ru:8080/Russkiy_ekstrim/index.m3u8
 #EXTINF:-1 tvg-id="RussianMusicBox.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/ZkJ3Rh9.png" tvg-status="live" group-title="Music",Russian MusicBox
 http://stream.mcquack.net/319/index.m3u8
 #EXTINF:-1 tvg-id="RusskiyBestseller.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/w0ZE9QJ.png" tvg-native-name="Русский бестселлер" tvg-status="live" group-title="Movies",Russkiy Bestseller
-http://stream.mcquack.net/208/index.m3u8
+http://str2.iptvhd.ru:8080/Russkiy_bestseller/index.m3u8
 #EXTINF:-1 tvg-id="RusskiyDetektiv.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/H3qhN8S.png" tvg-native-name="Русский детектив" tvg-status="live" group-title="Movies",Russkiy Detektiv
 http://stream.mcquack.net/204/index.m3u8
 #EXTINF:-1 tvg-id="RusskiyIllusion.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://tv-stream.ru/uploads/LOGO_RUSSKI_ILLUSION_300x300_belaya_nadpis_bf458e37d8.svg" tvg-native-name="Русский Иллюзион" tvg-status="live" group-title="Movies",Russkiy Illusion
@@ -813,7 +813,7 @@ http://stream.mcquack.net/461/index.m3u8
 https://live-3.otcnet.ru/sportivny/index.m3u8
 #EXTINF:-1 tvg-id="SSSRTV.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/ieONjAZ.png" tvg-native-name="СССР ТВ" tvg-status="down" group-title="General",SSSR TV
 http://str2.iptvhd.ru:8080/sssr_kino/index.m3u8
-#EXTINF:-1 tvg-id="StarCinema.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/5sis895.png" tvg-status="live" group-title="Movies",Star Cinema
+#EXTINF:-1 tvg-id="famelack-bGtZkBQX1pajI4" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-status="live" group-title="Movies",Star Cinema
 https://dash2.antik.sk/live/test_star_cinema_atktv/playlist.m3u8
 #EXTINF:-1 tvg-id="StarFamily.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/eGuGHnZ.png" tvg-status="live" group-title="Movies",Star Family
 https://dash2.antik.sk/live/test_star_family_atktv/playlist.m3u8
