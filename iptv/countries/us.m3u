@@ -76,7 +76,7 @@ https://jmp2.uk/plu-5f4d86f519358a00072b978e.m3u8
 #EXTINF:-1 tvg-id="AE.us" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/960px-A%26E_Network_logo.svg.png" tvg-status="live" group-title="Entertainment",A&E
 http://23.239.31.26:8989/aande/index.m3u8
 #EXTINF:-1 tvg-id="AELatinAmerica.us" tvg-country="US" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/960px-A%26E_Network_logo.svg.png" tvg-status="live" group-title="Entertainment",A&E Latin America
-http://170.83.16.50/AeE/index.m3u8
+http://138.121.15.230:9002/A&E/index.m3u8
 #EXTINF:-1 tvg-id="famelack-ugGAivxJyE8GHx" tvg-country="US" tvg-language="English" tvg-logo="" tvg-status="live" group-title="Shop",AAC Television
 https://www.youtube-nocookie.com/embed/yhnuk2yAFs0
 #EXTINF:-1 tvg-id="ABC.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/SkHxsJG.png" tvg-status="live" group-title="General",ABC
@@ -597,7 +597,7 @@ https://www.youtube-nocookie.com/embed/QB5BNdBFujE
 https://www.youtube-nocookie.com/embed/DxmDPrfinXY
 #EXTINF:-1 tvg-id="BloombergOriginals.us" tvg-country="US" tvg-language="English" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a69341a2-fce3-4a05-af2e-469540b25d73/BBOriginals_2023_Plex_Stacked_WHTrdx.png" tvg-status="live" group-title="Documentary",Bloomberg Originals
 https://e96a7526.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0Jsb29tYmVyZ09yaWdpbmFsc19ITFM/playlist.m3u8
-#EXTINF:-1 tvg-id="famelack-WH7adDfFfMrDqi" tvg-country="US" tvg-language="English" tvg-logo="" tvg-status="live" group-title="Documentary",Bloomberg Originals US
+#EXTINF:-1 tvg-id="famelack-WH7adDfFfMrDqi" tvg-country="US" tvg-language="English" tvg-logo="" tvg-status="live" group-title="Business",Bloomberg Originals US
 https://d3qwwydnxv5vo9.cloudfront.net/v1/bloomberg_quicktake_3/samsungheadend_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="famelack-CgMsuXc9zVoL0K" tvg-country="US" tvg-language="English" tvg-logo="" tvg-status="live" group-title="Business",Bloomberg Podcasts
 https://www.youtube-nocookie.com/embed/f39oHo6vFLg
@@ -638,7 +638,7 @@ https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/04
 #EXTINF:-1 tvg-id="famelack-0sNekUGhUgjOYl" tvg-country="US" tvg-language="" tvg-logo="" tvg-status="live" group-title="General",Brave Wilderness
 https://d95zc3i1pxhs7.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-id="Bravo.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/JmTIRLF.png" tvg-status="live" group-title="General",Bravo
-http://41.205.93.154/BRAVO/index.m3u8
+http://4.30.180.36:8420/bravo/index.m3u8?token=test
 #EXTINF:-1 tvg-id="famelack-ekhtZCzbA58LGa" tvg-country="US" tvg-language="" tvg-logo="" tvg-status="live" group-title="General",Bravo Vault
 https://xumo-xumoent-vc-114-x0p7i.fast.nbcuni.com/live/master.m3u8
 #EXTINF:-1 tvg-id="BrevardGovernmentAccessTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/eUTDIQ2.png" tvg-status="live" group-title="Legislative",Brevard Government Access TV
@@ -665,7 +665,7 @@ http://23.237.104.106:8080/USA_BUZZR/index.m3u8
 https://reflect-stream-bronxnet.cablecast.tv/live-19/live/stream-2/live.m3u8
 #EXTINF:-1 tvg-id="famelack-HuKbcFSSELNiGB" tvg-country="US" tvg-language="English" tvg-logo="" tvg-status="live" group-title="Culture",BX Culture
 https://reflect-stream-bronxnet.cablecast.tv/live-7/live/stream-3/live.m3u8
-#EXTINF:-1 tvg-id="famelack-kZDRP1VwdKK5y9" tvg-country="US" tvg-language="English" tvg-logo="" tvg-status="live" group-title="General",BX Inform
+#EXTINF:-1 tvg-id="famelack-kZDRP1VwdKK5y9" tvg-country="US" tvg-language="English" tvg-logo="" tvg-status="live" group-title="News",BX Inform
 https://reflect-stream-bronxnet.cablecast.tv/live-8/live/stream-4/live.m3u8
 #EXTINF:-1 tvg-id="famelack-OogTQQzcNfgSj2" tvg-country="US" tvg-language="English" tvg-logo="" tvg-status="live" group-title="Religious",BX Inspire
 https://reflect-stream-bronxnet.cablecast.tv/live-18/live/stream-7/live.m3u8
@@ -988,7 +988,7 @@ https://reflect-creatv.cablecast.tv/live-16/live/live.m3u8
 #EXTINF:-1 tvg-id="CrimePlusInvestigation.us" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/Crime_%2B_Investigation_Logo_10.2019.svg" tvg-status="live" group-title="Entertainment",Crime + Investigation
 http://23.237.104.106:8080/USA_CRIME_INVESTIGATION/index.m3u8
 #EXTINF:-1 tvg-id="Crime360.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/IjtaG1m.png" tvg-status="live" group-title="Documentary",Crime 360
-https://jmp2.uk/plu-657880c46e4f6a00087404d0.m3u8
+https://94a3e237.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0NyaW1lMzYwX0hMUw/playlist.m3u8
 #EXTINF:-1 tvg-id="famelack-AoUnJFmR2SCf1D" tvg-country="US" tvg-language="" tvg-logo="" tvg-status="live" group-title="General",Crime ThrillHer
 https://d1x6vwh5kyhcyb.cloudfront.net/v1/aenetworks_thrillher_1/samsungheadend_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="famelack-4tRXG4jaH28cvM" tvg-country="US" tvg-language="" tvg-logo="" tvg-status="live" group-title="General",CrimeFlix
@@ -1133,9 +1133,9 @@ https://www.youtube-nocookie.com/embed/B_5RPAixkG4
 https://www.youtube-nocookie.com/embed/eE1L08hNdW8
 #EXTINF:-1 tvg-id="famelack-5DpoUpKEzcecSL" tvg-country="US" tvg-language="English" tvg-logo="" tvg-status="live" group-title="Kids",Disney Channel: Phineas and Ferb
 https://www.youtube-nocookie.com/embed/_HviSyC7zSU
-#EXTINF:-1 tvg-id="famelack-LbfmhqUBJd1O9n" tvg-country="US" tvg-language="English" tvg-logo="" tvg-status="live" group-title="Kids",Disney Channel: Stuck in the Middle
+#EXTINF:-1 tvg-id="famelack-LbfmhqUBJd1O9n" tvg-country="US" tvg-language="English" tvg-logo="" tvg-status="live" group-title="Series",Disney Channel: Stuck in the Middle
 https://www.youtube-nocookie.com/embed/dt6dEz1rDzo
-#EXTINF:-1 tvg-id="famelack-nu7l4PSugK8FRQ" tvg-country="US" tvg-language="English" tvg-logo="" tvg-status="live" group-title="Kids",Disney Channel: Wizards of Waverly
+#EXTINF:-1 tvg-id="famelack-nu7l4PSugK8FRQ" tvg-country="US" tvg-language="English" tvg-logo="" tvg-status="live" group-title="Series",Disney Channel: Wizards of Waverly
 https://www.youtube-nocookie.com/embed/s1Ylmj87gXY
 #EXTINF:-1 tvg-id="DisneyJunior.us" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/2024_Disney_Jr._Logo.svg/960px-2024_Disney_Jr._Logo.svg.png" tvg-status="live" group-title="Kids",Disney Junior
 http://212.5.144.156/disneyjr/index.m3u8
@@ -1312,7 +1312,7 @@ https://amg00145-amg00145c3-xumo-us-3802.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="FamilyTies.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/WJEkKCb.png" tvg-status="live" group-title="Series",Family Ties
 https://jmp2.uk/plu-5f77939a630f530007dde654.m3u8
 #EXTINF:-1 tvg-id="Farscape.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/2WH4lSc.png" tvg-status="live" group-title="Series",Farscape
-https://jmp2.uk/plu-699c1b4c9c3b075ecd513139.m3u8
+https://jmp2.uk/plu-699c1bd39a3f3bb4887e045e.m3u8
 #EXTINF:-1 tvg-id="FashionFinds.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/GvDRZgq.png" tvg-status="live" group-title="Shop",Fashion Finds
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc5us/master.m3u8
 #EXTINF:-1 tvg-id="FastTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://us1-prod-images.disco-api.com/2020/7/13/4f26aaf2-a993-480d-9675-0d501fb8d86f.png?bf=0&f=png&p=true&q=85&w=250" tvg-status="live" group-title="General",Fast TV
@@ -1472,7 +1472,7 @@ https://ads.its-newid.net/api/manifest.m3u8?ads.service_id=US200001137&channel_i
 #EXTINF:-1 tvg-id="Getfactual.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/4oVcjLd.png" tvg-status="live" group-title="Documentary",Get.factual
 https://d1nhni5l2n8hjt.cloudfront.net/gf.m3u8
 #EXTINF:-1 tvg-id="GhostDimension.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/a0jOxez.png" tvg-status="live" group-title="Series",Ghost Dimension
-https://jmp2.uk/plu-619e1bb3e9af5a0007f235ad.m3u8
+https://jmp2.uk/plu-619e259fd8b672000729b1d7.m3u8
 #EXTINF:-1 tvg-id="GhostHunters.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/KdBr6rG.png" tvg-status="live" group-title="Series",Ghost Hunters
 https://amg00353-amg00353c30-samsung-au-3440.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="famelack-9eVtjqkBHb6wI7" tvg-country="US" tvg-language="" tvg-logo="" tvg-status="live" group-title="General",Ghost Stories
@@ -1588,7 +1588,7 @@ https://linear-59.frequency.stream/dist/plex/59/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="HighVisionTV.us" tvg-country="US" tvg-language="Persian" tvg-logo="https://i.imgur.com/zhCgoru.png" tvg-status="live" group-title="Music",High Vision TV
 https://streamer1.connectto.com/HIGHVISION_WEB_1205/index.m3u8
 #EXTINF:-1 tvg-id="HighwaytoHeaven.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/e6pvibn.png" tvg-status="live" group-title="Series",Highway to Heaven
-https://jmp2.uk/plu-68bff9a63efb41cd97562e46.m3u8
+https://jmp2.uk/plu-68c014ee337652ee75dab43b.m3u8
 #EXTINF:-1 tvg-id="HillsboroughTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/fUne7FX.png" tvg-status="live" group-title="Legislative",Hillsborough TV
 https://cdn3.wowza.com/5/M0lyamVmM2JWcjhQ/hillsboroughcounty/G2155_002/playlist.m3u8
 #EXTINF:-1 tvg-id="famelack-11LRJw2rFrosa1" tvg-country="US" tvg-language="" tvg-logo="" tvg-status="live" group-title="General",HIPTV
@@ -1601,7 +1601,7 @@ http://212.5.144.156:8080/history/index.m3u8
 https://d1nzda2a2b3swt.cloudfront.net/History_Warfare_Now.m3u8
 #EXTINF:-1 tvg-id="History2LatinAmerica.us" tvg-country="US" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/500px-History2_logo_%282022%29.svg.png" tvg-status="live" group-title="Documentary",History 2 Latin America
 http://45.177.114.114/HISTORY_2/index.m3u8
-#EXTINF:-1 tvg-id="HistoryAsia.us" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png" tvg-status="live" group-title="Documentary",History Asia
+#EXTINF:-1 tvg-id="famelack-OdnRloFb9PVDPW" tvg-country="US" tvg-language="English" tvg-logo="" tvg-status="live" group-title="Documentary",History Asia
 https://freem3u.xyz/api/live/play.m3u8?vid=9856
 #EXTINF:-1 tvg-id="famelack-HZEhjsWnhssch2" tvg-country="US" tvg-language="English" tvg-logo="" tvg-status="live" group-title="Documentary",History Hit
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-timelinenz-samsungnz/playlist.m3u8
@@ -1743,9 +1743,9 @@ https://rpn3.bozztv.com/jbstv-srt/srt-push/jbstv/playlist.m3u8
 https://jmp2.uk/plu-609bfa51fbecc1000733152e.m3u8
 #EXTINF:-1 tvg-id="famelack-FGH9HpUyD4gX0R" tvg-country="US" tvg-language="" tvg-logo="" tvg-status="live" group-title="General",Jewelry Television Espanol
 https://82934cf9c8696bd2.mediapackage.us-east-1.amazonaws.com/out/v1/72b5a55e4c35445f9e742871aa0aefa2/index.m3u8
-#EXTINF:-1 tvg-id="JewelryTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/50/Jewelry_television_logo.png" tvg-status="live" group-title="Shop",Jewelry TV
+#EXTINF:-1 tvg-id="famelack-uQsx5kftibrLSo" tvg-country="US" tvg-language="English" tvg-logo="" tvg-status="live" group-title="Shop",Jewelry TV
 https://content.jwplatform.com/live/broadcast/oe7UD7Ag.m3u8
-#EXTINF:-1 tvg-id="JewelryTV2.us" tvg-country="US" tvg-language="English" tvg-logo="" tvg-status="live" group-title="Shop",Jewelry TV 2
+#EXTINF:-1 tvg-id="famelack-vRBYF2RAp24H6z" tvg-country="US" tvg-language="English" tvg-logo="" tvg-status="live" group-title="Shop",Jewelry TV 2
 https://cdn.jwplayer.com/live/broadcast/0rrJ3kkM.m3u8
 #EXTINF:-1 tvg-id="JewishLifeTelevision.us" tvg-country="US" tvg-language="English" tvg-logo="https://yt3.googleusercontent.com/i6ETvgNzA8vvGCo-Ih6eo2XZUwz2VVMnstLyNZVXBlwa4uOeUIEl-3tzphB8phJaibe-FPQ5Fw=s512-c-k-c0x00ffffff-no-rj" tvg-status="live" group-title="Culture",Jewish Life Television
 https://jlt-jltv-strimm.otteravision.com/jlt/jltv/jltv.m3u8
@@ -1827,7 +1827,7 @@ https://jmp2.uk/plu-5db0ad56edc89300090d2ebb.m3u8
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50
 #EXTINF:-1 tvg-id="KIIOLD101.us" tvg-country="US" tvg-language="Armenian" tvg-logo="https://i.imgur.com/wkzwXFO.png" tvg-status="live" group-title="Culture",KIIO-LD 10.1
 http://livestream.usatv.com/hls/master-iUSATVLIVENET.m3u8
-#EXTINF:-1 tvg-id="KIIOLD104.us" tvg-country="US" tvg-language="Armenian" tvg-logo="https://i.imgur.com/Spu4s89.png" tvg-status="live" group-title="Culture",KIIO-LD 10.4
+#EXTINF:-1 tvg-id="famelack-qp46ccpG1UGKBD" tvg-country="US" tvg-language="English" tvg-logo="" tvg-status="live" group-title="Culture",KIIO-LD 10.4
 https://streamer1.connectto.com/AABC_WEB_1201/index.m3u8
 #EXTINF:-1 tvg-id="famelack-URXOEUWldtm5hw" tvg-country="US" tvg-language="English" tvg-logo="" tvg-status="live" group-title="General",KIRO-DT1
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-kirobreaking-ono/playlist.m3u8
@@ -1912,7 +1912,7 @@ https://reflect-channel36-la.cablecast.tv/live-3/live/stream-1/live.m3u8
 #EXTINF:-1 tvg-id="LacrosseTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_m_xSJFydxZ9QBU-85OuchjmzS0Bo0_Tukmk7to8hBfyl8=s512-c-k-c0x00ffffff-no-rj" tvg-status="live" group-title="Sports",Lacrosse TV
 https://a-cdn.klowdtv.com/live2/lsn_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="Laff.us" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/LAFF_logo.png/960px-LAFF_logo.png" tvg-status="live" group-title="Comedy",Laff
-http://tvsen7.aynascope.net/laff/index.m3u8
+http://4.30.180.36:8420/laff/index.m3u8?token=test
 #EXTINF:-1 tvg-id="LakeHavasuCity4.us" tvg-country="US" tvg-language="English" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lQ_vy6By43AoSdSQbFUzQePU0NWWIM-uzsAqnbbQXAql4=s512" tvg-status="live" group-title="Legislative",Lake Havasu City 4
 https://cdn3.wowza.com/5/cHYzekYzM2kvTVFH/lakehavasucity/G0643_003/playlist.m3u8
 #EXTINF:-1 tvg-id="LakeFrontTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/ROb1BNG.png" tvg-status="down" group-title="Legislative",LakeFront TV
@@ -1970,7 +1970,7 @@ http://41.205.93.154/LIFETIME/index.m3u8
 #EXTINF:-1 tvg-id="LifetimeAsia.us" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/960px-Logo_Lifetime_2020.svg.png" tvg-status="down" group-title="Entertainment",Lifetime Asia
 http://nmk.ioapk.com:5050/4gtv-live029/index.m3u8
 #EXTINF:-1 tvg-id="LifetimeLatinAmerica.us" tvg-country="US" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/960px-Logo_Lifetime_2020.svg.png" tvg-status="live" group-title="Entertainment",Lifetime Latin America
-http://170.83.16.50/LIFETIME/index.m3u8
+http://138.121.15.230:9002/LIFETIME/index.m3u8
 #EXTINF:-1 tvg-id="LifetimeMovies.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/BWmqYTO.png" tvg-status="down" group-title="Movies",Lifetime Movies
 http://23.237.104.106:8080/USA_LMN/index.m3u8
 #EXTINF:-1 tvg-id="famelack-2dMNK0Wmk0MNzk" tvg-country="US" tvg-language="" tvg-logo="" tvg-status="live" group-title="General",Lifetime Movies Love & Drama
@@ -2107,7 +2107,7 @@ https://d3k8wzt41aflvx.cloudfront.net/MediasetUSA/Live.m3u8
 https://mdstrm.com/live-stream-playlist/67ed74e8af482ba71d47fd7b.m3u8
 #EXTINF:-1 tvg-id="MeritStreet.us" tvg-country="US" tvg-language="English" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1d/Merit_Street_Media_2024_1.svg/revision/latest/scale-to-width-down/512" tvg-status="live" group-title="Entertainment",Merit Street
 https://d9069ugodwkju.cloudfront.net/Merit_Street.m3u8
-#EXTINF:-1 tvg-id="MetaleitorTV.us" tvg-country="US" tvg-language="Spanish" tvg-logo="https://new.opencaster.com/uploads/logos/logo_14_1752798826.png" tvg-status="live" group-title="Music",Metaleitor TV
+#EXTINF:-1 tvg-id="famelack-iKWwtXoSIYPCGC" tvg-country="US" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="Music",Metaleitor TV
 https://vs20.live.opencaster.com/metaleitortv_423d3342/index.m3u8
 #EXTINF:-1 tvg-id="MeTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/C80xvii.png" tvg-status="live" group-title="Entertainment",MeTV
 http://4.30.180.36:8420/metv/index.m3u8?token=test
@@ -2499,7 +2499,7 @@ https://live.ntdtv.com/cnlive900/playlist.m3u8
 https://ntd02.akamaized.net/HD-NY/index.m3u8
 #EXTINF:-1 tvg-id="NTDTVEnglish.us" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/NTD_Logo_with_symbol.svg/960px-NTD_Logo_with_symbol.svg.png" tvg-status="live" group-title="News",NTD TV English
 https://ntd02.akamaized.net/NTD-UK/index.m3u8
-#EXTINF:-1 tvg-id="famelack-pp7b0Cgw2wZXEQ" tvg-country="US" tvg-language="English" tvg-logo="" tvg-status="live" group-title="General",NTD TV English USA
+#EXTINF:-1 tvg-id="famelack-pp7b0Cgw2wZXEQ" tvg-country="US" tvg-language="English" tvg-logo="" tvg-status="live" group-title="News",NTD TV English USA
 https://amg17596-amg17596c1-ntdtv-worldwide-3276.playouts.now.amagi.tv/playlist/amg17596-newtangdynastytelevision-ntdtv-ntdtvworldwide/playlist.m3u8
 #EXTINF:-1 tvg-id="famelack-yn2NHjwQFGeeTM" tvg-country="US" tvg-language="English" tvg-logo="" tvg-status="live" group-title="General",NTD TV West
 https://ntd02.akamaized.net/HD-LA/index.m3u8
@@ -2534,7 +2534,7 @@ https://oitnhls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="famelack-iMHOte0HrBBiqM" tvg-country="US" tvg-language="" tvg-logo="" tvg-status="live" group-title="General",Omstars
 https://d1too6m5v9oyet.cloudfront.net/scheduler/scheduleMaster/281.m3u8
 #EXTINF:-1 tvg-id="OnTheCase.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/TAmVjUL.png" tvg-status="live" group-title="Documentary",On The Case
-https://jmp2.uk/plu-62cd971cec90c20007081050.m3u8
+https://jmp2.uk/plu-62cd9f1cda044a00077b8f41.m3u8
 #EXTINF:-1 tvg-id="OneAmericaNewsNetwork.us" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/84/One_America_News_Network_logo.svg/960px-One_America_News_Network_logo.svg.png" tvg-status="live" group-title="News",One America News Network
 http://23.237.104.106:8080/USA_OAN/index.m3u8
 #EXTINF:-1 tvg-id="OnePiece.us" tvg-country="US" tvg-language="" tvg-logo="https://images.pluto.tv/channels/5f7790b3ed0c88000720b241/colorLogoPNG_1731837233662.png" tvg-status="live" group-title="Animation",One Piece
@@ -2662,7 +2662,7 @@ https://d2w9b8sam7j3zv.cloudfront.net/v1/pfl_pflmma_1/samsungheadend_us/latest/m
 #EXTINF:-1 tvg-id="PFLMMA.us" tvg-country="US" tvg-language="English" tvg-logo="https://provider-static.plex.tv/epg/cms/production/96dd0531-b500-4bd4-93ca-763cbf46defe/1500x1000_PFL_SHIELD_DARK_BG_-_Allie_Dinsmore.png" tvg-status="live" group-title="Sports",PFL MMA
 https://jmp2.uk/plu-64f6180130ab3300083d896b.m3u8
 #EXTINF:-1 tvg-id="PGATour.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/J0TY9dG.png" tvg-status="live" group-title="Sports",PGA Tour
-https://jmp2.uk/plu-66c870112630fc0008137ae2.m3u8
+https://jmp2.uk/plu-66c86fff9ba9e800080d8ebe.m3u8
 #EXTINF:-1 tvg-id="PhillyCAM.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/ENOr31n.png" tvg-status="live" group-title="General",PhillyCAM
 https://livestream.telvue.com/phillycam1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="PHLgovTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/BmNc3hu.png" tvg-status="live" group-title="Legislative",PHLgovTV
@@ -2956,7 +2956,7 @@ https://jmp2.uk/plu-5f32d4d9ec194100070c7449.m3u8
 #EXTINF:-1 tvg-id="PlutoTVWesterns.us" tvg-country="US" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/62bdacc96a3751000811842d/colorLogoSVG.svg" tvg-status="live" group-title="Movies",Pluto TV Westerns
 https://jmp2.uk/plu-62bdacc96a3751000811842d.m3u8
 #EXTINF:-1 tvg-id="PlutoTVWipeout.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/KVTNBFr.png" tvg-status="live" group-title="Series",Pluto TV Wipeout
-https://jmp2.uk/plu-6909e5c3a3a4b49706b8373b.m3u8
+https://jmp2.uk/plu-604f8125c6669b00077f7699.m3u8
 #EXTINF:-1 tvg-id="pocketwatch.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/T0V90Lz.png" tvg-status="live" group-title="Kids",pocket.watch
 https://dl74gpgmnb7i8.cloudfront.net/pocketwatch_GameOn.m3u8
 #EXTINF:-1 tvg-id="PoconoTelevisionNetwork.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/et6giFo.png" tvg-status="live" group-title="Travel",Pocono Television Network
@@ -3576,7 +3576,7 @@ https://aegis-cloudfront-1.tubi.video/af138c2c-c4f2-49f7-88d7-64eeabbad414/index
 #EXTINF:-1 tvg-id="TheMontereyChannel.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/400m3ow.png" tvg-status="live" group-title="General",The Monterey Channel
 https://dlttx48mxf9m3.cloudfront.net/vod_clients/amp/live/ch3/video.m3u8
 #EXTINF:-1 tvg-id="TheNanny.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/1caOriu.png" tvg-status="live" group-title="General",The Nanny
-https://jmp2.uk/plu-6391cef9edb23c0008598cee.m3u8
+https://jmp2.uk/plu-6391df52d146a40007c265f3.m3u8
 #EXTINF:-1 tvg-id="TheNest.us" tvg-country="US" tvg-language="English" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/12/The_Nest_2023.svg/revision/latest/scale-to-width-down/250" tvg-status="live" group-title="Entertainment",The Nest
 https://fast-channels.sinclairstoryline.com/THENEST/index.m3u8
 #EXTINF:-1 tvg-id="TheNewDetectives.us" tvg-country="US" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/62bdabbc5611f2000761ca30/colorLogoSVG.svg" tvg-status="live" group-title="Series",The New Detectives
@@ -3929,7 +3929,7 @@ https://www.youtube-nocookie.com/embed/syGEWLIT_aM
 https://tgn.bozztv.com/watc57/watc57-harmony/watc57-harmony/index.m3u8
 #EXTINF:-1 tvg-id="WATCDT571.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/FhIRe7O.png" tvg-status="live" group-title="General",WATC-DT 57.1
 https://tgn2.bozztv.com/watc57/watc57-1/watc57-1/index.m3u8
-#EXTINF:-1 tvg-id="famelack-KUbK67Q2NqTZi3" tvg-country="US" tvg-language="English" tvg-logo="" tvg-status="live" group-title="General",WATC-DT 57.2
+#EXTINF:-1 tvg-id="WATCDT572.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/RAfuLul.png" tvg-status="live" group-title="General",WATC-DT 57.2
 https://uni01rtmp.tulix.tv/watc57-2/watc57-2/playlist.m3u8
 #EXTINF:-1 tvg-id="WatchitKID.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/YNx0j1b.png" tvg-status="live" group-title="Kids",Watch it KID!
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=2245
