@@ -21,7 +21,7 @@ https://ec3.yesstreaming.net:3615/stream
 https://antares.dribbcast.com/proxy/s8190/stream
 #EXTINF:-1 tvg-id="famelack-SKZ2QL4llH7pmp" tvg-country="UK" tvg-language="English" tvg-logo="" tvg-status="live" group-title="jazz",24/7 Jazz Radio
 https://ec3.yesstreaming.net:3455/stream
-#EXTINF:-1 tvg-id="famelack-TxUsUJCxwz9PeF" tvg-country="UK" tvg-language="English" tvg-logo="" tvg-status="live" group-title="electronic",24/7 LoFi Radio
+#EXTINF:-1 tvg-id="famelack-TxUsUJCxwz9PeF" tvg-country="UK" tvg-language="English" tvg-logo="" tvg-status="live" group-title="chill",24/7 LoFi Radio
 https://ec3.yesstreaming.net:3755/stream
 #EXTINF:-1 tvg-id="famelack-fscMRnb4QX00L7" tvg-country="UK" tvg-language="English" tvg-logo="" tvg-status="live" group-title="General",24/7 London Radio
 https://ec3.yesstreaming.net:3645/stream
@@ -61,7 +61,7 @@ https://listen.radioking.com/radio/69079/stream/106852
 https://securestreams.autopo.st:1174/;
 #EXTINF:-1 tvg-id="famelack-2oGiBtepIHBTfy" tvg-country="UK" tvg-language="English" tvg-logo="" tvg-status="live" group-title="pop",AJK Radio
 https://solid41.streamupsolutions.com/proxy/wzbznkee/stream
-#EXTINF:-1 tvg-id="famelack-qQdPp3X93wgjBy" tvg-country="UK" tvg-language="English" tvg-logo="" tvg-status="live" group-title="electronic",Alive Radio 107.3
+#EXTINF:-1 tvg-id="famelack-qQdPp3X93wgjBy" tvg-country="UK" tvg-language="English" tvg-logo="" tvg-status="live" group-title="rock",Alive Radio 107.3
 https://stream2.hippynet.co.uk:8013/;
 #EXTINF:-1 tvg-id="famelack-U0n4RCBTDqf8Ah" tvg-country="UK" tvg-language="English" tvg-logo="" tvg-status="live" group-title="talk",ALL FM 96.9
 https://uksouth.streaming.broadcast.radio/allfm
@@ -137,7 +137,7 @@ https://as-hls-ww-live.akamaized.net/pool_74208725/live/ww/bbc_radio_two/bbc_rad
 https://as-hls-ww-live.akamaized.net/pool_23461179/live/ww/bbc_radio_three/bbc_radio_three.isml/bbc_radio_three-audio%3d128000.norewind.m3u8
 #EXTINF:-1 tvg-id="famelack-ZFWCiETVmmcjbF" tvg-country="UK" tvg-language="English" tvg-logo="" tvg-status="live" group-title="classical",BBC Radio 3 Classic
 https://as-hls-ww-live.akamaized.net/pool_23461179/live/ww/bbc_radio_three/bbc_radio_three.isml/bbc_radio_three-audio=96000.norewind.m3u8
-#EXTINF:-1 tvg-id="famelack-QGbfTMmjZEVMbX" tvg-country="UK" tvg-language="English" tvg-logo="" tvg-status="live" group-title="classical",BBC Radio 3 Unwind
+#EXTINF:-1 tvg-id="famelack-QGbfTMmjZEVMbX" tvg-country="UK" tvg-language="English" tvg-logo="" tvg-status="live" group-title="chill",BBC Radio 3 Unwind
 https://as-hls-ww-live.akamaized.net/pool_30624046/live/ww/bbc_radio_three_unwind/bbc_radio_three_unwind.isml/bbc_radio_three_unwind-audio%3d128000.norewind.m3u8
 #EXTINF:-1 tvg-id="famelack-pVUCykfifnLmDJ" tvg-country="UK" tvg-language="English" tvg-logo="" tvg-status="live" group-title="news",BBC Radio 4
 https://as-hls-ww-live.akamaized.net/pool_55057080/live/ww/bbc_radio_fourfm/bbc_radio_fourfm.isml/bbc_radio_fourfm-audio%3d128000.norewind.m3u8
@@ -145,7 +145,7 @@ https://as-hls-ww-live.akamaized.net/pool_55057080/live/ww/bbc_radio_fourfm/bbc_
 https://as-hls-ww-live.akamaized.net/pool_26173715/live/ww/bbc_radio_four_extra/bbc_radio_four_extra.isml/bbc_radio_four_extra-audio=320000.norewind.m3u8
 #EXTINF:-1 tvg-id="famelack-0zF84JnWs68TuG" tvg-country="UK" tvg-language="English" tvg-logo="" tvg-status="live" group-title="sports",BBC Radio 5 Live
 https://as-hls-ww-live.akamaized.net/pool_89021708/live/ww/bbc_radio_five_live/bbc_radio_five_live.isml/bbc_radio_five_live-audio%3d128000.norewind.m3u8
-#EXTINF:-1 tvg-id="famelack-Hx2s8FE7vVPWa8" tvg-country="UK" tvg-language="English" tvg-logo="" tvg-status="live" group-title="electronic",BBC Radio 6 Music
+#EXTINF:-1 tvg-id="famelack-Hx2s8FE7vVPWa8" tvg-country="UK" tvg-language="English" tvg-logo="" tvg-status="live" group-title="rock",BBC Radio 6 Music
 https://as-hls-ww-live.akamaized.net/pool_81827798/live/ww/bbc_6music/bbc_6music.isml/bbc_6music-audio%3d128000.norewind.m3u8
 #EXTINF:-1 tvg-id="famelack-LUurR3P7jy1DSQ" tvg-country="UK" tvg-language="English" tvg-logo="" tvg-status="live" group-title="news",BBC Radio Bristol
 https://as-hls-ww-live.akamaized.net/pool_41858929/live/ww/bbc_radio_bristol/bbc_radio_bristol.isml/bbc_radio_bristol-audio%3d96000.norewind.m3u8
@@ -233,7 +233,7 @@ https://listen-ssvcbfbs.sharp-stream.com/ssvcbfbs1.aac
 https://uksoutha.streaming.broadcast.radio/stream/9400/BHBN
 #EXTINF:-1 tvg-id="famelack-0PwcQsSFC4xhsZ" tvg-country="UK" tvg-language="English" tvg-logo="" tvg-status="live" group-title="rock",Big Barn Radio
 https://s2.radio.co/s04214ea9a/listen
-#EXTINF:-1 tvg-id="famelack-lYcM8dezesFZhO" tvg-country="UK" tvg-language="English" tvg-logo="" tvg-status="live" group-title="electronic",Big Beat Brighton
+#EXTINF:-1 tvg-id="famelack-lYcM8dezesFZhO" tvg-country="UK" tvg-language="English" tvg-logo="" tvg-status="live" group-title="90s",Big Beat Brighton
 https://s4.citrus3.com:8366/stream
 #EXTINF:-1 tvg-id="famelack-BgUGygZz8ltPcv" tvg-country="UK" tvg-language="English" tvg-logo="" tvg-status="live" group-title="oldies",Big L 1395
 https://s2.streamer1.com/listen/bigl/biglTEST.mp3
@@ -257,7 +257,7 @@ https://streaming06.liveboxstream.uk/proxy/david125/stream
 https://radio.canstream.co.uk:8083/live.mp3
 #EXTINF:-1 tvg-id="famelack-Gz7PRmOYmOJ6h5" tvg-country="UK" tvg-language="English" tvg-logo="" tvg-status="live" group-title="rock",Bombshell Radio
 https://s8.ssl-stream.com:1175/stream
-#EXTINF:-1 tvg-id="famelack-EYCkGiE3rFgBoC" tvg-country="UK" tvg-language="English" tvg-logo="" tvg-status="live" group-title="electronic",Boogaloo Radio
+#EXTINF:-1 tvg-id="famelack-EYCkGiE3rFgBoC" tvg-country="UK" tvg-language="English" tvg-logo="" tvg-status="live" group-title="rock",Boogaloo Radio
 https://streams.radio.co/sb88c742f0/listen
 #EXTINF:-1 tvg-id="famelack-FqVpMopwW295Fq" tvg-country="UK" tvg-language="English" tvg-logo="" tvg-status="live" group-title="easy-listening",Boom Light
 https://listen-boomradio.sharp-stream.com/65_boom_light_128_aac
@@ -277,7 +277,7 @@ https://boxradio-edge-00.streamafrica.net/country
 https://s2.citrus3.com:8400/stream
 #EXTINF:-1 tvg-id="famelack-p7uD4yx6W1amJC" tvg-country="UK" tvg-language="English" tvg-logo="" tvg-status="live" group-title="christmas",BOX Santa Radio
 https://stream.zeno.fm/q88hvnz86p8uv
-#EXTINF:-1 tvg-id="famelack-fffBZm6Ijdxmi7" tvg-country="UK" tvg-language="English" tvg-logo="" tvg-status="live" group-title="rock",Box UK
+#EXTINF:-1 tvg-id="famelack-fffBZm6Ijdxmi7" tvg-country="UK" tvg-language="English" tvg-logo="" tvg-status="live" group-title="80s",Box UK
 https://boxstream.danceradiouk.com/stream
 #EXTINF:-1 tvg-id="famelack-kAa82BG7LIBTT3" tvg-country="UK" tvg-language="English" tvg-logo="" tvg-status="live" group-title="pop",Bradford Asian Radio
 https://cast1.asurahosting.com/proxy/bradford/stream
@@ -387,7 +387,7 @@ https://s3.radio.co/sf2bda8390/listen
 https://ice-the.musicradio.com/ClassicFMMP3
 #EXTINF:-1 tvg-id="famelack-LrWeywPqF8QMJe" tvg-country="UK" tvg-language="English" tvg-logo="" tvg-status="live" group-title="classical",Classic FM at the Movies
 https://media-sov.musicradio.com/ClassicFM-M-Movies
-#EXTINF:-1 tvg-id="famelack-mU6PZ62gjhwmra" tvg-country="UK" tvg-language="English" tvg-logo="" tvg-status="live" group-title="classical",Classic FM Calm
+#EXTINF:-1 tvg-id="famelack-mU6PZ62gjhwmra" tvg-country="UK" tvg-language="English" tvg-logo="" tvg-status="live" group-title="chill",Classic FM Calm
 https://media-ice.musicradio.com/ClassicFMCalmMP3
 #EXTINF:-1 tvg-id="famelack-H9xMsF6mYH0DWE" tvg-country="UK" tvg-language="English" tvg-logo="" tvg-status="live" group-title="classical",Classic FM Essential Classical
 https://icecast.thisisdax.com/ClassicFM-M-Essential
@@ -397,7 +397,7 @@ https://icecast.thisisdax.com/ClassicFM-M-HOF
 https://media-ice.musicradio.com/ClassicFMMoviesMP3
 #EXTINF:-1 tvg-id="famelack-0umWW7rsc813B4" tvg-country="UK" tvg-language="English" tvg-logo="" tvg-status="live" group-title="classical",Classic FM Music For Pets
 https://media-ssl.musicradio.com/ClassicFM-M-Pets
-#EXTINF:-1 tvg-id="famelack-yUYuRUFqpRZZRZ" tvg-country="UK" tvg-language="English" tvg-logo="" tvg-status="live" group-title="classical",Classic FM Relax
+#EXTINF:-1 tvg-id="famelack-yUYuRUFqpRZZRZ" tvg-country="UK" tvg-language="English" tvg-logo="" tvg-status="live" group-title="chill",Classic FM Relax
 https://media-the.musicradio.com/ClassicFM-M-Relax
 #EXTINF:-1 tvg-id="famelack-d7dOyIf5SNICs2" tvg-country="UK" tvg-language="English" tvg-logo="" tvg-status="live" group-title="classical",Classic FM Video Game Music
 https://icecast.thisisdax.com/ClassicFM-M-Gaming
@@ -445,7 +445,7 @@ https://crystalfm-radiohosting2.radioca.st/stream
 https://betelgeuse.nucast.co.uk:8034/stream
 #EXTINF:-1 tvg-id="famelack-OFyyY4xo6HccqD" tvg-country="UK" tvg-language="English" tvg-logo="" tvg-status="live" group-title="talk",Cumbernauld FM
 https://radio.canstream.co.uk:8104/live.mp3
-#EXTINF:-1 tvg-id="famelack-iAoxwMoex0zy9g" tvg-country="UK" tvg-language="English" tvg-logo="" tvg-status="live" group-title="soul",Cutter's Choice Radio
+#EXTINF:-1 tvg-id="famelack-iAoxwMoex0zy9g" tvg-country="UK" tvg-language="English" tvg-logo="" tvg-status="live" group-title="reggae",Cutter's Choice Radio
 https://cutters-choice-radio.radiocult.fm/stream
 #EXTINF:-1 tvg-id="famelack-muGtCCuTn2RnLt" tvg-country="UK" tvg-language="English" tvg-logo="" tvg-status="live" group-title="electronic",D3EP Radio Network
 https://cast.d3ep.com:8008/192
@@ -561,9 +561,9 @@ https://stream.radio.co/s74e130a62/listen
 https://n06a-eu.rcs.revma.com/gnys6kxst8tvv
 #EXTINF:-1 tvg-id="famelack-MHajvuglkzqALP" tvg-country="UK" tvg-language="English" tvg-logo="" tvg-status="live" group-title="hits",Forest FM 92.3
 https://radio.canstream.co.uk:8146/live.mp3
-#EXTINF:-1 tvg-id="famelack-kH47Ykcd1452Pb" tvg-country="UK" tvg-language="English" tvg-logo="" tvg-status="live" group-title="90s",Forever Hits
+#EXTINF:-1 tvg-id="famelack-kH47Ykcd1452Pb" tvg-country="UK" tvg-language="English" tvg-logo="" tvg-status="live" group-title="80s",Forever Hits
 https://stream.zeno.fm/bxq4nstoqdbvv
-#EXTINF:-1 tvg-id="famelack-dxHDCvvS44TdHG" tvg-country="UK" tvg-language="English" tvg-logo="" tvg-status="live" group-title="rock",Fosse 107
+#EXTINF:-1 tvg-id="famelack-dxHDCvvS44TdHG" tvg-country="UK" tvg-language="English" tvg-logo="" tvg-status="live" group-title="80s",Fosse 107
 https://icecast.maxxwave.co.uk/fossehinckleyhq
 #EXTINF:-1 tvg-id="famelack-RywGfWfqRvReEE" tvg-country="UK" tvg-language="English" tvg-logo="" tvg-status="live" group-title="jazz",Foundation FM
 https://streamer.radio.co/s0628bdd53/listen
@@ -715,7 +715,7 @@ https://ice-sov.musicradio.com/HeartBristolMP3
 https://ice-sov.musicradio.com/HeartCambridgeMP3
 #EXTINF:-1 tvg-id="famelack-8Mzl5GQWgooUlL" tvg-country="UK" tvg-language="English" tvg-logo="" tvg-status="live" group-title="easy-listening",Heart Cornwall
 https://media-ice.musicradio.com/HeartCornwallMP3
-#EXTINF:-1 tvg-id="famelack-MsdAmm6tngKwan" tvg-country="UK" tvg-language="English" tvg-logo="" tvg-status="live" group-title="electronic",Heart Dance
+#EXTINF:-1 tvg-id="famelack-MsdAmm6tngKwan" tvg-country="UK" tvg-language="English" tvg-logo="" tvg-status="live" group-title="90s",Heart Dance
 https://media-ssl.musicradio.com/HeartDanceMP3
 #EXTINF:-1 tvg-id="famelack-RxJFPv9xnXoLmc" tvg-country="UK" tvg-language="English" tvg-logo="" tvg-status="live" group-title="easy-listening",Heart Dorset
 https://ice-sov.musicradio.com/HeartDorsetMP3
@@ -725,7 +725,7 @@ https://ice-sov.musicradio.com/HeartEssexMP3
 https://icecast.thisisdax.com/HeartGloucestershireMP3
 #EXTINF:-1 tvg-id="famelack-cZ0aXRk3UrvUZ9" tvg-country="UK" tvg-language="English" tvg-logo="" tvg-status="live" group-title="easy-listening",Heart Kent
 https://media-sov.musicradio.com/HeartKent
-#EXTINF:-1 tvg-id="famelack-FWcMIOO8VdFPGJ" tvg-country="UK" tvg-language="English" tvg-logo="" tvg-status="live" group-title="rock",Heart London
+#EXTINF:-1 tvg-id="famelack-FWcMIOO8VdFPGJ" tvg-country="UK" tvg-language="English" tvg-logo="" tvg-status="live" group-title="easy-listening",Heart London
 https://ice-sov.musicradio.com/HeartLondonMP3
 #EXTINF:-1 tvg-id="famelack-waGer9a3cArbu6" tvg-country="UK" tvg-language="English" tvg-logo="" tvg-status="live" group-title="easy-listening",Heart Love
 https://media-ice.musicradio.com/HeartLoveMP3
@@ -831,7 +831,7 @@ https://carol.epichosts.co.uk:8232/live.mp3
 https://stream.cor.insanityradio.com/insanity.flac
 #EXTINF:-1 tvg-id="famelack-xIz6Dnqc2k5xBq" tvg-country="UK" tvg-language="English" tvg-logo="" tvg-status="live" group-title="General",Inside The Gates Radio
 https://s2.radio.co/s98e7a2900/listen
-#EXTINF:-1 tvg-id="famelack-rWh59fCx7witCU" tvg-country="UK" tvg-language="English" tvg-logo="" tvg-status="live" group-title="soul",Intamixx 80s 90s Radio
+#EXTINF:-1 tvg-id="famelack-rWh59fCx7witCU" tvg-country="UK" tvg-language="English" tvg-logo="" tvg-status="live" group-title="reggae",Intamixx 80s 90s Radio
 https://radio.intamixx.uk:8443/radio2
 #EXTINF:-1 tvg-id="famelack-KbzM1EyBZ1LKs3" tvg-country="UK" tvg-language="English" tvg-logo="" tvg-status="live" group-title="General",Intamixx Desi Radio
 https://radio.intamixx.uk:8443/radio1
@@ -977,7 +977,7 @@ https://londonsoulradio.out.airtime.pro/londonsoulradio_a
 https://loosefm.radiocult.fm/stream
 #EXTINF:-1 tvg-id="famelack-CakLOyezbsTGmF" tvg-country="UK" tvg-language="English" tvg-logo="" tvg-status="live" group-title="rock",Louder Than War
 https://s2.radio.co/sab795a38d/listen
-#EXTINF:-1 tvg-id="famelack-u2egUNKuVZ5msF" tvg-country="UK" tvg-language="English" tvg-logo="" tvg-status="live" group-title="electronic",Love Da Beat Radio
+#EXTINF:-1 tvg-id="famelack-u2egUNKuVZ5msF" tvg-country="UK" tvg-language="English" tvg-logo="" tvg-status="live" group-title="rock",Love Da Beat Radio
 https://love-da-beat-radio-cf8d1146.radiocult.fm/stream
 #EXTINF:-1 tvg-id="famelack-3dQnqqCdxr6cMD" tvg-country="UK" tvg-language="English" tvg-logo="" tvg-status="live" group-title="easy-listening",Love Radio
 https://loveradio.streamingmedia.it/england
@@ -1061,7 +1061,7 @@ https://cp12.serverse.com/proxy/moonphase/stream
 https://dc1.serverse.com/proxy/dnutqhxl/stream
 #EXTINF:-1 tvg-id="famelack-CKm4r3A6XeK7iM" tvg-country="UK" tvg-language="English" tvg-logo="" tvg-status="live" group-title="General",Morley Radio
 https://s2.radio.co/sb0e9a4581/low
-#EXTINF:-1 tvg-id="famelack-0xDiwYQMjmElro" tvg-country="UK" tvg-language="English" tvg-logo="" tvg-status="live" group-title="soul",Music Galaxy Radio
+#EXTINF:-1 tvg-id="famelack-0xDiwYQMjmElro" tvg-country="UK" tvg-language="English" tvg-logo="" tvg-status="live" group-title="reggae",Music Galaxy Radio
 https://eu10.fastcast4u.com:1390/;
 #EXTINF:-1 tvg-id="famelack-m9AcYNd05p2MmI" tvg-country="UK" tvg-language="English" tvg-logo="" tvg-status="live" group-title="soul",Mustbe5 Radio
 https://stream.radio.co/sf2ed5928f/listen
@@ -1081,7 +1081,7 @@ https://listen-nation.sharp-stream.com/nation60s.mp3
 https://listen-nation.sharp-stream.com/nationradio70s.mp3
 #EXTINF:-1 tvg-id="famelack-V6gHeO4hP7RpBu" tvg-country="UK" tvg-language="English" tvg-logo="" tvg-status="live" group-title="80s",Nation 80s
 https://listen-nation.sharp-stream.com/nationradio80s.aac
-#EXTINF:-1 tvg-id="famelack-fH9WinPwX9H3FY" tvg-country="UK" tvg-language="English" tvg-logo="" tvg-status="live" group-title="electronic",Nation 90s
+#EXTINF:-1 tvg-id="famelack-fH9WinPwX9H3FY" tvg-country="UK" tvg-language="English" tvg-logo="" tvg-status="live" group-title="90s",Nation 90s
 https://listen-nation.sharp-stream.com/nationradio90s.aac
 #EXTINF:-1 tvg-id="famelack-7vvSFhwfavit4G" tvg-country="UK" tvg-language="English" tvg-logo="" tvg-status="live" group-title="easy-listening",Nation Classic Hits
 https://listen-nation.sharp-stream.com/nationparty.mp3
@@ -1091,7 +1091,7 @@ https://listen-nation.sharp-stream.com/breeze_soton.mp3
 https://listen-nation.sharp-stream.com/lovenation.aac
 #EXTINF:-1 tvg-id="famelack-O7LVfAC6yULsKj" tvg-country="UK" tvg-language="English" tvg-logo="" tvg-status="live" group-title="hits",Nation Radio London
 https://listen-nation.sharp-stream.com/nationhulldab.mp3
-#EXTINF:-1 tvg-id="famelack-WfDPBvwtJeErje" tvg-country="UK" tvg-language="English" tvg-logo="" tvg-status="live" group-title="indie",Nation Radio Scotland
+#EXTINF:-1 tvg-id="famelack-WfDPBvwtJeErje" tvg-country="UK" tvg-language="English" tvg-logo="" tvg-status="live" group-title="oldies",Nation Radio Scotland
 https://edge-ads-05-gos2.sharp-stream.com/nationscotlandi.aac
 #EXTINF:-1 tvg-id="famelack-tFRIDeHcjr5e63" tvg-country="UK" tvg-language="English" tvg-logo="" tvg-status="live" group-title="hits",Nation Radio South Coast
 https://listen-nation.sharp-stream.com/nationdorsetdab.mp3
@@ -1103,7 +1103,7 @@ https://listen-nation.sharp-stream.com/nationxmas.mp3
 https://stream.pcradio.ru/Nazareth-hi
 #EXTINF:-1 tvg-id="famelack-3vl3vO1rp8oJl1" tvg-country="UK" tvg-language="English" tvg-logo="" tvg-status="live" group-title="pop",NCB Radio
 https://playerservices.streamtheworld.com/api/livestream-redirect/SAM04AAC90_SC
-#EXTINF:-1 tvg-id="famelack-cjUZL8LjeLx7sU" tvg-country="UK" tvg-language="English" tvg-logo="" tvg-status="live" group-title="electronic",Neon Radio
+#EXTINF:-1 tvg-id="famelack-cjUZL8LjeLx7sU" tvg-country="UK" tvg-language="English" tvg-logo="" tvg-status="live" group-title="80s",Neon Radio
 https://live.flashbackcentral.co.uk/radio/8000/apple
 #EXTINF:-1 tvg-id="famelack-1n6oCnRSbrN2EY" tvg-country="UK" tvg-language="English" tvg-logo="" tvg-status="live" group-title="hip-hop",Netil Radio
 https://netilradio.out.airtime.pro/netilradio_a
@@ -1115,7 +1115,7 @@ https://listen-nme.sharp-stream.com/nme1.mp3
 https://listen-nme.sharp-stream.com/nme2.mp3
 #EXTINF:-1 tvg-id="famelack-hmoabjSUwuI0VA" tvg-country="UK" tvg-language="English" tvg-logo="" tvg-status="live" group-title="easy-listening",NoiseBox Radio
 https://n11.radiojar.com/n1bs4ekbvuhvv
-#EXTINF:-1 tvg-id="famelack-6QJ6yolXkPj8kO" tvg-country="UK" tvg-language="English" tvg-logo="" tvg-status="live" group-title="electronic",Noods Radio
+#EXTINF:-1 tvg-id="famelack-6QJ6yolXkPj8kO" tvg-country="UK" tvg-language="English" tvg-logo="" tvg-status="live" group-title="chill",Noods Radio
 https://noods-radio.radiocult.fm/stream
 #EXTINF:-1 tvg-id="famelack-OPGZP3wrJBTxtR" tvg-country="UK" tvg-language="English" tvg-logo="" tvg-status="live" group-title="easy-listening",North Derbyshire Radio
 https://s5.themediasite.co.uk:8064/stream%22
@@ -1201,7 +1201,7 @@ https://s6.citrus3.com:8014/stream
 https://s32.myradiostream.com/18756/listen.mp3
 #EXTINF:-1 tvg-id="famelack-CMuf2an1ESTO0T" tvg-country="UK" tvg-language="English" tvg-logo="" tvg-status="live" group-title="oldies",Past Perfect Radio
 https://s2.xrad.io:9646/;stream/1
-#EXTINF:-1 tvg-id="famelack-3NPyqAyycRtBuh" tvg-country="UK" tvg-language="English" tvg-logo="" tvg-status="live" group-title="soul",Peoples Choice Radio
+#EXTINF:-1 tvg-id="famelack-3NPyqAyycRtBuh" tvg-country="UK" tvg-language="English" tvg-logo="" tvg-status="live" group-title="reggae",Peoples Choice Radio
 https://stream.zeno.fm/2va3wsfqmkhvv
 #EXTINF:-1 tvg-id="famelack-CMw6WepnxLk9sL" tvg-country="UK" tvg-language="English" tvg-logo="" tvg-status="live" group-title="General",Peoples Radio
 https://s3.myradiostream.com:14498/;
@@ -1289,9 +1289,9 @@ https://radiodance.streamingmedia.it/uk.aac
 https://ec5.yesstreaming.net:3590/stream
 #EXTINF:-1 tvg-id="famelack-W9i2Z3zJ0JDKHk" tvg-country="UK" tvg-language="English" tvg-logo="" tvg-status="live" group-title="oldies",Radio England
 https://cast2.asurahosting.com/proxy/radioengland/stream
-#EXTINF:-1 tvg-id="famelack-tfaffLGYn3BMZx" tvg-country="UK" tvg-language="English" tvg-logo="" tvg-status="live" group-title="rock",Radio ENRG
+#EXTINF:-1 tvg-id="famelack-tfaffLGYn3BMZx" tvg-country="UK" tvg-language="English" tvg-logo="" tvg-status="live" group-title="sports",Radio ENRG
 https://edge.mixlr.com/channel/xssdg
-#EXTINF:-1 tvg-id="famelack-zfybDQkO1RkJ9b" tvg-country="UK" tvg-language="English" tvg-logo="" tvg-status="live" group-title="hits",Radio Essex
+#EXTINF:-1 tvg-id="famelack-zfybDQkO1RkJ9b" tvg-country="UK" tvg-language="English" tvg-logo="" tvg-status="live" group-title="news",Radio Essex
 https://stream.aiir.com/ujzy590c3stvv
 #EXTINF:-1 tvg-id="famelack-ojz306kGg7HH4M" tvg-country="UK" tvg-language="English" tvg-logo="" tvg-status="live" group-title="General",Radio Faza
 https://radiocast.cr8tive-digital.com/radiofaza
@@ -1313,7 +1313,7 @@ https://uksoutha.streaming.broadcast.radio/hrhillingdonmp3
 https://radiohorton.radioca.st/;
 #EXTINF:-1 tvg-id="famelack-2ttnRQcMHKRHcY" tvg-country="UK" tvg-language="English" tvg-logo="" tvg-status="live" group-title="rock",Radio Jackie
 https://media.radiojackie.com/redirector/frontend.m3u8
-#EXTINF:-1 tvg-id="famelack-frMiukTnaY2f1I" tvg-country="UK" tvg-language="English" tvg-logo="" tvg-status="live" group-title="rock",Radio Jupiter
+#EXTINF:-1 tvg-id="famelack-frMiukTnaY2f1I" tvg-country="UK" tvg-language="English" tvg-logo="" tvg-status="live" group-title="easy-listening",Radio Jupiter
 https://s10.myradiostream.com/:7946/listen.mp3
 #EXTINF:-1 tvg-id="famelack-uLQMN3FTTEfTEu" tvg-country="UK" tvg-language="Polish" tvg-logo="" tvg-status="live" group-title="news",Radio Kicks FM
 https://s6.citrus3.com:8452/stream
@@ -1375,7 +1375,7 @@ https://radio.canstream.co.uk:8039/live.mp3
 https://media-ice.musicradio.com/RadioX00sMP3
 #EXTINF:-1 tvg-id="famelack-a9mdZSgv9p1bRP" tvg-country="UK" tvg-language="English" tvg-logo="" tvg-status="live" group-title="rock",Radio X 90s
 https://media-ice.musicradio.com/RadioX90sMP3
-#EXTINF:-1 tvg-id="famelack-hwSpyVQuXCNBL0" tvg-country="UK" tvg-language="English" tvg-logo="" tvg-status="live" group-title="rock",Radio X Chilled
+#EXTINF:-1 tvg-id="famelack-hwSpyVQuXCNBL0" tvg-country="UK" tvg-language="English" tvg-logo="" tvg-status="live" group-title="chill",Radio X Chilled
 https://media-ice.musicradio.com/RadioXChilledMP3
 #EXTINF:-1 tvg-id="famelack-i0aZVv5gPev14e" tvg-country="UK" tvg-language="English" tvg-logo="" tvg-status="live" group-title="rock",Radio X Classic Rock
 https://media-ice.musicradio.com/RadioXClassicRockMP3
@@ -1441,7 +1441,7 @@ https://testform.out.airtime.pro/testform_a
 https://stream.regalradio.net/stream.mp3
 #EXTINF:-1 tvg-id="famelack-iTdsEiNYtTzEsi" tvg-country="UK" tvg-language="English" tvg-logo="" tvg-status="live" group-title="news",Replay News
 https://replaynewsen.ice.infomaniak.ch/replaynewsen-128.mp3
-#EXTINF:-1 tvg-id="famelack-pG7FP20HF6d4YJ" tvg-country="UK" tvg-language="English" tvg-logo="" tvg-status="live" group-title="hip-hop",Reprezent
+#EXTINF:-1 tvg-id="famelack-pG7FP20HF6d4YJ" tvg-country="UK" tvg-language="English" tvg-logo="" tvg-status="live" group-title="reggae",Reprezent
 https://radio.canstream.co.uk:8022/live.mp3
 #EXTINF:-1 tvg-id="famelack-AgCRwi3iqZT4HZ" tvg-country="UK" tvg-language="English" tvg-logo="" tvg-status="live" group-title="talk",Resonance 104.4 FM
 https://stream.resonance.fm/resonance
@@ -1451,7 +1451,7 @@ https://stream.resonance.fm/resonance-extra
 https://stream.retromixradio.co.uk/radio48
 #EXTINF:-1 tvg-id="famelack-3OCTMLw8182SCg" tvg-country="UK" tvg-language="English" tvg-logo="" tvg-status="live" group-title="rock",Revolution Radio One
 https://visual.shoutca.st/stream/revolutionone/stream
-#EXTINF:-1 tvg-id="famelack-4FwSVBKAri4vkx" tvg-country="UK" tvg-language="English" tvg-logo="" tvg-status="live" group-title="90s",Rewind Radio Cornwall
+#EXTINF:-1 tvg-id="famelack-4FwSVBKAri4vkx" tvg-country="UK" tvg-language="English" tvg-logo="" tvg-status="live" group-title="80s",Rewind Radio Cornwall
 https://s4.radio.co/s2eaa194f6/listen
 #EXTINF:-1 tvg-id="famelack-A0VNtkShkM0fKZ" tvg-country="UK" tvg-language="English" tvg-logo="" tvg-status="live" group-title="pop",Rhubarb Radio
 https://securestreams2.autopo.st:1234/stream
@@ -1523,7 +1523,7 @@ https://rbx2.hnux.com/http://149.202.22.75:8284/;
 https://s3.radio.co/sd4abfe69e/listen
 #EXTINF:-1 tvg-id="famelack-F6m9QPLu7Te4WL" tvg-country="UK" tvg-language="English" tvg-logo="" tvg-status="live" group-title="oldies",Shuffle 2
 https://radio.streemlion.com:1460/stream
-#EXTINF:-1 tvg-id="famelack-vpcpdRpSKfpqdG" tvg-country="UK" tvg-language="English" tvg-logo="" tvg-status="live" group-title="hits",SIBC
+#EXTINF:-1 tvg-id="famelack-vpcpdRpSKfpqdG" tvg-country="UK" tvg-language="English" tvg-logo="" tvg-status="live" group-title="news",SIBC
 https://tx9.zetcast.net:8100/stream
 #EXTINF:-1 tvg-id="famelack-SotWQiYASz4o4C" tvg-country="UK" tvg-language="English" tvg-logo="" tvg-status="live" group-title="easy-listening",Silk 106.9
 https://listen-nation.sharp-stream.com/tcsilk.mp3
@@ -1537,7 +1537,7 @@ https://uksoutha.streaming.broadcast.radio/sinefm
 https://radio.skynewsarabia.com/stream/radio/skynewsarabia
 #EXTINF:-1 tvg-id="famelack-Xy4T8NU40S6nLl" tvg-country="UK" tvg-language="English" tvg-logo="" tvg-status="live" group-title="General",Skylab Radio
 https://uksoutha.streaming.broadcast.radio:29690/skylab-radio-limited
-#EXTINF:-1 tvg-id="famelack-b6xl5qty2lr8rP" tvg-country="UK" tvg-language="English" tvg-logo="" tvg-status="live" group-title="hip-hop",Skyline Radio
+#EXTINF:-1 tvg-id="famelack-b6xl5qty2lr8rP" tvg-country="UK" tvg-language="English" tvg-logo="" tvg-status="live" group-title="reggae",Skyline Radio
 https://stream.zeno.fm/gppe0uht9c0uv
 #EXTINF:-1 tvg-id="famelack-UrInQrQWcRpGzQ" tvg-country="UK" tvg-language="English" tvg-logo="" tvg-status="live" group-title="soul",Slim Radio
 https://a2.asurahosting.com:6260/radio.mp3
@@ -1671,7 +1671,7 @@ https://listen.radioking.com/radio/504205/stream/561655
 https://stream.zeno.fm/x59sz6hkev8uv
 #EXTINF:-1 tvg-id="famelack-GMdnSocV1iIzoD" tvg-country="UK" tvg-language="English" tvg-logo="" tvg-status="live" group-title="rock",The Beatles Radio
 https://stream.pcradio.ru/The_Beatles-hi
-#EXTINF:-1 tvg-id="famelack-mVobBURc0T8UoV" tvg-country="UK" tvg-language="English" tvg-logo="" tvg-status="live" group-title="rock",The Buzz
+#EXTINF:-1 tvg-id="famelack-mVobBURc0T8UoV" tvg-country="UK" tvg-language="English" tvg-logo="" tvg-status="live" group-title="80s",The Buzz
 https://streaming05.liveboxstream.uk/proxy/kookyinc/stream
 #EXTINF:-1 tvg-id="famelack-FNzh23AzTJ98lG" tvg-country="UK" tvg-language="English" tvg-logo="" tvg-status="live" group-title="pop",The Cat 107.9
 https://uksoutha.streaming.broadcast.radio/thecatcloud
@@ -1681,7 +1681,7 @@ https://stream.radio.co/s63541ce9b/listen
 https://www.radioking.com/play/the-english-909
 #EXTINF:-1 tvg-id="famelack-WV9p8gna6EQ6es" tvg-country="UK" tvg-language="English" tvg-logo="" tvg-status="live" group-title="General",The Gates Radio Station
 https://thegatesradio.co.uk/listen/the_gates_radio_station/radio.mp3
-#EXTINF:-1 tvg-id="famelack-3R6a7kJRZg4z2Y" tvg-country="UK" tvg-language="English" tvg-logo="" tvg-status="live" group-title="rock",The Mix Radio 80s
+#EXTINF:-1 tvg-id="famelack-3R6a7kJRZg4z2Y" tvg-country="UK" tvg-language="English" tvg-logo="" tvg-status="live" group-title="80s",The Mix Radio 80s
 https://tmr80s.radioca.st/stream
 #EXTINF:-1 tvg-id="famelack-SwLFijPPZRipn9" tvg-country="UK" tvg-language="English" tvg-logo="" tvg-status="live" group-title="rock",The Music Machine 1
 https://listen-msmn.sharp-stream.com/nme1high.mp3
@@ -1817,7 +1817,7 @@ https://s3.radio.co/s113a5dc46/listen
 https://streaming.broadcastradio.com:10855/xpression
 #EXTINF:-1 tvg-id="famelack-rK2kEGogrHWHgy" tvg-country="UK" tvg-language="English" tvg-logo="" tvg-status="live" group-title="soul",Xtra Hot
 https://stream1.hippynet.co.uk/stream/xtrahot/live
-#EXTINF:-1 tvg-id="famelack-hllRAFcAQWuphe" tvg-country="UK" tvg-language="English" tvg-logo="" tvg-status="live" group-title="electronic",YellowTealPurple
+#EXTINF:-1 tvg-id="famelack-hllRAFcAQWuphe" tvg-country="UK" tvg-language="English" tvg-logo="" tvg-status="live" group-title="chill",YellowTealPurple
 https://yellowtealpurple.net/radio/stream
 #EXTINF:-1 tvg-id="famelack-Rusx0QfxFcZToF" tvg-country="UK" tvg-language="English" tvg-logo="" tvg-status="live" group-title="oldies",YO1 Extra
 https://ec1.yesstreaming.net:1490/stream
