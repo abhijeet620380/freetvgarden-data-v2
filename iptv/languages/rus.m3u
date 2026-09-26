@@ -88,7 +88,9 @@ http://77.89.199.174:8000/play/1024/index.m3u8
 #EXTINF:-1 tvg-id="Bashkortostan24.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/s34Wtz6.png" tvg-native-name="Башкортостан 24" tvg-status="down" group-title="General",Bashkortostan 24
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/ufa/bashkortostan24-hd/index.m3u8
 #EXTINF:-1 tvg-id="Belarus1.by" tvg-country="BY" tvg-language="Russian" tvg-logo="https://i.imgur.com/sUD9t5j.png" tvg-native-name="Беларусь 1" tvg-status="live" group-title="General",Belarus-1
-https://ngtrk.dc.beltelecom.by/ngtrk/_definst_/smil:belarus1.smil/playlist.m3u8
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus1.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Belarus2.by" tvg-country="BY" tvg-language="Russian" tvg-logo="https://i.imgur.com/BpEHpPS.png" tvg-native-name="Беларусь 2" tvg-status="live" group-title="Entertainment",Belarus-2
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus2.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Belarus24.by" tvg-country="BY" tvg-language="Russian" tvg-logo="https://i.imgur.com/BP7tY6F.png" tvg-native-name="Беларусь 24" tvg-status="live" group-title="News",Belarus-24
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus24.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Belarus3.by" tvg-country="BY" tvg-language="Russian" tvg-logo="https://i.imgur.com/JkcDycn.png" tvg-native-name="Беларусь 3" tvg-status="live" group-title="Culture",Belarus-3
@@ -384,7 +386,7 @@ http://stream.mcquack.net/170/index.m3u8
 #EXTINF:-1 tvg-id="Kinoseriya.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/iao7zLZ.png" tvg-native-name="Киносерия" tvg-status="live" group-title="Movies",Kinoseriya
 https://fs.uplink.kz/kinoseria/mono.m3u8?token=onlinetv
 #EXTINF:-1 tvg-id="Kinosvidanie.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/ZRaWqxj.png" tvg-native-name="Киносвидание" tvg-status="live" group-title="Movies",Kinosvidanie
-http://stream.mcquack.net/171/index.m3u8
+http://5.188.159.128:8070/kinosvidanie/index.m3u8
 #EXTINF:-1 tvg-id="Kinouzhas.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/mAcAAQF.png" tvg-native-name="Киноужас" tvg-status="live" group-title="Movies",Kinouzhas
 http://stream.mcquack.net/278/index.m3u8
 #EXTINF:-1 tvg-id="Kluch.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/WA9TOPi.png" tvg-native-name="Ключ" tvg-status="down" group-title="Entertainment",Kluch
@@ -704,7 +706,7 @@ https://rutvkids.ru/live/efir/index.m3u8
 #EXTINF:-1 tvg-id="Russia1.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/Osd2JHL.png" tvg-native-name="Россия-1" tvg-status="live" group-title="General",Russia-1
 https://stream.smotrim.ru/hls2/russia_hd/playlist_6.m3u8
 #EXTINF:-1 tvg-id="Russia24.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Rossiya-24_Logo.svg/960px-Rossiya-24_Logo.svg.png" tvg-native-name="Россия-24" tvg-status="live" group-title="News",Russia-24
-http://77.232.131.211/Rossiya24/index.m3u8
+https://live.smotrim.ru/vgtrk/0/russia24-hd/index.m3u8
 #EXTINF:-1 tvg-id="RussiaK.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Russia-Cultura.svg/960px-Russia-Cultura.svg.png" tvg-native-name="Россия-К" tvg-status="live" group-title="Culture",Russia-K
 https://stream.smotrim.ru/hls2/russia_k/playlist_5.m3u8
 #EXTINF:-1 tvg-id="RussianExtreme.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/hJK7mOW.png" tvg-native-name="Русский Экстрим" tvg-status="live" group-title="Sports",Russian Extreme
@@ -845,7 +847,7 @@ http://109.94.1.3:8080/132/index.m3u8
 https://sitv.ru/vgtrk/stv.m3u8
 #EXTINF:-1 tvg-id="Svoboda.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://web02.antik.sk/assets/img/channels/db23090472360f39401398f924a47461.svg" tvg-status="live" group-title="General",Svoboda
 http://88.212.15.19/live/svoboda/index.m3u8
-#EXTINF:-1 tvg-id="famelack-nb5MYVmBj2KvUf" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-native-name="Своё ТВ" tvg-status="live" group-title="General",Svoyo TV
+#EXTINF:-1 tvg-id="SvoyoTV.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/3cP2fmX.png" tvg-native-name="Своё ТВ" tvg-status="live" group-title="General",Svoyo TV
 https://svoetv.mediacdn.ru/cdn/svoetv/playlist.m3u8
 #EXTINF:-1 tvg-id="T24.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/1W6R14o.png" tvg-native-name="Т24" tvg-status="live" group-title="General",T24
 http://178.134.1.158:8081/t24/index.m3u8
