@@ -216,8 +216,6 @@
     "modeCountryIntroWithCountWebcams": "FreeTV Garden momentálne uvádza {count} živé {countryName} webové kamery vrátane {names} – ktoré je možné prehrať okamžite vo vašom prehliadači bez ďalšieho softvéru.",
     "modeCountryIntroNoCountRadio": "Rozhlasové stanice {countryName} na FreeTV Garden sa sťahujú naživo z bezplatného verejného adresára a dajú sa okamžite prehrať vo vašom prehliadači bez ďalšieho softvéru. Presná zostava sa mení zo dňa na deň, keď streamy pokračujú a sú offline.",
     "modeCountryIntroNoCountWebcams": "Webové kamery {countryName} na FreeTV Garden sa sťahujú naživo z bezplatného verejného adresára a dajú sa okamžite prehrať vo vašom prehliadači bez ďalšieho softvéru. Presná zostava sa mení zo dňa na deň, keď streamy pokračujú a sú offline.",
-    "modeCountryGenreH2Radio": "{countryName} rozhlasových staníc od {label}",
-    "modeCountryGenreH2Webcams": "Webové kamery {countryName} od {label}",
     "wantAnotherCountryH2Radio": "Chcete rozhlasové stanice z inej krajiny?",
     "wantAnotherCountryH2Webcams": "Chcete webové kamery z inej krajiny?",
     "modeCountryFaqFreeQRadio": "Je počúvanie {countryName} rozhlasových staníc na FreeTV Garden bezplatné?",
@@ -261,7 +259,6 @@
     "linkFullLanguageList": "úplný zoznam jazykov",
     "wantCountryH2": "Chcete namiesto toho kanály z konkrétnej krajiny?",
     "faqHostQ": "Hostí alebo odovzdáva FreeTV Garden streamy videa?",
-    "faqHostA": "Nie. FreeTV Garden nehostuje, neodovzdáva ani neukladá žiadne videosúbory. Odkazuje na verejne dostupné streamy, takže ich môžete sledovať priamo z vlastných serverov vysielateľa.",
     "faqCountNoneA": "Počet sa mení, keď streamy prebiehajú a sú offline – otvorte nástroj vyššie a zistite, čo je práve teraz naživo.",
     "faqCountFromCountriesA": "Momentálne približne {count} živých kanálov z {countries} krajín.",
     "countryBreadcrumbTV": "{countryName} Živá televízia",
@@ -294,7 +291,6 @@
     "countryFaqPhoneQ": "Môžem sledovať {countryName} spravodajské kanály naživo na svojom telefóne?",
     "countryFaqPhoneA": "Áno – prehrávač funguje na akomkoľvek telefónnom prehliadači bez sťahovania aplikácie. Stačí otvoriť túto stránku, klepnúť na spravodajský kanál a použiť režim celej obrazovky pre najlepšie zobrazenie.",
     "countryFaqOfficialQ": "Je toto oficiálna webová stránka nejakého vysielateľa {countryName}?",
-    "countryFaqOfficialA": "Nie. FreeTV Garden je nezávislý adresár prepájajúci verejne dostupné streamy. Nie je pridružený, podporovaný ani prevádzkovaný žiadnym vysielateľom uvedeným na tejto stránke.",
     "genreIntroOne": "FreeTV Garden momentálne obsahuje {count} živý {genreName} kanál z celého sveta, vrátane {names} – stiahnutého naživo z verejného adresára kanála iptv-org a prehrateľné okamžite vo vašom prehliadači bez ďalšieho softvéru.",
     "genreIntroMany": "FreeTV Garden v súčasnosti uvádza {count} živé {genreName} kanály z celého sveta vrátane {names} – stiahnuté naživo z verejného adresára kanálov iptv-org, ktoré je možné okamžite prehrať vo vašom prehliadači bez ďalšieho softvéru.",
     "genreIntroEmpty": "{genreName} kanály na FreeTV Garden sa sťahujú naživo z verejného adresára kanálov iptv-org a dajú sa okamžite prehrať vo vašom prehliadači bez ďalšieho softvéru. Presný zoznam kanálov sa mení zo dňa na deň podľa toho, ako streamy prebiehajú a sú offline.",
@@ -329,7 +325,6 @@
     "faqFreeAnswer": "áno. FreeTV Garden zhromažďuje verejne dostupné streamy. Nevyžaduje sa žiadne predplatné, účet ani aplikácia.",
     "faqOfficialQuestionRadio": "Je toto oficiálna stanica pre {channelName}?",
     "faqOfficialQuestionWebcam": "Je toto oficiálna webová kamera pre {channelName}?",
-    "faqOfficialAnswer": "Nie. FreeTV Garden je nezávislý adresár prepájajúci verejne dostupné streamy. Nie je prepojený s {channelName}, neschvaľuje ho ani ho neprevádzkuje.",
     "wantMoreLinkText": "živé televízne kanály",
     "wantMoreTemplate": "Chcete viac? Prehliadať všetky {link} na FreeTV Garden .",
     "satStationTitle": "Počúvajte {stationName} naživo — Satellite Radio | FreeTV Garden",
@@ -414,6 +409,11 @@
     "hubHowToHeadingWebcam": "Ako pozerať na svojom zariadení",
     "hubHowToBody": "Nie je potrebná žiadna aplikácia ani účet. Táto stránka funguje priamo vo vašom prehliadači na akomkoľvek zariadení – stačí klepnúť na {nounSingular} a stlačiť prehrávanie. V systéme Android alebo iPhone otvorte túto stránku v prehliadači Chrome alebo Safari a nabudúce použite možnosť „Pridať na plochu“ na prístup jedným klepnutím. Na počítači funguje každý moderný prehliadač.",
     "nounSingularRadio": "rozhlasová stanica",
-    "nounSingularWebcam": "webkamera"
+    "nounSingularWebcam": "webkamera",
+    "modeCountryGenreH2Radio": "{countryName} rozhlasových staníc podľa žánru",
+    "modeCountryGenreH2Webcams": "{countryName} webových kamier podľa kategórie",
+    "faqHostA": "Nie, FreeTV Garden nehostuje, neodovzdáva ani neukladá žiadne videosúbory. Odkazuje na verejne dostupné streamy, takže ich môžete sledovať priamo z vlastných serverov vysielateľa.",
+    "countryFaqOfficialA": "Nie, FreeTV Garden je nezávislý adresár prepájajúci verejne dostupné streamy. Nie je pridružený, podporovaný ani prevádzkovaný žiadnym vysielateľom uvedeným na tejto stránke.",
+    "faqOfficialAnswer": "Nie, FreeTV Garden je nezávislý adresár prepájajúci verejne dostupné streamy. Nie je prepojený s {channelName}, neschvaľuje ho ani ho neprevádzkuje."
   }
 }

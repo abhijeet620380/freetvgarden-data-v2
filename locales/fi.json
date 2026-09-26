@@ -216,8 +216,6 @@
     "modeCountryIntroWithCountWebcams": "FreeTV Garden listaa tällä hetkellä {count} live-verkkokameraa {countryName}, mukaan lukien {names} - toistettavissa välittömästi selaimessasi ilman lisäohjelmistoja.",
     "modeCountryIntroNoCountRadio": "{countryName} FreeTV Garden -radioasemat haetaan suorana ilmaisesta julkisesta hakemistosta, ja niitä voi toistaa välittömästi selaimessasi ilman lisäohjelmistoja. Tarkka kokoonpano muuttuu päivittäin, kun suoratoisto jatkuu ja offline-tilassa.",
     "modeCountryIntroNoCountWebcams": "{countryName} -verkkokamerat palvelimella FreeTV Garden noudetaan livenä ilmaisesta julkisesta hakemistosta, ja niitä voi toistaa välittömästi selaimessasi ilman lisäohjelmistoja. Tarkka kokoonpano muuttuu päivittäin, kun suoratoisto jatkuu ja offline-tilassa.",
-    "modeCountryGenreH2Radio": "{countryName} radioasemat tekijältä {label}",
-    "modeCountryGenreH2Webcams": "{countryName} verkkokamerat tekijältä {label}",
     "wantAnotherCountryH2Radio": "Haluatko radioasemia toisesta maasta?",
     "wantAnotherCountryH2Webcams": "Haluatko web-kameroita toisesta maasta?",
     "modeCountryFaqFreeQRadio": "Onko {countryName} radioaseman kuunteleminen FreeTV Garden ilmaista?",
@@ -261,7 +259,6 @@
     "linkFullLanguageList": "täydellinen kieliluettelo",
     "wantCountryH2": "Haluatko sen sijaan kanavia tietystä maasta?",
     "faqHostQ": "Isännöikö tai lataako FreeTV Garden videostriimiä?",
-    "faqHostA": "Ei. FreeTV Garden ei isännöi, lataa tai tallenna videotiedostoja. Se linkittää julkisesti saatavilla oleviin streameihin, joten voit katsella niitä suoraan lähetystoiminnan harjoittajan omilta palvelimilta.",
     "faqCountNoneA": "Määrä muuttuu sitä mukaa, kun streamit jatkuvat ja offline-tilassa – avaa yllä oleva työkalu nähdäksesi, mitä livenä juuri nyt on.",
     "faqCountFromCountriesA": "Tällä hetkellä noin {count} live-kanavaa {countries} maasta.",
     "countryBreadcrumbTV": "{countryName} Live TV",
@@ -294,7 +291,6 @@
     "countryFaqPhoneQ": "Voinko katsoa {countryName} uutiskanavaa suorana puhelimellani?",
     "countryFaqPhoneA": "Kyllä – soitin toimii millä tahansa puhelimen selaimella ilman sovellusten latausta. Avaa tämä sivu, napauta uutiskanavaa ja käytä koko näyttöä saadaksesi parhaan näkymän.",
     "countryFaqOfficialQ": "Onko tämä minkä tahansa {countryName}-lähetystoiminnan harjoittajan virallinen verkkosivusto?",
-    "countryFaqOfficialA": "Nro FreeTV Garden on itsenäinen hakemisto, joka linkittää julkisesti saatavilla oleviin streameihin. Se ei ole sidoksissa mihinkään tällä sivulla lueteltuun lähetystoiminnan harjoittajaan, suosittele sitä tai hallinnoi sitä.",
     "genreIntroOne": "FreeTV Garden listaa tällä hetkellä {count} suoraa {genreName} -kanavaa eri puolilta maailmaa, mukaan lukien {names} - suorana julkisesta iptv-org -kanavahakemistosta ja toistettavissa välittömästi selaimessasi ilman lisäohjelmistoja.",
     "genreIntroMany": "FreeTV Garden listaa tällä hetkellä {count} suoraa {genreName} kanavaa eri puolilta maailmaa, mukaan lukien {names} – haettu suorana julkisesta iptv-org kanavahakemistosta ja toistettavissa välittömästi selaimessasi ilman lisäohjelmistoja.",
     "genreIntroEmpty": "{genreName} kanavat verkkotunnuksessa FreeTV Garden noudetaan livenä julkisesta iptv-org-kanavahakemistosta ja ne voidaan toistaa välittömästi selaimessasi ilman lisäohjelmistoja. Tarkka kanavaluettelo muuttuu päivittäin, kun suoratoisto jatkuu ja offline-tilassa.",
@@ -329,7 +325,6 @@
     "faqFreeAnswer": "Kyllä. FreeTV Garden kokoaa julkisesti saatavilla olevat streamit. Tilausta, tiliä tai sovellusta ei vaadita.",
     "faqOfficialQuestionRadio": "Onko tämä {channelName}:n virallinen asema?",
     "faqOfficialQuestionWebcam": "Onko tämä {channelName}:n virallinen verkkokamera?",
-    "faqOfficialAnswer": "Nro FreeTV Garden on itsenäinen hakemisto, joka linkittää julkisesti saatavilla oleviin streameihin. Se ei ole sidoksissa {channelName} -sovellukseen, sitä suosittele tai hallinnoi.",
     "wantMoreLinkText": "suorat tv-kanavat",
     "wantMoreTemplate": "Haluatko lisää? Selaa kaikkia {link} palvelussa FreeTV Garden.",
     "satStationTitle": "Kuuntele {stationName} Live - Satellite Radio | FreeTV Garden",
@@ -414,6 +409,11 @@
     "hubHowToHeadingWebcam": "Kuinka katsoa laitteellasi",
     "hubHowToBody": "Sovellusta tai tiliä ei tarvita. Tämä sivu toimii suoraan selaimessasi millä tahansa laitteella – napauta vain {nounSingular} ja paina play. Avaa tämä sivu Androidilla tai iPhonella Chromessa tai Safarissa ja käytä \"Lisää aloitusnäyttöön\" -painiketta, jotta pääset seuraavan kerran yhdellä napautuksella. Työpöydällä mikä tahansa nykyaikainen selain toimii.",
     "nounSingularRadio": "radioasema",
-    "nounSingularWebcam": "web-kamera"
+    "nounSingularWebcam": "web-kamera",
+    "modeCountryGenreH2Radio": "{countryName} radioasemaa genren mukaan",
+    "modeCountryGenreH2Webcams": "{countryName} verkkokamerat luokittain",
+    "faqHostA": "Ei, FreeTV Garden ei isännöi, lataa tai tallenna videotiedostoja. Se linkittää julkisesti saatavilla oleviin streameihin, joten voit katsella niitä suoraan lähetystoiminnan harjoittajan omilta palvelimilta.",
+    "countryFaqOfficialA": "Ei, FreeTV Garden on itsenäinen hakemisto, joka linkittää julkisesti saatavilla oleviin streameihin. Se ei ole sidoksissa mihinkään tällä sivulla lueteltuun lähetystoiminnan harjoittajaan, suosittele sitä tai hallinnoi sitä.",
+    "faqOfficialAnswer": "Ei, FreeTV Garden on itsenäinen hakemisto, joka linkittää julkisesti saatavilla oleviin streameihin. Se ei ole sidoksissa {channelName} -sovellukseen, sitä suosittele tai hallinnoi."
   }
 }

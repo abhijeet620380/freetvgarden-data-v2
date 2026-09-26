@@ -216,8 +216,6 @@
     "modeCountryIntroWithCountWebcams": "FreeTV Garden viser for øyeblikket {count} live {countryName} webkameraer, inkludert {names} — kan spilles av umiddelbart i nettleseren din uten ekstra programvare.",
     "modeCountryIntroNoCountRadio": "{countryName} radiostasjoner på FreeTV Garden hentes direkte fra en gratis offentlig katalog og kan spilles av umiddelbart i nettleseren din uten ekstra programvare. Den eksakte lineupen endres fra dag til dag etter hvert som strømmer går på og offline.",
     "modeCountryIntroNoCountWebcams": "{countryName} webkameraer på FreeTV Garden hentes direkte fra en gratis offentlig katalog og kan spilles av umiddelbart i nettleseren din uten ekstra programvare. Den eksakte lineupen endres fra dag til dag etter hvert som strømmer går på og offline.",
-    "modeCountryGenreH2Radio": "{countryName} radiostasjoner av {label}",
-    "modeCountryGenreH2Webcams": "{countryName} webkameraer av {label}",
     "wantAnotherCountryH2Radio": "Vil du ha radiostasjoner fra et annet land?",
     "wantAnotherCountryH2Webcams": "Vil du ha webkameraer fra et annet land?",
     "modeCountryFaqFreeQRadio": "Er det gratis å lytte til {countryName} radiostasjoner på FreeTV Garden?",
@@ -261,7 +259,6 @@
     "linkFullLanguageList": "full språkliste",
     "wantCountryH2": "Vil du ha kanaler fra et bestemt land i stedet?",
     "faqHostQ": "Er FreeTV Garden vert for eller laster opp videostrømmene?",
-    "faqHostA": "Nei. FreeTV Garden er ikke vert for, laster opp eller lagrer noen videofiler. Den kobler til offentlig tilgjengelige strømmer slik at du kan se dem direkte fra kringkasterens egne servere.",
     "faqCountNoneA": "Antallet endres etter hvert som strømmer fortsetter og offline – åpne verktøyet ovenfor for å se hva som er live akkurat nå.",
     "faqCountFromCountriesA": "For tiden rundt {count} direktekanaler fra {countries} land.",
     "countryBreadcrumbTV": "{countryName} Direkte TV",
@@ -294,7 +291,6 @@
     "countryFaqPhoneQ": "Kan jeg se {countryName} nyhetskanaler direkte på telefonen min?",
     "countryFaqPhoneA": "Ja – spilleren fungerer på alle telefonnettlesere uten appnedlasting. Bare åpne denne siden, trykk på en nyhetskanal og bruk fullskjerm for best mulig visning.",
     "countryFaqOfficialQ": "Er dette den offisielle nettsiden til en hvilken som helst {countryName} kringkaster?",
-    "countryFaqOfficialA": "Nei. FreeTV Garden er en uavhengig katalog som lenker til offentlig tilgjengelige strømmer. Den er ikke tilknyttet, støttet av eller drevet av noen kringkaster som er oppført på denne siden.",
     "genreIntroOne": "FreeTV Garden viser for øyeblikket {count} live {genreName} kanal fra hele verden, inkludert {names} — hentet direkte fra den offentlige iptv-org kanalkatalogen og kan spilles av umiddelbart i nettleseren din uten ekstra programvare.",
     "genreIntroMany": "FreeTV Garden viser for øyeblikket {count} live {genreName} kanaler fra hele verden, inkludert {names} — hentet direkte fra den offentlige iptv-org kanalkatalogen og kan spilles av umiddelbart i nettleseren din uten ekstra programvare.",
     "genreIntroEmpty": "{genreName} kanaler på FreeTV Garden hentes direkte fra den offentlige iptv-org kanalkatalogen og kan spilles av umiddelbart i nettleseren din uten ekstra programvare. Den eksakte kanallisten endres fra dag til dag etter hvert som strømmer går på og offline.",
@@ -329,7 +325,6 @@
     "faqFreeAnswer": "Ja. FreeTV Garden samler offentlig tilgjengelige strømmer. Det kreves ikke noe abonnement, konto eller app.",
     "faqOfficialQuestionRadio": "Er dette den offisielle stasjonen for {channelName}?",
     "faqOfficialQuestionWebcam": "Er dette det offisielle webkameraet for {channelName}?",
-    "faqOfficialAnswer": "Nei. FreeTV Garden er en uavhengig katalog som lenker til offentlig tilgjengelige strømmer. Den er ikke tilknyttet, godkjent av eller drevet av {channelName} .",
     "wantMoreLinkText": "direktesendte TV-kanaler",
     "wantMoreTemplate": "Vil du ha mer? Bla gjennom alle {link} på FreeTV Garden .",
     "satStationTitle": "Lytt til {stationName} Live — Satellite Radio | FreeTV Garden",
@@ -414,6 +409,11 @@
     "hubHowToHeadingWebcam": "Slik ser du på enheten din",
     "hubHowToBody": "Ingen app eller konto er nødvendig. Denne siden fungerer direkte i nettleseren din på hvilken som helst enhet – bare trykk på en {nounSingular} og trykk på play. På Android eller iPhone åpner du denne siden i Chrome eller Safari og bruker «Legg til på startskjermen» for tilgang med ett trykk neste gang. På skrivebordet fungerer enhver moderne nettleser.",
     "nounSingularRadio": "radiostasjon",
-    "nounSingularWebcam": "webkamera"
+    "nounSingularWebcam": "webkamera",
+    "modeCountryGenreH2Radio": "{countryName} radiostasjoner etter sjanger",
+    "modeCountryGenreH2Webcams": "{countryName} webkameraer etter kategori",
+    "faqHostA": "Nei, FreeTV Garden er ikke vert for, laster opp eller lagrer videofiler. Den kobler til offentlig tilgjengelige strømmer slik at du kan se dem direkte fra kringkasterens egne servere.",
+    "countryFaqOfficialA": "Nei, FreeTV Garden er en uavhengig katalog som lenker til offentlig tilgjengelige strømmer. Den er ikke tilknyttet, støttet av eller drevet av noen kringkaster som er oppført på denne siden.",
+    "faqOfficialAnswer": "Nei, FreeTV Garden er en uavhengig katalog som lenker til offentlig tilgjengelige strømmer. Den er ikke tilknyttet, godkjent av eller drevet av {channelName} ."
   }
 }

@@ -216,8 +216,6 @@
     "modeCountryIntroWithCountWebcams": "FreeTV Garden saat ini mencantumkan {count} webcam langsung {countryName}, termasuk {names} — dapat langsung diputar di browser Anda tanpa perangkat lunak tambahan.",
     "modeCountryIntroNoCountRadio": "Stasiun radio {countryName} di FreeTV Garden diambil langsung dari direktori publik gratis dan dapat diputar langsung di browser Anda tanpa perangkat lunak tambahan. Daftar persisnya berubah dari hari ke hari saat streaming berlangsung dan offline.",
     "modeCountryIntroNoCountWebcams": "Webcam {countryName} di FreeTV Garden diambil langsung dari direktori publik gratis dan dapat langsung diputar di browser Anda tanpa perangkat lunak tambahan. Daftar persisnya berubah dari hari ke hari saat streaming berlangsung dan offline.",
-    "modeCountryGenreH2Radio": "{countryName} stasiun radio oleh {label}",
-    "modeCountryGenreH2Webcams": "{countryName} kamera web oleh {label}",
     "wantAnotherCountryH2Radio": "Ingin stasiun radio dari negara lain?",
     "wantAnotherCountryH2Webcams": "Ingin webcam dari negara lain?",
     "modeCountryFaqFreeQRadio": "Apakah mendengarkan stasiun radio {countryName} di FreeTV Garden gratis?",
@@ -261,7 +259,6 @@
     "linkFullLanguageList": "daftar bahasa lengkap",
     "wantCountryH2": "Ingin saluran dari negara tertentu?",
     "faqHostQ": "Apakah FreeTV Garden menghosting atau mengupload streaming video?",
-    "faqHostA": "Tidak. FreeTV Garden tidak menghosting, mengunggah, atau menyimpan file video apa pun. Ini tertaut ke aliran yang tersedia untuk umum sehingga Anda dapat menontonnya langsung dari server milik penyiar.",
     "faqCountNoneA": "Jumlahnya berubah saat streaming berlangsung dan offline — buka alat di atas untuk melihat siaran langsung saat ini.",
     "faqCountFromCountriesA": "Saat ini sekitar {count} saluran langsung dari negara {countries}.",
     "countryBreadcrumbTV": "{countryName} TV Langsung",
@@ -294,7 +291,6 @@
     "countryFaqPhoneQ": "Bisakah saya menonton saluran berita {countryName} langsung di ponsel saya?",
     "countryFaqPhoneA": "Ya — pemutar berfungsi di browser ponsel apa pun tanpa perlu mengunduh aplikasi. Buka saja halaman ini, ketuk saluran berita, dan gunakan layar penuh untuk tampilan terbaik.",
     "countryFaqOfficialQ": "Apakah ini situs resmi penyiar {countryName} mana pun?",
-    "countryFaqOfficialA": "Nomor FreeTV Garden adalah direktori independen yang menghubungkan ke aliran yang tersedia untuk umum. Itu tidak berafiliasi dengan, didukung oleh, atau dioperasikan oleh penyiar mana pun yang terdaftar di halaman ini.",
     "genreIntroOne": "FreeTV Garden saat ini mencantumkan {count} saluran {genreName} langsung dari seluruh dunia, termasuk {names} — diambil langsung dari direktori saluran publik iptv-org dan dapat langsung diputar di browser Anda tanpa perangkat lunak tambahan.",
     "genreIntroMany": "FreeTV Garden saat ini mencantumkan {count} saluran {genreName} langsung dari seluruh dunia, termasuk {names} — diambil langsung dari direktori saluran iptv-org publik dan dapat langsung diputar di browser Anda tanpa perangkat lunak tambahan.",
     "genreIntroEmpty": "Saluran {genreName} di FreeTV Garden diambil langsung dari direktori saluran publik iptv-org dan dapat langsung diputar di browser Anda tanpa perangkat lunak tambahan. Daftar saluran yang tepat berubah dari hari ke hari saat streaming berlangsung dan offline.",
@@ -329,7 +325,6 @@
     "faqFreeAnswer": "Ya. FreeTV Garden mengumpulkan aliran yang tersedia untuk umum. Tidak diperlukan langganan, akun, atau aplikasi.",
     "faqOfficialQuestionRadio": "Apakah ini stasiun resmi untuk {channelName} ?",
     "faqOfficialQuestionWebcam": "Apakah ini webcam resmi untuk {channelName}?",
-    "faqOfficialAnswer": "Nomor FreeTV Garden adalah direktori independen yang menghubungkan ke aliran yang tersedia untuk umum. Itu tidak berafiliasi dengan, didukung oleh, atau dioperasikan oleh {channelName} .",
     "wantMoreLinkText": "saluran TV langsung",
     "wantMoreTemplate": "Ingin lebih? Telusuri semua {link} di FreeTV Garden .",
     "satStationTitle": "Dengarkan {stationName} Langsung — Radio Satelit | FreeTV Garden",
@@ -414,6 +409,11 @@
     "hubHowToHeadingWebcam": "Cara menonton di perangkat Anda",
     "hubHowToBody": "Tidak diperlukan aplikasi atau akun. Halaman ini berfungsi langsung di browser Anda pada perangkat apa pun — cukup ketuk {nounSingular} dan tekan putar. Di Android atau iPhone, buka halaman ini di Chrome atau Safari dan gunakan \"Tambahkan ke Layar Utama\" untuk akses sekali ketuk di lain waktu. Di desktop, browser modern apa pun berfungsi.",
     "nounSingularRadio": "stasiun radio",
-    "nounSingularWebcam": "kamera web"
+    "nounSingularWebcam": "kamera web",
+    "modeCountryGenreH2Radio": "{countryName} stasiun radio berdasarkan genre",
+    "modeCountryGenreH2Webcams": "{countryName} webcam berdasarkan kategori",
+    "faqHostA": "Tidak, FreeTV Garden tidak menghosting, mengunggah, atau menyimpan file video apa pun. Ini tertaut ke aliran yang tersedia untuk umum sehingga Anda dapat menontonnya langsung dari server milik penyiar.",
+    "countryFaqOfficialA": "Tidak, FreeTV Garden adalah direktori independen yang tertaut ke aliran yang tersedia untuk umum. Itu tidak berafiliasi dengan, didukung oleh, atau dioperasikan oleh penyiar mana pun yang terdaftar di halaman ini.",
+    "faqOfficialAnswer": "Tidak, FreeTV Garden adalah direktori independen yang tertaut ke aliran yang tersedia untuk umum. Itu tidak berafiliasi dengan, didukung oleh, atau dioperasikan oleh {channelName} ."
   }
 }

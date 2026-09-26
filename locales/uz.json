@@ -216,8 +216,6 @@
     "modeCountryIntroWithCountWebcams": "FreeTV Garden hozirda {count} jonli {countryName} veb-kameralar roʻyxatini, jumladan {names} — brauzeringizda qoʻshimcha dasturiy taʼminotsiz darhol ijro etilishi mumkin.",
     "modeCountryIntroNoCountRadio": "FreeTV Garden dagi {countryName} radiostantsiyalar bepul umumiy katalogdan jonli ravishda olinadi va hech qanday qo'shimcha dasturiy ta'minotsiz brauzeringizda darhol ijro etiladi. Oqimlar davom etishi va oflayn rejimga o'tishi bilan aniq tarkib kundan-kunga o'zgarib turadi.",
     "modeCountryIntroNoCountWebcams": "{countryName} FreeTV Garden veb-kameralari bepul umumiy katalogdan jonli ravishda olinadi va hech qanday qo'shimcha dasturiy ta'minotsiz brauzeringizda bir zumda ijro etiladi. Oqimlar davom etishi va oflayn rejimga o'tishi bilan aniq tarkib kundan-kunga o'zgarib turadi.",
-    "modeCountryGenreH2Radio": "{label} tomonidan {countryName} radiostansiyalar",
-    "modeCountryGenreH2Webcams": "{countryName} veb-kameralari {label} tomonidan",
     "wantAnotherCountryH2Radio": "Boshqa mamlakat radiostansiyalarini xohlaysizmi?",
     "wantAnotherCountryH2Webcams": "Boshqa davlatdan veb-kameralarni xohlaysizmi?",
     "modeCountryFaqFreeQRadio": "{countryName} radiostansiyalarini FreeTV Garden orqali tinglash bepulmi?",
@@ -261,7 +259,6 @@
     "linkFullLanguageList": "to'liq tillar ro'yxati",
     "wantCountryH2": "Buning o'rniga ma'lum bir mamlakatning kanallarini xohlaysizmi?",
     "faqHostQ": "FreeTV Garden video oqimlarni joylashtiradimi yoki yuklaydimi?",
-    "faqHostA": "No FreeTV Garden hech qanday video faylni joylashtirmaydi, yuklamaydi yoki saqlamaydi. U hammaga ochiq oqimlarga havola qiladi, shuning uchun siz ularni to'g'ridan-to'g'ri efirga uzatuvchining o'z serverlaridan ko'rishingiz mumkin.",
     "faqCountNoneA": "Oqimlar yoqilgan va oflayn bo‘lganda soni o‘zgaradi — hozir jonli efirni ko‘rish uchun yuqoridagi vositani oching.",
     "faqCountFromCountriesA": "Hozirda {countries} mamlakatdan {count} ga yaqin jonli kanal.",
     "countryBreadcrumbTV": "{countryName} Jonli TV",
@@ -294,7 +291,6 @@
     "countryFaqPhoneQ": "Telefonimda {countryName} yangiliklar kanallarini jonli ko'rishim mumkinmi?",
     "countryFaqPhoneA": "Ha — pleer istalgan telefon brauzerida dasturni yuklab olmasdan ishlaydi. Shunchaki ushbu sahifani oching, yangiliklar kanaliga teging va eng yaxshi koʻrish uchun toʻliq ekrandan foydalaning.",
     "countryFaqOfficialQ": "Bu har qanday {countryName} teleradiokompaniyasining rasmiy veb-saytimi?",
-    "countryFaqOfficialA": "№ FreeTV Garden hammaga ochiq oqimlarga havola qiluvchi mustaqil katalogdir. U ushbu sahifada sanab o'tilgan biron bir teleradiokompaniya bilan bog'lanmagan, ma'qullanmagan yoki boshqarmagan.",
     "genreIntroOne": "FreeTV Garden hozirda butun dunyo boʻylab {count} jonli {genreName} kanallarini roʻyxatga oladi, shu jumladan {names} — umumiy iptv-org kanal katalogidan jonli efirda olingan va hech qanday qoʻshimcha dasturiy taʼminotsiz brauzeringizda bir zumda ijro etilishi mumkin.",
     "genreIntroMany": "FreeTV Garden hozirda butun dunyo boʻylab {count} jonli {genreName} kanallar roʻyxatini taqdim etadi, shu jumladan {names} — umumiy iptv-org kanal katalogidan jonli efirga uzatiladi va hech qanday qoʻshimcha dasturiy taʼminotsiz brauzeringizda bir zumda ijro etiladi.",
     "genreIntroEmpty": "FreeTV Garden dagi {genreName} kanallari umumiy iptv-org kanal katalogidan jonli ravishda olinadi va hech qanday qo‘shimcha dastursiz brauzeringizda bir zumda o‘ynatiladi. Aniq kanallar ro'yxati kundan-kunga o'zgarib turadi, chunki oqimlar uzluksiz va oflayn bo'ladi.",
@@ -329,7 +325,6 @@
     "faqFreeAnswer": "Ha. FreeTV Garden hammaga ochiq oqimlarni birlashtiradi. Hech qanday obuna, hisob yoki ilova talab qilinmaydi.",
     "faqOfficialQuestionRadio": "Bu {channelName} uchun rasmiy stantsiyami?",
     "faqOfficialQuestionWebcam": "Bu {channelName} uchun rasmiy veb-kamerami?",
-    "faqOfficialAnswer": "№ FreeTV Garden hammaga ochiq oqimlarga havola qiluvchi mustaqil katalogdir. U {channelName} bilan bog'lanmagan, ma'qullanmagan yoki tomonidan boshqarilmagan.",
     "wantMoreLinkText": "jonli telekanallar",
     "wantMoreTemplate": "Ko'proq istaysizmi? FreeTV Garden da {link} hammasini koʻrib chiqing.",
     "satStationTitle": "{stationName} jonli efirda tinglang — Sun'iy yo'ldosh radiosi | FreeTV Garden",
@@ -414,6 +409,11 @@
     "hubHowToHeadingWebcam": "Qurilmangizda qanday tomosha qilish mumkin",
     "hubHowToBody": "Hech qanday ilova yoki hisob kerak emas. Bu sahifa toʻgʻridan-toʻgʻri istalgan qurilmada brauzeringizda ishlaydi — shunchaki {nounSingular} tugmasini bosing va oʻynash tugmasini bosing. Android yoki iPhone’da ushbu sahifani Chrome yoki Safari’da oching va keyingi safar bir marta bosish uchun “Bosh ekranga qo‘shish” tugmasidan foydalaning. Ish stolida har qanday zamonaviy brauzer ishlaydi.",
     "nounSingularRadio": "radiostansiya",
-    "nounSingularWebcam": "vebkamera"
+    "nounSingularWebcam": "vebkamera",
+    "modeCountryGenreH2Radio": "Janr bo'yicha {countryName} radiostantsiyalar",
+    "modeCountryGenreH2Webcams": "Turkum bo'yicha {countryName} veb-kameralar",
+    "faqHostA": "Yo‘q, FreeTV Garden hech qanday videofayllarni joylashtirmaydi, yuklamaydi yoki saqlamaydi. U hammaga ochiq oqimlarga havola qiladi, shuning uchun siz ularni to'g'ridan-to'g'ri efirga uzatuvchining o'z serverlaridan ko'rishingiz mumkin.",
+    "countryFaqOfficialA": "Yoʻq, FreeTV Garden hammaga ochiq oqimlarga bogʻlovchi mustaqil katalogdir. U ushbu sahifada sanab o'tilgan biron bir teleradiokompaniya bilan bog'lanmagan, ma'qullanmagan yoki boshqarmagan.",
+    "faqOfficialAnswer": "Yoʻq, FreeTV Garden hammaga ochiq oqimlarga bogʻlovchi mustaqil katalogdir. U {channelName} bilan bog'lanmagan, ma'qullanmagan yoki tomonidan boshqarilmagan."
   }
 }

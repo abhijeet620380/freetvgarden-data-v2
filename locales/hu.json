@@ -216,8 +216,6 @@
     "modeCountryIntroWithCountWebcams": "A FreeTV Garden jelenleg {count} élő {countryName} webkamerát tartalmaz, beleértve a {names}-t – azonnal lejátszható a böngészőben, külön szoftver nélkül.",
     "modeCountryIntroNoCountRadio": "A FreeTV Garden {countryName} rádióállomásai élőben gyűjthetők egy ingyenes nyilvános könyvtárból, és azonnal lejátszhatók a böngészőben, külön szoftver nélkül. A pontos felállás napról napra változik, ahogy a közvetítések folytatódnak és offline is.",
     "modeCountryIntroNoCountWebcams": "A FreeTV Garden {countryName} webkamerái élőben letölthetők egy ingyenes nyilvános könyvtárból, és azonnal lejátszhatók a böngészőben, külön szoftver nélkül. A pontos felállás napról napra változik, ahogy a közvetítések folytatódnak és offline is.",
-    "modeCountryGenreH2Radio": "{countryName} rádióállomás a következőtől: {label}",
-    "modeCountryGenreH2Webcams": "{countryName} webkamerák, {label}",
     "wantAnotherCountryH2Radio": "Rádióállomásokat szeretne egy másik országból?",
     "wantAnotherCountryH2Webcams": "Webkamerákat szeretne egy másik országból?",
     "modeCountryFaqFreeQRadio": "Ingyenes {countryName} rádióállomás hallgatása a FreeTV Garden-on?",
@@ -261,7 +259,6 @@
     "linkFullLanguageList": "teljes nyelvi lista",
     "wantCountryH2": "Egy adott ország csatornáit szeretné inkább?",
     "faqHostQ": "A FreeTV Garden tárolja vagy feltölti a videofolyamokat?",
-    "faqHostA": "Nem. A FreeTV Garden nem tárol, nem tölt fel vagy tárol semmilyen videofájlt. Nyilvánosan elérhető adatfolyamokhoz kapcsolódik, így közvetlenül a műsorszolgáltató saját szervereiről nézheti őket.",
     "faqCountNoneA": "A számlálás a közvetítések bekapcsolásával és offline állapotával változik – nyissa meg a fenti eszközt, hogy megtekinthesse, mi folyik éppen élőben.",
     "faqCountFromCountriesA": "Jelenleg körülbelül {count} élő csatorna {countries} országból.",
     "countryBreadcrumbTV": "{countryName} Élő TV",
@@ -294,7 +291,6 @@
     "countryFaqPhoneQ": "Nézhetek {countryName} hírcsatornát élőben a telefonomon?",
     "countryFaqPhoneA": "Igen – a lejátszó bármely telefon böngészőjében működik alkalmazás letöltése nélkül. Csak nyissa meg ezt az oldalt, koppintson egy hírcsatornára, és használja a teljes képernyőt a legjobb nézet érdekében.",
     "countryFaqOfficialQ": "Ez valamelyik {countryName} műsorszolgáltató hivatalos webhelye?",
-    "countryFaqOfficialA": "A FreeTV Garden egy független könyvtár, amely nyilvánosan elérhető adatfolyamokra hivatkozik. Nem áll kapcsolatban, nem támogatja vagy üzemelteti az ezen az oldalon felsorolt ​​műsorszolgáltatók.",
     "genreIntroOne": "A FreeTV Garden jelenleg {count} élő {genreName} csatornát sorol fel a világ minden tájáról, köztük a {names} - élőben gyűjtve a nyilvános iptv-org csatornakönyvtárból, és azonnal lejátszható a böngészőben, extra szoftver nélkül.",
     "genreIntroMany": "A FreeTV Garden jelenleg {count} élő {genreName} csatornát sorol fel a világ minden tájáról, köztük a {names} - élőben gyűjtve a nyilvános iptv-org csatornakönyvtárból, és azonnal lejátszható a böngészőben extra szoftver nélkül.",
     "genreIntroEmpty": "A FreeTV Garden {genreName} csatornái élőben gyűjthetők a nyilvános iptv-org csatornakönyvtárból, és azonnal lejátszhatók a böngészőben, külön szoftver nélkül. A pontos csatornalista napról napra változik, ahogy a közvetítések folytatódnak és offline is.",
@@ -329,7 +325,6 @@
     "faqFreeAnswer": "Igen. FreeTV Garden összesíti a nyilvánosan elérhető adatfolyamokat. Nincs szükség előfizetésre, fiókra vagy alkalmazásra.",
     "faqOfficialQuestionRadio": "Ez a {channelName} hivatalos állomása?",
     "faqOfficialQuestionWebcam": "Ez a hivatalos webkamera a {channelName} számára?",
-    "faqOfficialAnswer": "A FreeTV Garden egy független könyvtár, amely nyilvánosan elérhető adatfolyamokra hivatkozik. A {channelName} nem áll kapcsolatban, nem hagyja jóvá és nem üzemelteti.",
     "wantMoreLinkText": "élő tévécsatornák",
     "wantMoreTemplate": "Többet szeretnél? Az összes {link} tallózása itt: FreeTV Garden.",
     "satStationTitle": "Hallgassa meg a {stationName} élőben — Satellite Radio | FreeTV Garden",
@@ -414,6 +409,11 @@
     "hubHowToHeadingWebcam": "Hogyan nézhet meg az eszközén",
     "hubHowToBody": "Nincs szükség alkalmazásra vagy fiókra. Ez az oldal közvetlenül a böngészőjében működik bármely eszközön – csak érintse meg a {nounSingular} ikont, és nyomja meg a lejátszás gombot. Androidon vagy iPhone-on nyissa meg ezt az oldalt a Chrome-ban vagy a Safariban, és használja a „Hozzáadás a kezdőképernyőhöz” elemet a következő alkalommal egy koppintással való eléréshez. Asztali számítógépen minden modern böngésző működik.",
     "nounSingularRadio": "rádióállomás",
-    "nounSingularWebcam": "webkamera"
+    "nounSingularWebcam": "webkamera",
+    "modeCountryGenreH2Radio": "{countryName} rádióállomások műfaj szerint",
+    "modeCountryGenreH2Webcams": "{countryName} webkamera kategória szerint",
+    "faqHostA": "Nem, a FreeTV Garden nem tárol, nem tölt fel vagy tárol semmilyen videofájlt. Nyilvánosan elérhető adatfolyamokhoz kapcsolódik, így közvetlenül a műsorszolgáltató saját szervereiről nézheti őket.",
+    "countryFaqOfficialA": "Nem, a FreeTV Garden egy független könyvtár, amely nyilvánosan elérhető adatfolyamokra hivatkozik. Nem áll kapcsolatban, nem támogatja vagy üzemelteti az ezen az oldalon felsorolt ​​műsorszolgáltatók.",
+    "faqOfficialAnswer": "Nem, a FreeTV Garden egy független könyvtár, amely nyilvánosan elérhető adatfolyamokra hivatkozik. A {channelName} nem áll kapcsolatban, nem hagyja jóvá és nem üzemelteti."
   }
 }

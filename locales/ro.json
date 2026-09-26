@@ -216,8 +216,6 @@
     "modeCountryIntroWithCountWebcams": "FreeTV Garden listează în prezent {count} webcam-uri live {countryName}, inclusiv {names} — care pot fi redate instantaneu în browser, fără software suplimentar.",
     "modeCountryIntroNoCountRadio": "{countryName} Posturile de radio de pe FreeTV Garden sunt extrase live dintr-un director public gratuit și pot fi redate instantaneu în browser, fără software suplimentar. Gama exactă se schimbă de la o zi la alta pe măsură ce fluxurile sunt pornite și offline.",
     "modeCountryIntroNoCountWebcams": "{countryName} camerele web de pe FreeTV Garden sunt extrase live dintr-un director public gratuit și pot fi redate instantaneu în browser, fără software suplimentar. Gama exactă se schimbă de la o zi la alta pe măsură ce fluxurile sunt pornite și offline.",
-    "modeCountryGenreH2Radio": "{countryName} posturi de radio de la {label}",
-    "modeCountryGenreH2Webcams": "{countryName} camere web de la {label}",
     "wantAnotherCountryH2Radio": "Vrei posturi de radio din altă țară?",
     "wantAnotherCountryH2Webcams": "Vrei camere web din altă țară?",
     "modeCountryFaqFreeQRadio": "Ascultarea posturilor de radio {countryName} pe FreeTV Garden este gratuită?",
@@ -261,7 +259,6 @@
     "linkFullLanguageList": "lista completă a limbilor",
     "wantCountryH2": "În schimb, doriți canale dintr-o anumită țară?",
     "faqHostQ": "FreeTV Garden găzduiește sau încarcă fluxurile video?",
-    "faqHostA": "Nu. FreeTV Garden nu găzduiește, nu încarcă și nu stochează niciun fișier video. Se leagă la fluxuri disponibile public, astfel încât să le puteți viziona direct de pe serverele proprii ale radiodifuzorului.",
     "faqCountNoneA": "Numărul se modifică pe măsură ce fluxurile sunt pornite și offline — deschide instrumentul de mai sus pentru a vedea ce este live acum.",
     "faqCountFromCountriesA": "În prezent, aproximativ {count} canale live din {countries} țări.",
     "countryBreadcrumbTV": "{countryName} TV în direct",
@@ -294,7 +291,6 @@
     "countryFaqPhoneQ": "Pot urmări {countryName} canale de știri în direct pe telefonul meu?",
     "countryFaqPhoneA": "Da — playerul funcționează pe orice browser de telefon fără descărcare de aplicație. Doar deschideți această pagină, atingeți un canal de știri și utilizați ecranul complet pentru cea mai bună vizualizare.",
     "countryFaqOfficialQ": "Este acesta site-ul web oficial al oricărui radiodifuzor {countryName}?",
-    "countryFaqOfficialA": "Nu. FreeTV Garden este un director independent care face legătura către fluxuri disponibile public. Nu este afiliat, aprobat de sau operat de niciun radiodifuzor listat pe această pagină.",
     "genreIntroOne": "FreeTV Garden listează în prezent {count} canal {genreName} live din întreaga lume, inclusiv {names} — extras live din directorul public de canale iptv-org și redat instantaneu în browser, fără software suplimentar.",
     "genreIntroMany": "FreeTV Garden listează în prezent {count} canale {genreName} live din întreaga lume, inclusiv {names} — extrase live din directorul public de canale iptv-org și care pot fi redate instantaneu în browser, fără software suplimentar.",
     "genreIntroEmpty": "Canalele {genreName} de pe FreeTV Garden sunt extrase live din directorul public de canale iptv-org și pot fi redate instantaneu în browser, fără software suplimentar. Lista exactă de canale se schimbă de la o zi la alta pe măsură ce fluxurile sunt pornite și offline.",
@@ -329,7 +325,6 @@
     "faqFreeAnswer": "Da. FreeTV Garden cumulează fluxurile disponibile public. Nu este nevoie de abonament, cont sau aplicație.",
     "faqOfficialQuestionRadio": "Acesta este postul oficial pentru {channelName}?",
     "faqOfficialQuestionWebcam": "Este aceasta camera web oficială pentru {channelName}?",
-    "faqOfficialAnswer": "Nu. FreeTV Garden este un director independent care face legătura către fluxuri disponibile public. Nu este afiliat, aprobat de sau operat de {channelName}.",
     "wantMoreLinkText": "canale TV în direct",
     "wantMoreTemplate": "Vrei mai mult? Răsfoiți toate {link} pe FreeTV Garden .",
     "satStationTitle": "Ascultă {stationName} Live — Radio prin satelit | FreeTV Garden",
@@ -414,6 +409,11 @@
     "hubHowToHeadingWebcam": "Cum să vizionezi pe dispozitivul tău",
     "hubHowToBody": "Nu este nevoie de nicio aplicație sau cont. Această pagină funcționează direct în browserul dvs. de pe orice dispozitiv - trebuie doar să atingeți un {nounSingular} și să apăsați pe redare. Pe Android sau iPhone, deschideți această pagină în Chrome sau Safari și utilizați „Adăugați la ecranul de pornire” pentru acces cu o singură atingere data viitoare. Pe desktop, orice browser modern funcționează.",
     "nounSingularRadio": "post de radio",
-    "nounSingularWebcam": "cameră web"
+    "nounSingularWebcam": "cameră web",
+    "modeCountryGenreH2Radio": "{countryName} posturi de radio după gen",
+    "modeCountryGenreH2Webcams": "{countryName} camere web după categorie",
+    "faqHostA": "Nu, FreeTV Garden nu găzduiește, nu încarcă și nu stochează niciun fișier video. Se leagă la fluxuri disponibile public, astfel încât să le puteți viziona direct de pe serverele proprii ale radiodifuzorului.",
+    "countryFaqOfficialA": "Nu, FreeTV Garden este un director independent care trimite către fluxuri disponibile public. Nu este afiliat, aprobat de sau operat de niciun radiodifuzor listat pe această pagină.",
+    "faqOfficialAnswer": "Nu, FreeTV Garden este un director independent care trimite către fluxuri disponibile public. Nu este afiliat, aprobat de sau operat de {channelName}."
   }
 }

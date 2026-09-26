@@ -216,8 +216,6 @@
     "modeCountryIntroWithCountWebcams": "FreeTV Garden には現在、{names} を含む {count} ライブ {countryName} ウェブカメラがリストされており、追加のソフトウェアを必要とせずにブラウザで即座に再生できます。",
     "modeCountryIntroNoCountRadio": "FreeTV Garden の {countryName} ラジオ局は、無料のパブリック ディレクトリからライブで取得され、追加のソフトウェアを必要とせずにブラウザで即座に再生できます。 正確なラインナップは、ストリームがオンオフラインになるにつれて日々変化します。",
     "modeCountryIntroNoCountWebcams": "FreeTV Garden の {countryName} Web カメラは、無料のパブリック ディレクトリからライブで取得され、追加のソフトウェアを必要とせずにブラウザで即座に再生できます。 正確なラインナップは、ストリームがオンオフラインになるにつれて日々変化します。",
-    "modeCountryGenreH2Radio": "{countryName} ラジオ局 by {label}",
-    "modeCountryGenreH2Webcams": "{countryName} ウェブカメラ by {label}",
     "wantAnotherCountryH2Radio": "他の国のラジオ局が欲しいですか?",
     "wantAnotherCountryH2Webcams": "他の国のウェブカメラが必要ですか?",
     "modeCountryFaqFreeQRadio": "FreeTV Garden で {countryName} ラジオ局を聴くのは無料ですか?",
@@ -261,7 +259,6 @@
     "linkFullLanguageList": "完全な言語リスト",
     "wantCountryH2": "代わりに特定の国のチャンネルが必要ですか?",
     "faqHostQ": "FreeTV Garden はビデオ ストリームをホストまたはアップロードしますか?",
-    "faqHostA": "いいえ。FreeTV Garden はビデオ ファイルをホスト、アップロード、保存しません。 公開されているストリームにリンクしているので、放送局独自のサーバーから直接視聴できます。",
     "faqCountNoneA": "ストリームがオンになったりオフラインになったりすると、カウントは変化します。上のツールを開いて、現在のライブを確認してください。",
     "faqCountFromCountriesA": "現在、{countries} か国からの {count} 件のライブ チャンネルがあります。",
     "countryBreadcrumbTV": "{countryName} 生放送",
@@ -294,7 +291,6 @@
     "countryFaqPhoneQ": "携帯電話で {countryName} ニュース チャンネルをライブで視聴できますか?",
     "countryFaqPhoneA": "はい - プレーヤーはアプリをダウンロードしなくても、どの携帯電話のブラウザでも動作します。 このページを開いてニュース チャンネルをタップし、全画面表示を使用すると最適な表示が得られます。",
     "countryFaqOfficialQ": "これは {countryName} 放送局の公式 Web サイトですか?",
-    "countryFaqOfficialA": "いいえ。FreeTV Garden は、公開されているストリームにリンクする独立したディレクトリです。 このページにリストされている放送局と提携、承認、または運営されているわけではありません。",
     "genreIntroOne": "FreeTV Garden には現在、{names} を含む世界中の {count} ライブ {genreName} チャンネルがリストされています。公開 iptv-org チャンネル ディレクトリからライブで取得され、追加のソフトウェアを必要とせずにブラウザで即座に再生できます。",
     "genreIntroMany": "FreeTV Garden には現在、{names} を含む世界中の {count} ライブ {genreName} チャンネルがリストされています。これは公開 iptv-org チャンネル ディレクトリからライブで取得され、追加のソフトウェアを必要とせずにブラウザーで即座に再生できます。",
     "genreIntroEmpty": "FreeTV Garden の {genreName} チャンネルは、パブリック iptv-org チャンネル ディレクトリからライブで取得され、追加のソフトウェアを必要とせずにブラウザーで即座に再生できます。 正確なチャンネル リストは、ストリームがオンまたはオフラインになるにつれて日々変化します。",
@@ -329,7 +325,6 @@
     "faqFreeAnswer": "はい。 FreeTV Garden は、公開されているストリームを集約します。 サブスクリプション、アカウント、アプリは必要ありません。",
     "faqOfficialQuestionRadio": "ここは {channelName} の公式ステーションですか?",
     "faqOfficialQuestionWebcam": "これは {channelName} の公式ウェブカメラですか?",
-    "faqOfficialAnswer": "いいえ。FreeTV Garden は、公開されているストリームにリンクする独立したディレクトリです。 {channelName} と提携、承認、または運営されているわけではありません。",
     "wantMoreLinkText": "ライブテレビチャンネル",
     "wantMoreTemplate": "もっと知りたいですか? FreeTV Garden 上のすべての {link} を参照します。",
     "satStationTitle": "{stationName} をライブで聴く — 衛星ラジオ | FreeTV Garden",
@@ -414,6 +409,11 @@
     "hubHowToHeadingWebcam": "お使いのデバイスで視聴する方法",
     "hubHowToBody": "アプリやアカウントは必要ありません。 このページは、どのデバイスのブラウザでも直接動作します。{nounSingular} をタップして、再生を押すだけです。 Android または iPhone の場合、Chrome または Safari でこのページを開き、次回からは「ホーム画面に追加」を使用してワンタップでアクセスします。 デスクトップでは、最新のブラウザが動作します。",
     "nounSingularRadio": "ラジオ局",
-    "nounSingularWebcam": "ウェブカメラ"
+    "nounSingularWebcam": "ウェブカメラ",
+    "modeCountryGenreH2Radio": "{countryName} ジャンル別のラジオ局",
+    "modeCountryGenreH2Webcams": "{countryName} ウェブカメラ (カテゴリ別)",
+    "faqHostA": "いいえ、FreeTV Garden はビデオ ファイルをホスト、アップロード、保存しません。 公開されているストリームにリンクしているので、放送局独自のサーバーから直接視聴できます。",
+    "countryFaqOfficialA": "いいえ、FreeTV Garden は、公開されているストリームにリンクする独立したディレクトリです。 このページにリストされている放送局と提携、承認、または運営されているわけではありません。",
+    "faqOfficialAnswer": "いいえ、FreeTV Garden は、公開されているストリームにリンクする独立したディレクトリです。 {channelName} と提携、承認、または運営されているわけではありません。"
   }
 }

@@ -216,8 +216,6 @@
     "modeCountryIntroWithCountWebcams": "FreeTV Garden lista atualmente {count} webcams {countryName} ao vivo, incluindo {names} – reproduzíveis instantaneamente em seu navegador sem software extra.",
     "modeCountryIntroNoCountRadio": "As estações de rádio {countryName} em FreeTV Garden são transmitidas ao vivo de um diretório público gratuito e podem ser reproduzidas instantaneamente em seu navegador, sem software extra. A programação exata muda dia a dia conforme as transmissões ficam online e offline.",
     "modeCountryIntroNoCountWebcams": "As webcams {countryName} em FreeTV Garden são extraídas ao vivo de um diretório público gratuito e podem ser reproduzidas instantaneamente em seu navegador, sem software extra. A programação exata muda dia a dia conforme as transmissões ficam online e offline.",
-    "modeCountryGenreH2Radio": "{countryName} estações de rádio de {label}",
-    "modeCountryGenreH2Webcams": "{countryName} webcams de {label}",
     "wantAnotherCountryH2Radio": "Quer estações de rádio de outro país?",
     "wantAnotherCountryH2Webcams": "Quer webcams de outro país?",
     "modeCountryFaqFreeQRadio": "Ouvir estações de rádio {countryName} em FreeTV Garden é gratuito?",
@@ -261,7 +259,6 @@
     "linkFullLanguageList": "lista completa de idiomas",
     "wantCountryH2": "Quer canais de um país específico?",
     "faqHostQ": "FreeTV Garden hospeda ou carrega os streams de vídeo?",
-    "faqHostA": "Não. FreeTV Garden não hospeda, carrega ou armazena nenhum arquivo de vídeo. Ele se conecta a transmissões disponíveis publicamente para que você possa assisti-las diretamente dos próprios servidores da emissora.",
     "faqCountNoneA": "A contagem muda conforme as transmissões são ativadas e off-line. Abra a ferramenta acima para ver o que está ao vivo no momento.",
     "faqCountFromCountriesA": "Atualmente cerca de {count} canais ao vivo de {countries} países.",
     "countryBreadcrumbTV": "{countryName} TV ao vivo",
@@ -294,7 +291,6 @@
     "countryFaqPhoneQ": "Posso assistir canais de notícias {countryName} ao vivo no meu telefone?",
     "countryFaqPhoneA": "Sim – o player funciona em qualquer navegador de telefone sem download de aplicativo. Basta abrir esta página, tocar em um canal de notícias e usar a tela cheia para obter a melhor visualização.",
     "countryFaqOfficialQ": "Este é o site oficial de alguma emissora {countryName}?",
-    "countryFaqOfficialA": "Não. FreeTV Garden é um diretório independente com links para streams disponíveis publicamente. Não é afiliado, endossado ou operado por nenhuma emissora listada nesta página.",
     "genreIntroOne": "FreeTV Garden atualmente lista canais {count} {genreName} ao vivo de todo o mundo, incluindo {names} - extraído ao vivo do diretório público de canais iptv-org e reproduzível instantaneamente em seu navegador sem software extra.",
     "genreIntroMany": "FreeTV Garden atualmente lista canais {count} {genreName} ao vivo de todo o mundo, incluindo {names} – extraídos ao vivo do diretório público de canais iptv-org e reproduzíveis instantaneamente em seu navegador sem software extra.",
     "genreIntroEmpty": "Os canais {genreName} em FreeTV Garden são extraídos ao vivo do diretório público de canais iptv-org e podem ser reproduzidos instantaneamente em seu navegador, sem software extra. A lista exata de canais muda dia a dia conforme as transmissões são ativadas e off-line.",
@@ -329,7 +325,6 @@
     "faqFreeAnswer": "Sim. FreeTV Garden agrega fluxos disponíveis publicamente. Não há necessidade de assinatura, conta ou aplicativo.",
     "faqOfficialQuestionRadio": "Esta é a estação oficial de {channelName}?",
     "faqOfficialQuestionWebcam": "Esta é a webcam oficial de {channelName}?",
-    "faqOfficialAnswer": "Não. FreeTV Garden é um diretório independente com links para streams disponíveis publicamente. Não é afiliado, endossado ou operado por {channelName}.",
     "wantMoreLinkText": "canais de TV ao vivo",
     "wantMoreTemplate": "Quer mais? Procure todos os {link} em FreeTV Garden .",
     "satStationTitle": "Ouça {stationName} ao vivo - Rádio via satélite | FreeTV Garden",
@@ -414,6 +409,11 @@
     "hubHowToHeadingWebcam": "Como assistir no seu dispositivo",
     "hubHowToBody": "Nenhum aplicativo ou conta é necessário. Esta página funciona diretamente no seu navegador em qualquer dispositivo – basta tocar em {nounSingular} e pressionar play. No Android ou iPhone, abra esta página no Chrome ou Safari e use “Adicionar à tela inicial” para acesso com um toque na próxima vez. No desktop, qualquer navegador moderno funciona.",
     "nounSingularRadio": "estação de rádio",
-    "nounSingularWebcam": "Webcam"
+    "nounSingularWebcam": "Webcam",
+    "modeCountryGenreH2Radio": "{countryName} estações de rádio por gênero",
+    "modeCountryGenreH2Webcams": "{countryName} webcams por categoria",
+    "faqHostA": "Não, FreeTV Garden não hospeda, carrega ou armazena nenhum arquivo de vídeo. Ele se conecta a transmissões disponíveis publicamente para que você possa assisti-las diretamente dos próprios servidores da emissora.",
+    "countryFaqOfficialA": "Não, FreeTV Garden é um diretório independente com links para streams disponíveis publicamente. Não é afiliado, endossado ou operado por nenhuma emissora listada nesta página.",
+    "faqOfficialAnswer": "Não, FreeTV Garden é um diretório independente com links para streams disponíveis publicamente. Não é afiliado, endossado ou operado por {channelName}."
   }
 }

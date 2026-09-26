@@ -216,8 +216,6 @@
     "modeCountryIntroWithCountWebcams": "FreeTV Garden 目前列出了 {count} 实时 {countryName} 网络摄像头，包括 {names} — 无需额外软件即可在浏览器中立即播放。",
     "modeCountryIntroNoCountRadio": "FreeTV Garden 上的 {countryName} 广播电台是从免费公共目录中实时获取的，无需额外软件即可在浏览器中立即播放。 随着直播的上线和下线，确切的阵容每天都会发生变化。",
     "modeCountryIntroNoCountWebcams": "FreeTV Garden 上的 {countryName} 网络摄像头是从免费的公共目录中实时提取的，无需额外的软件即可在浏览器中立即播放。 随着直播的上线和下线，确切的阵容每天都会发生变化。",
-    "modeCountryGenreH2Radio": "{label} 的 {countryName} 广播电台",
-    "modeCountryGenreH2Webcams": "{countryName} 网络摄像头，作者：{label}",
     "wantAnotherCountryH2Radio": "想要其他国家的广播电台吗？",
     "wantAnotherCountryH2Webcams": "想要来自其他国家/地区的网络摄像头吗？",
     "modeCountryFaqFreeQRadio": "在 FreeTV Garden 上收听 {countryName} 广播电台是免费的吗？",
@@ -261,7 +259,6 @@
     "linkFullLanguageList": "完整的语言列表",
     "wantCountryH2": "想要来自特定国家/地区的频道吗？",
     "faqHostQ": "FreeTV Garden 是否托管或上传视频流？",
-    "faqHostA": "不会。FreeTV Garden 不托管、上传或存储任何视频文件。 它链接到公开可用的流，因此您可以直接从广播公司自己的服务器观看它们。",
     "faqCountNoneA": "计数随着流的上线和离线而变化 - 打开上面的工具即可查看当前正在直播的内容。",
     "faqCountFromCountriesA": "目前大约有来自 {countries} 个国家/地区的 {count} 直播频道。",
     "countryBreadcrumbTV": "{countryName} 直播电视",
@@ -294,7 +291,6 @@
     "countryFaqPhoneQ": "我可以在手机上观看 {countryName} 新闻频道直播吗？",
     "countryFaqPhoneA": "是的 - 该播放器可以在任何手机浏览器上运行，无需下载应用程序。 只需打开此页面，点击新闻频道，然后使用全屏即可获得最佳视图。",
     "countryFaqOfficialQ": "这是 {countryName} 广播公司的官方网站吗？",
-    "countryFaqOfficialA": "不会。FreeTV Garden 是一个链接到公开可用流的独立目录。 它不隶属于本页列出的任何广播公司、不受其认可或运营。",
     "genreIntroOne": "FreeTV Garden 目前列出了来自世界各地的 {count} 直播 {genreName} 频道，包括 {names} — 从公共 iptv-org 频道目录中实时提取，无需额外软件即可在浏览器中立即播放。",
     "genreIntroMany": "FreeTV Garden 目前列出了来自世界各地的 {count} 直播 {genreName} 频道，包括 {names} — 从公共 iptv-org 频道目录中直播，无需额外软件即可在浏览器中立即播放。",
     "genreIntroEmpty": "FreeTV Garden 上的 {genreName} 频道是从公共 iptv-org 频道目录中实时提取的，无需额外软件即可在浏览器中立即播放。 随着流的上线和离线，确切的频道列表每天都会发生变化。",
@@ -329,7 +325,6 @@
     "faqFreeAnswer": "是的。 FreeTV Garden 聚合公开可用的流。 无需订阅、帐户或应用程序。",
     "faqOfficialQuestionRadio": "这是 {channelName} 的官方电台吗？",
     "faqOfficialQuestionWebcam": "这是 {channelName} 的官方网络摄像头吗？",
-    "faqOfficialAnswer": "不。 FreeTV Garden 是链接到公开可用流的独立目录。 它不隶属于、不由其认可或由其运营 {channelName}.",
     "wantMoreLinkText": "直播电视频道",
     "wantMoreTemplate": "想要更多吗？ 浏览 FreeTV Garden 上的所有 {link} 。",
     "satStationTitle": "收听 {stationName} 直播 — 卫星广播 | FreeTV Garden",
@@ -414,6 +409,11 @@
     "hubHowToHeadingWebcam": "如何在您的设备上观看",
     "hubHowToBody": "不需要应用程序或帐户。 此页面可直接在任何设备上的浏览器中运行 - 只需点击 {nounSingular} 并按播放即可。 在 Android 或 iPhone 上，在 Chrome 或 Safari 中打开此页面，然后使用“添加到主屏幕”以便下次一键访问。 在桌面上，任何现代浏览器都可以使用。",
     "nounSingularRadio": "广播电台",
-    "nounSingularWebcam": "摄像头"
+    "nounSingularWebcam": "摄像头",
+    "modeCountryGenreH2Radio": "{countryName} 按流派划分的广播电台",
+    "modeCountryGenreH2Webcams": "{countryName} 网络摄像头（按类别）",
+    "faqHostA": "不，FreeTV Garden 不托管、上传或存储任何视频文件。 它链接到公开可用的流，因此您可以直接从广播公司自己的服务器观看它们。",
+    "countryFaqOfficialA": "不，FreeTV Garden 是链接到公开可用流的独立目录。 它不隶属于本页列出的任何广播公司、不受其认可或运营。",
+    "faqOfficialAnswer": "不， FreeTV Garden 是链接到公开可用流的独立目录。 它不隶属于、不由其认可或由其运营 {channelName}."
   }
 }

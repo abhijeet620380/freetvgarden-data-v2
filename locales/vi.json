@@ -216,8 +216,6 @@
     "modeCountryIntroWithCountWebcams": "FreeTV Garden hiện liệt kê {count} webcam {countryName} trực tiếp, bao gồm {names} — có thể phát ngay trong trình duyệt của bạn mà không cần phần mềm bổ sung.",
     "modeCountryIntroNoCountRadio": "{countryName} đài phát thanh trên FreeTV Garden được lấy trực tiếp từ thư mục công cộng miễn phí và có thể phát ngay trong trình duyệt của bạn mà không cần phần mềm bổ sung. Đội hình chính xác thay đổi hàng ngày khi các luồng phát trực tiếp và ngoại tuyến.",
     "modeCountryIntroNoCountWebcams": "{countryName} webcam trên FreeTV Garden được lấy trực tiếp từ thư mục công cộng miễn phí và có thể phát ngay trong trình duyệt của bạn mà không cần phần mềm bổ sung. Đội hình chính xác thay đổi hàng ngày khi các luồng phát trực tiếp và ngoại tuyến.",
-    "modeCountryGenreH2Radio": "{countryName} đài phát thanh của {label}",
-    "modeCountryGenreH2Webcams": "{countryName} webcam của {label}",
     "wantAnotherCountryH2Radio": "Muốn có đài phát thanh từ một quốc gia khác?",
     "wantAnotherCountryH2Webcams": "Muốn có webcam từ một quốc gia khác?",
     "modeCountryFaqFreeQRadio": "Nghe đài phát thanh {countryName} trên FreeTV Garden có miễn phí không?",
@@ -261,7 +259,6 @@
     "linkFullLanguageList": "danh sách ngôn ngữ đầy đủ",
     "wantCountryH2": "Thay vào đó, bạn muốn có các kênh từ một quốc gia cụ thể?",
     "faqHostQ": "FreeTV Garden có lưu trữ hoặc tải luồng video lên không?",
-    "faqHostA": "Không. FreeTV Garden không lưu trữ, tải lên hoặc lưu trữ bất kỳ tệp video nào. Nó liên kết đến các luồng có sẵn công khai để bạn có thể xem chúng trực tiếp từ máy chủ của đài truyền hình.",
     "faqCountNoneA": "Số lượng thay đổi khi các luồng phát trực tiếp và ngoại tuyến — hãy mở công cụ ở trên để xem nội dung nào đang phát trực tiếp.",
     "faqCountFromCountriesA": "Hiện có khoảng {count} kênh trực tiếp từ {countries} quốc gia.",
     "countryBreadcrumbTV": "{countryName} Truyền hình trực tiếp",
@@ -294,7 +291,6 @@
     "countryFaqPhoneQ": "Tôi có thể xem trực tiếp các kênh tin tức {countryName} trên điện thoại của mình không?",
     "countryFaqPhoneA": "Có — trình phát hoạt động trên mọi trình duyệt điện thoại mà không cần tải xuống ứng dụng. Chỉ cần mở trang này, nhấn vào kênh tin tức và sử dụng chế độ toàn màn hình để có chế độ xem tốt nhất.",
     "countryFaqOfficialQ": "Đây có phải là trang web chính thức của bất kỳ đài truyền hình {countryName} nào không?",
-    "countryFaqOfficialA": "Số FreeTV Garden là một thư mục độc lập liên kết với các luồng có sẵn công khai. Nó không được liên kết, xác nhận hoặc vận hành bởi bất kỳ đài truyền hình nào được liệt kê trên trang này.",
     "genreIntroOne": "FreeTV Garden hiện liệt kê kênh {count} trực tiếp {genreName} từ khắp nơi trên thế giới, bao gồm {names} — được lấy trực tiếp từ thư mục kênh iptv-org công khai và có thể phát ngay trong trình duyệt của bạn mà không cần phần mềm bổ sung.",
     "genreIntroMany": "FreeTV Garden hiện liệt kê các kênh {count} trực tiếp {genreName} từ khắp nơi trên thế giới, bao gồm {names} — được lấy trực tiếp từ thư mục kênh iptv-org công khai và có thể phát ngay trong trình duyệt của bạn mà không cần phần mềm bổ sung.",
     "genreIntroEmpty": "Các kênh {genreName} trên FreeTV Garden được lấy trực tiếp từ thư mục kênh iptv-org công khai và có thể phát ngay trong trình duyệt của bạn mà không cần phần mềm bổ sung. Danh sách kênh chính xác thay đổi hàng ngày khi các luồng phát trực tuyến và ngoại tuyến.",
@@ -329,7 +325,6 @@
     "faqFreeAnswer": "Đúng. FreeTV Garden tổng hợp các luồng có sẵn công khai. Không cần đăng ký, tài khoản hoặc ứng dụng.",
     "faqOfficialQuestionRadio": "Đây có phải là đài chính thức của {channelName} không?",
     "faqOfficialQuestionWebcam": "Đây có phải là webcam chính thức của {channelName} không?",
-    "faqOfficialAnswer": "Số FreeTV Garden là một thư mục độc lập liên kết với các luồng có sẵn công khai. Nó không được liên kết, xác nhận hoặc vận hành bởi {channelName}.",
     "wantMoreLinkText": "các kênh truyền hình trực tiếp",
     "wantMoreTemplate": "Muốn nhiều hơn nữa? Duyệt qua tất cả {link} trên FreeTV Garden .",
     "satStationTitle": "Nghe {stationName} Trực tiếp — Đài phát thanh vệ tinh | FreeTV Garden",
@@ -414,6 +409,11 @@
     "hubHowToHeadingWebcam": "Cách xem trên thiết bị của bạn",
     "hubHowToBody": "Không cần ứng dụng hoặc tài khoản. Trang này hoạt động trực tiếp trong trình duyệt của bạn trên mọi thiết bị — chỉ cần nhấn vào {nounSingular} và nhấn play. Trên Android hoặc iPhone, hãy mở trang này trong Chrome hoặc Safari và sử dụng \"Thêm vào màn hình chính\" để truy cập bằng một lần nhấn vào lần tiếp theo. Trên máy tính để bàn, mọi trình duyệt hiện đại đều hoạt động.",
     "nounSingularRadio": "đài phát thanh",
-    "nounSingularWebcam": "webcam"
+    "nounSingularWebcam": "webcam",
+    "modeCountryGenreH2Radio": "{countryName} đài phát thanh theo thể loại",
+    "modeCountryGenreH2Webcams": "{countryName} webcam theo danh mục",
+    "faqHostA": "Không, FreeTV Garden không lưu trữ, tải lên hoặc lưu trữ bất kỳ tệp video nào. Nó liên kết đến các luồng có sẵn công khai để bạn có thể xem chúng trực tiếp từ máy chủ của đài truyền hình.",
+    "countryFaqOfficialA": "Không, FreeTV Garden là một thư mục độc lập liên kết với các luồng có sẵn công khai. Nó không được liên kết, xác nhận hoặc vận hành bởi bất kỳ đài truyền hình nào được liệt kê trên trang này.",
+    "faqOfficialAnswer": "Không, FreeTV Garden là một thư mục độc lập liên kết với các luồng có sẵn công khai. Nó không được liên kết, xác nhận hoặc vận hành bởi {channelName}."
   }
 }

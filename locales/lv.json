@@ -216,8 +216,6 @@
     "modeCountryIntroWithCountWebcams": "FreeTV Garden pašlaik uzskaita {count} tiešraides {countryName} tīmekļa kameras, tostarp {names} — tās var uzreiz atskaņot jūsu pārlūkprogrammā bez papildu programmatūras.",
     "modeCountryIntroNoCountRadio": "{countryName} radiostacijas vietnē FreeTV Garden tiek izvilktas tiešraidē no bezmaksas publiskā direktorija, un tās var uzreiz atskaņot jūsu pārlūkprogrammā bez papildu programmatūras. Precīzs sastāvs mainās katru dienu, straumējot un bezsaistē.",
     "modeCountryIntroNoCountWebcams": "{countryName} tīmekļa kameras vietnē FreeTV Garden tiek izvilktas tiešraidē no bezmaksas publiskā direktorija un tās var uzreiz atskaņot jūsu pārlūkprogrammā bez papildu programmatūras. Precīzs sastāvs mainās katru dienu, straumējot un bezsaistē.",
-    "modeCountryGenreH2Radio": "{countryName} radiostacijas no {label}",
-    "modeCountryGenreH2Webcams": "{countryName} tīmekļa kameras no {label}",
     "wantAnotherCountryH2Radio": "Vai vēlaties radiostacijas no citas valsts?",
     "wantAnotherCountryH2Webcams": "Vai vēlaties tīmekļa kameras no citas valsts?",
     "modeCountryFaqFreeQRadio": "Vai {countryName} radiostaciju klausīšanās pakalpojumā FreeTV Garden ir bez maksas?",
@@ -261,7 +259,6 @@
     "linkFullLanguageList": "pilns valodu saraksts",
     "wantCountryH2": "Vai vēlaties kanālus no konkrētas valsts?",
     "faqHostQ": "Vai FreeTV Garden mitina vai augšupielādē video straumes?",
-    "faqHostA": "Nē. FreeTV Garden neveic, neaugšupielādē un neuzglabā video failus. Tas veido saites uz publiski pieejamām straumēm, lai jūs varētu tās skatīties tieši no paša raidorganizācijas serveriem.",
     "faqCountNoneA": "Skaits mainās, straumējot un bezsaistē — atveriet iepriekš esošo rīku, lai redzētu, kas pašlaik notiek tiešraidē.",
     "faqCountFromCountriesA": "Pašlaik aptuveni {count} tiešraides kanāli no {countries} valstīm.",
     "countryBreadcrumbTV": "{countryName} TV tiešraide",
@@ -294,7 +291,6 @@
     "countryFaqPhoneQ": "Vai es varu skatīties {countryName} ziņu kanālus tiešraidē savā tālrunī?",
     "countryFaqPhoneA": "Jā — atskaņotājs darbojas jebkurā tālruņa pārlūkprogrammā bez lietotņu lejupielādes. Vienkārši atveriet šo lapu, pieskarieties ziņu kanālam un izmantojiet pilnekrāna režīmu, lai iegūtu vislabāko skatu.",
     "countryFaqOfficialQ": "Vai šī ir kāda {countryName} raidorganizācijas oficiālā vietne?",
-    "countryFaqOfficialA": "Nr. FreeTV Garden ir neatkarīgs direktorijs, kas veido saites uz publiski pieejamām straumēm. Tas nav saistīts ar nevienu šajā lapā norādīto raidorganizāciju, to neatbalsta un nepārvalda.",
     "genreIntroOne": "FreeTV Garden pašlaik ir {count} tiešraides {genreName} kanāls no visas pasaules, tostarp {names} — tiešraidē iegūts no publiskā iptv-org kanālu kataloga un ir uzreiz atskaņojams jūsu pārlūkprogrammā bez papildu programmatūras.",
     "genreIntroMany": "FreeTV Garden pašlaik ir uzskaitīti {count} tiešraides {genreName} kanāli no visas pasaules, tostarp {names} — tiešraidē iegūti no publiskā iptv-org kanālu kataloga un ir uzreiz atskaņojami jūsu pārlūkprogrammā bez papildu programmatūras.",
     "genreIntroEmpty": "{genreName} kanāli vietnē FreeTV Garden tiek izvilkti tiešraidē no publiskā iptv-org kanālu kataloga un tiek atskaņoti uzreiz jūsu pārlūkprogrammā bez papildu programmatūras. Precīzs kanālu saraksts katru dienu mainās, straumējot un bezsaistē.",
@@ -329,7 +325,6 @@
     "faqFreeAnswer": "Jā. FreeTV Garden apkopo publiski pieejamās straumes. Nav nepieciešams abonements, konts vai lietotne.",
     "faqOfficialQuestionRadio": "Vai šī ir oficiālā stacija {channelName}?",
     "faqOfficialQuestionWebcam": "Vai šī ir oficiālā tīmekļa kamera {channelName}?",
-    "faqOfficialAnswer": "Nr. FreeTV Garden ir neatkarīgs direktorijs, kas veido saites uz publiski pieejamām straumēm. Tas nav saistīts ar {channelName}, to neapstiprina un nepārvalda.",
     "wantMoreLinkText": "televīzijas tiešraides",
     "wantMoreTemplate": "Vai vēlaties vairāk? Pārlūkot visus {link} vietnē FreeTV Garden.",
     "satStationTitle": "Klausieties {stationName} tiešraidi — satelīta radio | FreeTV Garden",
@@ -414,6 +409,11 @@
     "hubHowToHeadingWebcam": "Kā skatīties savā ierīcē",
     "hubHowToBody": "Nav nepieciešama lietotne vai konts. Šī lapa darbojas tieši jūsu pārlūkprogrammā jebkurā ierīcē — vienkārši pieskarieties {nounSingular} un nospiediet atskaņot. Android vai iPhone ierīcē atveriet šo lapu pārlūkprogrammā Chrome vai Safari un izmantojiet opciju Pievienot sākuma ekrānam, lai nākamreiz piekļūtu ar vienu pieskārienu. Darbvirsmā darbojas jebkura moderna pārlūkprogramma.",
     "nounSingularRadio": "radiostacija",
-    "nounSingularWebcam": "tīmekļa kamera"
+    "nounSingularWebcam": "tīmekļa kamera",
+    "modeCountryGenreH2Radio": "{countryName} radiostacijas pēc žanra",
+    "modeCountryGenreH2Webcams": "{countryName} tīmekļa kameras pēc kategorijas",
+    "faqHostA": "Nē, FreeTV Garden neveic, neaugšupielādē un neuzglabā video failus. Tas veido saites uz publiski pieejamām straumēm, lai jūs varētu tās skatīties tieši no paša raidorganizācijas serveriem.",
+    "countryFaqOfficialA": "Nē, FreeTV Garden ir neatkarīgs direktorijs, kas veido saites uz publiski pieejamām straumēm. Tas nav saistīts ar nevienu šajā lapā norādīto raidorganizāciju, to neatbalsta un nepārvalda.",
+    "faqOfficialAnswer": "Nē, FreeTV Garden ir neatkarīgs direktorijs, kas veido saites uz publiski pieejamām straumēm. Tas nav saistīts ar {channelName}, to neapstiprina un nepārvalda."
   }
 }

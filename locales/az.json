@@ -216,8 +216,6 @@
     "modeCountryIntroWithCountWebcams": "FreeTV Garden hazırda {count} canlı {countryName} veb-kameraları siyahıya alır, o cümlədən {names} — heç bir əlavə proqram təminatı olmadan brauzerinizdə dərhal oynatmaq olar.",
     "modeCountryIntroNoCountRadio": "FreeTV Garden üzərindəki {countryName} radio stansiyaları pulsuz ictimai kataloqdan canlı olaraq götürülür və heç bir əlavə proqram təminatı olmadan dərhal brauzerinizdə oxuna bilər. Axınlar davam etdikcə və oflayn olduqca dəqiq sıra gündən-günə dəyişir.",
     "modeCountryIntroNoCountWebcams": "{countryName} FreeTV Garden üzərindəki veb-kameralar pulsuz ictimai kataloqdan canlı olaraq çıxarılır və heç bir əlavə proqram təminatı olmadan dərhal brauzerinizdə oynatılır. Axınlar davam etdikcə və oflayn olduqca dəqiq sıra gündən-günə dəyişir.",
-    "modeCountryGenreH2Radio": "{countryName} radio stansiyaları {label} tərəfindən",
-    "modeCountryGenreH2Webcams": "{countryName} veb-kameraları {label} tərəfindən",
     "wantAnotherCountryH2Radio": "Başqa ölkədən radio stansiyaları istəyirsiniz?",
     "wantAnotherCountryH2Webcams": "Başqa ölkədən veb kameralar istəyirsiniz?",
     "modeCountryFaqFreeQRadio": "FreeTV Garden-də {countryName} radio stansiyalarına qulaq asmaq pulsuzdur?",
@@ -261,7 +259,6 @@
     "linkFullLanguageList": "tam dil siyahısı",
     "wantCountryH2": "Bunun əvəzinə müəyyən bir ölkədən kanallar istəyirsiniz?",
     "faqHostQ": "FreeTV Garden video axınlarına ev sahibliyi edir və ya yükləyir?",
-    "faqHostA": "№ FreeTV Garden heç bir video faylı saxlamır, yükləmir və saxlamır. O, ictimaiyyətə açıq olan axınlara keçid verir ki, siz onları birbaşa yayımçının öz serverlərindən izləyə biləsiniz.",
     "faqCountNoneA": "Yayımlar davam etdikcə və oflayn olanda say dəyişir — hazırda nəyin canlı olduğunu görmək üçün yuxarıdakı aləti açın.",
     "faqCountFromCountriesA": "Hazırda {countries} ölkədən təxminən {count} canlı kanal.",
     "countryBreadcrumbTV": "{countryName} Canlı TV",
@@ -294,7 +291,6 @@
     "countryFaqPhoneQ": "{countryName} xəbər kanallarını telefonumda canlı izləyə bilərəmmi?",
     "countryFaqPhoneA": "Bəli — pleyer proqram yükləmədən istənilən telefon brauzerində işləyir. Sadəcə bu səhifəni açın, xəbər kanalına toxunun və ən yaxşı görüntü üçün tam ekrandan istifadə edin.",
     "countryFaqOfficialQ": "Bu, hər hansı {countryName} yayımçısının rəsmi saytıdır?",
-    "countryFaqOfficialA": "Nömrə FreeTV Garden hamı üçün əlçatan olan axınları birləşdirən müstəqil kataloqdur. Bu səhifədə sadalanan heç bir yayımçı ilə əlaqəli deyil, təsdiqlənmir və ya onun tərəfindən idarə olunmur.",
     "genreIntroOne": "FreeTV Garden hazırda {count} canlı {genreName} kanalını siyahıya alır, o cümlədən {names} — ictimai iptv-org kanal kataloqundan canlı olaraq çəkilmiş və heç bir əlavə proqram təminatı olmadan brauzerinizdə dərhal oxuna bilər.",
     "genreIntroMany": "FreeTV Garden hazırda dünyanın hər yerindən {count} canlı {genreName} kanalları siyahıya alır, o cümlədən {names} — ictimai iptv-org kanal kataloqundan canlı olaraq çəkilmiş və heç bir əlavə proqram təminatı olmadan dərhal brauzerinizdə oynatmaq olar.",
     "genreIntroEmpty": "FreeTV Garden üzərindəki {genreName} kanallar ictimai iptv-org kanal kataloqundan canlı olaraq çıxarılır və heç bir əlavə proqram təminatı olmadan brauzerinizdə dərhal oxuna bilər. Dəqiq kanal siyahısı axınlar açıq və oflayn olduqda gündən-günə dəyişir.",
@@ -329,7 +325,6 @@
     "faqFreeAnswer": "Bəli. FreeTV Garden hamı üçün əlçatan olan axınları birləşdirir. Abunə, hesab və ya proqram tələb olunmur.",
     "faqOfficialQuestionRadio": "Bu {channelName} üçün rəsmi stansiyadır?",
     "faqOfficialQuestionWebcam": "Bu {channelName} üçün rəsmi veb-kameradır?",
-    "faqOfficialAnswer": "Nömrə FreeTV Garden hamı üçün əlçatan olan axınları birləşdirən müstəqil kataloqdur. {channelName} ilə əlaqəli deyil, təsdiqlənmir və ya idarə etmir.",
     "wantMoreLinkText": "canlı televiziya kanalları",
     "wantMoreTemplate": "Daha çox istəyirsiniz? FreeTV Garden üzərindəki bütün {link}-a nəzər salın.",
     "satStationTitle": "{stationName} Canlıya qulaq asın — Peyk Radio | FreeTV Garden",
@@ -414,6 +409,11 @@
     "hubHowToHeadingWebcam": "Cihazınızda necə izləmək olar",
     "hubHowToBody": "Heç bir proqrama və ya hesaba ehtiyac yoxdur. Bu səhifə istənilən cihazda birbaşa brauzerinizdə işləyir — sadəcə olaraq {nounSingular} üzərinə toxunun və oynat düyməsini basın. Android və ya iPhone-da bu səhifəni Chrome və ya Safari-də açın və növbəti dəfə bir kliklə daxil olmaq üçün \"Əsas ekrana əlavə et\" seçimindən istifadə edin. Masaüstündə istənilən müasir brauzer işləyir.",
     "nounSingularRadio": "radio stansiyası",
-    "nounSingularWebcam": "veb-kamera"
+    "nounSingularWebcam": "veb-kamera",
+    "modeCountryGenreH2Radio": "Janr üzrə {countryName} radio stansiyaları",
+    "modeCountryGenreH2Webcams": "Kateqoriyaya görə {countryName} veb-kameralar",
+    "faqHostA": "Xeyr, FreeTV Garden heç bir video faylı saxlamır, yükləmir və saxlamır. O, ictimaiyyətə açıq olan axınlara keçid verir ki, siz onları birbaşa yayımçının öz serverlərindən izləyə biləsiniz.",
+    "countryFaqOfficialA": "Xeyr, FreeTV Garden hamı üçün əlçatan olan axınları birləşdirən müstəqil kataloqdur. Bu səhifədə sadalanan heç bir yayımçı ilə əlaqəli deyil, təsdiqlənmir və ya onun tərəfindən idarə olunmur.",
+    "faqOfficialAnswer": "Xeyr, FreeTV Garden hamı üçün əlçatan olan axınları birləşdirən müstəqil kataloqdur. {channelName} ilə əlaqəli deyil, təsdiqlənmir və ya idarə etmir."
   }
 }

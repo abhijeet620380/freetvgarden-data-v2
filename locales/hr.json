@@ -216,8 +216,6 @@
     "modeCountryIntroWithCountWebcams": "FreeTV Garden trenutno navodi {count} live {countryName} web kamera, uključujući {names} — koje se mogu odmah reproducirati u vašem pregledniku bez dodatnog softvera.",
     "modeCountryIntroNoCountRadio": "{countryName} radijske postaje na FreeTV Garden preuzimaju se uživo iz besplatnog javnog imenika i mogu se odmah reproducirati u vašem pregledniku bez dodatnog softvera. Točna postava se mijenja iz dana u dan kako streamovi traju i offline.",
     "modeCountryIntroNoCountWebcams": "Web kamere {countryName} na FreeTV Garden preuzimaju se uživo iz besplatnog javnog imenika i mogu se odmah reproducirati u vašem pregledniku bez dodatnog softvera. Točna postava se mijenja iz dana u dan kako streamovi traju i offline.",
-    "modeCountryGenreH2Radio": "{countryName} radio postaja od {label}",
-    "modeCountryGenreH2Webcams": "{countryName} web kamere od {label}",
     "wantAnotherCountryH2Radio": "Želite radio postaje iz druge zemlje?",
     "wantAnotherCountryH2Webcams": "Želite web kamere iz druge zemlje?",
     "modeCountryFaqFreeQRadio": "Je li slušanje {countryName} radio postaja na FreeTV Garden besplatno?",
@@ -261,7 +259,6 @@
     "linkFullLanguageList": "potpuni popis jezika",
     "wantCountryH2": "Umjesto toga želite kanale iz određene zemlje?",
     "faqHostQ": "Hostuje li FreeTV Garden ili prenosi video streamove?",
-    "faqHostA": "Ne. FreeTV Garden ne ugošćuje, ne postavlja niti pohranjuje videodatoteke. Povezuje se na javno dostupne streamove tako da ih možete gledati izravno s vlastitih poslužitelja emitera.",
     "faqCountNoneA": "Broj se mijenja kako streamovi traju i izvan mreže — otvorite gornji alat da biste vidjeli što je trenutno uživo.",
     "faqCountFromCountriesA": "Trenutačno oko {count} kanala uživo iz {countries} zemalja.",
     "countryBreadcrumbTV": "{countryName} TV uživo",
@@ -294,7 +291,6 @@
     "countryFaqPhoneQ": "Mogu li gledati kanale vijesti {countryName} uživo na svom telefonu?",
     "countryFaqPhoneA": "Da — player radi na bilo kojem pregledniku telefona bez preuzimanja aplikacije. Samo otvorite ovu stranicu, dodirnite kanal s vijestima i koristite cijeli zaslon za najbolji prikaz.",
     "countryFaqOfficialQ": "Je li ovo službena web stranica bilo kojeg {countryName} emitera?",
-    "countryFaqOfficialA": "Br. FreeTV Garden je neovisni direktorij koji povezuje javno dostupne streamove. Nije povezan ni s jednim emiterom navedenim na ovoj stranici, niti ga podržava niti njime upravlja.",
     "genreIntroOne": "FreeTV Garden trenutno navodi {count} kanal uživo {genreName} iz cijelog svijeta, uključujući {names} — izvučen uživo iz javnog direktorija kanala iptv-org i trenutno se može reproducirati u vašem pregledniku bez dodatnog softvera.",
     "genreIntroMany": "FreeTV Garden trenutno navodi {count} uživo {genreName} kanala iz cijelog svijeta, uključujući {names} — izvučenih uživo iz javnog direktorija kanala iptv-org i trenutno ih je moguće reproducirati u vašem pregledniku bez dodatnog softvera.",
     "genreIntroEmpty": "{genreName} kanali na FreeTV Garden preuzeti su uživo iz javnog direktorija kanala iptv-org i mogu se odmah reproducirati u vašem pregledniku bez dodatnog softvera. Točan popis kanala mijenja se iz dana u dan kako streamovi traju i izvan mreže.",
@@ -329,7 +325,6 @@
     "faqFreeAnswer": "Da. FreeTV Garden prikuplja javno dostupne streamove. Nije potrebna pretplata, račun ili aplikacija.",
     "faqOfficialQuestionRadio": "Je li ovo službena postaja za {channelName}?",
     "faqOfficialQuestionWebcam": "Je li ovo službena web kamera za {channelName}?",
-    "faqOfficialAnswer": "Br. FreeTV Garden je neovisni direktorij koji povezuje javno dostupne streamove. Nije povezan s {channelName}, nije ga odobrio niti njime upravlja.",
     "wantMoreLinkText": "TV kanali uživo",
     "wantMoreTemplate": "Želite više? Pregledajte sve {link} na FreeTV Garden.",
     "satStationTitle": "Slušajte {stationName} uživo — Satelitski radio | FreeTV Garden",
@@ -414,6 +409,11 @@
     "hubHowToHeadingWebcam": "Kako gledati na svom uređaju",
     "hubHowToBody": "Nije potrebna aplikacija ili račun. Ova stranica radi izravno u vašem pregledniku na bilo kojem uređaju — samo dodirnite {nounSingular} i pritisnite play. Na Androidu ili iPhoneu otvorite ovu stranicu u pregledniku Chrome ili Safari i sljedeći put upotrijebite \"Dodaj na početni zaslon\" za pristup jednim dodirom. Na stolnom računalu radi svaki moderni preglednik.",
     "nounSingularRadio": "radio stanica",
-    "nounSingularWebcam": "web kamera"
+    "nounSingularWebcam": "web kamera",
+    "modeCountryGenreH2Radio": "{countryName} radio postaja po žanru",
+    "modeCountryGenreH2Webcams": "{countryName} web kamera po kategoriji",
+    "faqHostA": "Ne, FreeTV Garden ne ugošćuje, ne postavlja niti pohranjuje video datoteke. Povezuje se na javno dostupne streamove tako da ih možete gledati izravno s vlastitih poslužitelja emitera.",
+    "countryFaqOfficialA": "Ne, FreeTV Garden je neovisni imenik koji povezuje javno dostupne streamove. Nije povezan ni s jednim emiterom navedenim na ovoj stranici, niti ga podržava niti njime upravlja.",
+    "faqOfficialAnswer": "Ne, FreeTV Garden je neovisni imenik koji povezuje javno dostupne streamove. Nije povezan s {channelName}, nije ga odobrio niti njime upravlja."
   }
 }

@@ -216,8 +216,6 @@
     "modeCountryIntroWithCountWebcams": "FreeTV Garden lys tans {count} regstreekse {countryName} webkameras, insluitend {names} — speelbaar onmiddellik in jou blaaier sonder ekstra sagteware.",
     "modeCountryIntroNoCountRadio": "{countryName} radiostasies op FreeTV Garden word regstreeks uit 'n gratis publieke gids getrek en kan onmiddellik in jou blaaier gespeel word sonder enige ekstra sagteware. Die presiese reeks verander van dag tot dag soos strome aan en vanlyn gaan.",
     "modeCountryIntroNoCountWebcams": "{countryName} webkameras op FreeTV Garden word regstreeks uit 'n gratis publieke gids getrek en onmiddellik in jou blaaier speelbaar sonder ekstra sagteware. Die presiese reeks verander van dag tot dag soos strome aan en vanlyn gaan.",
-    "modeCountryGenreH2Radio": "{countryName} radiostasies deur {label}",
-    "modeCountryGenreH2Webcams": "{countryName} webkamera's deur {label}",
     "wantAnotherCountryH2Radio": "Wil jy radiostasies van 'n ander land hê?",
     "wantAnotherCountryH2Webcams": "Wil jy webkamera's van 'n ander land hê?",
     "modeCountryFaqFreeQRadio": "Is dit gratis om na {countryName} radiostasies op FreeTV Garden te luister?",
@@ -261,7 +259,6 @@
     "linkFullLanguageList": "volledige taallys",
     "wantCountryH2": "Wil jy eerder kanale van 'n spesifieke land hê?",
     "faqHostQ": "Gasheer of laai FreeTV Garden die videostrome op?",
-    "faqHostA": "Nee. FreeTV Garden huisves, laai of stoor geen videolêers nie. Dit skakel na publieke beskikbare strome sodat jy dit direk vanaf die uitsaaier se eie bedieners kan kyk.",
     "faqCountNoneA": "Die telling verander soos strome aan en vanlyn gaan – maak die nutsding hierbo oop om te sien wat tans regstreeks is.",
     "faqCountFromCountriesA": "Tans ongeveer {count} regstreekse kanale van {countries} lande.",
     "countryBreadcrumbTV": "{countryName} Regstreekse TV",
@@ -294,7 +291,6 @@
     "countryFaqPhoneQ": "Kan ek {countryName} nuuskanale regstreeks op my foon kyk?",
     "countryFaqPhoneA": "Ja – die speler werk op enige foonblaaier sonder om toepassing af te laai. Maak net hierdie bladsy oop, tik 'n nuuskanaal en gebruik volskerm vir die beste uitsig.",
     "countryFaqOfficialQ": "Is dit die amptelike webwerf van enige {countryName} uitsaaier?",
-    "countryFaqOfficialA": "Nee. FreeTV Garden is 'n onafhanklike gids wat na publieke beskikbare strome skakel. Dit word nie geaffilieer met, onderskryf deur of bedryf deur enige uitsaaier wat op hierdie bladsy gelys word nie.",
     "genreIntroOne": "FreeTV Garden lys tans {count} regstreekse {genreName} kanaal van regoor die wêreld, insluitend {names} — regstreeks getrek uit die publieke iptv-org kanaalgids en onmiddellik speelbaar in jou blaaier sonder ekstra sagteware.",
     "genreIntroMany": "FreeTV Garden lys tans {count} regstreekse {genreName} kanale van regoor die wêreld, insluitend {names} — regstreeks getrek uit die publieke iptv-org kanaalgids en onmiddellik speelbaar in jou blaaier sonder ekstra sagteware.",
     "genreIntroEmpty": "{genreName}-kanale op FreeTV Garden word regstreeks uit die publieke iptv-org-kanaalgids getrek en kan onmiddellik in jou blaaier gespeel word sonder ekstra sagteware. Die presiese kanaallys verander van dag tot dag soos strome aan en vanlyn gaan.",
@@ -329,7 +325,6 @@
     "faqFreeAnswer": "Ja. FreeTV Garden versamel publiek beskikbare strome. Daar is geen intekening, rekening of toepassing nodig nie.",
     "faqOfficialQuestionRadio": "Is dit die amptelike stasie vir {channelName}?",
     "faqOfficialQuestionWebcam": "Is dit die amptelike webkamera vir {channelName}?",
-    "faqOfficialAnswer": "Nee. FreeTV Garden is 'n onafhanklike gids wat na publieke beskikbare strome skakel. Dit word nie geaffilieer met, onderskryf deur of bedryf deur {channelName} nie.",
     "wantMoreLinkText": "regstreekse TV-kanale",
     "wantMoreTemplate": "Wil jy meer hê? Blaai deur alle {link} op FreeTV Garden .",
     "satStationTitle": "Luister na {stationName} Regstreeks — Satellietradio | FreeTV Garden",
@@ -414,6 +409,11 @@
     "hubHowToHeadingWebcam": "Hoe om op jou toestel te kyk",
     "hubHowToBody": "Geen toepassing of rekening word benodig nie. Hierdie bladsy werk direk in jou blaaier op enige toestel - tik net 'n {nounSingular} en druk speel. Op Android of iPhone, maak hierdie bladsy in Chrome of Safari oop en gebruik \"Voeg by tuisskerm\" vir een-tik-toegang volgende keer. Op 'n rekenaar werk enige moderne blaaier.",
     "nounSingularRadio": "radiostasie",
-    "nounSingularWebcam": "webcam"
+    "nounSingularWebcam": "webcam",
+    "modeCountryGenreH2Radio": "{countryName} radiostasies volgens genre",
+    "modeCountryGenreH2Webcams": "{countryName} webkameras volgens kategorie",
+    "faqHostA": "Nee, FreeTV Garden huisves, laai of stoor geen videolêers nie. Dit skakel na publieke beskikbare strome sodat jy dit direk vanaf die uitsaaier se eie bedieners kan kyk.",
+    "countryFaqOfficialA": "Nee, FreeTV Garden is 'n onafhanklike gids wat na publieke beskikbare strome skakel. Dit word nie geaffilieer met, onderskryf deur of bedryf deur enige uitsaaier wat op hierdie bladsy gelys word nie.",
+    "faqOfficialAnswer": "Nee, FreeTV Garden is 'n onafhanklike gids wat na publieke beskikbare strome skakel. Dit word nie geaffilieer met, onderskryf deur of bedryf deur {channelName} nie."
   }
 }

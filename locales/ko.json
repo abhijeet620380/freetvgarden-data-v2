@@ -216,8 +216,6 @@
     "modeCountryIntroWithCountWebcams": "FreeTV Garden에는 현재 {names}을 포함한 {count} 라이브 {countryName} 웹캠이 나열되어 있으며 추가 소프트웨어 없이 브라우저에서 즉시 재생할 수 있습니다.",
     "modeCountryIntroNoCountRadio": "FreeTV Garden의 {countryName} 라디오 방송국은 무료 공개 디렉토리에서 실시간으로 가져오며 추가 소프트웨어 없이 브라우저에서 즉시 재생할 수 있습니다. 정확한 라인업은 스트림이 온라인과 오프라인으로 진행됨에 따라 매일 변경됩니다.",
     "modeCountryIntroNoCountWebcams": "FreeTV Garden의 {countryName} 웹캠은 무료 공개 디렉터리에서 실시간으로 가져오며 추가 소프트웨어 없이 브라우저에서 즉시 재생할 수 있습니다. 정확한 라인업은 스트림이 온라인과 오프라인으로 진행됨에 따라 매일 변경됩니다.",
-    "modeCountryGenreH2Radio": "{label}의 {countryName} 라디오 방송국",
-    "modeCountryGenreH2Webcams": "{label}의 {countryName} 웹캠",
     "wantAnotherCountryH2Radio": "다른 나라의 라디오 방송국을 원하시나요?",
     "wantAnotherCountryH2Webcams": "다른 나라의 웹캠을 원하시나요?",
     "modeCountryFaqFreeQRadio": "FreeTV Garden의 {countryName} 라디오 방송국을 무료로 청취할 수 있나요?",
@@ -261,7 +259,6 @@
     "linkFullLanguageList": "전체 언어 목록",
     "wantCountryH2": "대신 특정 국가의 채널을 원하시나요?",
     "faqHostQ": "FreeTV Garden에서 비디오 스트림을 호스팅하거나 업로드합니까?",
-    "faqHostA": "아니요. FreeTV Garden은(는) 어떤 비디오 파일도 호스팅, 업로드 또는 저장하지 않습니다. 공개적으로 사용 가능한 스트림에 연결되므로 방송사의 자체 서버에서 직접 시청할 수 있습니다.",
     "faqCountNoneA": "스트림이 온라인 및 오프라인으로 진행됨에 따라 개수가 변경됩니다. 위의 도구를 열어 현재 실시간 스트리밍되는 내용을 확인하세요.",
     "faqCountFromCountriesA": "현재 {countries}개 국가의 약 {count}개 실시간 채널이 있습니다.",
     "countryBreadcrumbTV": "{countryName} 실시간 TV",
@@ -294,7 +291,6 @@
     "countryFaqPhoneQ": "내 휴대전화에서 {countryName} 뉴스 채널을 실시간으로 시청할 수 있나요?",
     "countryFaqPhoneA": "예. 플레이어는 앱을 다운로드하지 않고도 모든 휴대폰 브라우저에서 작동합니다. 이 페이지를 열고 뉴스 채널을 탭한 다음 전체 화면을 사용하면 최상의 화면을 볼 수 있습니다.",
     "countryFaqOfficialQ": "여기가 {countryName} 방송사의 공식 웹사이트인가요?",
-    "countryFaqOfficialA": "아니요. FreeTV Garden은 공개적으로 사용 가능한 스트림에 연결되는 독립 디렉터리입니다. 이 페이지에 나열된 방송사와 제휴, 승인 또는 운영되지 않습니다.",
     "genreIntroOne": "FreeTV Garden에는 현재 공개 iptv-org 채널 디렉토리에서 라이브로 가져와 추가 소프트웨어 없이 브라우저에서 즉시 재생할 수 있는 {names}을 포함하여 전 세계의 {count} 라이브 {genreName} 채널이 나열되어 있습니다.",
     "genreIntroMany": "FreeTV Garden에는 현재 공개 iptv-org 채널 디렉토리에서 라이브로 가져와 추가 소프트웨어 없이 브라우저에서 즉시 재생할 수 있는 {names}을 포함하여 전 세계의 {count} 라이브 {genreName} 채널이 나열되어 있습니다.",
     "genreIntroEmpty": "FreeTV Garden의 {genreName} 채널은 공개 iptv-org 채널 디렉터리에서 실시간으로 가져오며 추가 소프트웨어 없이 브라우저에서 즉시 재생할 수 있습니다. 정확한 채널 목록은 스트림이 온라인 및 오프라인으로 진행됨에 따라 매일 변경됩니다.",
@@ -329,7 +325,6 @@
     "faqFreeAnswer": "예. FreeTV Garden은 공개적으로 사용 가능한 스트림을 집계합니다. 구독, 계정 또는 앱이 필요하지 않습니다.",
     "faqOfficialQuestionRadio": "여기가 {channelName}의 공식 방송국인가요?",
     "faqOfficialQuestionWebcam": "이것이 {channelName}의 공식 웹캠인가요?",
-    "faqOfficialAnswer": "아니요. FreeTV Garden은 공개적으로 사용 가능한 스트림에 연결되는 독립 디렉터리입니다. {channelName}과 제휴, 승인 또는 운영되지 않습니다.",
     "wantMoreLinkText": "라이브 TV 채널",
     "wantMoreTemplate": "더 원하시나요? FreeTV Garden에서 모든 {link}을 찾아보세요.",
     "satStationTitle": "{stationName} 라이브 듣기 — 위성 라디오 | FreeTV Garden",
@@ -414,6 +409,11 @@
     "hubHowToHeadingWebcam": "기기에서 시청하는 방법",
     "hubHowToBody": "앱이나 계정이 필요하지 않습니다. 이 페이지는 모든 기기의 브라우저에서 직접 작동합니다. {nounSingular}을 탭하고 재생을 누르기만 하면 됩니다. Android 또는 iPhone의 경우 Chrome 또는 Safari에서 이 페이지를 열고 다음에 한 번 탭하여 액세스하려면 '홈 화면에 추가'를 사용하세요. 데스크톱에서는 모든 최신 브라우저가 작동합니다.",
     "nounSingularRadio": "라디오 방송국",
-    "nounSingularWebcam": "웹캠"
+    "nounSingularWebcam": "웹캠",
+    "modeCountryGenreH2Radio": "{countryName} 장르별 라디오 방송국",
+    "modeCountryGenreH2Webcams": "{countryName} 카테고리별 웹캠",
+    "faqHostA": "아니요, FreeTV Garden은(는) 어떤 비디오 파일도 호스팅, 업로드 또는 저장하지 않습니다. 공개적으로 사용 가능한 스트림에 연결되므로 방송사의 자체 서버에서 직접 시청할 수 있습니다.",
+    "countryFaqOfficialA": "아니요, FreeTV Garden은 공개적으로 사용 가능한 스트림에 연결되는 독립 디렉터리입니다. 이 페이지에 나열된 방송사와 제휴, 승인 또는 운영되지 않습니다.",
+    "faqOfficialAnswer": "아니요, FreeTV Garden은 공개적으로 사용 가능한 스트림에 연결되는 독립 디렉터리입니다. {channelName}과 제휴, 승인 또는 운영되지 않습니다."
   }
 }

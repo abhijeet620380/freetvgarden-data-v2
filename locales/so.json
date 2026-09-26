@@ -216,8 +216,6 @@
     "modeCountryIntroWithCountWebcams": "FreeTV Garden hadda waxa ay taxdaa {count} toos {countryName} webcams, oo ay ku jiraan {names} - isla markaaba lagu ciyaari karo browserkaaga iyada oo aan lahayn software dheeraad ah.",
     "modeCountryIntroNoCountRadio": "{countryName} idaacadaha ku yaal FreeTV Garden waxaa si toos ah looga soo saaray buug-tusaha dadweynaha oo bilaash ah waxaana isla markiiba lagu ciyaari karaa browserkaaga iyada oo aan lahayn software dheeraad ah. Safka saxda ah ayaa maalinba maalinta ka danbeysa isbedesha marka ay durduryadu socdaan iyo offline",
     "modeCountryIntroNoCountWebcams": "{countryName} kamaradaha webka ee FreeTV Garden waxaa si toos ah looga soo jiidayaa buug-tusaha dadweynaha oo bilaash ah waxaana isla markiiba lagu ciyaari karaa browserkaaga iyada oo aan lahayn software dheeraad ah. Safka saxda ah ayaa maalinba maalinta ka danbeysa isbedesha marka ay durduryadu socdaan iyo offline",
-    "modeCountryGenreH2Radio": "{countryName} idaacadaha {label}",
-    "modeCountryGenreH2Webcams": "{countryName} kaamerooyinka shabakada {label}",
     "wantAnotherCountryH2Radio": "Ma doonaysaa idaacadaha waddan kale?",
     "wantAnotherCountryH2Webcams": "Ma rabtaa webcams ka yimid waddan kale?",
     "modeCountryFaqFreeQRadio": "Dhageysiga {countryName} idaacadaha FreeTV Garden bilaash ma yahay?",
@@ -261,7 +259,6 @@
     "linkFullLanguageList": "liiska luqadda buuxa",
     "wantCountryH2": "Ma doonaysaa kanaalada waddan gaar ah beddelkeeda?",
     "faqHostQ": "FreeTV Garden ma martigeliyaa ama ma soo shubaa qulqulka fiidyaha?",
-    "faqHostA": "Maya FreeTV Garden ma martigeliyo, soo geliyo ama ma kaydiyo wax faylal muuqaal ah. Waxay ku xidhaa durdurrada si guud loo heli karo si aad si toos ah uga daawan karto adeegaha baahinta.",
     "faqCountNoneA": "Tiradu way isbedeshaa marka ay durduryadu socdaan iyo offline-ka fur qalabka kore si aad u aragto waxa hadda nool.",
     "faqCountFromCountriesA": "Hadda ku dhawaad ​​{count} kanaalada tooska ah ee wadamada {countries}",
     "countryBreadcrumbTV": "{countryName} TV toos ah",
@@ -294,7 +291,6 @@
     "countryFaqPhoneQ": "Ma ka daawan karaa {countryName} kanaalada wararka si toos ah taleefankayga?",
     "countryFaqPhoneA": "Haa - ciyaartoygu wuxuu ku shaqeeyaa biraawsarkaaga taleefan kasta oo aan la soo degin app. Kaliya fur boggan, taabo kanaalka wararka, oo isticmaal shaashad buuxda si aad u aragto sida ugu fiican.",
     "countryFaqOfficialQ": "Kani ma degelka rasmiga ah ee {countryName} baahinta?",
-    "countryFaqOfficialA": "Maya FreeTV Garden waa hage madax banaan oo ku xidha durdurrada dadweynaha ee la heli karo. Ma xidhna, taageerayo, mana ka hawlgalo baahinta boggan ku qoran.",
     "genreIntroOne": "FreeTV Garden hadda waxay liis garaysaa {count} toos {genreName} kanaalka aduunka oo dhan, oo uu ku jiro {names} - laga soo jiiday tusaha kanaalka dadweynaha iptv-org oo isla markaaba lagu ciyaari karo browserkaaga iyada oo aan lahayn software dheeraad ah.",
     "genreIntroMany": "FreeTV Garden hadda waxay taxdaa {count} toos {genreName} kanaalada aduunka oo dhan, oo ay ku jiraan {names} - laga soo qaatay tusaha kanaalka dadweynaha iptv-org oo isla markaaba lagu ciyaari karo browserkaaga iyada oo aan lahayn software dheeraad ah.",
     "genreIntroEmpty": "{genreName} kanaalada FreeTV Garden si toos ah ayaa looga soo jiidayaa tusaha kanaalka dadweynaha iptv-org waxaana lagu ciyaari karaa isla markiiba browserkaaga iyada oo aan lahayn software dheeraad ah. Liistada saxda ah ee kanaalka ayaa isbedesha maalinba maalinta ka dambaysa marka ay durduryadu socdaan iyo offline",
@@ -329,7 +325,6 @@
     "faqFreeAnswer": "Haa FreeTV Garden wuxuu isu geeyaa durdurrada dadweynaha ee la heli karo Ma jiro isdiiwaangelin, xisaab ama app loo baahan yahay.",
     "faqOfficialQuestionRadio": "Kani ma saldhiga rasmiga ah ee {channelName} ?",
     "faqOfficialQuestionWebcam": "Kani ma kamaradda rasmiga ah ee {channelName} ?",
-    "faqOfficialAnswer": "Maya FreeTV Garden waa hage madax banaan oo ku xidha durdurrada dadweynaha ee la heli karo. Ma xidhna, lagu taageeray, mana ka hawlgalo {channelName}.",
     "wantMoreLinkText": "kanaalada TV-ga tooska ah",
     "wantMoreTemplate": "Wax badan ma rabtaa? Ka baadh dhammaan {link} FreeTV Garden .",
     "satStationTitle": "Dhageyso {stationName} Toos ah — Raadiyaha Satellite | FreeTV Garden",
@@ -414,6 +409,11 @@
     "hubHowToHeadingWebcam": "Sida loo daawado qalabkaaga",
     "hubHowToBody": "Looma baahna app ama xisaab Boggani wuxuu si toos ah ugu shaqeeyaa browserkaga qalab kasta - kaliya taabo {nounSingular} oo taabo ciyaarta. Android ama iPhone, ku fur boggan Chrome ama Safari oo isticmaal \"Kudar Shaashada Guriga\" si aad hal taabo u gasho marka xigta. On desktop, browser kasta oo casri ah ayaa shaqeeya.",
     "nounSingularRadio": "idaacada",
-    "nounSingularWebcam": "webcam"
+    "nounSingularWebcam": "webcam",
+    "modeCountryGenreH2Radio": "{countryName} idaacadaha nooc ahaan",
+    "modeCountryGenreH2Webcams": "{countryName} webcams qayb ahaan",
+    "faqHostA": "Maya, FreeTV Garden ma martigeliyo, soo geliyo ama ma kaydiyo wax faylal muuqaal ah. Waxay ku xidhaa durdurrada si guud loo heli karo si aad si toos ah uga daawan karto adeegaha baahinta.",
+    "countryFaqOfficialA": "Maya, FreeTV Garden waa hage madax banaan oo ku xidha durdurrada dadweynaha ee la heli karo. Ma xidhna, taageerayo, mana ka hawlgalo baahinta boggan ku qoran.",
+    "faqOfficialAnswer": "Maya, FreeTV Garden waa hage madax banaan oo ku xidha durdurrada dadweynaha ee la heli karo. Ma xidhna, lagu taageeray, mana ka hawlgalo {channelName}."
   }
 }

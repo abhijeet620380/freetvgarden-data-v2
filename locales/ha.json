@@ -216,8 +216,6 @@
     "modeCountryIntroWithCountWebcams": "FreeTV Garden a halin yanzu yana lissafin {count} kai tsaye {countryName} kyamarorin gidan yanar gizo, gami da {names} - ana iya kunnawa nan take a cikin burauzar ku ba tare da ƙarin software ba.",
     "modeCountryIntroNoCountRadio": "{countryName} tashoshin rediyo akan FreeTV Garden ana jansu kai tsaye daga kundin adireshi na jama'a kyauta kuma ana iya kunna su nan take a cikin burauzarka ba tare da ƙarin software ba. Madaidaicin jeri yana canzawa kowace rana yayin da rafukan ke gudana da kuma layi.",
     "modeCountryIntroNoCountWebcams": "{countryName} kyamarorin yanar gizo akan FreeTV Garden ana ciro su kai tsaye daga kundin adireshi na jama'a kyauta kuma ana iya kunna su nan take a mazuruftan ku ba tare da ƙarin software ba. Madaidaicin jeri yana canzawa kowace rana yayin da rafukan ke gudana da kuma layi.",
-    "modeCountryGenreH2Radio": "{countryName} tashoshin rediyo na {label}",
-    "modeCountryGenreH2Webcams": "{countryName} kyamarori na {label}",
     "wantAnotherCountryH2Radio": "Kuna son gidajen rediyo daga wata ƙasa?",
     "wantAnotherCountryH2Webcams": "Kuna son kyamaran gidan yanar gizo daga wata ƙasa?",
     "modeCountryFaqFreeQRadio": "Shin sauraron {countryName} tashoshin rediyo akan FreeTV Garden kyauta ne?",
@@ -261,7 +259,6 @@
     "linkFullLanguageList": "cikakken jerin harshe",
     "wantCountryH2": "Kuna son tashoshi daga takamaiman ƙasa maimakon?",
     "faqHostQ": "Shin FreeTV Garden yana ɗaukar nauyin ko loda rafukan bidiyo?",
-    "faqHostA": "A'a. FreeTV Garden baya ɗaukar nauyi, loda ko adana kowane fayilolin bidiyo. Yana haɗi zuwa rafukan da ake samu a bainar jama'a don ku iya kallon su kai tsaye daga sabar masu watsa shirye-shirye.",
     "faqCountNoneA": "Ƙididdigar tana canzawa yayin da rafuka ke ci gaba da yin layi - buɗe kayan aikin da ke sama don ganin abin da ke raye a yanzu.",
     "faqCountFromCountriesA": "A halin yanzu kusan {count} tashoshi kai tsaye daga kasashe {countries}.",
     "countryBreadcrumbTV": "{countryName} TV kai tsaye",
@@ -294,7 +291,6 @@
     "countryFaqPhoneQ": "Zan iya kallon tashoshin labarai {countryName} kai tsaye akan waya ta?",
     "countryFaqPhoneA": "Ee - mai kunnawa yana aiki akan kowane mai binciken waya ba tare da saukar da app ba. Kawai buɗe wannan shafin, matsa tashar labarai, kuma amfani da cikakken allo don mafi kyawun gani.",
     "countryFaqOfficialQ": "Wannan shine babban gidan yanar gizon kowane mai watsa shirye-shiryen {countryName}?",
-    "countryFaqOfficialA": "A'a. FreeTV Garden kundin adireshi ne mai zaman kansa wanda ke haɗe da rafukan da ake samu na jama'a. Ba shi da alaƙa da, amincewa da shi, ko sarrafa shi ta kowane mai watsa shirye-shirye da aka jera a wannan shafin.",
     "genreIntroOne": "FreeTV Garden a halin yanzu yana lissafin tashar {count} kai tsaye {genreName} daga ko'ina cikin duniya, gami da {names} - wanda aka ciro kai tsaye daga tarihin tashar tashoshi iptv-org na jama'a kuma ana iya kunnawa nan take a cikin burauzar ku ba tare da ƙarin software ba.",
     "genreIntroMany": "FreeTV Garden a halin yanzu yana lissafin {count} kai tsaye {genreName} tashoshi daga ko'ina cikin duniya, gami da {names} - wanda aka ciro kai tsaye daga tarihin tashar tashoshi iptv-org na jama'a kuma ana iya kunnawa nan take a cikin burauzar ku ba tare da ƙarin software ba.",
     "genreIntroEmpty": "Ana ciro tashoshi {genreName} akan FreeTV Garden kai tsaye daga jama'a iptv-org directory na tashar kuma ana iya kunnawa nan take a cikin burauzar ku ba tare da ƙarin software ba. Madaidaicin jerin tashoshi yana canzawa kowace rana yayin da rafukan ke gudana da kuma layi.",
@@ -329,7 +325,6 @@
     "faqFreeAnswer": "Ee. FreeTV Garden yana tattara rafukan da ake samu a bainar jama'a. Babu biyan kuɗi, asusu ko app da ake buƙata.",
     "faqOfficialQuestionRadio": "Wannan shine babban tashar ta {channelName}?",
     "faqOfficialQuestionWebcam": "Wannan shine babban kyamarar gidan yanar gizon {channelName}?",
-    "faqOfficialAnswer": "A'a. FreeTV Garden kundin adireshi ne mai zaman kansa wanda ke haɗe da rafukan da ake samu na jama'a. Ba shi da alaƙa da, amincewa da shi, ko sarrafa shi ta {channelName} .",
     "wantMoreLinkText": "tashoshin TV kai tsaye",
     "wantMoreTemplate": "Kuna son ƙarin? Nemo duk {link} akan FreeTV Garden .",
     "satStationTitle": "Saurari {stationName} Kai tsaye — Tauraron Dan Adam Radio | FreeTV Garden",
@@ -414,6 +409,11 @@
     "hubHowToHeadingWebcam": "Yadda ake kallo akan na'urar ku",
     "hubHowToBody": "Babu app ko asusu da ake bukata. Wannan shafin yana aiki kai tsaye a cikin burauzar ku akan kowace na'ura - kawai danna {nounSingular} sannan danna kunna. A kan Android ko iPhone, buɗe wannan shafin a cikin Chrome ko Safari kuma yi amfani da \"Ƙara zuwa Fuskar allo\" don samun dama ta taɓawa lokaci na gaba. A kan tebur, kowane mai bincike na zamani yana aiki.",
     "nounSingularRadio": "gidan rediyo",
-    "nounSingularWebcam": "kyamarar gidan yanar gizo"
+    "nounSingularWebcam": "kyamarar gidan yanar gizo",
+    "modeCountryGenreH2Radio": "{countryName} tashoshin rediyo ta nau'in",
+    "modeCountryGenreH2Webcams": "{countryName} kyamarar gidan yanar gizo ta nau'i",
+    "faqHostA": "A'a, FreeTV Garden baya ɗaukar nauyi, loda ko adana kowane fayilolin bidiyo. Yana haɗi zuwa rafukan da ake samu a bainar jama'a don ku iya kallon su kai tsaye daga sabar masu watsa shirye-shirye.",
+    "countryFaqOfficialA": "A'a, FreeTV Garden kundin adireshi ne mai zaman kansa wanda ke haɗe da rafukan da ake samu na jama'a. Ba shi da alaƙa da, amincewa da shi, ko sarrafa shi ta kowane mai watsa shirye-shirye da aka jera a wannan shafin.",
+    "faqOfficialAnswer": "A'a, FreeTV Garden kundin adireshi ne mai zaman kansa wanda ke haɗe da rafukan da ake samu na jama'a. Ba shi da alaƙa da, amincewa da shi, ko sarrafa shi ta {channelName} ."
   }
 }

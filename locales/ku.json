@@ -216,8 +216,6 @@
     "modeCountryIntroWithCountWebcams": "FreeTV Garden niha {count} webkamerên {countryName} yên zindî navnîş dike, di nav de {names} - bêyî nermalava zêde di geroka we de tavilê tê lîstin.",
     "modeCountryIntroNoCountRadio": "{countryName} stasyonên radyoyê yên li ser FreeTV Garden bi zindî ji pelrêçek giştî ya belaş têne derxistin û bêyî nermalava zêde di geroka we de tavilê têne lîstin. Rêzeya tam roj bi roj diguhere her ku weşan diçin û negirêdayî dibin.",
     "modeCountryIntroNoCountWebcams": "Webkamerên {countryName} li ser FreeTV Garden bi zindî ji pelrêçek giştî ya belaş têne derxistin û bêyî nermalava zêde di geroka we de tavilê têne lîstin. Rêzeya tam roj bi roj diguhere her ku weşan diçin û negirêdayî dibin.",
-    "modeCountryGenreH2Radio": "{countryName} stasyonên radyoyê ji hêla {label} ve",
-    "modeCountryGenreH2Webcams": "{countryName} webkamera ji hêla {label}",
     "wantAnotherCountryH2Radio": "Radyoyên ji welatekî din dixwazin?",
     "wantAnotherCountryH2Webcams": "Malperên ji welatekî din dixwazin?",
     "modeCountryFaqFreeQRadio": "Ma guhdarîkirina {countryName} stasyonên radyoyê yên li ser FreeTV Garden belaş e?",
@@ -261,7 +259,6 @@
     "linkFullLanguageList": "lîsteya zimanê temam",
     "wantCountryH2": "Li şûna wê kanalên ji welatek taybetî dixwazin?",
     "faqHostQ": "FreeTV Garden weşanên vîdyoyê mêvandar dike an bar dike?",
-    "faqHostA": "Na FreeTV Garden tu pelên vîdyoyê mêvandar nake, bar dike an hilîne. Ew bi weşanên berdest ên gelemperî ve girêdide da ku hûn wan rasterast ji serverên weşangerê xwe temaşe bikin.",
     "faqCountNoneA": "Dema ku weşan bidomin û negirêdayî bin jimar diguhere - Amûra li jor vekin da ku hûn bibînin ka niha çi zindî ye.",
     "faqCountFromCountriesA": "Niha li dora {count} kanalên zindî ji {countries} welatan.",
     "countryBreadcrumbTV": "{countryName} TV Zindî",
@@ -294,7 +291,6 @@
     "countryFaqPhoneQ": "Ez dikarim li ser têlefona xwe kanalên {countryName} nûçeyên zindî temaşe bikim?",
     "countryFaqPhoneA": "Erê - lîstikvan li ser geroka têlefonê bêyî dakêşana serîlêdanê dixebite. Tenê vê rûpelê vekin, kanalek nûçeyan bikirtînin, û ji bo dîtina çêtirîn bi tevahî ekran bikar bînin.",
     "countryFaqOfficialQ": "Ma ev malpera fermî ya her {countryName} weşanê ye?",
-    "countryFaqOfficialA": "No. FreeTV Garden pelrêçek serbixwe ye ku bi herikên berdest ên gelemperî ve girêdide. Ew ne girêdayî ye, ne ji hêla weşangerek ku li ser vê rûpelê hatî navnîş kirin ve hatî pejirandin, an jî tê xebitandin.",
     "genreIntroOne": "FreeTV Garden niha kanala {count} {genreName} ya zindî ji çaraliyê cîhanê navnîş dike, di nav de {names} - ji pelrêça kanala iptv-org ya giştî hatî kişandin û bêyî nermalava zêde di geroka we de tavilê tê lîstin.",
     "genreIntroMany": "FreeTV Garden naha kanalên {count} {genreName} yên zindî ji çar aliyên cîhanê navnîş dike, di nav de {names} - ji pelrêça kanala iptv-org ya giştî hatî kişandin û bêyî nermalava zêde di geroka we de tavilê tê lîstin.",
     "genreIntroEmpty": "Kanalên {genreName} li ser FreeTV Garden bi zindî ji pelrêça kanala iptv-org ya giştî têne kişandin û bêyî nermalava zêde di geroka we de tavilê têne lîstin. Lîsteya rastîn a kanalê roj bi roj diguhere her ku weşan diçin û negirêdayî ne.",
@@ -329,7 +325,6 @@
     "faqFreeAnswer": "Erê. FreeTV Garden weşanên berdest ên gelemperî berhev dike. Abonetî, hesab an serîlêdanek hewce nake.",
     "faqOfficialQuestionRadio": "Ma ev qereqola fermî ya {channelName} ye?",
     "faqOfficialQuestionWebcam": "Ma ev webkamera fermî ya {channelName} ye?",
-    "faqOfficialAnswer": "No. FreeTV Garden pelrêçek serbixwe ye ku bi herikên berdest ên gelemperî ve girêdide. Ew ne girêdayî ye, ji hêla {channelName} ve nayê pejirandin, an jî tê xebitandin.",
     "wantMoreLinkText": "kanalên TV zindî",
     "wantMoreTemplate": "Zêdetir dixwazin? Hemî {link} li ser FreeTV Garden bigerin.",
     "satStationTitle": "Guh bidin {stationName} Zindî — Radyoya Satelîtê | FreeTV Garden",
@@ -414,6 +409,11 @@
     "hubHowToHeadingWebcam": "Meriv çawa li ser cîhaza xwe temaşe dike",
     "hubHowToBody": "Tu sepan an hesab ne hewce ye. Ev rûpel rasterast di geroka we de li ser her amûrekê dixebite - tenê {nounSingular} bikirtînin û lîstikê bikirtînin. Li ser Android an iPhone-ê, vê rûpelê di Chrome an Safari de vekin û ji bo gihandina yek-tepek carek din \"Li Screen Home lê zêde bike\" bikar bînin. Li ser sermaseyê, gerokek nûjen dixebite.",
     "nounSingularRadio": "stasyona radyoyê",
-    "nounSingularWebcam": "webcam"
+    "nounSingularWebcam": "webcam",
+    "modeCountryGenreH2Radio": "{countryName} stasyonên radyoyê li gorî celebê",
+    "modeCountryGenreH2Webcams": "{countryName} webkamera li gorî kategoriyê",
+    "faqHostA": "Na, FreeTV Garden tu pelên vîdyoyê mêvandar nake, bar dike an hilîne. Ew bi weşanên berdest ên gelemperî ve girêdide da ku hûn wan rasterast ji serverên weşangerê xwe temaşe bikin.",
+    "countryFaqOfficialA": "Na, FreeTV Garden pelrêçek serbixwe ye ku bi herikên gelemperî ve girêdayî ye. Ew ne girêdayî ye, ne ji hêla weşangerek ku li ser vê rûpelê hatî navnîş kirin ve hatî pejirandin, an jî tê xebitandin.",
+    "faqOfficialAnswer": "Na, FreeTV Garden pelrêçek serbixwe ye ku bi herikên gelemperî ve girêdayî ye. Ew ne girêdayî ye, ji hêla {channelName} ve nayê pejirandin, an jî tê xebitandin."
   }
 }

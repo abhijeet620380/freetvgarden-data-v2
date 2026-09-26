@@ -216,8 +216,6 @@
     "modeCountryIntroWithCountWebcams": "FreeTV Garden šiuo metu pateikia {count} tiesiogines {countryName} žiniatinklio kameras, įskaitant {names} – galima iš karto žaisti naršyklėje be papildomos programinės įrangos.",
     "modeCountryIntroNoCountRadio": "{countryName} radijo stotys FreeTV Garden yra paimtos tiesiogiai iš nemokamo viešojo katalogo ir iš karto jas galima leisti naršyklėje be papildomos programinės įrangos. Tiksli sudėtis keičiasi kiekvieną dieną, kai srautai vyksta ir neprisijungus.",
     "modeCountryIntroNoCountWebcams": "{countryName} žiniatinklio kameros, esančios FreeTV Garden, paimamos tiesiogiai iš nemokamo viešojo katalogo ir jas galima iš karto leisti naršyklėje be papildomos programinės įrangos. Tiksli sudėtis keičiasi kiekvieną dieną, kai srautai vyksta ir neprisijungus.",
-    "modeCountryGenreH2Radio": "{countryName} radijo stotys pagal {label}",
-    "modeCountryGenreH2Webcams": "{countryName} interneto kameros, kurias sukūrė {label}",
     "wantAnotherCountryH2Radio": "Norite radijo stočių iš kitos šalies?",
     "wantAnotherCountryH2Webcams": "Norite internetinių kamerų iš kitos šalies?",
     "modeCountryFaqFreeQRadio": "Ar {countryName} radijo stočių klausymasis per FreeTV Garden nemokamas?",
@@ -261,7 +259,6 @@
     "linkFullLanguageList": "visas kalbų sąrašas",
     "wantCountryH2": "Norite kanalų iš konkrečios šalies?",
     "faqHostQ": "Ar FreeTV Garden priglobia arba įkelia vaizdo įrašų srautus?",
-    "faqHostA": "Ne. FreeTV Garden nepriglobia, neįkelia ir nesaugo jokių vaizdo failų. Jis susieja su viešai prieinamais srautais, kad galėtumėte juos žiūrėti tiesiai iš paties transliuotojo serverių.",
     "faqCountNoneA": "Skaičius keičiasi, kai srautai vyksta ir neprisijungus – atidarykite aukščiau esantį įrankį, kad pamatytumėte, kas šiuo metu vyksta tiesiogiai.",
     "faqCountFromCountriesA": "Šiuo metu apie {count} tiesioginių kanalų iš {countries} šalių.",
     "countryBreadcrumbTV": "{countryName} Tiesioginė TV",
@@ -294,7 +291,6 @@
     "countryFaqPhoneQ": "Ar galiu žiūrėti {countryName} naujienų kanalus tiesiogiai savo telefone?",
     "countryFaqPhoneA": "Taip – ​​grotuvas veikia bet kurioje telefono naršyklėje, neatsisiunčiant programos. Tiesiog atidarykite šį puslapį, bakstelėkite naujienų kanalą ir naudokite viso ekrano vaizdą, kad vaizdas būtų geriausias.",
     "countryFaqOfficialQ": "Ar tai oficiali bet kurio {countryName} transliuotojo svetainė?",
-    "countryFaqOfficialA": "Nr. FreeTV Garden yra nepriklausomas katalogas, nukreipiantis į viešai pasiekiamus srautus. Jis nėra susijęs su jokiu šiame puslapyje išvardytu transliuotoju, jo nepatvirtina ir jo nevaldo.",
     "genreIntroOne": "FreeTV Garden šiuo metu pateikia {count} tiesioginį {genreName} kanalą iš viso pasaulio, įskaitant {names} – paimtas tiesiogiai iš viešo iptv-org kanalų katalogo ir kurį galima iš karto leisti naršyklėje be papildomos programinės įrangos.",
     "genreIntroMany": "FreeTV Garden šiuo metu pateikia {count} tiesioginių {genreName} kanalų iš viso pasaulio, įskaitant {names} – tiesiogiai paimtą iš viešojo iptv-org kanalų katalogo ir akimirksniu paleidžiama naršyklėje be papildomos programinės įrangos.",
     "genreIntroEmpty": "{genreName} kanalai, esantys FreeTV Garden, paimami tiesiogiai iš viešojo iptv-org kanalų katalogo ir iš karto leidžiami naršyklėje be papildomos programinės įrangos. Tikslus kanalų sąrašas keičiasi kiekvieną dieną, kai srautai vyksta ir neprisijungus.",
@@ -329,7 +325,6 @@
     "faqFreeAnswer": "Taip. FreeTV Garden kaupia viešai pasiekiamus srautus. Nereikia prenumeratos, paskyros ar programos.",
     "faqOfficialQuestionRadio": "Ar tai oficiali {channelName} stotis?",
     "faqOfficialQuestionWebcam": "Ar tai oficiali {channelName} internetinė kamera?",
-    "faqOfficialAnswer": "Nr. FreeTV Garden yra nepriklausomas katalogas, nukreipiantis į viešai pasiekiamus srautus. Jis nėra susijęs su {channelName}, jo nepatvirtina ir nevaldomas.",
     "wantMoreLinkText": "tiesioginiai televizijos kanalai",
     "wantMoreTemplate": "Nori daugiau? Naršyti visus {link}, esančius FreeTV Garden.",
     "satStationTitle": "Klausytis {stationName} Tiesiogiai — palydovinis radijas | FreeTV Garden",
@@ -414,6 +409,11 @@
     "hubHowToHeadingWebcam": "Kaip žiūrėti įrenginyje",
     "hubHowToBody": "Nereikia jokios programos ar paskyros. Šis puslapis veikia tiesiogiai jūsų naršyklėje bet kuriame įrenginyje – tiesiog palieskite {nounSingular} ir paspauskite paleisti. Jei naudojate „Android“ arba „iPhone“, atidarykite šį puslapį naršyklėje „Chrome“ arba „Safari“ ir naudokite „Pridėti prie pagrindinio ekrano“, kad kitą kartą pasiektumėte vienu palietimu. Staliniame kompiuteryje veikia bet kuri moderni naršyklė.",
     "nounSingularRadio": "radijo stotis",
-    "nounSingularWebcam": "internetinė kamera"
+    "nounSingularWebcam": "internetinė kamera",
+    "modeCountryGenreH2Radio": "{countryName} radijo stotys pagal žanrą",
+    "modeCountryGenreH2Webcams": "{countryName} interneto kameros pagal kategorijas",
+    "faqHostA": "Ne, FreeTV Garden nepriglobia, neįkelia ir nesaugo jokių vaizdo failų. Jis susieja su viešai prieinamais srautais, kad galėtumėte juos žiūrėti tiesiai iš paties transliuotojo serverių.",
+    "countryFaqOfficialA": "Ne, FreeTV Garden yra nepriklausomas katalogas, nukreipiantis į viešai pasiekiamus srautus. Jis nėra susijęs su jokiu šiame puslapyje išvardytu transliuotoju, jo nepatvirtina ir jo nevaldo.",
+    "faqOfficialAnswer": "Ne, FreeTV Garden yra nepriklausomas katalogas, nukreipiantis į viešai pasiekiamus srautus. Jis nėra susijęs su {channelName}, jo nepatvirtina ir nevaldomas."
   }
 }

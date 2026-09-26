@@ -216,8 +216,6 @@
     "modeCountryIntroWithCountWebcams": "FreeTV Garden kwa sasa inaorodhesha {count} moja kwa moja {countryName} kamera za wavuti, ikijumuisha {names} - inaweza kuchezwa papo hapo kwenye kivinjari chako bila programu ya ziada.",
     "modeCountryIntroNoCountRadio": "{countryName} stesheni za redio kwenye FreeTV Garden hutolewa moja kwa moja kutoka kwa saraka ya umma isiyolipishwa na inaweza kuchezwa papo hapo kwenye kivinjari chako bila programu ya ziada. Orodha kamili hubadilika siku hadi siku mitiririko inavyoendelea na nje ya mtandao.",
     "modeCountryIntroNoCountWebcams": "{countryName} kamera za wavuti kwenye FreeTV Garden hutolewa moja kwa moja kutoka saraka ya umma isiyolipishwa na inaweza kuchezwa papo hapo kwenye kivinjari chako bila programu ya ziada. Orodha kamili hubadilika siku hadi siku mitiririko inavyoendelea na nje ya mtandao.",
-    "modeCountryGenreH2Radio": "{countryName} vituo vya redio na {label}",
-    "modeCountryGenreH2Webcams": "{countryName} kamera za wavuti na {label}",
     "wantAnotherCountryH2Radio": "Je, unataka vituo vya redio kutoka nchi nyingine?",
     "wantAnotherCountryH2Webcams": "Je, unataka kamera za wavuti kutoka nchi nyingine?",
     "modeCountryFaqFreeQRadio": "Je, kusikiliza {countryName} stesheni za redio kwenye FreeTV Garden bila malipo?",
@@ -261,7 +259,6 @@
     "linkFullLanguageList": "orodha kamili ya lugha",
     "wantCountryH2": "Je, ungependa vituo kutoka nchi mahususi badala yake?",
     "faqHostQ": "Je, FreeTV Garden inapangisha au kupakia mitiririko ya video?",
-    "faqHostA": "Hapana. FreeTV Garden haipangishi, haipakii au kuhifadhi faili zozote za video. Inaunganisha kwa mitiririko inayopatikana kwa umma ili uweze kuzitazama moja kwa moja kutoka kwa seva za mtangazaji mwenyewe.",
     "faqCountNoneA": "Hesabu hubadilika mitiririko inavyoendelea na nje ya mtandao - fungua zana iliyo hapo juu ili kuona kinachoendelea sasa hivi.",
     "faqCountFromCountriesA": "Kwa sasa ni takriban vituo {count} vya moja kwa moja kutoka nchi {countries}.",
     "countryBreadcrumbTV": "{countryName} TV ya moja kwa moja",
@@ -294,7 +291,6 @@
     "countryFaqPhoneQ": "Je, ninaweza kutazama {countryName} vituo vya habari moja kwa moja kwenye simu yangu?",
     "countryFaqPhoneA": "Ndiyo - kichezaji hufanya kazi kwenye kivinjari chochote cha simu bila kupakua programu. Fungua tu ukurasa huu, gusa kituo cha habari, na utumie skrini nzima kwa mwonekano bora zaidi.",
     "countryFaqOfficialQ": "Je, hii ni tovuti rasmi ya mtangazaji {countryName} yeyote?",
-    "countryFaqOfficialA": "Hapana. FreeTV Garden ni saraka huru inayounganishwa na mitiririko inayopatikana kwa umma. Haihusiani na, kuidhinishwa na au kuendeshwa na mtangazaji yeyote aliyeorodheshwa kwenye ukurasa huu.",
     "genreIntroOne": "FreeTV Garden kwa sasa inaorodhesha {count} chaneli {genreName} moja kwa moja kutoka duniani kote, ikiwa ni pamoja na {names} - iliyotolewa moja kwa moja kutoka saraka ya vituo iptv-org ya umma na inaweza kuchezwa papo hapo kwenye kivinjari chako bila programu ya ziada.",
     "genreIntroMany": "FreeTV Garden kwa sasa inaorodhesha {count} moja kwa moja vituo {genreName} kutoka duniani kote, ikiwa ni pamoja na {names} - iliyotolewa moja kwa moja kutoka saraka ya vituo iptv-org ya umma na inaweza kuchezwa papo hapo kwenye kivinjari chako bila programu ya ziada.",
     "genreIntroEmpty": "Vituo {genreName} kwenye FreeTV Garden vinatolewa moja kwa moja kutoka saraka ya vituo iptv-org vya umma na vinaweza kuchezwa papo hapo kwenye kivinjari chako bila programu ya ziada. Orodha kamili ya vituo hubadilika siku hadi siku mitiririko inavyoendelea na nje ya mtandao.",
@@ -329,7 +325,6 @@
     "faqFreeAnswer": "Ndiyo. FreeTV Garden hujumlisha mitiririko inayopatikana kwa umma. Hakuna usajili, akaunti au programu inahitajika.",
     "faqOfficialQuestionRadio": "Je, hiki ndicho kituo rasmi cha {channelName} ?",
     "faqOfficialQuestionWebcam": "Je, hii ni kamera rasmi ya wavuti ya {channelName} ?",
-    "faqOfficialAnswer": "Hapana. FreeTV Garden ni saraka huru inayounganishwa na mitiririko inayopatikana kwa umma. Haihusiani na, kuidhinishwa na au kuendeshwa na {channelName} .",
     "wantMoreLinkText": "chaneli za TV za moja kwa moja",
     "wantMoreTemplate": "Unataka zaidi? Vinjari {link} zote kwenye FreeTV Garden .",
     "satStationTitle": "Sikiliza {stationName} Moja kwa Moja — Redio ya Satellite | FreeTV Garden",
@@ -414,6 +409,11 @@
     "hubHowToHeadingWebcam": "Jinsi ya kutazama kwenye kifaa chako",
     "hubHowToBody": "Hakuna programu au akaunti inahitajika. Ukurasa huu unafanya kazi moja kwa moja kwenye kivinjari chako kwenye kifaa chochote — gusa {nounSingular} na ubonyeze cheza. Kwenye Android au iPhone, fungua ukurasa huu katika Chrome au Safari na utumie \"Ongeza kwenye Skrini ya Nyumbani\" kwa ufikiaji wa mguso mmoja wakati ujao. Kwenye eneo-kazi, kivinjari chochote cha kisasa hufanya kazi.",
     "nounSingularRadio": "kituo cha redio",
-    "nounSingularWebcam": "webcam"
+    "nounSingularWebcam": "webcam",
+    "modeCountryGenreH2Radio": "{countryName} vituo vya redio kulingana na aina",
+    "modeCountryGenreH2Webcams": "{countryName} kamera za wavuti kulingana na kategoria",
+    "faqHostA": "Hapana, FreeTV Garden haipangishi, haipakii au kuhifadhi faili zozote za video. Inaunganisha kwa mitiririko inayopatikana kwa umma ili uweze kuzitazama moja kwa moja kutoka kwa seva za mtangazaji mwenyewe.",
+    "countryFaqOfficialA": "Hapana, FreeTV Garden ni saraka huru inayounganishwa na mitiririko inayopatikana kwa umma. Haihusiani na, kuidhinishwa na au kuendeshwa na mtangazaji yeyote aliyeorodheshwa kwenye ukurasa huu.",
+    "faqOfficialAnswer": "Hapana, FreeTV Garden ni saraka huru inayounganishwa na mitiririko inayopatikana kwa umma. Haihusiani na, kuidhinishwa na au kuendeshwa na {channelName} ."
   }
 }

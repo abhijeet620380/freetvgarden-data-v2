@@ -216,8 +216,6 @@
     "modeCountryIntroWithCountWebcams": "FreeTV Garden ngoku idwelisa {count} ngoku {countryName} iiwebcams, kuquka {names} — iyadlaleka ngoko nangoko kwibhrawuza yakho ngaphandle kwesoftware eyongezelelweyo.",
     "modeCountryIntroNoCountRadio": "{countryName} izikhululo zerediyo kwi- FreeTV Garden zitsalwa ngqo kuluhlu lwasimahla lukawonkewonke kwaye ziyadlaleka ngoko nangoko kwibhrawuza yakho ngaphandle kwesoftware eyongezelelweyo. Uluhlu oluchanekileyo lutshintsha usuku nosuku njengoko imisinga iqhubeka kwaye ngaphandle kweintanethi.",
     "modeCountryIntroNoCountWebcams": "{countryName} iiwebcams kwi- FreeTV Garden zitsalwa ngqo kuluhlu lwasimahla lukawonke-wonke kwaye ziyadlaleka ngoko nangoko kwibhrawuza yakho ngaphandle kwesoftware eyongezelelweyo. Uluhlu oluchanekileyo lutshintsha usuku nosuku njengoko imisinga iqhubeka kwaye ngaphandle kweintanethi.",
-    "modeCountryGenreH2Radio": "{countryName} izikhululo zerediyo ngo- {label}",
-    "modeCountryGenreH2Webcams": "{countryName} iiwebcams ngu {label}",
     "wantAnotherCountryH2Radio": "Ngaba ufuna izikhululo zikanomathotholo ezisuka kwelinye ilizwe?",
     "wantAnotherCountryH2Webcams": "Ngaba ufuna iiwebcams ezisuka kwelinye ilizwe?",
     "modeCountryFaqFreeQRadio": "Ngaba ukumamela {countryName} izikhululo zerediyo kwi- FreeTV Garden simahla?",
@@ -261,7 +259,6 @@
     "linkFullLanguageList": "uluhlu olupheleleyo lolwimi",
     "wantCountryH2": "Ngaba ufuna amajelo asuka kwilizwe elithile endaweni yoko?",
     "faqHostQ": "Ngaba i- FreeTV Garden ibamba okanye ikhuphele imijelo yevidiyo?",
-    "faqHostA": "Hayi. FreeTV Garden ayimkeli, ayifaki okanye igcine naziphi na iifayile zevidiyo. Iqhakamshelana nemijelo ekhoyo esidlangalaleni ukuze ukwazi ukuyibukela ngokuthe ngqo kwiiseva zosasazo.",
     "faqCountNoneA": "Ubalo luyatshintsha njengoko imisinga iqhubeka kwaye ingaphandle kweintanethi - vula isixhobo esingentla ukuze ubone ukuba yintoni ekhoyo ngoku.",
     "faqCountFromCountriesA": "Okwangoku malunga {count} amajelo aphilayo asuka {countries} kumazwe.",
     "countryBreadcrumbTV": "{countryName} Umabonakude",
@@ -294,7 +291,6 @@
     "countryFaqPhoneQ": "Ndingabukela {countryName} amajelo eendaba ngqo kwifowuni yam?",
     "countryFaqPhoneA": "Ewe - umdlali usebenza kuyo nayiphi na ibhrawuza yefowuni ngaphandle kokukhuphela usetyenziso. Vula nje eli phepha, ucofe isitishi seendaba, kwaye usebenzise isikrini esigcweleyo ngeyona mbono ilungileyo.",
     "countryFaqOfficialQ": "Ngaba le yiwebhusayithi esemthethweni yakhe nawuphi na u-{countryName} umsasazi?",
-    "countryFaqOfficialA": "Inombolo. FreeTV Garden luluhlu oluzimeleyo oludibanisa imisinga efumanekayo kuluntu. Ayidityaniswanga, ayiqinisekiswanga, okanye iqhutywe nguye nawuphi na umsasazi odweliswe kweli phepha.",
     "genreIntroOne": "FreeTV Garden ngoku idwelisa {count} ngoku {genreName} isitishi esisuka kwihlabathi jikelele, kuquka {names} — esitsalwa ngqo kuluntu iptv-org isitishi sikavimba kwaye siyadlaleka ngoko nangoko kwibhrawuza yakho kungekho software eyongezelelweyo.",
     "genreIntroMany": "FreeTV Garden ngoku idwelisa {count} ngoku {genreName} amajelo asuka kwihlabathi jikelele, kuquka {names} — aphuma kuwonke-wonke iptv-org uluhlu lwesitishi kwaye luyadlaleka ngoko nangoko kwibhrawuza yakho ngaphandle kwesoftware eyongezelelweyo.",
     "genreIntroEmpty": "{genreName} amajelo kwi- FreeTV Garden atsalwa ngqo kuluntu iptv-org ulawulo lwesitishi kwaye luyadlaleka ngoko nangoko kwi-browser yakho ngaphandle kwesoftware eyongezelelweyo. Uluhlu lwetshaneli oluchanekileyo lutshintsha imihla ngemihla njengoko usasazo luqhubeka kwaye ngaphandle kweintanethi.",
@@ -329,7 +325,6 @@
     "faqFreeAnswer": "Ewe. FreeTV Garden udityaniso lwemilambo efumaneka esidlangalaleni. Akukho mrhumo, iakhawunti okanye usetyenziso olufunekayo.",
     "faqOfficialQuestionRadio": "Ngaba esi sisikhululo esisemthethweni se- {channelName} ?",
     "faqOfficialQuestionWebcam": "Ngaba le webcam esemthethweni ye- {channelName} ?",
-    "faqOfficialAnswer": "Inombolo. FreeTV Garden luluhlu oluzimeleyo oludibanisa imisinga efumanekayo kuluntu. Ayinxulumananga, ixhaswa, okanye iqhutywe ngu- {channelName} .",
     "wantMoreLinkText": "amajelo eTV aphilayo",
     "wantMoreTemplate": "Ngaba ufuna ngakumbi? Bhrawuza zonke {link} kwi FreeTV Garden .",
     "satStationTitle": "Mamela kwimamela kum {stationName} Live — Irediyo yeSatellite | FreeTV Garden",
@@ -414,6 +409,11 @@
     "hubHowToHeadingWebcam": "Indlela yokubukela kwisixhobo sakho",
     "hubHowToBody": "Akukho app okanye akhawunti efunekayo. Eli phepha lisebenza ngqo kwisikhangeli sakho nakwesiphi na isixhobo — vele ucofe i- {nounSingular} kwaye ucinezele dlala. Kwi-Android okanye kwi-iPhone, vula eli phepha kwi-Chrome okanye kwiSafari kwaye usebenzise \"Yongeza kwiSkrini saseKhaya\" ukufikelela kwimpompo enye kwixesha elizayo. Kwi-desktop, nasiphi na isikhangeli sangoku siyasebenza.",
     "nounSingularRadio": "isikhululo sikanomathotholo",
-    "nounSingularWebcam": "iwebcam"
+    "nounSingularWebcam": "iwebcam",
+    "modeCountryGenreH2Radio": "{countryName} izikhululo zerediyo ngokohlobo",
+    "modeCountryGenreH2Webcams": "{countryName} iiwebcam ngokodidi",
+    "faqHostA": "Hayi, FreeTV Garden ayiququzeleli, ayikhupheli okanye igcine naziphi na iifayile zevidiyo. Iqhakamshelana nemijelo ekhoyo esidlangalaleni ukuze ukwazi ukuyibukela ngokuthe ngqo kwiiseva zosasazo.",
+    "countryFaqOfficialA": "Hayi, FreeTV Garden luluhlu oluzimeleyo oludibanisa imisinga ekhoyo. Ayidityaniswanga, ayiqinisekiswanga, okanye iqhutywe nguye nawuphi na umsasazi odweliswe kweli phepha.",
+    "faqOfficialAnswer": "Hayi, FreeTV Garden luluhlu oluzimeleyo oludibanisa imisinga ekhoyo. Ayinxulumananga, ixhaswa, okanye iqhutywe ngu- {channelName} ."
   }
 }

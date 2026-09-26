@@ -216,8 +216,6 @@
     "modeCountryIntroWithCountWebcams": "FreeTV Garden loetleb praegu {count} reaalajas {countryName} veebikaamerat, sealhulgas {names} – mida saab kohe brauseris ilma lisatarkvarata esitada.",
     "modeCountryIntroNoCountRadio": "{countryName} raadiojaamad saidil FreeTV Garden tõmmatakse otseülekandena tasuta avalikust kataloogist ja neid saab ilma lisatarkvarata kohe brauseris esitada. Täpne koosseis muutub iga päev, kui voogesitus toimub ja võrguühenduseta.",
     "modeCountryIntroNoCountWebcams": "{countryName} veebikaamerad saidil FreeTV Garden tõmmatakse reaalajas tasuta avalikust kataloogist ja neid saab ilma lisatarkvarata kohe brauseris esitada. Täpne koosseis muutub iga päev, kui voogesitus toimub ja võrguühenduseta.",
-    "modeCountryGenreH2Radio": "{countryName} raadiojaamad kasutajalt {label}",
-    "modeCountryGenreH2Webcams": "{countryName} veebikaamerad kasutajalt {label}",
     "wantAnotherCountryH2Radio": "Kas soovite mõne teise riigi raadiojaamu?",
     "wantAnotherCountryH2Webcams": "Kas soovite veebikaameraid teisest riigist?",
     "modeCountryFaqFreeQRadio": "Kas {countryName} raadiojaama kuulamine teenuses FreeTV Garden on tasuta?",
@@ -261,7 +259,6 @@
     "linkFullLanguageList": "täielik keelte nimekiri",
     "wantCountryH2": "Kas soovite selle asemel kanaleid konkreetsest riigist?",
     "faqHostQ": "Kas FreeTV Garden majutab või laadib üles videovooge?",
-    "faqHostA": "Ei. FreeTV Garden ei majuta, ei laadi üles ega salvesta ühtegi videofaili. See lingib avalikult saadaolevatele voogudele, et saaksite neid otse ringhäälinguorganisatsiooni enda serveritest vaadata.",
     "faqCountNoneA": "Arvestus muutub, kui voogesitused käivad ja võrguühenduseta – avage ülaltoodud tööriist, et näha, mis praegu on reaalajas.",
     "faqCountFromCountriesA": "Praegu on umbes {count} reaalajas kanalit {countries} riigist.",
     "countryBreadcrumbTV": "{countryName} Otse-TV",
@@ -294,7 +291,6 @@
     "countryFaqPhoneQ": "Kas ma saan oma telefonis otseülekandes vaadata {countryName} uudistekanalit?",
     "countryFaqPhoneA": "Jah – pleier töötab mis tahes telefoni brauseris ilma rakenduste allalaadimiseta. Lihtsalt avage see leht, puudutage uudistekanalit ja kasutage parima kuva saamiseks täisekraani.",
     "countryFaqOfficialQ": "Kas see on mõne {countryName} ringhäälinguorganisatsiooni ametlik veebisait?",
-    "countryFaqOfficialA": "Nr FreeTV Garden on sõltumatu kataloog, mis lingib avalikult saadaolevatele voogudele. See ei ole seotud ühegi sellel lehel loetletud ringhäälinguorganisatsiooniga, seda ei toeta ega halda.",
     "genreIntroOne": "FreeTV Garden loetleb praegu {count} reaalajas {genreName} kanalit kogu maailmast, sealhulgas {names} – otseülekandena avalikust iptv-org kanalikataloogist ja mida saab ilma lisatarkvarata kohe brauseris esitada.",
     "genreIntroMany": "FreeTV Garden loetleb praegu {count} reaalajas {genreName} kanalit kogu maailmast, sealhulgas {names} – otseülekandena avalikust iptv-org kanalikataloogist ja mida saab ilma lisatarkvarata kohe brauseris esitada.",
     "genreIntroEmpty": "{genreName} kanalid saidil FreeTV Garden tõmmatakse otse avalikust iptv-org kanalikataloogist ja neid saab ilma lisatarkvarata kohe brauseris esitada. Täpne kanalite loend muutub iga päev, kui voogesitus jätkub ja võrguühenduseta.",
@@ -329,7 +325,6 @@
     "faqFreeAnswer": "Jah. FreeTV Garden koondab avalikult saadaolevaid vooge. Tellimust, kontot ega rakendust pole vaja.",
     "faqOfficialQuestionRadio": "Kas see on {channelName} ametlik jaam?",
     "faqOfficialQuestionWebcam": "Kas see on ametlik veebikaamera {channelName} jaoks?",
-    "faqOfficialAnswer": "Nr FreeTV Garden on sõltumatu kataloog, mis lingib avalikult saadaolevatele voogudele. See ei ole seotud teenusega {channelName}, seda ei toeta ega halda.",
     "wantMoreLinkText": "telekanalite otseülekanded",
     "wantMoreTemplate": "Kas soovite rohkem? Sirvi kõiki {link} saidil FreeTV Garden.",
     "satStationTitle": "Kuulake {stationName} otseülekannet — satelliitraadio | FreeTV Garden",
@@ -414,6 +409,11 @@
     "hubHowToHeadingWebcam": "Kuidas oma seadmes vaadata",
     "hubHowToBody": "Rakendust ega kontot pole vaja. See leht töötab otse teie brauseris mis tahes seadmes – lihtsalt puudutage {nounSingular} ja vajutage nuppu Esita. Androidis või iPhone'is avage see leht Chrome'is või Safaris ja kasutage järgmisel korral ühe puudutusega juurdepääsuks valikut \"Lisa avakuvale\". Töölaual töötab iga kaasaegne brauser.",
     "nounSingularRadio": "raadiojaam",
-    "nounSingularWebcam": "veebikaamera"
+    "nounSingularWebcam": "veebikaamera",
+    "modeCountryGenreH2Radio": "{countryName} raadiojaamad žanri järgi",
+    "modeCountryGenreH2Webcams": "{countryName} veebikaamerad kategooriate kaupa",
+    "faqHostA": "Ei, FreeTV Garden ei majuta, ei laadi üles ega salvesta ühtegi videofaili. See lingib avalikult saadaolevatele voogudele, et saaksite neid otse ringhäälinguorganisatsiooni enda serveritest vaadata.",
+    "countryFaqOfficialA": "Ei, FreeTV Garden on sõltumatu kataloog, mis lingib avalikult saadaolevatele voogudele. See ei ole seotud ühegi sellel lehel loetletud ringhäälinguorganisatsiooniga, seda ei toeta ega halda.",
+    "faqOfficialAnswer": "Ei, FreeTV Garden on sõltumatu kataloog, mis lingib avalikult saadaolevatele voogudele. See ei ole seotud teenusega {channelName}, seda ei toeta ega halda."
   }
 }

@@ -216,8 +216,6 @@
     "modeCountryIntroWithCountWebcams": "FreeTV Garden מציג כעת {count} מצלמות רשת חיות {countryName}, כולל {names} - ניתנות להשמעה מיידית בדפדפן שלך ללא תוכנה נוספת.",
     "modeCountryIntroNoCountRadio": "{countryName} תחנות רדיו ב-FreeTV Garden נשלפות בשידור חי מספרייה ציבורית חינמית וניתנות להשמעה מיידית בדפדפן שלך ללא תוכנה נוספת. ההרכב המדויק משתנה מיום ליום ככל שהזרמים נמשכים ולא מקוונים.",
     "modeCountryIntroNoCountWebcams": "{countryName} מצלמות אינטרנט ב-FreeTV Garden נשלפות בשידור חי מספרייה ציבורית חינמית וניתנות להשמעה מיידית בדפדפן שלך ללא תוכנה נוספת. ההרכב המדויק משתנה מיום ליום ככל שהזרמים נמשכים ולא מקוונים.",
-    "modeCountryGenreH2Radio": "{countryName} תחנות רדיו מאת {label}",
-    "modeCountryGenreH2Webcams": "{countryName} מצלמות אינטרנט מאת {label}",
     "wantAnotherCountryH2Radio": "רוצים תחנות רדיו ממדינה אחרת?",
     "wantAnotherCountryH2Webcams": "רוצה מצלמות אינטרנט ממדינה אחרת?",
     "modeCountryFaqFreeQRadio": "האם האזנה לתחנות רדיו {countryName} ב-FreeTV Garden היא בחינם?",
@@ -261,7 +259,6 @@
     "linkFullLanguageList": "רשימת שפות מלאה",
     "wantCountryH2": "רוצה במקום זאת ערוצים ממדינה מסוימת?",
     "faqHostQ": "האם FreeTV Garden מארח או מעלה את זרמי הווידאו?",
-    "faqHostA": "לא. FreeTV Garden אינו מארח, מעלה או מאחסן קבצי וידאו. הוא מקשר לזרמים הזמינים לציבור, כך שתוכל לצפות בהם ישירות מהשרתים של השדר עצמו.",
     "faqCountNoneA": "הספירה משתנה ככל שהזרמים נמשכים ולא מקוונים - פתח את הכלי למעלה כדי לראות מה פעיל כרגע.",
     "faqCountFromCountriesA": "כרגע בסביבות {count} ערוצים חיים מ{countries} מדינות.",
     "countryBreadcrumbTV": "{countryName} טלוויזיה בשידור חי",
@@ -294,7 +291,6 @@
     "countryFaqPhoneQ": "האם אוכל לצפות בערוצי חדשות {countryName} בשידור חי בטלפון שלי?",
     "countryFaqPhoneA": "כן - הנגן פועל בכל דפדפן טלפון ללא הורדת אפליקציה. פשוט פתח את הדף הזה, הקש על ערוץ חדשות והשתמש במסך מלא לתצוגה הטובה ביותר.",
     "countryFaqOfficialQ": "האם זה האתר הרשמי של כל {countryName} שדרן?",
-    "countryFaqOfficialA": "לא. FreeTV Garden היא ספרייה עצמאית המקשרת לזרמים זמינים לציבור. הוא אינו מזוהה עם, מאושר על ידי או מופעל על ידי אף גורם שידור הרשום בדף זה.",
     "genreIntroOne": "FreeTV Garden מציג כעת {count} ערוץ חי {genreName} מרחבי העולם, כולל {names} - נשלף בשידור חי מספריית הערוצים הציבורית iptv-org וניתן להשמעה מיידית בדפדפן שלך ללא תוכנה נוספת.",
     "genreIntroMany": "FreeTV Garden מציג כעת {count} חיים {genreName} ערוצים מרחבי העולם, כולל {names} - נשלפים בשידור חי מספריית הערוצים הציבורית iptv-org וניתנים להשמעה מיידית בדפדפן שלך ללא תוכנה נוספת.",
     "genreIntroEmpty": "ערוצים {genreName} ב-FreeTV Garden נמשכים בשידור חי מספריית הערוצים הציבורית iptv-org וניתנים להשמעה מיידית בדפדפן שלך ללא תוכנה נוספת. רשימת הערוצים המדויקת משתנה מיום ליום ככל שהזרמים נמשכים ולא מקוונים.",
@@ -329,7 +325,6 @@
     "faqFreeAnswer": "כֵּן. FreeTV Garden צובר זרמים זמינים לציבור. אין צורך במנוי, חשבון או אפליקציה.",
     "faqOfficialQuestionRadio": "האם זו התחנה הרשמית עבור {channelName}?",
     "faqOfficialQuestionWebcam": "האם זו מצלמת האינטרנט הרשמית עבור {channelName}?",
-    "faqOfficialAnswer": "לא. FreeTV Garden היא ספרייה עצמאית המקשרת לזרמים זמינים לציבור. הוא אינו מזוהה עם, מאושר על ידי או מופעל על ידי {channelName} .",
     "wantMoreLinkText": "ערוצי טלוויזיה חיים",
     "wantMoreTemplate": "רוצה עוד? עיין בכל {link} ב-FreeTV Garden .",
     "satStationTitle": "האזינו ל-{stationName} בשידור חי — רדיו לווין | FreeTV Garden",
@@ -414,6 +409,11 @@
     "hubHowToHeadingWebcam": "איך לצפות במכשיר שלך",
     "hubHowToBody": "אין צורך באפליקציה או חשבון. דף זה פועל ישירות בדפדפן שלך בכל מכשיר - פשוט הקש על {nounSingular} ולחץ על הפעל. ב-Android או iPhone, פתח את הדף הזה בכרום או ב-Safari והשתמש ב\"הוסף למסך הבית\" לגישה בלחיצה אחת בפעם הבאה. במחשב שולחני, כל דפדפן מודרני עובד.",
     "nounSingularRadio": "תחנת רדיו",
-    "nounSingularWebcam": "מצלמת אינטרנט"
+    "nounSingularWebcam": "מצלמת אינטרנט",
+    "modeCountryGenreH2Radio": "{countryName} תחנות רדיו לפי ז'אנר",
+    "modeCountryGenreH2Webcams": "{countryName} מצלמות אינטרנט לפי קטגוריה",
+    "faqHostA": "לא, FreeTV Garden אינו מארח, מעלה או מאחסן קבצי וידאו. הוא מקשר לזרמים הזמינים לציבור, כך שתוכל לצפות בהם ישירות מהשרתים של השדר עצמו.",
+    "countryFaqOfficialA": "לא, FreeTV Garden היא ספרייה עצמאית המקשרת לזרמים זמינים לציבור. הוא אינו מזוהה עם, מאושר על ידי או מופעל על ידי אף גורם שידור הרשום בדף זה.",
+    "faqOfficialAnswer": "לא, FreeTV Garden היא ספרייה עצמאית המקשרת לזרמים זמינים לציבור. הוא אינו מזוהה עם, מאושר על ידי או מופעל על ידי {channelName} ."
   }
 }

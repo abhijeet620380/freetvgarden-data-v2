@@ -216,8 +216,6 @@
     "modeCountryIntroWithCountWebcams": "Kasalukuyang naglilista ang FreeTV Garden ng {count} live na {countryName} webcam, kabilang ang {names} — na nape-play agad sa iyong browser nang walang karagdagang software.",
     "modeCountryIntroNoCountRadio": "Ang {countryName} na mga istasyon ng radyo sa FreeTV Garden ay kinukuha nang live mula sa isang libreng pampublikong direktoryo at nape-play kaagad sa iyong browser nang walang karagdagang software. Ang eksaktong lineup ay nagbabago araw-araw habang nagpapatuloy at offline ang mga stream.",
     "modeCountryIntroNoCountWebcams": "Ang {countryName} webcam sa FreeTV Garden ay kinukuha nang live mula sa isang libreng pampublikong direktoryo at nape-play kaagad sa iyong browser nang walang karagdagang software. Ang eksaktong lineup ay nagbabago araw-araw habang nagpapatuloy at offline ang mga stream.",
-    "modeCountryGenreH2Radio": "{countryName} mga istasyon ng radyo ni {label}",
-    "modeCountryGenreH2Webcams": "{countryName} webcam ni {label}",
     "wantAnotherCountryH2Radio": "Gusto ng mga istasyon ng radyo mula sa ibang bansa?",
     "wantAnotherCountryH2Webcams": "Gusto ng mga webcam mula sa ibang bansa?",
     "modeCountryFaqFreeQRadio": "Libre ba ang pakikinig sa {countryName} na mga istasyon ng radyo sa FreeTV Garden?",
@@ -261,7 +259,6 @@
     "linkFullLanguageList": "buong listahan ng wika",
     "wantCountryH2": "Gusto na lang ng mga channel mula sa isang partikular na bansa?",
     "faqHostQ": "Ang FreeTV Garden ba ay nagho-host o nag-a-upload ng mga video stream?",
-    "faqHostA": "Hindi. FreeTV Garden ay hindi nagho-host, nag-a-upload o nag-iimbak ng anumang mga video file. Nagli-link ito sa mga stream na available sa publiko para mapanood mo ang mga ito nang direkta mula sa sariling mga server ng broadcaster.",
     "faqCountNoneA": "Nagbabago ang bilang habang nagpapatuloy at offline ang mga stream — buksan ang tool sa itaas para makita kung ano ang live ngayon.",
     "faqCountFromCountriesA": "Kasalukuyang humigit-kumulang {count} live na channel mula sa {countries} bansa.",
     "countryBreadcrumbTV": "{countryName} Live na TV",
@@ -294,7 +291,6 @@
     "countryFaqPhoneQ": "Maaari ba akong manood ng {countryName} na mga channel ng balita nang live sa aking telepono?",
     "countryFaqPhoneA": "Oo — gumagana ang player sa anumang browser ng telepono na walang pag-download ng app. Buksan lang ang page na ito, i-tap ang isang channel ng balita, at gamitin ang fullscreen para sa pinakamagandang view.",
     "countryFaqOfficialQ": "Ito ba ang opisyal na website ng sinumang {countryName} broadcaster?",
-    "countryFaqOfficialA": "Hindi. Ang FreeTV Garden ay isang independiyenteng direktoryo na nagli-link sa mga stream na available sa publiko. Ito ay hindi kaakibat sa, ineendorso ng, o pinapatakbo ng alinmang broadcaster na nakalista sa pahinang ito.",
     "genreIntroOne": "Ang FreeTV Garden ay kasalukuyang naglilista ng {count} live na {genreName} na channel mula sa buong mundo, kabilang ang {names} — na kinuha nang live mula sa pampublikong iptv-org na direktoryo ng channel at nape-play kaagad sa iyong browser nang walang karagdagang software.",
     "genreIntroMany": "Ang FreeTV Garden ay kasalukuyang naglilista ng {count} live na {genreName} na channel mula sa buong mundo, kabilang ang {names} — na kinuha nang live mula sa pampublikong iptv-org na direktoryo ng channel at nape-play kaagad sa iyong browser nang walang karagdagang software.",
     "genreIntroEmpty": "Ang {genreName} na mga channel sa FreeTV Garden ay kinukuha nang live mula sa pampublikong iptv-org na direktoryo ng channel at nape-play kaagad sa iyong browser nang walang karagdagang software. Ang eksaktong listahan ng channel ay nagbabago araw-araw habang nagpapatuloy at offline ang mga stream.",
@@ -329,7 +325,6 @@
     "faqFreeAnswer": "Oo. Pinagsasama-sama ng FreeTV Garden ang mga stream na available sa publiko. Walang kinakailangang subscription, account o app.",
     "faqOfficialQuestionRadio": "Ito ba ang opisyal na istasyon para sa {channelName} ?",
     "faqOfficialQuestionWebcam": "Ito ba ang opisyal na webcam para sa {channelName} ?",
-    "faqOfficialAnswer": "Hindi. Ang FreeTV Garden ay isang independiyenteng direktoryo na nagli-link sa mga stream na available sa publiko. Hindi ito kaakibat ng, ineendorso ng, o pinamamahalaan ng {channelName} .",
     "wantMoreLinkText": "mga live na channel sa TV",
     "wantMoreTemplate": "Gusto mo pa? I-browse ang lahat ng {link} sa FreeTV Garden .",
     "satStationTitle": "Makinig sa {stationName} Live — Satellite Radio | FreeTV Garden",
@@ -414,6 +409,11 @@
     "hubHowToHeadingWebcam": "Paano manood sa iyong device",
     "hubHowToBody": "Walang app o account ang kailangan. Direktang gumagana ang page na ito sa iyong browser sa anumang device — i-tap lang ang isang {nounSingular} at pindutin ang play. Sa Android o iPhone, buksan ang page na ito sa Chrome o Safari at gamitin ang \"Idagdag sa Home Screen\" para sa isang tap na access sa susunod na pagkakataon. Sa desktop, gumagana ang anumang modernong browser.",
     "nounSingularRadio": "istasyon ng radyo",
-    "nounSingularWebcam": "webcam"
+    "nounSingularWebcam": "webcam",
+    "modeCountryGenreH2Radio": "{countryName} mga istasyon ng radyo ayon sa genre",
+    "modeCountryGenreH2Webcams": "{countryName} webcam ayon sa kategorya",
+    "faqHostA": "Hindi, ang FreeTV Garden ay hindi nagho-host, nag-a-upload o nag-iimbak ng anumang mga video file. Nagli-link ito sa mga stream na available sa publiko para mapanood mo ang mga ito nang direkta mula sa sariling mga server ng broadcaster.",
+    "countryFaqOfficialA": "Hindi, ang FreeTV Garden ay isang independiyenteng direktoryo na nagli-link sa mga stream na available sa publiko. Ito ay hindi kaakibat sa, ineendorso ng, o pinapatakbo ng alinmang broadcaster na nakalista sa pahinang ito.",
+    "faqOfficialAnswer": "Hindi, ang FreeTV Garden ay isang independiyenteng direktoryo na nagli-link sa mga stream na available sa publiko. Hindi ito kaakibat ng, ineendorso ng, o pinamamahalaan ng {channelName} ."
   }
 }
