@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="4DmasNoticiasTV.py" tvg-country="PY" tvg-language="Spanish" tvg-logo="https://i.ibb.co/1fb5BtN/unnamed.png" tvg-status="down" group-title="News",4Dmas Noticias TV
+#EXTINF:-1 tvg-id="4DmasNoticiasTV.py" tvg-country="PY" tvg-language="Spanish" tvg-logo="https://i.ibb.co/1fb5BtN/unnamed.png" tvg-status="live" group-title="News",4Dmas Noticias TV
 https://rds3.desdeparaguay.net/4dmasnoticiastv/4dmasnoticiastv/playlist.m3u8
 #EXTINF:-1 tvg-id="AGRFMTV.py" tvg-country="PY" tvg-language="Spanish" tvg-logo="https://i.imgur.com/tg6EjTU.png" tvg-status="live" group-title="General",AGR FM TV
 https://tigocloud.desdeparaguay.net/agrtv/agrtv/playlist.m3u8
@@ -105,7 +105,7 @@ http://45.170.130.224:8000/play/a036/index.m3u8?hls
 https://copacotf.desdeparaguay.net/telefuturo/telefuturo_py_alta/playlist.m3u8
 #EXTINF:-1 tvg-id="TigoSports.py" tvg-country="PY" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Tigo_Sports_2025.png" tvg-status="live" group-title="Sports",Tigo Sports
 http://45.170.130.224:8000/play/a04k/index.m3u8?hls
-#EXTINF:-1 tvg-id="TigoSportsPlus.py" tvg-country="PY" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Tigo_Sports_2025.png/960px-Tigo_Sports_2025.png" tvg-status="live" group-title="Sports",Tigo Sports+
+#EXTINF:-1 tvg-id="TigoSportsPlus.py" tvg-country="PY" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Tigo_Sports_2025.png/960px-Tigo_Sports_2025.png" tvg-status="down" group-title="Sports",Tigo Sports+
 https://lbgo.bozztv.com/ssh101/ssh101/events2py/playlist.m3u8
 #EXTINF:-1 tvg-id="Trece.py" tvg-country="PY" tvg-language="Spanish" tvg-logo="https://media.trece.com.py/sites/2/2025/09/logotrece_2025.webp" tvg-status="live" group-title="General",Trece
 http://45.170.130.224:8000/play/a050/index.m3u8?hls
