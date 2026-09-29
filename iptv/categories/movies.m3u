@@ -80,7 +80,7 @@ http://88.212.15.19/live/test_axn/playlist.m3u8
 #EXTINF:-1 tvg-id="AXNCrime.us" tvg-country="US" tvg-language="English" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/13/AXNCRIME_2026_V_WHITE_VIOLET_RGB_HERO_01.svg/revision/latest?cb=20260808120407" tvg-status="live" group-title="Movies",AXN Crime
 http://88.212.15.19/live/viasat_film/index.m3u8
 #EXTINF:-1 tvg-id="AXNLatinAmerica.us" tvg-country="US" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png" tvg-status="live" group-title="Movies",AXN Latin America
-http://138.121.15.230:9002/AXN/index.m3u8
+http://181.78.8.199:8000/play/a0cu/index.m3u8
 #EXTINF:-1 tvg-id="AXNMovies.pt" tvg-country="PT" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/tJQckal.png" tvg-status="live" group-title="Movies",AXN Movies
 http://50.7.120.34:8080/AXN_BLACK/index.m3u8
 #EXTINF:-1 tvg-id="AzCinema.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/B5UN7C8.png" tvg-status="down" group-title="Movies",Az Cinema
@@ -121,6 +121,8 @@ https://jmp2.uk/stvp-IN4000600Q
 http://176.118.197.101/Bollywood_HD/index.m3u8
 #EXTINF:-1 tvg-id="BollywoodClassic.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/ugPo6ca.png" tvg-status="live" group-title="Movies",Bollywood Classic
 https://flash1.bogulus1.cfd/boly/usergenr9j8s2t.m3u8
+#EXTINF:-1 tvg-id="famelack-nqC1XmTU0qJuuy" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/bEMUpHZ.png" tvg-status="live" group-title="Movies",Bollywood Film
+https://tvextra-hls.b-cdn.net/bollywoodfilm/bollywoodfilm.m3u8
 #EXTINF:-1 tvg-id="BollywoodHD.ro" tvg-country="RO" tvg-language="Hindi" tvg-logo="https://i.imgur.com/scDKOLS.png" tvg-status="live" group-title="Movies",Bollywood HD
 https://xykt-fix.github.io/cinerama_edge01/hls/BOLLYWOOD_RU/Movie009.m3u8
 #EXTINF:-1 tvg-id="famelack-RkE4eVl7ofwaod" tvg-country="RU" tvg-language="Hindi" tvg-logo="" tvg-status="live" group-title="Movies",Bollywood HD Russia
@@ -523,8 +525,6 @@ https://ktvhdsg.ekantipur.com:8443/ktvmax2025/match2/playlist.m3u8
 https://amg02159-amg02159c7-samsung-in-4001.playouts.now.amagi.tv/playlist/amg02159-kcglobal-kcm-samsungin/playlist.m3u8
 #EXTINF:-1 tvg-id="KidsMovieClub.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/avFk0Tt.png" tvg-status="live" group-title="Kids",Kids Movie Club
 https://jmp2.uk/plu-5db0ad56edc89300090d2ebb.m3u8
-#EXTINF:-1 tvg-id="famelack-X98dZJpeNVSZmP" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/4Pn0ADQ.png" tvg-status="live" group-title="Movies",KidsFlix
-https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50
 #EXTINF:-1 tvg-id="Kineko.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/Otfvlmf.png" tvg-native-name="Кинеко" tvg-status="down" group-title="Movies",Kineko
 http://31.148.48.15/Kineko_HD/index.m3u8
 #EXTINF:-1 tvg-id="Kino1.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/zsCPLs4.png" tvg-native-name="Кино 1" tvg-status="live" group-title="Movies",Kino 1
@@ -603,8 +603,6 @@ http://5.254.89.106:80/8882/index.m3u8
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-bollywood/546eb40d7dcf9a209255dd2496903764/index.m3u8
 #EXTINF:-1 tvg-id="MBCPlusDrama.sa" tvg-country="SA" tvg-language="Arabic" tvg-logo="https://i.imgur.com/lxWdjXG.png" tvg-status="live" group-title="Movies",MBC+ Drama
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-plus-drama/e37251ec2aac8f6c98f75cd0fa37cd28/index.m3u8
-#EXTINF:-1 tvg-id="famelack-Lzh8NoZwGUGsG2" tvg-country="CO" tvg-language="English" tvg-logo="https://pbs.twimg.com/profile_images/1836009952420274177/FfYonU6r_400x400.jpg" tvg-status="live" group-title="Movies",MCI Television
-https://video.ejeserver.com/live/mcitelevision.m3u8
 #EXTINF:-1 tvg-id="Medium.de" tvg-country="DE" tvg-language="Spanish" tvg-logo="https://images.pluto.tv/channels/6578808014fbe400086e21bc/colorLogoSVG.svg" tvg-status="live" group-title="Movies",Medium
 https://jmp2.uk/plu-6578808014fbe400086e21bc.m3u8
 #EXTINF:-1 tvg-id="famelack-CH0OBldtzqtjEK" tvg-country="DO" tvg-language="Spanish" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2893-294x165-FFFFFF.jpg" tvg-status="live" group-title="Movies",Mega Cine TV
@@ -1081,7 +1079,7 @@ https://sltwohls.wns.live/hls/stream.m3u8
 https://stream.smotrim.ru/hls/fasttv03/playlist_3.m3u8
 #EXTINF:-1 tvg-id="SonyCanalNovelas.us" tvg-country="US" tvg-language="Spanish" tvg-logo="" tvg-status="down" group-title="Movies",Sony Canal Novelas
 https://a89829b8dca2471ab52ea9a57bc28a35.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_SonyCanalNovelas/playlist.m3u8
-#EXTINF:-1 tvg-id="SonyMax.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://i.imgur.com/LBICKI5.png" tvg-status="down" group-title="Movies",Sony Max
+#EXTINF:-1 tvg-id="SonyMax.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://i.imgur.com/LBICKI5.png" tvg-status="live" group-title="Movies",Sony Max
 http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=156013&extension=ts&play_token=slNi06NyY0
 #EXTINF:-1 tvg-id="SonyMax2.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/SonyMAX2.png" tvg-status="live" group-title="Movies",Sony Max 2
 http://107.167.16.138/sonymax2/index.m3u8?token=test
@@ -1203,7 +1201,7 @@ https://cdn.mycloudstream.io/hls/live/broadcast/l3vslw4i/index.m3u8
 https://rpn.bozztv.com/gusa/gusa-tvsdriveinmovie/index.m3u8
 #EXTINF:-1 tvg-id="TVSFilmNoirNetwork.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/A4yWhQw.png" tvg-status="live" group-title="Movies",TVS Film Noir Network
 https://rpn.bozztv.com/trn01/gusa-TVSFilmNoir/index.m3u8
-#EXTINF:-1 tvg-id="Twentyseven.it" tvg-country="IT" tvg-language="Italian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Twentyseven_logo.svg/960px-Twentyseven_logo.svg.png" tvg-status="live" group-title="Movies",Twentyseven
+#EXTINF:-1 tvg-id="Twentyseven.it" tvg-country="IT" tvg-language="Italian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Twentyseven_logo.svg/960px-Twentyseven_logo.svg.png" tvg-status="down" group-title="Movies",Twentyseven
 https://live03-col.msf.cdn.mediaset.net/live/ch-ts/ts-clr.isml/manifest.mpd
 #EXTINF:-1 tvg-id="UniversalCinema.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/XxfET68.png" tvg-status="live" group-title="Movies",Universal Cinema
 http://45.167.1.138:8000/play/a06m
@@ -1223,8 +1221,6 @@ https://jmp2.uk/plu-62bebc3459624e00078209c3.m3u8
 https://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjUxOjcwMDAvY2g0Ni90cmFja3MtdjFhMS9tb25vLm0zdTg%2FbGl2ZT0xJmlwPTE3OC4xMzYuNDIuMjIwJmlkPTk0ODg2NSZzZWNyZXQ9bjF1N3VpMDYmc3NsPTEmMjF5bz0wJmU9MTc5MDU5NzA2MyZzdD1IMENxaGExNldkUTV0YWFSaW04QWlR&master=104
 #EXTINF:-1 tvg-id="famelack-8S6XWyiADx3IBB" tvg-country="UA" tvg-language="English" tvg-logo="https://i.imgur.com/HwsNIDK.png" tvg-status="live" group-title="Movies",Viasat Kino Action
 https://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjUxOjcwMDAvY2g0Ny90cmFja3MtdjFhMS9tb25vLm0zdTg%2FbGl2ZT0xJmlwPTE3OC4xMzYuNDIuMjIwJmlkPTk0ODg2NSZzZWNyZXQ9bjF1N3VpMDYmc3NsPTEmMjF5bz0wJmU9MTc5MDU5OTA0MiZzdD1tVWRSQVFvbDY4SHVMTEc2MENpeTFn&master=105
-#EXTINF:-1 tvg-id="famelack-3KIbg37PQUOdm7" tvg-country="UA" tvg-language="English" tvg-logo="https://i.imgur.com/qVYt8kP.png" tvg-status="live" group-title="Movies",Viasat Kino Comedy
-https://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoNDQvdHJhY2tzLXYxYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA1OTk4Mzcmc3Q9UzRPS1VZemNocmREQWhnSTJkTDJ5QQ%3D%3D&master=249
 #EXTINF:-1 tvg-id="famelack-DrX3v9SZK4N49f" tvg-country="UA" tvg-language="Russian" tvg-logo="https://i.imgur.com/GPiE2Rb.png" tvg-status="live" group-title="Movies",Viasat Kino World
 https://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoNDgvdHJhY2tzLXYxYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA1OTk5NDcmc3Q9N3ROblpCZy02WTBka1RuekRIZjU0QQ%3D%3D&master=102
 #EXTINF:-1 tvg-id="famelack-ZcTlJjeaCc55j6" tvg-country="UA" tvg-language="Russian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7d/Viasat_Serial.svg" tvg-status="live" group-title="Movies",Viasat Serial
@@ -1253,6 +1249,8 @@ https://cdn.whiplash.cc/whiplash-cinema/index.m3u8
 https://dbrb49pjoymg4.cloudfront.net/10001/99991745/hls/master.m3u8?ads.xumo_channelId=99991745
 #EXTINF:-1 tvg-id="famelack-HFLT2PMog36fFQ" tvg-country="AR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/z5NwizH.png" tvg-status="live" group-title="Movies",Xtrema Accion
 https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8
+#EXTINF:-1 tvg-id="famelack-5N50bnTr2ohfWL" tvg-country="AR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/j91M4Yf.png" tvg-status="live" group-title="Movies",Xtrema Cine Clasico
+https://stmv6.voxtvhd.com.br/cineclasico/cineclasico/playlist.m3u8
 #EXTINF:-1 tvg-id="famelack-tLsh4FQYcu5iT0" tvg-country="AR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/FcaTUym.png" tvg-status="live" group-title="Movies",Xtrema Terror
 https://stmv6.voxtvhd.com.br/cineterror/cineterror/playlist.m3u8
 #EXTINF:-1 tvg-id="YesMoviesAction.il" tvg-country="IL" tvg-language="Hebrew" tvg-logo="https://i.imgur.com/Bgz7p5F.png" tvg-status="live" group-title="Movies",Yes Movies Action
