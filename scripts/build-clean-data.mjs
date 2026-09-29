@@ -780,41 +780,32 @@ async function main() {
     newStatus[custom.id] = { consecutiveFails: 0, status: "live", lastChecked: new Date().toISOString(), source: "custom-m3u" };
   }
 
-  // Remove any channel whose stream URL is IDENTICAL to one already published, from ANY
-  // source (Famelack, iptv-org, custom-channels, curated YouTube) - e.g. iptv-org's "Epic
-  // Kids" and Famelack's "Epic Kids Digital" turning out to be the exact same stream under
-  // two different names. Two differently-named rows pointing at one identical stream is
-  // never useful - it just makes the site show/highlight the wrong one interchangeably - so
-  // the first one published for a URL is kept and every later one is dropped, not just
-  // warned about. tvg-id collisions are logged only, since app.js already disambiguates
-  // those by name at runtime.
+  // Warn about any tvg-id OR stream URL used by more than one PUBLISHED channel, from ANY
+  // source (Famelack, iptv-org, custom-channels, curated YouTube). This is what actually
+  // catches things like a custom-channels entry accidentally reusing another channel's URL:
+  // the website looks a channel up by id in a few places (e.g. re-syncing the live URL when
+  // you press play), and by URL in others (e.g. highlighting which row is "now playing"), so
+  // either kind of collision can make the site show the wrong channel. Log-only - it does not
+  // change which channels get published, and does not touch which one "wins" on the site.
   {
-    const byId = new Map();      // id -> [names] (report only)
-    const byUrl = new Map();     // url -> the channel object already kept for it
-    const kept = [];
-    let urlDropped = 0;
+    const byId = new Map(), byUrl = new Map();
     for (const c of finalChannels) {
       if (c.id) { if (!byId.has(c.id)) byId.set(c.id, []); byId.get(c.id).push(c.name); }
-      const first = c.url && byUrl.get(c.url);
-      if (first) {
-        urlDropped++;
-        console.log(`  Duplicate stream removed: "${c.name}" [${c.country}, ${c.source}] is the exact same stream as already-published "${first.name}" [${first.source}] - dropped "${c.name}".`);
-      } else {
-        if (c.url) byUrl.set(c.url, c);
-        kept.push(c);
-      }
+      if (c.url) { if (!byUrl.has(c.url)) byUrl.set(c.url, []); byUrl.get(c.url).push(`${c.name} [${c.source}]`); }
     }
-    finalChannels.length = 0;
-    finalChannels.push(...kept);
-    if (urlDropped) console.log(`Cross-source duplicate streams removed: ${urlDropped}.`);
-
     const idDupes = [...byId.entries()].filter(([, names]) => names.length > 1);
     if (idDupes.length) {
-      console.log(`WARNING: ${idDupes.length} tvg-id(s) are still shared by more than one channel (these keep separate URLs, so app.js's id+name matching handles them - just flagging for awareness):`);
+      console.log(`WARNING: ${idDupes.length} tvg-id(s) are shared by more than one channel:`);
       for (const [id, names] of idDupes.slice(0, 30)) console.log(`  id "${id}" used by: ${names.join(' | ')}`);
       if (idDupes.length > 30) console.log(`  ...and ${idDupes.length - 30} more.`);
     }
-    if (!urlDropped && !idDupes.length) console.log("No shared tvg-ids or stream URLs found across published channels.");
+    const urlDupes = [...byUrl.entries()].filter(([, names]) => names.length > 1);
+    if (urlDupes.length) {
+      console.log(`WARNING: ${urlDupes.length} stream URL(s) are shared by more than one channel - each pair is playing the exact same stream:`);
+      for (const [url, names] of urlDupes.slice(0, 30)) console.log(`  ${names.join(' | ')}\n    -> ${url}`);
+      if (urlDupes.length > 30) console.log(`  ...and ${urlDupes.length - 30} more.`);
+    }
+    if (!idDupes.length && !urlDupes.length) console.log("No shared tvg-ids or stream URLs found across published channels.");
   }
 
   // --- FILTER OUT UNPUBLISHED CHANNELS ---
