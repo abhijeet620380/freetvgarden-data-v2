@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="4FunKids.pl" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/2JO5Y8c.png" tvg-status="live" group-title="Kids",4 Fun Kids
+#EXTINF:-1 tvg-id="4FunKids.pl" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/2JO5Y8c.png" tvg-status="down" group-title="Kids",4 Fun Kids
 https://stream.4fun.tv:8889/hls/4fk_high/index.m3u8
-#EXTINF:-1 tvg-id="4FunTV.pl" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/rI1wo2l.png" tvg-status="live" group-title="Music",4 Fun TV
+#EXTINF:-1 tvg-id="famelack-gnXbQSLxnNAtTV" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/rI1wo2l.png" tvg-status="live" group-title="Music",4 Fun TV
 https://stream.4fun.tv:8888/hls/4f.m3u8
 #EXTINF:-1 tvg-id="famelack-vpmw5YCzbuvKxE" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.ibb.co/B5BfmQNs/ATM.jpg" tvg-status="live" group-title="Entertainment",ATM Rozrywka REWORK
 https://grupaatmrr.org.pl:8888/fallback/index.m3u8
@@ -73,8 +73,8 @@ https://3ee905090d464be5a51478fd9c642e93.mediatailor.us-east-1.amazonaws.com/v1/
 http://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cHM6Ly9obHMtY2RuMS5keXZ5YXBwLmNvbS9NdXNpYy1Cb3gvdHJhY2tzLXYxYTEvbW9uby50cy5tM3U4P3Rva2VuPWV5SmhiR2NpT2lKSVV6STFOaUlzSW5SNWNDSTZJa3BYVkNKOS5leUpqYUdGdWJtVnNYMmxrSWpvMU55d2lZMmhoYm01bGJGOXVZVzFsSWpvaVRYVnphV01nUW05NElpd2lhWEFpT2lJeE56Z3VNVE0yTGpReUxqSXlNQ0lzSW1OdmRXNTBjbmtpT2lKVmEzSmhhVzVsSWl3aWRYTmxjbDlwWkNJNk56UXdOeXdpZFhObGNsOXdhRzl1WlNJNklpc3pPREE1TXpBNU5qYzBNak1pTENKMWMyVnlYM0p2YkdWeklqcGJJbU5zYVdWdWRDSmRMQ0p3Y205bWFXeGxYMmxrSWpvMk5EY3hMQ0p6WlhOemFXOXVYMmxrSWpvaVpEQXdPVFppWmpndE1qTmxOUzAwWldVMkxXSmxNelV0Wmpnd09ETTVaV1k1WkRnMElpd2laVzUyYVhKdmJtMWxiblFpT2lKd2NtOWtkV04wYVc5dUlpd2ljR3hoZEdadmNtMGlPaUpFWlhOcmRHOXdJaXdpZFhObGNsOWhaMlZ1ZENJNklrMXZlbWxzYkdGY0x6VXVNQ0FvVjJsdVpHOTNjeUJPVkNBeE1DNHdPeUJYYVc0Mk5Ec2dlRFkwS1NCQmNIQnNaVmRsWWt0cGRGd3ZOVE0zTGpNMklDaExTRlJOVEN3Z2JHbHJaU0JIWldOcmJ5a2dRMmh5YjIxbFhDOHhOVEl1TUM0d0xqQWdVMkZtWVhKcFhDODFNemN1TXpZaUxDSmxlSEFpT2pFM09EZ3hPRFV4TmpkOS5nYUo1WGRxTjJ3djY2SnFxYldnX0dGUzY3V3lZVEVOc0JQa3VpcU1sNTVN&master=57
 #EXTINF:-1 tvg-id="NewsmaxPolska.pl" tvg-country="PL" tvg-language="Polish" tvg-logo="https://mmponline.pl/news/media/12/Telewizja_Newsmax_logo-114804.jpeg" tvg-status="live" group-title="News",Newsmax Polska
 http://91.228.35.249:8001/1:0:1:1C8A:1CE8:71:820000:0:0:0
-#EXTINF:-1 tvg-id="famelack-lgqzeQFxqCN8jW" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/fH8rKs3.png" tvg-status="live" group-title="General",NewTV
-https://1409502578.rsc.cdn77.org/live/stream-1/playlist.m3u8
+#EXTINF:-1 tvg-id="NewTV.pl" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/fH8rKs3.png" tvg-status="live" group-title="General",NewTV
+https://1409502578.rsc.cdn77.org/live/stream-1/chunklist.m3u8
 #EXTINF:-1 tvg-id="PixelTV.pl" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.ibb.co/S4jM2WXk/pixeltv.png" tvg-status="live" group-title="Animation",Pixel TV
 https://jmp2.uk/plu-62790dc1c733e8000733ba4d.m3u8
 #EXTINF:-1 tvg-id="Polsat.pl" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/xff6zGN.png" tvg-status="down" group-title="General",Polsat
@@ -125,6 +125,8 @@ https://www.youtube-nocookie.com/embed/xSgIrK_b2mI
 https://www.youtube-nocookie.com/embed/j50JVAlVL-g
 #EXTINF:-1 tvg-id="famelack-BlvOv7Ksnyq1tc" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/XC7i7ZL.png" tvg-status="live" group-title="Business",Telewizja Biznesowa
 https://s-pl-01.mediatool.tv/playout/tbpl-abr/index.m3u8
+#EXTINF:-1 tvg-id="famelack-hjCXHjX41BNCM8" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/z3pmipz.png" tvg-status="live" group-title="General",Telewizja Gorzów
+https://www.youtube-nocookie.com/embed/B7MuxcSgcgg
 #EXTINF:-1 tvg-id="famelack-hs9A8d0OBl1eij" tvg-country="PL" tvg-language="Polish" tvg-logo="https://www.ittv.pl/media/images/ittv-logo.png" tvg-status="live" group-title="General",Telewizja iTTV
 https://5d84fe297ee2b.streamlock.net/sercanie/scj_florek.stream_aac/playlist.m3u8
 #EXTINF:-1 tvg-id="famelack-Zfbee02Fm1Nqwi" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/nV2jQQP.png" tvg-status="live" group-title="General",Telewizja Jaslo
@@ -181,6 +183,8 @@ http://185.227.34.179:8080/tvp-rozrywka/index.m3u8
 https://lon1-y7p7cyzc7vdh.lolokoko.tv/f_TVPSERIALE.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="TVP1.pl" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/ewpSjBs.png" tvg-status="down" group-title="General",TVP1
 https://cdn-s-lb2.pluscdn.pl/ch/1565219/2356/dash/312c7bf8/live.mpd
+#EXTINF:-1 tvg-id="famelack-8fkva1GfM7tM4w" tvg-country="PL" tvg-language="Polish" tvg-logo="" tvg-status="live" group-title="News",TVSUDECKA PL
+https://www.youtube-nocookie.com/embed/3bTGntbVnKo
 #EXTINF:-1 tvg-id="TVT.pl" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/oZyeUzG.png" tvg-status="down" group-title="General",TVT
 https://live.streamtvt.pl/LiveAppStreamTVT/streams/853271271313930867905724.m3u8
 #EXTINF:-1 tvg-id="TVTZgorzelec.pl" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/zhzVpgf.jpg" tvg-status="down" group-title="General",TVT Zgorzelec

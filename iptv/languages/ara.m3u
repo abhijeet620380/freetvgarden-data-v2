@@ -95,7 +95,7 @@ https://streaming.najah.edu:8443/hls/AlNajah.m3u8
 https://streamer3.premio.link/alqamar/playlist.m3u8
 #EXTINF:-1 tvg-id="famelack-gUNShL4GZ5DwVP" tvg-country="SA" tvg-language="Arabic" tvg-logo="https://i.imgur.com/A2fJysM.png" tvg-status="live" group-title="Religious",Al Quran Al Kareem TV
 https://cdn-globecast.akamaized.net/live/eds/saudi_quran/hls_roku/index.m3u8
-#EXTINF:-1 tvg-id="AlRasheedTV.iq" tvg-country="IQ" tvg-language="Arabic" tvg-logo="https://i.imgur.com/ltyRjPK.png" tvg-native-name="قناة الرشيد الفضائية" tvg-status="live" group-title="General",Al Rasheed TV
+#EXTINF:-1 tvg-id="famelack-CM6FuW5WtTCo5H" tvg-country="IQ" tvg-language="Arabic" tvg-logo="https://i.imgur.com/ltyRjPK.png" tvg-native-name="قناة الرشيد الفضائية" tvg-status="live" group-title="General",Al Rasheed TV
 https://media1.livaat.com/static/AL-RASHEED-HD/playlist.m3u8
 #EXTINF:-1 tvg-id="famelack-z0QVI0gadd5X4p" tvg-country="QA" tvg-language="Arabic" tvg-logo="https://i.imgur.com/4qB5iN0.png" tvg-status="live" group-title="General",Al Rayyan Old TV
 https://alrayyancdn.vidgyor.com/pub-nooldraybinbdh/liveabr/playlist_dvr.m3u8
@@ -127,9 +127,9 @@ https://svs.itworkscdn.net/alwoustalive/alwoustatv.smil/playlist.m3u8
 https://hlspackager.akamaized.net/live/DB/ALYAUM_TV/HLS/ALYAUM_TV.m3u8
 #EXTINF:-1 tvg-id="AlAimmaTV.iq" tvg-country="IQ" tvg-language="Arabic" tvg-logo="https://alaimma.tv/alaimma-logo.png" tvg-native-name="قناة الائمة" tvg-status="live" group-title="Religious",Al-Aimma TV
 https://alaimma.tv/live/index.m3u8
-#EXTINF:-1 tvg-id="AlFadyTV.us" tvg-country="US" tvg-language="Arabic" tvg-logo="https://i.imgur.com/7L0l0iY.png" tvg-status="live" group-title="Religious",Al-Fady TV
+#EXTINF:-1 tvg-id="AlFadyTV.us" tvg-country="US" tvg-language="Arabic" tvg-logo="https://i.imgur.com/7L0l0iY.png" tvg-status="down" group-title="Religious",Al-Fady TV
 https://5d658d7e9f562.streamlock.net/alfadytv.tv/alfadytv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="famelack-SJ1fJzR4YH5Qub" tvg-country="LB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/4WKQppG.png" tvg-status="live" group-title="Religious",Al-Iman TV
+#EXTINF:-1 tvg-id="AlImanTV.lb" tvg-country="LB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/4WKQppG.png" tvg-status="live" group-title="Religious",Al-Iman TV
 https://svs.itworkscdn.net/alimanlive/imantv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="famelack-gqagHcGI6e4lYf" tvg-country="IQ" tvg-language="Arabic" tvg-logo="https://i.imgur.com/Eo3UYCK.png" tvg-status="live" group-title="Religious",Al-Jawadain TV
 https://live.aljawadain.org/live/aljawadaintv/playlist.m3u8
@@ -219,15 +219,15 @@ http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
 http://149.100.11.252:8000/play/a065/index.m3u8
 #EXTINF:-1 tvg-id="famelack-ymEZZ9kXLlqF9g" tvg-country="AE" tvg-language="Arabic" tvg-logo="" tvg-status="live" group-title="Business",Asharq Business اقتصاد الشرق
 https://www.youtube-nocookie.com/embed/hXKYpuTEwqk
-#EXTINF:-1 tvg-id="famelack-5ZGnLxWOqASmvp" tvg-country="SA" tvg-language="Arabic" tvg-logo="https://i.imgur.com/Czxi7yk.png" tvg-native-name="الشرق ديسكفري" tvg-status="live" group-title="Documentary",Asharq Discovery
+#EXTINF:-1 tvg-id="famelack-5ZGnLxWOqASmvp" tvg-country="SA" tvg-language="Arabic" tvg-logo="https://i.imgur.com/Czxi7yk.png" tvg-native-name="الشرق ديسكفري" tvg-status="live" group-title="Education",Asharq Discovery
 https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist_dvr.m3u8
 #EXTINF:-1 tvg-id="famelack-eNsC6GxX1XiJq8" tvg-country="SA" tvg-language="Arabic" tvg-logo="https://i.imgur.com/v6VsFEt.png" tvg-native-name="الشرق الوثائقية" tvg-status="live" group-title="Documentary",Asharq Documentary
 https://svs.itworkscdn.net/asharqdocumentarylive/asharqdocumentary.smil/playlist_dvr.m3u8
-#EXTINF:-1 tvg-id="famelack-3IPx7Vn2DfdZ1y" tvg-country="SA" tvg-language="Arabic" tvg-logo="https://i.imgur.com/bqRC3sl.png" tvg-native-name="الشرق للأخبار" tvg-status="live" group-title="News",Asharq News
+#EXTINF:-1 tvg-id="famelack-3IPx7Vn2DfdZ1y" tvg-country="SA" tvg-language="Arabic" tvg-logo="https://i.imgur.com/bqRC3sl.png" tvg-native-name="الشرق للأخبار" tvg-status="live" group-title="Business",Asharq News
 https://live-news.asharq.com/asharq.m3u8
 #EXTINF:-1 tvg-id="famelack-UOQdhq6UsdYdn7" tvg-country="AE" tvg-language="Arabic" tvg-logo="" tvg-status="live" group-title="News",Asharq News
 https://www.youtube-nocookie.com/embed/f6VpkfV7m4Y
-#EXTINF:-1 tvg-id="famelack-Tl12ojqlqKkMqp" tvg-country="SA" tvg-language="Arabic" tvg-logo="https://i.imgur.com/M6K8cD3.jpeg" tvg-native-name="الشرق راديو" tvg-status="live" group-title="News",Asharq Radio
+#EXTINF:-1 tvg-id="famelack-Tl12ojqlqKkMqp" tvg-country="SA" tvg-language="Arabic" tvg-logo="https://i.imgur.com/M6K8cD3.jpeg" tvg-native-name="الشرق راديو" tvg-status="live" group-title="Business",Asharq Radio
 https://svs.itworkscdn.net/asharqradiovlive/asharqradiov/playlist.m3u8
 #EXTINF:-1 tvg-id="famelack-7UH7D0PeeD0PV4" tvg-country="IR" tvg-language="Arabic" tvg-logo="https://i.imgur.com/gROQqFD.png" tvg-status="live" group-title="General",Asil TV
 https://live.asil.tv/asiltv/index.m3u8
@@ -311,8 +311,6 @@ https://mn-nl.mncdn.com/elsharq_live/live/playlist.m3u8
 https://livesstream.work.gd:5443/WebRTCApp/streams/stream.m3u8
 #EXTINF:-1 tvg-id="famelack-YRWHSN7GJpzMLf" tvg-country="ER" tvg-language="Arabic" tvg-logo="https://i.imgur.com/bTR0Huw.png" tvg-status="live" group-title="General",ERi-TV 1
 https://jmc-live.ercdn.net/eritreatv/eritreatv.m3u8
-#EXTINF:-1 tvg-id="famelack-ocf60Z4awZQ5ZB" tvg-country="EG" tvg-language="Arabic" tvg-logo="https://i.imgur.com/9HREF7o.png" tvg-native-name="اكسترا نيوز" tvg-status="live" group-title="News",eXtra news
-https://www.youtube-nocookie.com/embed/Yuut4hpX_Pk
 #EXTINF:-1 tvg-id="Fairuz.sa" tvg-country="SA" tvg-language="Arabic" tvg-logo="https://shahid.mbc.net/mediaObject/f809d51c-e83d-43c9-8236-78731c2216ad?type=png" tvg-native-name="فيروز" tvg-status="live" group-title="Music",Fairuz
 https://shd-amg-fast.edgenextcdn.net/tx029/playlist.m3u8
 #EXTINF:-1 tvg-id="famelack-foEVFoZwWIxidj" tvg-country="PS" tvg-language="Arabic" tvg-logo="https://i.imgur.com/6B3Cims.png" tvg-status="live" group-title="Music",Falastini TV
@@ -323,7 +321,7 @@ https://live.france24.com/hls/live/2037222-b/F24_AR_HI_HLS/master_2300.m3u8
 https://live.kwikmotion.com/fujairahlive/fujairah.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="famelack-zbc7OvMJjNYiAj" tvg-country="LB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/OaqEpwe.png" tvg-native-name="تلفزيون المستقبل" tvg-status="live" group-title="General",Future TV
 https://live.kwikmotion.com/futurelive/ftv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="famelack-IGkGdoXwnCTsO2" tvg-country="PK" tvg-language="Arabic" tvg-logo="" tvg-status="live" group-title="Kids",God Stands Kids Club TV Arabic
+#EXTINF:-1 tvg-id="famelack-IGkGdoXwnCTsO2" tvg-country="PK" tvg-language="Arabic" tvg-logo="" tvg-status="live" group-title="Religious",God Stands Kids Club TV Arabic
 https://online.godstands.tv:5443/WebRTCApp/streams/KidsArabic.m3u8
 #EXTINF:-1 tvg-id="famelack-TmKO7eJbzWWIRg" tvg-country="PK" tvg-language="Arabic" tvg-logo="" tvg-status="live" group-title="Religious",God Stands TV Arabic
 https://online.godstands.tv:5443/WebRTCApp/streams/Arabic.m3u8
@@ -339,7 +337,7 @@ https://halalondon-live.ercdn.net/halalondon/halalondon.m3u8
 https://stream.panet.com/edge/halaTV/playlist.m3u8
 #EXTINF:-1 tvg-id="famelack-Zb4yx0Hhhjqp7h" tvg-country="SY" tvg-language="Arabic" tvg-logo="https://pbs.twimg.com/profile_images/1779495135841075200/aPINrLwe_400x400.png" tvg-native-name="قناة حلب اليوم" tvg-status="live" group-title="News",Halab Today TV
 https://halabtoday-live.lg.mncdn.com/halabtoday/livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="famelack-fQcCHNgM8xPjsB" tvg-country="SA" tvg-language="Arabic" tvg-logo="https://i.imgur.com/ut0kr4x.png" tvg-native-name="إذاعة القرآن الكريم" tvg-status="live" group-title="General",Holy Quran Radio
+#EXTINF:-1 tvg-id="famelack-fQcCHNgM8xPjsB" tvg-country="SA" tvg-language="Arabic" tvg-logo="https://i.imgur.com/ut0kr4x.png" tvg-native-name="إذاعة القرآن الكريم" tvg-status="live" group-title="Religious",Holy Quran Radio
 https://live.kwikmotion.com/sbrksaquranradiolive/srpksaquranradio/playlist.m3u8
 #EXTINF:-1 tvg-id="HolyQuranRadioNablus.ps" tvg-country="PS" tvg-language="Arabic" tvg-logo="https://quran-radio.com/assets/images/site/quran-radio-logo-h-rtl.png" tvg-native-name="إذاعة القرآن الكريم نابلس" tvg-status="live" group-title="Religious",Holy Quran Radio Nablus
 http://streaming.zaytonatube.com:8080/holyquran/holyquran/video.m3u8
@@ -387,7 +385,7 @@ http://82.212.74.2:8000/live/7311.m3u8
 https://ktvlive.online/stream/hls/ch3.m3u8
 #EXTINF:-1 tvg-id="KolalnasTV.ps" tvg-country="PS" tvg-language="Arabic" tvg-logo="https://i.imgur.com/OyMxcRG.png" tvg-status="down" group-title="News",Kolalnas TV
 https://htvint.mada.ps/kolalnas/index.m3u8
-#EXTINF:-1 tvg-id="famelack-7QNwjfAH3tZtOn" tvg-country="EG" tvg-language="Arabic" tvg-logo="https://i.imgur.com/zojMTP9.png" tvg-native-name="قناة كوجى" tvg-status="live" group-title="Kids",Koogi TV
+#EXTINF:-1 tvg-id="KoogiTV.eg" tvg-country="EG" tvg-language="Arabic" tvg-logo="https://i.imgur.com/zojMTP9.png" tvg-native-name="قناة كوجى" tvg-status="live" group-title="Kids",Koogi TV
 https://5d658d7e9f562.streamlock.net/koogi.tv/koogi.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="famelack-ReX8AreJwWmYHR" tvg-country="SA" tvg-language="Arabic" tvg-logo="" tvg-status="live" group-title="Sports",KSA Sports
 https://www.youtube-nocookie.com/embed/TK1XWtPXj6w
@@ -515,7 +513,7 @@ https://afghantv.app/hls2/muslimnetwork/index.m3u8
 http://31.14.40.237:1935/live/Nabaa/playlist.m3u8
 #EXTINF:-1 tvg-id="NablusTV.ps" tvg-country="PS" tvg-language="Arabic" tvg-logo="https://i.imgur.com/GoLhaDK.png" tvg-status="down" group-title="News",Nablus TV
 http://htvmada.mada.ps:8888/nabluslive/index.m3u8
-#EXTINF:-1 tvg-id="NidaeAlIslamRadio.sa" tvg-country="SA" tvg-language="Arabic" tvg-logo="https://i.imgur.com/laEk64E.png" tvg-status="live" group-title="Music",Nidae AlIslam Radio
+#EXTINF:-1 tvg-id="famelack-LPJDqWkJ3mRR4C" tvg-country="SA" tvg-language="Arabic" tvg-logo="https://i.imgur.com/laEk64E.png" tvg-status="live" group-title="Music",Nidae AlIslam Radio
 https://live.kwikmotion.com/sbrksanedaradiolive/srpksanedaradio/playlist.m3u8
 #EXTINF:-1 tvg-id="NogoumFMTV.eg" tvg-country="EG" tvg-language="Arabic" tvg-logo="https://i.imgur.com/krp3kgv.png" tvg-status="down" group-title="Music",NogoumFMTV
 https://nogoumtv.nrpstream.com/hls/stream.m3u8
@@ -545,7 +543,7 @@ https://hms.pfs.gdn/v1/broadcast/one/playlist.m3u8
 https://hms.pfs.gdn/v1/broadcast/onefm/playlist.m3u8
 #EXTINF:-1 tvg-id="OTV.lb" tvg-country="LB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/toxFMeY.png" tvg-native-name="أو تي في" tvg-status="live" group-title="General",OTV
 https://otv.hibridcdn.net/otv/tv_abr/playlist.m3u8
-#EXTINF:-1 tvg-id="PalestineAlYawm.lb" tvg-country="LB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/n8dSgx4.png" tvg-native-name="قناة فلسطين اليوم الفضائية" tvg-status="live" group-title="News",Palestine Al Yawm
+#EXTINF:-1 tvg-id="famelack-2IP0NHvFLY6hEX" tvg-country="LB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/n8dSgx4.png" tvg-native-name="قناة فلسطين اليوم الفضائية" tvg-status="live" group-title="News",Palestine Al Yawm
 https://live.paltodaytv.com/paltv/live/playlist_sfm4s.m3u8
 #EXTINF:-1 tvg-id="famelack-qHPud6QAjClK6g" tvg-country="PS" tvg-language="Arabic" tvg-logo="https://i.imgur.com/AwVHXyC.png" tvg-status="live" group-title="Education",Palestine Edu
 https://pbc.furrera.ps/PalestineEDU/index.m3u8
@@ -571,7 +569,7 @@ https://qatartv.akamaized.net/hls/live/20000609/qtv1/master.m3u8
 https://qatartv.akamaized.net/hls/live/20000611/qtv2/master.m3u8
 #EXTINF:-1 tvg-id="famelack-NomK7G7r84yUBH" tvg-country="QA" tvg-language="Arabic" tvg-logo="https://www.qmc.qa/img/LiveChannels/1ca67a44-9290-4b2a-8a16-d8c6e2260816.jpg" tvg-native-name="تلفزيون قطر القران الكريم" tvg-status="live" group-title="Religious",Qatar TV The Holy Quran
 https://qatartv.akamaized.net/hls/live/20000612/qtvquran/master.m3u8
-#EXTINF:-1 tvg-id="famelack-1ivzt9CdjGwK6L" tvg-country="QA" tvg-language="Arabic" tvg-logo="https://www.qbc.news/_next/static/media/logo.0~2x9wpd284~a.svg" tvg-native-name="كيو بي سي" tvg-status="live" group-title="News",QBC
+#EXTINF:-1 tvg-id="famelack-1ivzt9CdjGwK6L" tvg-country="QA" tvg-language="Arabic" tvg-logo="https://www.qbc.news/_next/static/media/logo.0~2x9wpd284~a.svg" tvg-native-name="كيو بي سي" tvg-status="live" group-title="Business",QBC
 https://live.kwikmotion.com/qbusinesslive/qbusiness.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="RabehSaqer.sa" tvg-country="SA" tvg-language="Arabic" tvg-logo="https://shahid.mbc.net/mediaObject/b98b0635-c8ed-4a7c-9efa-5856e278f54b?type=png" tvg-native-name="رابح صقر" tvg-status="live" group-title="Music",Rabeh Saqer
 https://shd-amg-fast.edgenextcdn.net/tx004/playlist.m3u8
@@ -631,7 +629,7 @@ https://live.saharamedias.net:3317/live/shara24live.m3u8
 https://live.bradosti.net/live/samaraweb_playlist.m3u8
 #EXTINF:-1 tvg-id="famelack-m0RI6HqHFeSa3t" tvg-country="CY" tvg-language="Arabic" tvg-logo="https://i.imgur.com/BzDjQeQ.png" tvg-status="live" group-title="General",Sat 7 Arabic
 https://svs.itworkscdn.net/sat7arabiclive/sat7arabic.smil/playlist_dvr.m3u8
-#EXTINF:-1 tvg-id="famelack-jeM871QPFywzzg" tvg-country="CY" tvg-language="Arabic" tvg-logo="https://i.imgur.com/M0ik0i2.png" tvg-status="live" group-title="Kids",Sat 7 Kids
+#EXTINF:-1 tvg-id="famelack-jeM871QPFywzzg" tvg-country="CY" tvg-language="Arabic" tvg-logo="https://i.imgur.com/M0ik0i2.png" tvg-status="live" group-title="Religious",Sat 7 Kids
 https://svs.itworkscdn.net/sat7kidslive/sat7kids.smil/playlist_dvr.m3u8
 #EXTINF:-1 tvg-id="SaudiThaqafiyaTV.sa" tvg-country="SA" tvg-language="Arabic" tvg-logo="https://shahid.mbc.net/mediaObject/55f69983-5b4b-47c7-9c25-06ed5ad860a4?height=auto&width=512&croppingPoint=&version=1&type=jpeg" tvg-native-name="الثقافية السعودية" tvg-status="live" group-title="Culture",Saudi Thaqafiya TV
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-thaqafeyyah/28c0d2a20dbf1dc049ce15d3973f494b/index.m3u8
