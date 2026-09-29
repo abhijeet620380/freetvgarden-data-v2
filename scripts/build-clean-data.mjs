@@ -647,6 +647,25 @@ async function main() {
     passedThisRun: true
   }));
 
+  // Famelack sometimes lists the SAME stream under two different names (e.g. "Epic Bharat"
+  // and "Epic Bharat Digital" both pointing at one identical URL). Publishing both makes the
+  // site show two channels that are really one feed, and confuses anything that looks a
+  // channel up by URL. Keep only the first one seen per (country, url); drop the rest.
+  {
+    const seenUrl = new Map();     // "CC|url" -> name of the one we kept
+    const deduped = [];
+    let dropped = 0;
+    for (const ch of [...famelackResults]) {
+      const key = `${ch.country}|${ch.url}`;
+      const first = seenUrl.get(key);
+      if (!first) { seenUrl.set(key, ch.name); deduped.push(ch); }
+      else { dropped++; console.log(`  Famelack duplicate stream: "${ch.name}" [${ch.country}] shares its URL with "${first}" - dropped "${ch.name}".`); }
+    }
+    famelackResults.length = 0;
+    famelackResults.push(...deduped);
+    if (dropped) console.log(`Famelack same-URL duplicates removed: ${dropped}.`);
+  }
+
   // Borrow logos / native names from iptv-org for Famelack channels that lack them.
   const brandIndex = buildBrandIndex(channels, getLogo);
   backfillFamelackAssets(famelackResults, brandIndex);
@@ -660,7 +679,13 @@ async function main() {
     if (!existing) {
       byKey.set(key, ch);
       famelackAddedNew++;
-    } else if (!existing.passedThisRun && ch.passedThisRun) {
+    } else {
+      // Famelack is a curated source, so it always wins over iptv-org for the same
+      // name+country - even when iptv-org's stream is technically still "alive". This
+      // matters because iptv-org sometimes has a generic/outdated URL (e.g. a shared
+      // Airtel Xstream link) that many differently-named channels default to, which is
+      // "live" but wrong, and previously blocked Famelack's correct, distinct URL from
+      // ever replacing it.
       if (!ch.native_name && existing.native_name) ch.native_name = existing.native_name;
       if (!ch.logo && existing.logo) ch.logo = existing.logo;   // don't lose the logo when swapping the stream
       byKey.set(key, ch);
@@ -717,28 +742,70 @@ async function main() {
 
   // INJECT CUSTOM M3U CHANNELS HERE
   const manualChannels = await loadManualChannels();
+  {
+    // Index what's already published (Famelack + iptv-org + curated YouTube) by EXACT
+    // name+country (no "HD"/"Digital" stripping - a custom "Zee Cinema HD" entry SHOULD
+    // have a different URL than "Zee Cinema", so treating them as "the same channel, no
+    // need to check" would hide the exact bug we're looking for) and by URL, so a
+    // custom-channels entry that duplicates one of them gets flagged BEFORE it's added.
+    const existingByNameCC = new Map();   // "cc|exact name" -> "Existing Name [source]"
+    const existingByUrl = new Map();      // url -> "Existing Name [source]"
+    const exactKey = (name, cc) => `${String(cc).toUpperCase()}|${String(name || '').trim().toLowerCase()}`;
+    for (const c of finalChannels) {
+      if (c.name && c.country) existingByNameCC.set(exactKey(c.name, c.country), `${c.name} [${c.source}]`);
+      if (c.url) existingByUrl.set(c.url, `${c.name} [${c.source}]`);
+    }
+    for (const custom of manualChannels) {
+      const nameHit = custom.country && existingByNameCC.get(exactKey(custom.name, custom.country));
+      const urlHit = custom.url && existingByUrl.get(custom.url);
+      // Same name AND same URL as one existing channel -> it's a legitimate re-publish of
+      // that exact channel (e.g. a working replacement for a broken source), not a mistake.
+      const isIntentionalSameChannel = nameHit && urlHit && nameHit === urlHit;
+      if (nameHit && !isIntentionalSameChannel) {
+        console.log(`  Custom channel "${custom.name}" [${custom.country}] has the exact same name as an existing channel: ${nameHit}. Check this is meant to replace it, not duplicate it.`);
+      }
+      if (urlHit && !isIntentionalSameChannel) {
+        console.log(`  Custom channel "${custom.name}" [${custom.country || '?'}] uses the SAME stream URL as an existing channel: ${urlHit}. Two different channel names should not share one URL - check for a copy-paste mistake.`);
+      }
+    }
+  }
   for (const custom of manualChannels) {
-    finalChannels.push(custom);
+    // Replace, don't duplicate, if a channel with this exact name+country is already
+    // published (from Famelack/iptv-org/YouTube, or an earlier custom entry).
+    const existingIndex = finalChannels.findIndex(
+      c => String(c.name || "").toLowerCase() === String(custom.name || "").toLowerCase() && c.country === custom.country
+    );
+    if (existingIndex !== -1) finalChannels[existingIndex] = custom;
+    else finalChannels.push(custom);
     newStatus[custom.id] = { consecutiveFails: 0, status: "live", lastChecked: new Date().toISOString(), source: "custom-m3u" };
   }
 
-  // Warn about any tvg-id used by more than one PUBLISHED channel. The website looks a
-  // channel up by id in a few places (e.g. re-syncing the live URL when you press play),
-  // so two different channels sharing an id can make the site show the wrong one. This is
-  // a log-only warning - it does not change which channels get published.
+  // Warn about any tvg-id OR stream URL used by more than one PUBLISHED channel, from ANY
+  // source (Famelack, iptv-org, custom-channels, curated YouTube). This is what actually
+  // catches things like a custom-channels entry accidentally reusing another channel's URL:
+  // the website looks a channel up by id in a few places (e.g. re-syncing the live URL when
+  // you press play), and by URL in others (e.g. highlighting which row is "now playing"), so
+  // either kind of collision can make the site show the wrong channel. Log-only - it does not
+  // change which channels get published, and does not touch which one "wins" on the site.
   {
-    const byId = new Map();
+    const byId = new Map(), byUrl = new Map();
     for (const c of finalChannels) {
-      if (!c.id) continue;
-      if (!byId.has(c.id)) byId.set(c.id, []);
-      byId.get(c.id).push(c.name);
+      if (c.id) { if (!byId.has(c.id)) byId.set(c.id, []); byId.get(c.id).push(c.name); }
+      if (c.url) { if (!byUrl.has(c.url)) byUrl.set(c.url, []); byUrl.get(c.url).push(`${c.name} [${c.source}]`); }
     }
-    const dupes = [...byId.entries()].filter(([, names]) => names.length > 1);
-    if (dupes.length) {
-      console.log(`WARNING: ${dupes.length} tvg-id(s) are shared by more than one channel - this can make the site show the wrong channel/URL:`);
-      for (const [id, names] of dupes.slice(0, 30)) console.log(`  "${id}" used by: ${names.join(' | ')}`);
-      if (dupes.length > 30) console.log(`  ...and ${dupes.length - 30} more.`);
+    const idDupes = [...byId.entries()].filter(([, names]) => names.length > 1);
+    if (idDupes.length) {
+      console.log(`WARNING: ${idDupes.length} tvg-id(s) are shared by more than one channel:`);
+      for (const [id, names] of idDupes.slice(0, 30)) console.log(`  id "${id}" used by: ${names.join(' | ')}`);
+      if (idDupes.length > 30) console.log(`  ...and ${idDupes.length - 30} more.`);
     }
+    const urlDupes = [...byUrl.entries()].filter(([, names]) => names.length > 1);
+    if (urlDupes.length) {
+      console.log(`WARNING: ${urlDupes.length} stream URL(s) are shared by more than one channel - each pair is playing the exact same stream:`);
+      for (const [url, names] of urlDupes.slice(0, 30)) console.log(`  ${names.join(' | ')}\n    -> ${url}`);
+      if (urlDupes.length > 30) console.log(`  ...and ${urlDupes.length - 30} more.`);
+    }
+    if (!idDupes.length && !urlDupes.length) console.log("No shared tvg-ids or stream URLs found across published channels.");
   }
 
   // --- FILTER OUT UNPUBLISHED CHANNELS ---
