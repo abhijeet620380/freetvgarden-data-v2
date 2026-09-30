@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-id="black.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/Q4A6ci4.png" tvg-status="live" group-title="Entertainment",.black
 http://stream.mcquack.net/263/index.m3u8
 #EXTINF:-1 tvg-id="red.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/GET9Qut.png" tvg-status="live" group-title="Entertainment",.red
-http://stream.mcquack.net/69/index.m3u8
+http://178.134.1.158:8081/red/index.m3u8
 #EXTINF:-1 tvg-id="scifi.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/nSSUHcg.png" tvg-status="live" group-title="Science",.sci-fi
 http://stream.mcquack.net/180/index.m3u8
 #EXTINF:-1 tvg-id="15PlusMusic.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/kj21hwd.png" tvg-status="down" group-title="Music",15+ Music
@@ -504,7 +504,7 @@ https://cdn.ntv.ru/th_style/playlist.m3u8
 #EXTINF:-1 tvg-id="NTVVitrina.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/NTV_logo_2003.svg/1280px-NTV_logo_2003.svg.png" tvg-native-name="НТВ Витрина" tvg-status="live" group-title="General",NTV Vitrina
 https://cdn.ntv.ru/vitrina/index.m3u8
 #EXTINF:-1 tvg-id="NTVHit.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/FfKBvz5.png" tvg-native-name="НТВ-Хит" tvg-status="live" group-title="Series",NTV-Hit
-https://cdn.ntv.ru/th_hit/playlist.m3u8
+http://178.134.1.158:8081/ntvhit/index.m3u8
 #EXTINF:-1 tvg-id="famelack-Fjtpd5BvjmY1Dr" tvg-country="RU" tvg-language="English" tvg-logo="https://i.imgur.com/LwXNUhf.png" tvg-native-name="НВК Саха" tvg-status="live" group-title="General",NVK Sakha
 https://live-saha.cdnvideo.ru/saha/saha/playlist.m3u8
 #EXTINF:-1 tvg-id="O.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/pDc665V.png" tvg-native-name="О!" tvg-status="live" group-title="Kids",O!
@@ -807,7 +807,7 @@ http://str2.iptvhd.ru:8080/HD_Life/index.m3u8
 https://live-tolknews.cdnvideo.ru/tolknews/stream/playlist.m3u8
 #EXTINF:-1 tvg-id="Tonus.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://tonustv.ru/img/logos/8806.svg" tvg-native-name="Тонус" tvg-status="live" group-title="General",Tonus
 http://194.143.148.28:8080/Mir24/index.m3u8
-#EXTINF:-1 tvg-id="famelack-rOQGdTPomjbnWK" tvg-country="RU" tvg-language="Russian" tvg-logo="https://tooku.ru/wp-content/uploads/2024/11/tooku-kanal-logo.png" tvg-native-name="Тооку" tvg-status="live" group-title="Kids",Tooku
+#EXTINF:-1 tvg-id="famelack-rOQGdTPomjbnWK" tvg-country="RU" tvg-language="Russian" tvg-logo="https://tooku.ru/wp-content/uploads/2024/11/tooku-kanal-logo.png" tvg-native-name="Тооку" tvg-status="live" group-title="Animation",Tooku
 https://live-saha.cdnvideo.ru/saha/tooky/playlist.m3u8
 #EXTINF:-1 tvg-id="TopSecret.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/HM4xy4G.png" tvg-native-name="Совершенно секретно" tvg-status="down" group-title="Documentary",Top Secret
 http://hls127.freeott.top:8080/Sovershenno_Sekretno/video.m3u8
