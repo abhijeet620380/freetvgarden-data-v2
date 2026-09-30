@@ -35,7 +35,7 @@ https://atomic.streamnet.ro/atomictv.m3u8
 https://hls02ns.antenaplay.ro/hls/b1-tv-hd/index.m3u8
 #EXTINF:-1 tvg-id="BollywoodClassic.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/ugPo6ca.png" tvg-status="live" group-title="Movies",Bollywood Classic
 https://flash1.bogulus1.cfd/boly/usergenr9j8s2t.m3u8
-#EXTINF:-1 tvg-id="famelack-nqC1XmTU0qJuuy" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/bEMUpHZ.png" tvg-status="live" group-title="Movies",Bollywood Film
+#EXTINF:-1 tvg-id="famelack-nqC1XmTU0qJuuy" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/bEMUpHZ.png" tvg-status="live" group-title="Classic",Bollywood Film
 https://tvextra-hls.b-cdn.net/bollywoodfilm/bollywoodfilm.m3u8
 #EXTINF:-1 tvg-id="BollywoodHD.ro" tvg-country="RO" tvg-language="Hindi" tvg-logo="https://i.imgur.com/scDKOLS.png" tvg-status="live" group-title="Movies",Bollywood HD
 https://xykt-fix.github.io/cinerama_edge01/hls/BOLLYWOOD_RU/Movie009.m3u8
@@ -187,6 +187,10 @@ https://streamlov.alsolnet.com/radiofxnet/live/playlist.m3u8
 https://media.3netmedia.ro/hls/stream.m3u8
 #EXTINF:-1 tvg-id="RadioRomaniaAntenaSatelor.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://www.antenasatelor.ro/templates/default/images/custom/logo-main.svg" tvg-status="live" group-title="Music",Radio Romania Antena Satelor
 https://stream3.srr.ro/live/AntenaSatelor/playlist.m3u8
+#EXTINF:-1 tvg-id="RadioRomaniaOlteniaCraiova.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://www.rador.ro/wp-content/uploads/2017/06/logo-radio-oltenia-craiova.png" tvg-status="live" group-title="General",Radio Romania Oltenia-Craiova
+https://stream3.srr.ro/live/Radio-Oltenia/chunklist_w1200239883.m3u8
+#EXTINF:-1 tvg-id="RadioRomaniaTarguMures.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://myradioonline.ro/public/uploads/radio_img/radio-romania-targu-mures/fb_cover.jpg" tvg-status="live" group-title="General",Radio Romania Targu Mures
+https://stream3.srr.ro/live/radio-muresr/chunklist_w1731505049.m3u8
 #EXTINF:-1 tvg-id="RealitateaPlus.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://mailx.realitatea.net/skins/elastic/rtv.svg?s=1769106830" tvg-status="live" group-title="General",Realitatea Plus
 https://stream.realitatea.net/realitatea/plus_md/ts:playlist.m3u8
 #EXTINF:-1 tvg-id="RealitateaSportiva.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/BaEyZto.png" tvg-status="live" group-title="Sports",Realitatea Sportiva
@@ -243,7 +247,7 @@ https://tvr-cluj.lg.mncdn.com/tvrcluj/smil:tvrcluj.smil/playlist.m3u8
 https://tvr-craiova.lg.mncdn.com/tvrcraiova/smil:tvrcraiova.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="famelack-AgdBh1G6zjQQ1P" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/U9i70C9.png" tvg-status="live" group-title="Culture",TVR Cultural
 https://tvr-cultural.lg.mncdn.com/tvrcultural/smil:tvrcultural.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="famelack-pZ7DVIEngrRQGF" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/TVR_Folclor_Logo_2023.svg/960px-TVR_Folclor_Logo_2023.svg.png" tvg-status="live" group-title="General",TVR Folclor
+#EXTINF:-1 tvg-id="famelack-pZ7DVIEngrRQGF" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/TVR_Folclor_Logo_2023.svg/960px-TVR_Folclor_Logo_2023.svg.png" tvg-status="live" group-title="Music",TVR Folclor
 https://tvr-folclor.lg.mncdn.com/tvrfolclor/smil:tvrfolclor.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TVRIasi.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/Kxkihds.png" tvg-status="live" group-title="General",TVR Iasi
 https://tvr-iasi.lg.mncdn.com/tvriasi/smil:tvriasi.smil/playlist.m3u8
@@ -251,7 +255,7 @@ https://tvr-iasi.lg.mncdn.com/tvriasi/smil:tvriasi.smil/playlist.m3u8
 https://tvr-info.lg.mncdn.com/tvrinfo/smil:tvrinfo.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="famelack-otbytoTxWQ2OOt" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/w28wcHs.png" tvg-status="live" group-title="General",TVR International
 https://tvr-international.lg.mncdn.com/tvrinternational/smil:tvrinternational.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="famelack-lX8llbHeMkmnOY" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/TVR_Sport_Logo_2023.svg/960px-TVR_Sport_Logo_2023.svg.png" tvg-status="live" group-title="Sports",TVR Sport
+#EXTINF:-1 tvg-id="famelack-lX8llbHeMkmnOY" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/TVR_Sport_Logo_2023.svg/960px-TVR_Sport_Logo_2023.svg.png" tvg-status="live" group-title="General",TVR Sport
 https://tvr-sport.lg.mncdn.com/tvrsport/smil:tvrsport.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="famelack-ZDopo4R7djDObF" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/9Hptdqj.png" tvg-status="live" group-title="General",TVR Targu-Mures
 https://tvr-tgmures.lg.mncdn.com/tvrtgmures/smil:tvrtgmures.smil/playlist.m3u8
