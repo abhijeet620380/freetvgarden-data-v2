@@ -56,7 +56,7 @@ https://pantera1-100gb-cl-movistar.dps.live/campustv/campustv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="famelack-bL20OQOX6GoIrZ" tvg-country="CL" tvg-language="Spanish" tvg-logo="https://i.imgur.com/PGSixH5.png" tvg-status="live" group-title="General",Canal 1 Nuble
 https://tls-cl.cdnz.cl/canal21tv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal13.cl" tvg-country="CL" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Canal_13_2025.svg/960px-Canal_13_2025.svg.png" tvg-status="live" group-title="General",Canal 13
-http://15.204.246.24:8080/Canal13HD/index.m3u8
+https://redirector.dps.live/hls/13intav/playlist.m3u8
 #EXTINF:-1 tvg-id="famelack-hB7F4KiiS2y0zs" tvg-country="CL" tvg-language="Spanish" tvg-logo="https://i.imgur.com/MOwLCwT.png" tvg-status="live" group-title="General",Canal 2 Quellon
 https://pantera1-100gb-cl-movistar.dps.live/tvquellon/tvquellon.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="famelack-xxABX6a946nQJU" tvg-country="CL" tvg-language="Spanish" tvg-logo="https://i.imgur.com/dgUHqrQ.png" tvg-status="live" group-title="General",Canal 30 Loncomilla
@@ -89,7 +89,7 @@ https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/chunks.m3u8
 http://cdn1tlinkgo.tlink.cl/cdo/mono.m3u8
 #EXTINF:-1 tvg-id="famelack-Rk7MjjMU4jW3Hu" tvg-country="CL" tvg-language="Spanish" tvg-logo="https://cdn.m3u.cl/logo/1706_Central_TV.png" tvg-status="live" group-title="General",Central TV
 https://freya.mivideo.pro/centraltv/video.m3u8
-#EXTINF:-1 tvg-id="famelack-eko7uFhNP2g6vo" tvg-country="CL" tvg-language="English" tvg-logo="https://i.imgur.com/F1it6fh.png" tvg-status="live" group-title="Entertainment",Chile Channel
+#EXTINF:-1 tvg-id="famelack-eko7uFhNP2g6vo" tvg-country="CL" tvg-language="English" tvg-logo="https://i.imgur.com/F1it6fh.png" tvg-status="live" group-title="Travel",Chile Channel
 https://v2.tustreaming.cl/chilechannel/index.m3u8
 #EXTINF:-1 tvg-id="famelack-n4dKzonwHr1dN8" tvg-country="CL" tvg-language="Spanish" tvg-logo="https://i.imgur.com/PRijvR0.png" tvg-status="live" group-title="General",ChileVision
 https://www.youtube-nocookie.com/embed/fRt-PVrTI9g
@@ -325,7 +325,7 @@ https://unlimited2-cl-isp.dps.live/pudahueltv/pudahueltv.smil/playlist.m3u8
 https://tv.arkeo.cl:1936/radiorancagua/radiorancagua/playlist.m3u8
 #EXTINF:-1 tvg-id="famelack-iH1Ht1rUhcBhVb" tvg-country="CL" tvg-language="Spanish" tvg-logo="https://i.imgur.com/qU3E0kX.png" tvg-status="live" group-title="General",Radio Ritmo FM
 https://panel.tvstream.cl:1936/8046/8046/playlist.m3u8
-#EXTINF:-1 tvg-id="famelack-wqtEMGQtkW2vmM" tvg-country="CL" tvg-language="Spanish" tvg-logo="https://stream-tools.zenomedia.com/content/stations/883465cc-a2ee-418a-972d-2c937707687d/image/?keep=w&lu=1775615385000&resize=350x350" tvg-status="live" group-title="Culture",Radio Suyai TV
+#EXTINF:-1 tvg-id="famelack-wqtEMGQtkW2vmM" tvg-country="CL" tvg-language="Spanish" tvg-logo="https://stream-tools.zenomedia.com/content/stations/883465cc-a2ee-418a-972d-2c937707687d/image/?keep=w&lu=1775615385000&resize=350x350" tvg-status="live" group-title="Music",Radio Suyai TV
 https://cl-2.backend.energeek.cl/RadioSuyai-Neo/index.m3u8
 #EXTINF:-1 tvg-id="famelack-x3MegkwECTjfLb" tvg-country="CL" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="Religious",Radio TV Fortaleza
 https://live.tvcontrolcp.com:1936/fortalezatv/fortalezatv/playlist.m3u8
@@ -432,7 +432,7 @@ https://v1.tustreaming.cl/tv5linares/index.m3u8
 #EXTINF:-1 tvg-id="TVM.cl" tvg-country="CL" tvg-language="Spanish" tvg-logo="https://i.imgur.com/9dwZoxz.png" tvg-status="down" group-title="General",TVM
 https://streams.kanade.cl/canaltvm/index.m3u8
 #EXTINF:-1 tvg-id="TVN.cl" tvg-country="CL" tvg-language="Spanish" tvg-logo="https://i.imgur.com/3FKZHL4.png" tvg-status="live" group-title="General",TVN
-http://15.204.246.24:8080/TVNHD/index.m3u8
+http://138.121.15.230:9002/TVN/index.m3u8
 #EXTINF:-1 tvg-id="TVN3.cl" tvg-country="CL" tvg-language="Spanish" tvg-logo="https://i.imgur.com/9LEiQPJ.png" tvg-status="live" group-title="Classic",TVN3
 https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8
 #EXTINF:-1 tvg-id="famelack-xTf3bbxqRJQgMl" tvg-country="CL" tvg-language="Spanish" tvg-logo="https://i.imgur.com/PCVWtHd.png" tvg-status="live" group-title="General",TVO San Vicente
