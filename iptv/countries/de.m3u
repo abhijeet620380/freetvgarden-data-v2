@@ -115,7 +115,7 @@ https://swrdasdingvr-hls.akamaized.net/hls/live/2018681/dasdingvr/master.m3u8
 https://jmp2.uk/plu-64b67f0424ade50008a3be17.m3u8
 #EXTINF:-1 tvg-id="DAZNHeldinnenxPlutoTV.de" tvg-country="DE" tvg-language="German" tvg-logo="https://images.pluto.tv/channels/64afe50c5dc16600087f3227/colorLogoSVG.svg" tvg-status="down" group-title="Sports",DAZN Heldinnen x Pluto TV
 https://jmp2.uk/plu-64afe50c5dc16600087f3227.m3u8
-#EXTINF:-1 tvg-id="famelack-E3Fuo7LqwAfWE9" tvg-country="DE" tvg-language="English" tvg-logo="https://i.imgur.com/Qu7t15Y.png" tvg-status="live" group-title="Music",Deluxe Dance
+#EXTINF:-1 tvg-id="DeluxeDance.de" tvg-country="DE" tvg-language="English" tvg-logo="https://i.imgur.com/Qu7t15Y.png" tvg-status="live" group-title="Music",Deluxe Dance
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8
 #EXTINF:-1 tvg-id="DeluxeLounge.de" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/pgCA35z.png" tvg-status="live" group-title="Music",Deluxe Lounge
 https://jmp2.uk/stvp-CHAJ0500413A
@@ -203,6 +203,8 @@ https://sdn-global-live-streaming-packager-cache.3qsdn.com/7441/7441_264_live.m3
 https://dash4.antik.sk/live/test_kabel_eins_tizen/playlist.m3u8
 #EXTINF:-1 tvg-id="kabeleinsDoku.de" tvg-country="DE" tvg-language="German" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Kabel_eins_Doku_Logo_2016.svg/960px-Kabel_eins_Doku_Logo_2016.svg.png" tvg-status="live" group-title="Documentary",kabel eins Doku
 http://178.27.12.3:9981/stream/channelid/1958526590?profile=pass
+#EXTINF:-1 tvg-id="famelack-BwAEx0LmqBTmqp" tvg-country="DE" tvg-language="German" tvg-logo="https://i.ibb.co/sys7Vvq/Kanal9-Header-Webseite-oga.png" tvg-status="live" group-title="Entertainment",Kanal 9 Erzgebirge
+https://www.youtube-nocookie.com/embed/sq17gOqi3dY
 #EXTINF:-1 tvg-id="Kanal12SprembergTV.de" tvg-country="DE" tvg-language="German" tvg-logo="https://i.ibb.co/1LzJz7Y/Channels4-profile-7.jpg" tvg-status="down" group-title="General",Kanal12 Spremberg TV
 https://58de7a369a9c4.streamlock.net/sprembergtv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="famelack-hkGnYbKbnHGzDM" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/CVJWiM0.png" tvg-status="live" group-title="Shop",KaufBei TV
@@ -261,8 +263,6 @@ https://dash4.antik.sk/live/test_ntv_tizen/playlist.m3u8
 https://jmp2.uk/plu-60080e8a4bf36000076a81b1.m3u8
 #EXTINF:-1 tvg-id="Nachrichten360.de" tvg-country="DE" tvg-language="German" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE4300003MR_20251209T125847SQUARE.png" tvg-status="live" group-title="News",Nachrichten 360
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01821-lovetvfast-nachrichten360-samsungde/playlist.m3u8
-#EXTINF:-1 tvg-id="famelack-4YOpv1CYox1W50" tvg-country="DE" tvg-language="" tvg-logo="" tvg-status="live" group-title="General",Naruto Germany
-https://palatinmedia-naruto-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="NashKinomir.de" tvg-country="DE" tvg-language="Russian" tvg-logo="https://i.imgur.com/7M1J42A.png" tvg-native-name="Наш Киномир" tvg-status="down" group-title="Movies",Nash Kinomir
 http://hls127.freeott.top:8080/Nash_kinomir/video.m3u8
 #EXTINF:-1 tvg-id="NDRFernsehen.de" tvg-country="DE" tvg-language="German" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Logo_NDR_Fernsehen_2017.svg/960px-Logo_NDR_Fernsehen_2017.svg.png" tvg-status="live" group-title="General",NDR Fernsehen
@@ -627,14 +627,10 @@ https://rbhlslive.akamaized.net/hls/live/2020435/rbfs/master.m3u8
 https://5857499ee635b.streamlock.net/radiowesertv-live/_definst_/mp4:livestreamTV/playlist.m3u8
 #EXTINF:-1 tvg-id="famelack-FT8VcZltRS1FOf" tvg-country="DE" tvg-language="German" tvg-logo="" tvg-status="live" group-title="Movies",Rakuten TV Action Movies Germany
 https://284824cf70404fdfb6ddf9349009c710.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6066/master.m3u8
-#EXTINF:-1 tvg-id="famelack-mMN16NkXBOiZlV" tvg-country="DE" tvg-language="German" tvg-logo="" tvg-status="live" group-title="Movies",Rakuten TV Comedy Movies Germany
-https://ecac08c9e2214375b907d6825aaf9a01.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6182/master.m3u8
-#EXTINF:-1 tvg-id="famelack-rahlDGPnE1FWrR" tvg-country="DE" tvg-language="" tvg-logo="" tvg-status="live" group-title="General",Rakuten TV Crime Series Germany
-https://b6244e915ee04a5aa758e863a55a6a3d.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6217/master.m3u8
-#EXTINF:-1 tvg-id="famelack-nYCXjvra9MA0zd" tvg-country="DE" tvg-language="German" tvg-logo="" tvg-status="live" group-title="Movies",Rakuten TV Drama Movies Germany
-https://968754c2483045c1a9a7f677caec35b6.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6096/master.m3u8
 #EXTINF:-1 tvg-id="famelack-gaIbE0ft11ifJV" tvg-country="DE" tvg-language="" tvg-logo="" tvg-status="live" group-title="General",Rakuten TV Romance Movies Germany
 https://romance-rakuten-tv-de.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6475/master.m3u8
+#EXTINF:-1 tvg-id="famelack-SE1h1zk5kvUylr" tvg-country="DE" tvg-language="" tvg-logo="" tvg-status="live" group-title="General",Rakuten TV Thrillers Germany
+https://thriller-rakuten-tv-de.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6481/master.m3u8
 #EXTINF:-1 tvg-id="RAN1.de" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/zRg2BEa.png" tvg-status="live" group-title="General",RAN1
 http://58bd5b7a98e04.streamlock.net/medienasa-live/ran1_high/playlist.m3u8
 #EXTINF:-1 tvg-id="famelack-D4fjmuUPITRfet" tvg-country="DE" tvg-language="German" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Rbb_Fernsehen_Logo_2017.08.svg/960px-Rbb_Fernsehen_Logo_2017.08.svg.png" tvg-status="live" group-title="General",rbb Fernsehen
@@ -649,7 +645,7 @@ https://regiotv-s.iptv-playoutcenter.de/regiotv-s/regiotv-s.stream_1/playlist.m3
 https://h056.video-stream-hosting.de/medienasa-live/_definst_/mp4:RFH_high/index.m3u8
 #EXTINF:-1 tvg-id="RFO.de" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/902BHGL.png" tvg-status="down" group-title="General",RFO
 https://stream01.stream.welocal.world/stream/fhd-rfo_66876/ngrp:stream_all/playlist.m3u8
-#EXTINF:-1 tvg-id="famelack-50AOLuz78mWfKm" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/4wMZ8Em.png" tvg-status="live" group-title="Family",RiC
+#EXTINF:-1 tvg-id="famelack-50AOLuz78mWfKm" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/4wMZ8Em.png" tvg-status="live" group-title="Kids",RiC
 https://rictv.iptv-playoutcenter.de/rictv/rictv-web/playlist.m3u8
 #EXTINF:-1 tvg-id="Ridiculousness.de" tvg-country="DE" tvg-language="French" tvg-logo="https://images.pluto.tv/channels/5f8eb8a8b2619a000710605c/colorLogoSVG.svg" tvg-status="live" group-title="Comedy",Ridiculousness
 https://jmp2.uk/plu-5f8eb8a8b2619a000710605c.m3u8
@@ -759,8 +755,6 @@ https://jmp2.uk/plu-62f3f05505e621000783df2f.m3u8
 https://jmp2.uk/plu-62619405c733e8000732d1fe.m3u8
 #EXTINF:-1 tvg-id="famelack-APsiDTtaBUvYQA" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/G0cImlU.png" tvg-status="live" group-title="General",teltOwkanal
 https://h056.video-stream-hosting.de/easycast8-live/_definst_/mp4:livestreamhd8/playlist.m3u8
-#EXTINF:-1 tvg-id="famelack-Dh2uUg08yXJN7u" tvg-country="DE" tvg-language="" tvg-logo="" tvg-status="live" group-title="General",Tennis Channel Germany
-https://tennischanneldeu-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="TerraMaterWILD.de" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/EbMK3Ph.png" tvg-status="live" group-title="Documentary",Terra Mater WILD
 https://amg01775-amg01775c1-amgplt0343.playout.now3.amagi.tv/playlist/amg01775-amg01775c1-amgplt0343/playlist.m3u8
 #EXTINF:-1 tvg-id="TheLWordWennFrauenlieben.de" tvg-country="DE" tvg-language="German" tvg-logo="https://images.pluto.tv/channels/68d2759a59fd82da3226492d/colorLogoSVG_1769617985920.svg" tvg-status="live" group-title="Series",The L Word – Wenn Frauen lieben
