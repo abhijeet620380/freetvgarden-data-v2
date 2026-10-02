@@ -605,7 +605,7 @@ https://takeoff.jetstre.am/?account=atvijf&file=live&output=playlist.m3u8&protoc
 https://vdopanel.jlahozconsulting.com:3648/live/atabaltvlive.m3u8
 #EXTINF:-1 tvg-id="famelack-1Gs106kwXgodNe" tvg-country="CL" tvg-language="Spanish" tvg-logo="https://i.postimg.cc/rwS082hL/atacama-tv.png" tvg-status="live" group-title="General",Atacama TV
 https://v2.tustreaming.cl/atacamatv/index.m3u8
-#EXTINF:-1 tvg-id="AtambuaTV.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/Atambua_TV.png" tvg-status="live" group-title="General",Atambua TV
+#EXTINF:-1 tvg-id="AtambuaTV.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/Atambua_TV.png" tvg-status="down" group-title="General",Atambua TV
 http://122.248.43.242:1935/ATAMBUATV/_definst_/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="AtlantaChannel.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/MOGQAns.png" tvg-status="live" group-title="General",Atlanta Channel
 http://media4.tripsmarter.com:1935/LiveTV/ACVBHD/playlist.m3u8
@@ -870,7 +870,7 @@ https://edge.essastream.com/bebetotelevision/index.m3u8
 #EXTINF:-1 tvg-id="BeijingSatelliteTV.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://i.imgur.com/vsktAez.png" tvg-native-name="北京卫视" tvg-status="live" group-title="General",Beijing Satellite TV
 http://go.bkpcp.top/mg/bjws
 #EXTINF:-1 tvg-id="Belarus1.by" tvg-country="BY" tvg-language="Russian" tvg-logo="https://i.imgur.com/sUD9t5j.png" tvg-native-name="Беларусь 1" tvg-status="live" group-title="General",Belarus-1
-https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus1.smil/playlist.m3u8
+https://ngtrk.dc.beltelecom.by/ngtrk/_definst_/smil:belarus1.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Belarus4.by" tvg-country="BY" tvg-language="Russian" tvg-logo="https://i.imgur.com/XNkQrMr.png" tvg-native-name="Беларусь 4" tvg-status="live" group-title="General",Belarus-4
 https://live.dc.beltelecom.by/trkgomel/trkgomel.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="famelack-HbRUt7FKalezmx" tvg-country="BY" tvg-language="Russian" tvg-logo="" tvg-status="live" group-title="General",Belarus-4 Vitebsk
@@ -1017,7 +1017,7 @@ http://51.254.199.122:8080/bossbrothersTV/index.m3u8
 https://dlgt0tdl2hpq3.cloudfront.net/rtbf/clr-rtbf/e1ccc6aa/index.m3u8
 #EXTINF:-1 tvg-id="Bounce.us" tvg-country="US" tvg-language="English" tvg-logo="https://play-lh.googleusercontent.com/7sw8veBR7JtyzyaRHR2KHA_UoLL9sCb56zaLuPqYVbdQ88x2Ga2ZHgAz_Mfr-f2GVtk" tvg-status="live" group-title="General",Bounce
 http://23.237.104.106:8080/USA_BOUNCE/index.m3u8
-#EXTINF:-1 tvg-id="BoushehrTV.ir" tvg-country="IR" tvg-language="Persian" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/thumb/9/94/Bushehr_TV.svg/500px-Bushehr_TV.svg.png" tvg-native-name="شبکه بوشهر" tvg-status="live" group-title="General",Boushehr TV
+#EXTINF:-1 tvg-id="BoushehrTV.ir" tvg-country="IR" tvg-language="Persian" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/thumb/9/94/Bushehr_TV.svg/500px-Bushehr_TV.svg.png" tvg-native-name="شبکه بوشهر" tvg-status="down" group-title="General",Boushehr TV
 https://ncdn.telewebion.ir/bushehr/live/playlist.m3u8
 #EXTINF:-1 tvg-id="BRFernsehen.de" tvg-country="DE" tvg-language="German" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Logo_Bayerischer_Rundfunk_2024.svg/960px-Logo_Bayerischer_Rundfunk_2024.svg.png" tvg-status="live" group-title="General",BR Fernsehen
 https://mcdn.br.de/br/fs/bfs_nord/hls/de/master.m3u8
@@ -1218,13 +1218,13 @@ https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223
 #EXTINF:-1 tvg-id="famelack-aM75JGWBPQWWgI" tvg-country="SV" tvg-language="Spanish" tvg-logo="https://i.imgur.com/itqQEux.png" tvg-status="live" group-title="General",Canal 11 TuTV
 https://stream.giostreaming.app/canal11/canal11.m3u8
 #EXTINF:-1 tvg-id="Canal12.sv" tvg-country="SV" tvg-language="Spanish" tvg-logo="https://i.imgur.com/WMv3yEf.png" tvg-status="live" group-title="General",Canal 12
-http://186.33.26.18:8000/play/a0nw/index.m3u8
+https://d2b5h5wyivfnfl.cloudfront.net/live/53108ffe-0b7e-46ab-bc14-3a9c30010939/ts:abr.m3u8
 #EXTINF:-1 tvg-id="Canal12VenadoTuerto.ar" tvg-country="AR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/b93YC0V.jpeg" tvg-status="live" group-title="General",Canal 12 Venado Tuerto
 https://nd106.republicaservers.com:4433/hls/diegologonitv/index.m3u8
 #EXTINF:-1 tvg-id="Canal12Web.ar" tvg-country="AR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/VYcTRbd.png" tvg-status="live" group-title="General",Canal 12 Web
 https://nd106.republicaservers.com:4433/c7827.mp4
 #EXTINF:-1 tvg-id="Canal13.cl" tvg-country="CL" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Canal_13_2025.svg/960px-Canal_13_2025.svg.png" tvg-status="live" group-title="General",Canal 13
-https://redirector.dps.live/hls/13intav/playlist.m3u8
+http://15.204.246.24:8080/Canal13HD/index.m3u8
 #EXTINF:-1 tvg-id="Canal13.gt" tvg-country="GT" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Canal_13_Guatemala_Logo.svg" tvg-status="live" group-title="General",Canal 13
 http://190.61.101.11:7050/play/a07f/index.m3u8
 #EXTINF:-1 tvg-id="Canal13Bajio.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/SlycKgZ.png" tvg-status="down" group-title="General",Canal 13 Bajio
@@ -1326,7 +1326,7 @@ https://media2.streambrothers.com:1936/8140/8140/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal4.cr" tvg-country="CR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/5arZEgO.png" tvg-status="live" group-title="General",Canal 4
 http://45.186.106.207:8000/play/a09t/index.m3u8
 #EXTINF:-1 tvg-id="Canal4.sv" tvg-country="SV" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Canal_4_TCS.png/960px-Canal_4_TCS.png" tvg-status="live" group-title="General",Canal 4
-http://168.228.44.241:9999/play/a042/index.m3u8
+http://45.5.118.188:8000/play/a00j/index.m3u8
 #EXTINF:-1 tvg-id="Canal4Catalunya.es" tvg-country="ES" tvg-language="Catalan" tvg-logo="https://i.imgur.com/tQh8C3s.png" tvg-status="down" group-title="General",Canal 4 Catalunya
 https://limited35.todostreaming.es/live/mitjans-livestream.m3u8
 #EXTINF:-1 tvg-id="famelack-kmjpquId56QTiI" tvg-country="AR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/6kbOr16.png" tvg-status="live" group-title="General",Canal 4 Esquel
@@ -2205,7 +2205,7 @@ https://live20.bozztv.com/giatvplayout7/giatv-208729/playlist.m3u8
 http://39.135.138.59:18890/PLTV/88888910/224/3221225655/index.m3u8
 #EXTINF:-1 tvg-id="famelack-4Ol7tMSQ1AJ1Zg" tvg-country="TZ" tvg-language="Swahili" tvg-logo="https://i.imgur.com/bLq9eFa.png" tvg-status="live" group-title="General",Dodoma TV
 https://goliveafrica.media:9998/live/625965017ed69/index.m3u8
-#EXTINF:-1 tvg-id="DongNaiTV3.vn" tvg-country="VN" tvg-language="Vietnamese" tvg-logo="https://i.imgur.com/6P39BiA.png" tvg-status="live" group-title="General",Dong Nai TV 3
+#EXTINF:-1 tvg-id="DongNaiTV3.vn" tvg-country="VN" tvg-language="Vietnamese" tvg-logo="https://i.imgur.com/6P39BiA.png" tvg-status="down" group-title="General",Dong Nai TV 3
 https://dethich.pw/dongnai3/index.m3u8
 #EXTINF:-1 tvg-id="DongThapTV.vn" tvg-country="VN" tvg-language="Vietnamese" tvg-logo="https://i.ibb.co/XFX7yw0/logo2-1.png" tvg-status="down" group-title="General",Dong Thap TV
 https://liveh34.vtvprime.vn/hls/DONGTHAPTV/index.m3u8
@@ -2403,7 +2403,7 @@ https://d310j9emjmcwry.cloudfront.net/playlist.m3u8
 https://gra1.crystalweb.net:1936/epilogestv/epilogestv/playlist.m3u8
 #EXTINF:-1 tvg-id="EpirusTV1.gr" tvg-country="GR" tvg-language="Greek" tvg-logo="https://i.imgur.com/nYVqhu8.png" tvg-native-name="Ήπειρος TV1" tvg-status="down" group-title="General",Epirus TV1
 https://rtmp.win:3929/live/epiruslive.m3u8
-#EXTINF:-1 tvg-id="eQtv.ua" tvg-country="UA" tvg-language="Russian" tvg-logo="https://tv.equalit.ie/wp-content/uploads/2024/12/cropped-logo.png" tvg-status="live" group-title="General",eQtv
+#EXTINF:-1 tvg-id="eQtv.ua" tvg-country="UA" tvg-language="Russian" tvg-logo="https://tv.equalit.ie/wp-content/uploads/2024/12/cropped-logo.png" tvg-status="down" group-title="General",eQtv
 http://91.228.35.249:8001/1:0:1:72:2FA8:13E:820000:0:0:0
 #EXTINF:-1 tvg-id="famelack-is6vBSMBQSnuLv" tvg-country="US" tvg-language="" tvg-logo="" tvg-status="live" group-title="General",Equus TV
 https://d2gwqf8gdwq1zs.cloudfront.net/scheduler/scheduleMaster/426.m3u8
@@ -3565,10 +3565,10 @@ https://livefta.malimarcdn.com/ftaedge00/laonet.sdp/playlist.m3u8
 https://fs.uplink.kz/lapki_live/mono.m3u8?token=onlinetv
 #EXTINF:-1 tvg-id="LarivisionTV.do" tvg-country="DO" tvg-language="Spanish" tvg-logo="https://www.larivision.com/web/wp-content/uploads/2025/07/logow.png" tvg-status="down" group-title="General",Larivision TV
 https://live.larimartv.net/livelan/stream.m3u8
-#EXTINF:-1 tvg-id="LasEstrellas.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/g5ShxZ7.png" tvg-status="live" group-title="General",Las Estrellas
+#EXTINF:-1 tvg-id="LasEstrellas.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/g5ShxZ7.png" tvg-status="down" group-title="General",Las Estrellas
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 #EXTINF:-1 tvg-id="LasEstrellasLatinAmerica.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/g5ShxZ7.png" tvg-status="live" group-title="General",Las Estrellas Latin America
-http://190.93.224.42/CANAL-LAS-ESTRELLAS/index.m3u8
+http://15.204.246.24:8080/LasEstrellasHD/index.m3u8
 #EXTINF:-1 tvg-id="famelack-ZKjuki5ljxTb8m" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/05Xdqa6.png" tvg-status="live" group-title="General",Las Vegas Tonight with Dale Davidson
 https://cdn.vegasplus.us/vegas/lasvegastonight/playlist.m3u8
 #EXTINF:-1 tvg-id="famelack-DV7qJ0lLePfnaP" tvg-country="US" tvg-language="" tvg-logo="" tvg-status="live" group-title="General",Lassie
@@ -4037,21 +4037,21 @@ http://hls.volgograd1vtv.cdnvideo.ru/volgograd1vtv/volgograd1vtv.sdp/playlist.m3
 https://live-fi.tvkaista.net/mtv3/live.m3u8
 #EXTINF:-1 tvg-id="MulticanalCatamayo.ec" tvg-country="EC" tvg-language="Spanish" tvg-logo="https://i.imgur.com/IHKBGmu.png" tvg-status="down" group-title="General",Multicanal Catamayo
 https://multicanal.streamseguro.com:5443/LiveApp/streams/streaming.m3u8
-#EXTINF:-1 tvg-id="MultimediosBajio.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/4IGzNdq.png" tvg-status="live" group-title="General",Multimedios Bajio
+#EXTINF:-1 tvg-id="MultimediosBajio.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/4IGzNdq.png" tvg-status="down" group-title="General",Multimedios Bajio
 https://mdstrm.com/live-stream-playlist/5d4b0fec848918070128c8cb.m3u8
-#EXTINF:-1 tvg-id="MultimediosCDMX.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/4IGzNdq.png" tvg-status="live" group-title="General",Multimedios CDMX
+#EXTINF:-1 tvg-id="MultimediosCDMX.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/4IGzNdq.png" tvg-status="down" group-title="General",Multimedios CDMX
 https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
-#EXTINF:-1 tvg-id="MultimediosCiudadJuarez.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/4IGzNdq.png" tvg-status="live" group-title="General",Multimedios Ciudad Juarez
+#EXTINF:-1 tvg-id="MultimediosCiudadJuarez.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/4IGzNdq.png" tvg-status="down" group-title="General",Multimedios Ciudad Juarez
 https://mdstrm.com/live-stream-playlist/5d9e440d675235586a92be7f.m3u8
-#EXTINF:-1 tvg-id="MultimediosGuadalajara.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/4IGzNdq.png" tvg-status="live" group-title="General",Multimedios Guadalajara
+#EXTINF:-1 tvg-id="MultimediosGuadalajara.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/4IGzNdq.png" tvg-status="down" group-title="General",Multimedios Guadalajara
 https://mdstrm.com/live-stream-playlist/5c54d38ca392a5119bb0aa0d.m3u8
-#EXTINF:-1 tvg-id="MultimediosLaguna.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/4IGzNdq.png" tvg-status="live" group-title="General",Multimedios Laguna
+#EXTINF:-1 tvg-id="MultimediosLaguna.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/4IGzNdq.png" tvg-status="down" group-title="General",Multimedios Laguna
 https://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8
-#EXTINF:-1 tvg-id="MultimediosMonterrey.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/4IGzNdq.png" tvg-status="live" group-title="General",Multimedios Monterrey
+#EXTINF:-1 tvg-id="MultimediosMonterrey.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/4IGzNdq.png" tvg-status="down" group-title="General",Multimedios Monterrey
 https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
-#EXTINF:-1 tvg-id="MultimediosPuebla.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/4IGzNdq.png" tvg-status="live" group-title="General",Multimedios Puebla
+#EXTINF:-1 tvg-id="MultimediosPuebla.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/4IGzNdq.png" tvg-status="down" group-title="General",Multimedios Puebla
 https://mdstrm.com/live-stream-playlist/5d56ed29c92dd106ff01543b.m3u8
-#EXTINF:-1 tvg-id="MultimediosSaltillo.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/4IGzNdq.png" tvg-status="live" group-title="General",Multimedios Saltillo
+#EXTINF:-1 tvg-id="MultimediosSaltillo.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/4IGzNdq.png" tvg-status="down" group-title="General",Multimedios Saltillo
 https://mdstrm.com/live-stream-playlist/5d5d51a4e9a40e25f4a0332c.m3u8
 #EXTINF:-1 tvg-id="famelack-0ZOxE1UhD8M7M9" tvg-country="GT" tvg-language="Spanish" tvg-logo="https://i.imgur.com/6bdj2BV.jpg" tvg-status="live" group-title="General",Multivision Canal 3
 https://stream.digitalgt.com:3136/live/multivisionlive.m3u8
@@ -5137,6 +5137,10 @@ https://tv.arkeo.cl:19360/8052/8052.m3u8
 https://tv.arkeo.cl:1936/radiorancagua/radiorancagua/playlist.m3u8
 #EXTINF:-1 tvg-id="famelack-iH1Ht1rUhcBhVb" tvg-country="CL" tvg-language="Spanish" tvg-logo="https://i.imgur.com/qU3E0kX.png" tvg-status="live" group-title="General",Radio Ritmo FM
 https://panel.tvstream.cl:1936/8046/8046/playlist.m3u8
+#EXTINF:-1 tvg-id="famelack-okDHJ83ZlAyFOY" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://www.rador.ro/wp-content/uploads/2017/06/logo-radio-oltenia-craiova.png" tvg-status="live" group-title="General",Radio Romania Oltenia-Craiova
+https://stream3.srr.ro/live/Radio-Oltenia/chunklist_w1200239883.m3u8
+#EXTINF:-1 tvg-id="famelack-lu21lJ2ydo0AAT" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://myradioonline.ro/public/uploads/radio_img/radio-romania-targu-mures/fb_cover.jpg" tvg-status="live" group-title="General",Radio Romania Targu Mures
+https://stream3.srr.ro/live/radio-muresr/chunklist_w1731505049.m3u8
 #EXTINF:-1 tvg-id="famelack-2Fzund01OrMQR9" tvg-country="RU" tvg-language="Russian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Radio_Rossii_logo.svg/1920px-Radio_Rossii_logo.svg.png" tvg-native-name="Радио России" tvg-status="live" group-title="General",Radio Rossii
 https://stream.smotrim.ru/hls2/radio_rus/playlist_4.m3u8
 #EXTINF:-1 tvg-id="RadioSanGabriel.bo" tvg-country="BO" tvg-language="Spanish" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/bec3csmj7emx.jpg" tvg-status="down" group-title="General",Radio San Gabriel
@@ -5533,7 +5537,7 @@ https://mumbai-edge.smartplaytv.in/RongeenTV/index.m3u8
 https://5cbd3bc28341f.streamlock.net:444/rossinitv_live/944A-63A6-9EB8-4492/playlist.m3u8
 #EXTINF:-1 tvg-id="famelack-kJxhW4T0WgcTGG" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/GnbNG0r.png" tvg-native-name="Россия 1 Вайнах" tvg-status="live" group-title="General",Rossiya 1 Vainah
 https://live.chechensoft.ru/vainahtv/ngrp:vaynahtv_all/playlist.m3u8
-#EXTINF:-1 tvg-id="RotanaClip.sa" tvg-country="SA" tvg-language="Arabic" tvg-logo="https://i.imgur.com/nhREk0o.png" tvg-native-name="روتانا كليب" tvg-status="live" group-title="General",Rotana Clip
+#EXTINF:-1 tvg-id="RotanaClip.sa" tvg-country="SA" tvg-language="Arabic" tvg-logo="https://i.imgur.com/nhREk0o.png" tvg-native-name="روتانا كليب" tvg-status="down" group-title="General",Rotana Clip
 https://rotana.hibridcdn.net/rotananet/clip_net-7Y83PP5adWixDF93/playlist.m3u8
 #EXTINF:-1 tvg-id="RotanaRadioJordanStudio.jo" tvg-country="JO" tvg-language="Arabic" tvg-logo="https://i.imgur.com/xGDjlp5.png" tvg-status="live" group-title="General",Rotana Radio Jordan Studio
 http://45.63.116.205/hls/stream1.m3u8
@@ -5914,7 +5918,7 @@ https://ncdn.telewebion.ir/sarbedaran/live/playlist.m3u8
 #EXTINF:-1 tvg-id="SardariTV.ca" tvg-country="CA" tvg-language="English" tvg-logo="" tvg-status="live" group-title="General",Sardari TV
 http://158.69.124.9:1935/sardaritv/sardaritv/playlist.m3u8
 #EXTINF:-1 tvg-id="SarvDharamSangam.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SARV_DHARAM_SANGAM/images/LOGO_HD/image.png" tvg-status="live" group-title="General",Sarv Dharam Sangam
-http://51.75.127.199:3141/manavdharam/index.m3u8
+https://live.castmaxcloud.com/live/sdsangam2.m3u8
 #EXTINF:-1 tvg-id="Saryarqa.kz" tvg-country="KZ" tvg-language="Kazakh" tvg-logo="https://i.imgur.com/EIXwi1c.png" tvg-status="down" group-title="General",Saryarqa
 https://stream.kaztrk.kz/regional/karagandytv/index.m3u8
 #EXTINF:-1 tvg-id="famelack-m0RI6HqHFeSa3t" tvg-country="CY" tvg-language="Arabic" tvg-logo="https://i.imgur.com/BzDjQeQ.png" tvg-status="live" group-title="General",Sat 7 Arabic
@@ -5992,7 +5996,7 @@ https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv4/master.m3u8
 #EXTINF:-1 tvg-id="SCTV5.vn" tvg-country="VN" tvg-language="Vietnamese" tvg-logo="https://i.imgur.com/FYLs4yu.png" tvg-status="down" group-title="General",SCTV5
 https://liveh34.vtvprime.vn/hls/SCTV5/01.m3u8?note=TheWavesIPTV
 #EXTINF:-1 tvg-id="SCTV6.vn" tvg-country="VN" tvg-language="Vietnamese" tvg-logo="https://i.imgur.com/2oOVS42.png" tvg-status="live" group-title="General",SCTV6
-https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv6/master.m3u8
+https://live.fptplay53.net/epzhd2/film360_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="famelack-WDpo6d5ejxs4be" tvg-country="VN" tvg-language="Vietnamese" tvg-logo="https://i.imgur.com/xbIUZYd.png" tvg-status="live" group-title="General",SCTV7
 https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv7/master.m3u8
 #EXTINF:-1 tvg-id="famelack-jQi7fnVzAGbIPK" tvg-country="VN" tvg-language="Vietnamese" tvg-logo="https://i.imgur.com/OJMbhow.png" tvg-status="live" group-title="General",SCTV9
@@ -6278,7 +6282,7 @@ http://138.121.15.230:9002/SONY/index.m3u8
 #EXTINF:-1 tvg-id="SonyChannel.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Sony_Channel_Logo.png/960px-Sony_Channel_Logo.png" tvg-status="live" group-title="General",Sony Channel
 http://170.83.16.50/SONY_CHANNEL/index.m3u8
 #EXTINF:-1 tvg-id="SonyChannelAndes.us" tvg-country="US" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Sony_Channel_Logo.png/960px-Sony_Channel_Logo.png" tvg-status="live" group-title="General",Sony Channel Andes
-http://181.119.66.28:8081/SONY-HD/index.m3u8
+http://15.204.246.24:8080/SonyHD/index.m3u8
 #EXTINF:-1 tvg-id="famelack-ScunIFLLAIjEeI" tvg-country="US" tvg-language="Hindi" tvg-logo="https://i.imgur.com/9Qq8DKh.png" tvg-status="live" group-title="General",Sony KAL Hindi
 https://wurlsonypicturestv.global.transmit.live/hls/68deeb1c0238cda82df543dd/v1/spt_sonykal_1/lg_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="SoonaTV.co" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/Pk8zzTL.jpeg" tvg-status="live" group-title="General",Soona TV
@@ -6330,7 +6334,7 @@ http://str2.iptvhd.ru:8080/sssr_kino/index.m3u8
 #EXTINF:-1 tvg-id="StarAsia.pk" tvg-country="PK" tvg-language="English" tvg-logo="https://i.imgur.com/9coLhX8.png" tvg-status="down" group-title="General",Star Asia
 http://103.250.28.74:8000/play/a010/index.m3u8
 #EXTINF:-1 tvg-id="STARChannel.fi" tvg-country="FI" tvg-language="Finnish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/960px-Star_Channel_2020.svg.png" tvg-status="live" group-title="General",STAR Channel
-https://live-fi.tvkaista.net/star-channel/live.m3u8?src=freetv
+https://live-fi.tvkaista.net/star-channel/live.m3u8
 #EXTINF:-1 tvg-id="StarTV.mn" tvg-country="MN" tvg-language="Mongolian" tvg-logo="https://www.mongolsat.mn/assets/img/channel/15.png" tvg-status="live" group-title="General",Star TV
 https://cdn4.skygo.mn/live/disk1/Star/DASH-FTA/Star.mpd
 #EXTINF:-1 tvg-id="famelack-z6NLIWqo60dEBq" tvg-country="TR" tvg-language="Turkish" tvg-logo="https://i.imgur.com/9O3DHRB.png" tvg-status="live" group-title="General",Star TV
@@ -6435,7 +6439,7 @@ https://videostreams.streekstadcentraal.nl/hls/streekstad_alkmaar/streekstad_alk
 https://cdn22.streampartner.nl/streektv/streektv/playlist.m3u8
 #EXTINF:-1 tvg-id="STSInternational.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/mwiC0RG.png" tvg-status="live" group-title="General",STS International
 http://178.134.1.158:8081/CTC/index.m3u8
-#EXTINF:-1 tvg-id="StudioPlusTV.ec" tvg-country="EC" tvg-language="Spanish" tvg-logo="https://carjocosa.space/studio/logo.png" tvg-status="down" group-title="General",Studio + TV
+#EXTINF:-1 tvg-id="StudioPlusTV.ec" tvg-country="EC" tvg-language="Spanish" tvg-logo="https://carjocosa.space/studio/logo.png" tvg-status="live" group-title="General",Studio + TV
 https://vd01.streaminghd.net.ar:3113/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="StudioPascoTV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/zgyNuVE.jpeg" tvg-status="live" group-title="General",Studio Pasco TV
 https://live-evg7.tv360.bitel.com.pe/bitel/studiopasco/playlist.m3u8
@@ -6683,7 +6687,7 @@ http://wms.klikhost.com:1935/tegartv/tegartv/playlist.m3u8
 https://ncdn.telewebion.ir/tehran/live/playlist.m3u8
 #EXTINF:-1 tvg-id="TehzeebTV.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/TEHZEEB_TV.png" tvg-status="live" group-title="General",Tehzeeb TV
 https://mumt05.tangotv.in/87NeALx2TEHZEEBTV/index.m3u8
-#EXTINF:-1 tvg-id="Tekyemadahi.ir" tvg-country="IR" tvg-language="Persian" tvg-logo="https://static.telewebion.com/channelsLogo/d602596d-7b8d-48ef-8f51-9344b4ac0eb6/default" tvg-status="live" group-title="General",Tekyemadahi
+#EXTINF:-1 tvg-id="Tekyemadahi.ir" tvg-country="IR" tvg-language="Persian" tvg-logo="https://static.telewebion.com/channelsLogo/d602596d-7b8d-48ef-8f51-9344b4ac0eb6/default" tvg-status="down" group-title="General",Tekyemadahi
 https://ncdn.telewebion.ir/tekyemadahi/live/playlist.m3u8
 #EXTINF:-1 tvg-id="Telavision.hn" tvg-country="HN" tvg-language="Spanish" tvg-logo="https://i.imgur.com/vzjqAZh.jpg" tvg-status="down" group-title="General",Telavision
 https://stream.oursnetworktv.com/latin/telaVision/playlist.m3u8
@@ -6969,7 +6973,7 @@ https://58d921499d3d3.streamlock.net/TeleRama/livestream/playlist.m3u8
 https://k20.usastreams.com:8081/telered/index.m3u8
 #EXTINF:-1 tvg-id="TeleRibera.es" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://pbs.twimg.com/profile_images/780539549239902208/g2MfVVuY_400x400.jpg" tvg-status="down" group-title="General",TeleRibera
 https://video1.lhdserver.es/teleribera/live.m3u8
-#EXTINF:-1 tvg-id="Teleritmo.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/9s380Bz.png" tvg-status="live" group-title="General",Teleritmo
+#EXTINF:-1 tvg-id="Teleritmo.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/9s380Bz.png" tvg-status="down" group-title="General",Teleritmo
 https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
 #EXTINF:-1 tvg-id="famelack-J7sB9N56vSaJtA" tvg-country="IT" tvg-language="Italian" tvg-logo="https://i.imgur.com/GGPtHX3.png" tvg-status="live" group-title="General",Teleromagna
 https://livetr.teleromagna.it/teleromagna/live/playlist.m3u8
@@ -7349,7 +7353,7 @@ https://stream.pdtvhd.com/LiveApp/streams/Townfullhd.m3u8
 https://amg01131-tracetv-amg01131c5-stirr-us-4389.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="famelack-lCPbDhC1z9VYdq" tvg-country="BO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/tAdxar9.jpeg" tvg-status="live" group-title="General",TransMedia
 https://edge.enhdtv.com/8064/index.m3u8
-#EXTINF:-1 tvg-id="TransmediaTelevisionMorelia.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/jYMpVQA.png" tvg-status="down" group-title="General",Transmedia Television Morelia
+#EXTINF:-1 tvg-id="TransmediaTelevisionMorelia.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/jYMpVQA.png" tvg-status="live" group-title="General",Transmedia Television Morelia
 http://streamingcws20.com:1935/tmtv/videotmtv/playlist.m3u8
 #EXTINF:-1 tvg-id="famelack-LIcwsfed7X4ZRx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/W4xwCdl.png" tvg-status="live" group-title="General",TRC TV
 https://5fe2654d6127d.streamlock.net/trc/videotrc/playlist.m3u8
@@ -7418,7 +7422,7 @@ http://162.19.247.76:22222/live/taishi/index.m3u8
 #EXTINF:-1 tvg-id="famelack-IMxxuZcthSxVVc" tvg-country="VE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/OBEmXQF.png" tvg-status="live" group-title="General",Tu TV
 https://astl-mainstr.qvixsolutions.com/asltvtu_ext/index.m3u8
 #EXTINF:-1 tvg-id="TUDN.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/oT5CAvd.png" tvg-status="live" group-title="General",TUDN
-http://45.5.118.152:8000/play/a08n/index.m3u8
+https://streaming.alwaysdata.net/tudn.php
 #EXTINF:-1 tvg-id="TUDN.us" tvg-country="US" tvg-language="Spanish" tvg-logo="https://i.imgur.com/oT5CAvd.png" tvg-status="live" group-title="General",TUDN
 https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/hls/tudn.m3u8
 #EXTINF:-1 tvg-id="Tunevision.gt" tvg-country="GT" tvg-language="Spanish" tvg-logo="https://i.imgur.com/XNiXqgj.png" tvg-status="down" group-title="General",Tunevision
@@ -7945,7 +7949,7 @@ https://h057.video-stream-hosting.de/tv38-live/_definst_/smil:livestream.smil/pl
 https://directes3-tv-es.3catdirectes.cat/live-content/tvc-hls/master.m3u8
 #EXTINF:-1 tvg-id="famelack-inGlxKW8S2QpWf" tvg-country="FR" tvg-language="French" tvg-logo="https://i.ibb.co/X2yd0zL/logo-tv3v.jpg" tvg-status="live" group-title="General",TV3V
 https://tv3v.live-kd.com/live/tv3v/livestream/index.m3u8
-#EXTINF:-1 tvg-id="TV4.dz" tvg-country="DZ" tvg-language="Kabyle" tvg-logo="https://i.imgur.com/BZvdjBN.png" tvg-native-name="ⵜⴰⵎⴰⵣⵉⵖⵜ" tvg-status="live" group-title="General",TV4
+#EXTINF:-1 tvg-id="TV4.dz" tvg-country="DZ" tvg-language="Kabyle" tvg-logo="https://i.imgur.com/BZvdjBN.png" tvg-native-name="ⵜⴰⵎⴰⵣⵉⵖⵜ" tvg-status="down" group-title="General",TV4
 http://91.228.35.249:8001/1:0:1:06A6:3138:13E:820000:0:0:0
 #EXTINF:-1 tvg-id="TV4.hu" tvg-country="HU" tvg-language="Hungarian" tvg-logo="https://i.imgur.com/cjypCfu.png" tvg-status="live" group-title="General",TV4
 http://88.212.15.19/live/test_tv_4_hun_atk_1200/playlist.m3u8
@@ -8001,7 +8005,7 @@ https://cdn4.skygo.mn/live/disk1/TV9HD/HLSv3-FTA/TV9HD.m3u8
 https://tonton-live-switch-ssar.akamaized.net/stream-tv9/master.m3u8?bpkio_serviceid=6c0958d82a830a02ca0936d9cfab8311
 #EXTINF:-1 tvg-id="famelack-B5WV8O5RRK6OVb" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://i.imgur.com/Sco4x8t.png" tvg-status="live" group-title="General",TV9
 https://dash4.antik.sk/live/test_tv9/playlist.m3u8
-#EXTINF:-1 tvg-id="TVA.ca" tvg-country="CA" tvg-language="French" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/TVA_logo_2020.svg/960px-TVA_logo_2020.svg.png" tvg-status="live" group-title="General",TVA
+#EXTINF:-1 tvg-id="TVA.ca" tvg-country="CA" tvg-language="French" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/TVA_logo_2020.svg/960px-TVA_logo_2020.svg.png" tvg-status="down" group-title="General",TVA
 https://tvalive-dai01.akamaized.net/Content/HLS/Live/channel(575b93c5-be31-ee34-6285-14620fd14048)/index.m3u8
 #EXTINF:-1 tvg-id="famelack-vdlrNTq7TC5hbk" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/Gg6d4Jb.png" tvg-status="live" group-title="General",TVA
 https://tvaktuellr.iptv-playoutcenter.de/tvaktuellr/tvaktuellr.stream_1/playlist.m3u8
@@ -8020,7 +8024,7 @@ https://d2m7i0pvomh4vg.cloudfront.net/ts:abr.m3u8
 #EXTINF:-1 tvg-id="TVC.ge" tvg-country="GE" tvg-language="Georgian" tvg-logo="https://sul.ge/images/televizia/tvc.png" tvg-status="down" group-title="General",TVC
 http://31.146.5.178:8087/play/a009/index.m3u8
 #EXTINF:-1 tvg-id="TVC.ng" tvg-country="NG" tvg-language="English" tvg-logo="https://i.imgur.com/ReV8R5S.png" tvg-status="live" group-title="General",TVC
-https://tvce.gridpapaservers.com/TVCSEPT/ngrp:myStream_all/playlist.m3u8
+http://212.5.144.156:8080/tvc/index.m3u8
 #EXTINF:-1 tvg-id="TVC.pl" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/1Wmib2f.png" tvg-status="live" group-title="General",TVC
 http://57.128.231.171:8080/214/index.m3u8
 #EXTINF:-1 tvg-id="famelack-r701W6Krlv63Lr" tvg-country="BJ" tvg-language="French" tvg-logo="https://i.imgur.com/oUnEYl5.png" tvg-status="live" group-title="General",TVC Benin
@@ -8100,7 +8104,7 @@ http://cdn.tvmatic.net/tiktok.m3u8
 #EXTINF:-1 tvg-id="TVModum.no" tvg-country="NO" tvg-language="Norwegian" tvg-logo="https://i.imgur.com/kljua5X.png" tvg-status="live" group-title="General",TVModum
 https://cdn010.panaccess.com/5677_streams/TVMODUM/index.m3u8
 #EXTINF:-1 tvg-id="TVN.cl" tvg-country="CL" tvg-language="Spanish" tvg-logo="https://i.imgur.com/3FKZHL4.png" tvg-status="live" group-title="General",TVN
-http://138.121.15.230:9002/TVN/index.m3u8
+http://15.204.246.24:8080/TVNHD/index.m3u8
 #EXTINF:-1 tvg-id="famelack-SvxVihPWIwGBzR" tvg-country="DO" tvg-language="Spanish" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/4037-294x165-FFFFFF.jpg" tvg-status="live" group-title="General",TVN
 https://5790d294af2dc.streamlock.net/tvn/tvn/playlist.m3u8
 #EXTINF:-1 tvg-id="TVN.pa" tvg-country="PA" tvg-language="Spanish" tvg-logo="https://i.imgur.com/tGeHwxd.png" tvg-status="down" group-title="General",TVN
@@ -8122,7 +8126,7 @@ https://dayqb844napyo.cloudfront.net/v1/master/b1f4432f8f95be9e629d97baabfed15b8
 #EXTINF:-1 tvg-id="famelack-2U7Gx5lVw0ZY3m" tvg-country="DO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/MhloaFB.png" tvg-status="live" group-title="General",TVO
 https://videoserver.tmcreativos.com:19360/gkemzxrrmr/gkemzxrrmr.m3u8
 #EXTINF:-1 tvg-id="TVOCanal23.sv" tvg-country="SV" tvg-language="Spanish" tvg-logo="https://i.imgur.com/nsXXEUZ.png" tvg-status="live" group-title="General",TVO Canal 23
-http://45.167.2.101:8000/play/a0qo/index.m3u8
+https://tvo.flynetwifi.com/5crjmr1645tqt71ovagufgc1x3d/playlist.m3u8
 #EXTINF:-1 tvg-id="famelack-ofMevJFkJJi256" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://tvomix.com/Logos/Tvojesus.png" tvg-status="live" group-title="General",TVO Jesus
 https://cloud.tvomix.com/TVOJESUS/index.m3u8
 #EXTINF:-1 tvg-id="famelack-xTf3bbxqRJQgMl" tvg-country="CL" tvg-language="Spanish" tvg-logo="https://i.imgur.com/PCVWtHd.png" tvg-status="live" group-title="General",TVO San Vicente
@@ -8358,7 +8362,7 @@ https://xumo-xumoent-ch828-w6val.fast.nbcuni.com/live/master.m3u8
 #EXTINF:-1 tvg-id="famelack-MaSkEfPWj9DmCk" tvg-country="US" tvg-language="" tvg-logo="" tvg-status="live" group-title="General",Universal Monsters
 https://xumo-xumoent-ch824-d4q5c.fast.nbcuni.com/live/master.m3u8
 #EXTINF:-1 tvg-id="UniversalTVLatinAmerica.us" tvg-country="US" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/960px-Universal_TV_logo.svg.png" tvg-status="live" group-title="General",Universal TV Latin America
-http://138.121.15.230:9002/UNIVERSAL-CHANNEL/index.m3u8
+http://15.204.246.24:8080/UniversalHD/index.m3u8
 #EXTINF:-1 tvg-id="famelack-vn2i9Jh6QwJkSK" tvg-country="US" tvg-language="" tvg-logo="" tvg-status="live" group-title="General",Universal Westerns
 https://xumo-xumoent-ch834-iwtka.fast.nbcuni.com/live/master.m3u8
 #EXTINF:-1 tvg-id="famelack-HYnHHpCe4o5p06" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/OcDimHX.png" tvg-status="live" group-title="General",Universitaria TV
@@ -8637,7 +8641,7 @@ http://s91030.cdn.ngenix.net/hls/CH_R01_OTT_DV_VLD_VOSTOK24_OTT/variant.m3u8
 https://ingest2-video.streaming-pro.com/votv/streaming_web/playlist.m3u8
 #EXTINF:-1 tvg-id="famelack-m9sTB8PM1zE7oy" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/QPcmfZb.png" tvg-status="live" group-title="General",VOX
 https://dash4.antik.sk/live/test_vox_tizen/playlist.m3u8
-#EXTINF:-1 tvg-id="VRCanal21Nasca.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/rxzz6kD.jpeg" tvg-status="live" group-title="General",VR Canal 21 Nasca
+#EXTINF:-1 tvg-id="VRCanal21Nasca.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/rxzz6kD.jpeg" tvg-status="down" group-title="General",VR Canal 21 Nasca
 https://live-evg10.tv360.bitel.com.pe/bitel/nasca/playlist.m3u8
 #EXTINF:-1 tvg-id="famelack-UhQYXBVqQscSRo" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/jZlj3ga.png" tvg-native-name="Время" tvg-status="live" group-title="General",Vremya
 https://fs.uplink.kz/vremya/mono.m3u8?token=onlinetv
@@ -8664,13 +8668,13 @@ https://dethich.pw/vtv1/index.m3u8
 #EXTINF:-1 tvg-id="VTV10.vn" tvg-country="VN" tvg-language="Vietnamese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/VTV10_logo_2026.png/960px-VTV10_logo_2026.png" tvg-status="live" group-title="General",VTV10
 https://live-a.fptplay53.net/live/media/vtv10/live247-hls-avc/index.m3u8
 #EXTINF:-1 tvg-id="VTV2.vn" tvg-country="VN" tvg-language="Vietnamese" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/VTV2_logo_07-09-2026.png/960px-VTV2_logo_07-09-2026.png" tvg-status="live" group-title="General",VTV2
-https://dethich.pw/vtv2/index.m3u8
+http://125hvt.ddns.net:21585/vtv2/playlist.m3u8
 #EXTINF:-1 tvg-id="VTV3.vn" tvg-country="VN" tvg-language="Vietnamese" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/VTV3_logo_07-09-2026.png/960px-VTV3_logo_07-09-2026.png" tvg-status="live" group-title="General",VTV3
-https://dethich.pw/vtv3/index.m3u8
+https://javiptv.s.gy/vtv3hd-thvn
 #EXTINF:-1 tvg-id="VTV4.vn" tvg-country="VN" tvg-language="Vietnamese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/VTV4_logo_2026.png" tvg-status="live" group-title="General",VTV4
-https://dethich.pw/vtv4/index.m3u8
+https://live.fptplay53.net/fnxch2/vtv4hd_abr.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="VTV5.vn" tvg-country="VN" tvg-language="Vietnamese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/VTV5_logo_2025.png" tvg-status="live" group-title="General",VTV5
-https://live.fptplay53.net/epzch2/vtv5hd_abr.smil/chunklist.m3u8
+https://dethich.pw/vtv5/index.m3u8
 #EXTINF:-1 tvg-id="VTV5TayNamBo.vn" tvg-country="VN" tvg-language="Vietnamese" tvg-logo="https://i.imgur.com/xiuHjEQ.png" tvg-status="live" group-title="General",VTV5 Tay Nam Bo
 https://live-a.fptplay53.net/live/media/vtv5tnb/live-hls-avc/index.m3u8
 #EXTINF:-1 tvg-id="VTV5TayNguyen.vn" tvg-country="VN" tvg-language="Vietnamese" tvg-logo="https://i.imgur.com/Hlcnqqt.png" tvg-status="live" group-title="General",VTV5 Tay Nguyen
@@ -8680,7 +8684,7 @@ https://live.fptplay53.net/fnxhd1/vtv7hd_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="VTV8.vn" tvg-country="VN" tvg-language="Vietnamese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/VTV8_logo_2026.png" tvg-status="live" group-title="General",VTV8
 https://live.fptplay53.net/epzhd1/vtv8hd_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="VTV9.vn" tvg-country="VN" tvg-language="Vietnamese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/VTV9_logo_2026.png" tvg-status="live" group-title="General",VTV9
-https://dethich.pw/vtv9/index.m3u8
+https://live.fptplay53.net/fnxhd1/vtv9_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="famelack-NTuQpCvDO7jZXl" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.imgur.com/4Wwptd3.png" tvg-status="live" group-title="General",Vychodoceska TV
 https://stream.polar.cz/vctv/vctvlive-1/playlist.m3u8
 #EXTINF:-1 tvg-id="famelack-fZI48V3oPHwUhn" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/HQ8UyhL.png" tvg-status="live" group-title="General",W Polsce PL

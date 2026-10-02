@@ -260,7 +260,7 @@ http://tv.streambox.fr/live/testlivestream/testlivestream/49.m3u8
 #EXTINF:-1 tvg-id="famelack-dlaiKc65INz3dz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/golfchannel.png" tvg-status="live" group-title="Sports",Golf Channel
 https://dash4.antik.sk/live/test_golf_channel/playlist.m3u8
 #EXTINF:-1 tvg-id="GolfChannelLatinAmerica.us" tvg-country="US" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Golf_Channel_Logo_2018.png/960px-Golf_Channel_Logo_2018.png" tvg-status="live" group-title="Sports",Golf Channel Latin America
-http://72.1.184.5:8089/play/a0cw/index.m3u8
+http://15.204.246.24:8080/GolfChannelHD/index.m3u8
 #EXTINF:-1 tvg-id="famelack-bhT3j01Nh3aRCQ" tvg-country="CA" tvg-language="English" tvg-logo="https://i.imgur.com/nt9B6jx.png" tvg-status="live" group-title="Sports",Hard Knocks
 https://d3uyzhwvmemdyf.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/HardKnocks-PLEX/121.m3u8
 #EXTINF:-1 tvg-id="HorseTV.it" tvg-country="IT" tvg-language="Italian" tvg-logo="https://i.imgur.com/nK4UUX4.png" tvg-status="live" group-title="Sports",Horse TV
@@ -399,7 +399,7 @@ http://stream.mcquack.net/491/index.m3u8
 http://stream.mcquack.net/493/index.m3u8
 #EXTINF:-1 tvg-id="OkkoSport.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/SYOaOQc.png" tvg-native-name="Okko Спорт" tvg-status="live" group-title="Sports",Okko Sport
 http://stream.mcquack.net/492/index.m3u8
-#EXTINF:-1 tvg-id="OlympicChannel.es" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/wPQVVtj.png" tvg-status="live" group-title="Sports",Olympic Channel
+#EXTINF:-1 tvg-id="OlympicChannel.es" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/wPQVVtj.png" tvg-status="down" group-title="Sports",Olympic Channel
 https://ocshls-2-olympicchannel.akamaized.net/ocshls/OCTV_32.m3u8
 #EXTINF:-1 tvg-id="famelack-yxyIFaB4Q9mpks" tvg-country="OM" tvg-language="Arabic" tvg-logo="https://i.imgur.com/1omi7p8.png" tvg-native-name="قناة عمان الرياضية" tvg-status="live" group-title="Sports",Oman Sports TV
 https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
@@ -536,7 +536,7 @@ https://svs.itworkscdn.net/smc4sportslive/smc4tv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="SKITV.ch" tvg-country="CH" tvg-language="English" tvg-logo="https://i.imgur.com/S6qgwLG.png" tvg-status="down" group-title="Sports",SKI TV
 https://d2xeo83q8fcni6.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/SkiTV-SportsTribal/193.m3u8
 #EXTINF:-1 tvg-id="SkyRacing1.au" tvg-country="AU" tvg-language="English" tvg-logo="https://i.imgur.com/Hf0EiaW.png" tvg-status="live" group-title="Sports",Sky Racing 1
-https://skylivetab-new.akamaized.net/hls/live/2038780/sky1/index.m3u8
+https://636ffd31f0e12.streamlock.net/RacingStream1/RacingStream1/playlist.m3u8
 #EXTINF:-1 tvg-id="SkyRacing2.au" tvg-country="AU" tvg-language="English" tvg-logo="https://i.imgur.com/TxQvFnQ.png" tvg-status="live" group-title="Sports",Sky Racing 2
 https://636ffd31f0e12.streamlock.net/RacingStream2/RacingStream2/playlist.m3u8
 #EXTINF:-1 tvg-id="SkySportsCricket.uk" tvg-country="UK" tvg-language="English" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1302.png" tvg-status="down" group-title="Sports",Sky Sports Cricket
@@ -618,7 +618,7 @@ https://edge-001.streamup.eu/sportitalia/sihd_abr/playlist.m3u8
 #EXTINF:-1 tvg-id="SportitaliaMotori.it" tvg-country="IT" tvg-language="Italian" tvg-logo="https://i.imgur.com/hu56Ya5.png" tvg-status="down" group-title="Sports",Sportitalia Motori
 https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:simotori.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="SportitaliaSolocalcio.it" tvg-country="IT" tvg-language="Italian" tvg-logo="https://i.imgur.com/hu56Ya5.png" tvg-status="live" group-title="Sports",Sportitalia Solocalcio
-https://italiansport-solocalcio-samsung.amagi.tv/playlist.m3u8
+https://edge-001.streamup.eu/sportitalia/sisolocalcio_abr/playlist.m3u8
 #EXTINF:-1 tvg-id="famelack-SlVG4fjzQNKF0Y" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/ujS6mMo.png" tvg-native-name="Спортивный" tvg-status="live" group-title="Sports",Sportivnyy
 https://live-3.otcnet.ru/sportivny/index.m3u8
 #EXTINF:-1 tvg-id="SportsTelevision.kp" tvg-country="KP" tvg-language="Korean" tvg-logo="https://i.imgur.com/HvFpGeH.png" tvg-native-name="체육텔레비죤" tvg-status="live" group-title="Sports",Sports Television

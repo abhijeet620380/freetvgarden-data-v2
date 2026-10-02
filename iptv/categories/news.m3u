@@ -660,7 +660,7 @@ https://citynewsregional.akamaized.net/hls/live/1024054/Regional_Live_9/master.m
 #EXTINF:-1 tvg-id="famelack-e29jn80x7K7M0D" tvg-country="CO" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="News",CityTv
 https://www.youtube-nocookie.com/embed/Q1CEBkYUkeM
 #EXTINF:-1 tvg-id="CNA.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="https://codeit.al/wp-content/uploads/2020/08/cna.png" tvg-status="live" group-title="News",CNA
-https://live1.mediadesk.al/cnatvlive.m3u8
+https://live1.mediadesk.al/cnatv.php
 #EXTINF:-1 tvg-id="CNA.sg" tvg-country="SG" tvg-language="English" tvg-logo="https://i.imgur.com/awIDugE.png" tvg-status="live" group-title="News",CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 #EXTINF:-1 tvg-id="famelack-WGiKSjCar1BvSz" tvg-country="SG" tvg-language="English" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Channel_News_Asia_International.png" tvg-status="live" group-title="News",CNA International
@@ -1175,7 +1175,7 @@ https://server.thelegitpro.in/kalingatv/kalingatv/index.m3u8
 https://www.youtube-nocookie.com/embed/UwJuTxFuNBY
 #EXTINF:-1 tvg-id="famelack-oVWM3Lwlb8W6WS" tvg-country="TR" tvg-language="Turkish" tvg-logo="" tvg-status="live" group-title="News",Kanal Plus
 https://live.artidijitalmedya.com/artidijital_kanalplus/kanalplus/mpeg/playlist.m3u8
-#EXTINF:-1 tvg-id="KanalZEROTV.pl" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.ibb.co/LzgJ7hzR/KANA-ZERO.jpg" tvg-status="live" group-title="News",Kanal ZERO TV
+#EXTINF:-1 tvg-id="KanalZEROTV.pl" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.ibb.co/LzgJ7hzR/KANA-ZERO.jpg" tvg-status="down" group-title="News",Kanal ZERO TV
 https://racitonsen.s.gy/ZERO_PL
 #EXTINF:-1 tvg-id="KannurOne.in" tvg-country="IN" tvg-language="Malayalam" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Kannur_one.png" tvg-status="live" group-title="News",Kannur One
 http://51.75.127.199:3141/kannurone/index.m3u8
@@ -1261,7 +1261,7 @@ https://liveplus.lzr.com.cn/xwzh/HD/live.m3u8
 https://dai.google.com/linear/hls/event/oYQGDqEGTmGdHE_fz9oLlg/master.m3u8
 #EXTINF:-1 tvg-id="LCI.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/DED8EXs.png" tvg-status="down" group-title="News",LCI
 http://145.239.5.177/368/index.m3u8
-#EXTINF:-1 tvg-id="LCN.ca" tvg-country="CA" tvg-language="French" tvg-logo="https://i.imgur.com/iKDLgOG.png" tvg-status="live" group-title="News",LCN
+#EXTINF:-1 tvg-id="LCN.ca" tvg-country="CA" tvg-language="French" tvg-logo="https://i.imgur.com/iKDLgOG.png" tvg-status="down" group-title="News",LCN
 https://tvalive.akamaized.net/hls/live/2014213/tvan01/tvan01.m3u8
 #EXTINF:-1 tvg-id="LeMondeen24h.cd" tvg-country="CD" tvg-language="French" tvg-logo="https://i.imgur.com/2igwi7g.png" tvg-status="down" group-title="News",Le Monde en 24h
 https://stream.berosat.live/hls/monde24h-tv-index/monde24h-tv-index.m3u8
@@ -1414,7 +1414,7 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01821-lovetvfast-nachrichten360-s
 #EXTINF:-1 tvg-id="famelack-YpG1ImfWO1Q3HO" tvg-country="GR" tvg-language="Greek" tvg-logo="https://i.imgur.com/9OFdMud.png" tvg-native-name="Ναυτεμπορική TV" tvg-status="live" group-title="News",Naftemporiki TV
 https://telmaco.ascdn.broadpeak.io/nafteboriki/default/index.m3u8
 #EXTINF:-1 tvg-id="NagalandTV.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://i.imgur.com/EBEIpPo.png" tvg-status="live" group-title="News",Nagaland TV
-http://51.75.127.199:3141/nltv/index.m3u8
+https://mumt06.tangotv.in/qYyB8fXVNAGALANDTV/index.m3u8
 #EXTINF:-1 tvg-id="famelack-ihnGwU2sIXqoDQ" tvg-country="JP" tvg-language="Japanese" tvg-logo="" tvg-status="live" group-title="News",Nagoya TV News
 https://www.youtube-nocookie.com/embed/-C6FE2m7kX8
 #EXTINF:-1 tvg-id="famelack-dm1aFguTzJoeDM" tvg-country="BD" tvg-language="Bengali" tvg-logo="https://www.jagobd.com/wp-content/uploads/2019/11/NAN-TV-Logo-02.png" tvg-status="live" group-title="News",NAN TV
@@ -1689,6 +1689,10 @@ https://www.youtube-nocookie.com/embed/RbRSSfXZqh0
 https://partwota.cdn.mgmlcdn.com/omlive/smil:omlive.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="ONNewsHD.pk" tvg-country="PK" tvg-language="English" tvg-logo="https://i.imgur.com/h3IUrMI.png" tvg-status="down" group-title="News",ON News HD
 http://103.250.28.74:8000/play/a046/index.m3u8
+#EXTINF:-1 tvg-id="famelack-q7nooMvVTTe0YZ" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/mUrZz9O.png" tvg-status="live" group-title="News",Onda 15 TV
+https://cloudvideo.servers10.com:8081/8034/index.m3u8
+#EXTINF:-1 tvg-id="famelack-w0BuuYkb1LM5NS" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/6HxLUQd.png" tvg-status="live" group-title="News",Onda Valencia TV
+https://cloudvideo.servers10.com:8081/8116/index.m3u8
 #EXTINF:-1 tvg-id="famelack-w5EWzw31ShdREs" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/84/One_America_News_Network_logo.svg/960px-One_America_News_Network_logo.svg.png" tvg-status="live" group-title="News",One America News Network
 https://a-cdn.klowdtv.com/live1/oan_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="OnlineTVNusantara.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://i.imgur.com/E9CCIpP.jpg" tvg-status="down" group-title="General",Online TV Nusantara
@@ -1819,6 +1823,8 @@ https://videostream.shockmedia.com.ar:19360/quanticatv/quanticatv.m3u8
 https://server.playontv.in/raatdinbangla/index.m3u8
 #EXTINF:-1 tvg-id="famelack-MFtmVHiGqE67Ua" tvg-country="PA" tvg-language="Spanish" tvg-logo="https://i.imgur.com/xum8PNe.jpg" tvg-status="live" group-title="News",Radio Ancon
 https://www.streaming507.net:19360/anconvideo/anconvideo.m3u8
+#EXTINF:-1 tvg-id="famelack-0AeHu53Cy2m0HP" tvg-country="IT" tvg-language="Italian" tvg-logo="https://upload.wikimedia.org/wikipedia/it/3/38/Radio_Capital_logo_%282020%29.svg" tvg-status="live" group-title="News",Radio Capital TiVu
+https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S35394734/Z6U2wGoDYANk/playlist.m3u8
 #EXTINF:-1 tvg-id="RadioIslaTV.pr" tvg-country="PR" tvg-language="Spanish" tvg-logo="https://i.ibb.co/PDThYr5/Logo-Radio-Isla.png" tvg-status="down" group-title="News",Radio Isla TV
 https://59a564764e2b6.streamlock.net/palestra/palestra/playlist.m3u8
 #EXTINF:-1 tvg-id="famelack-o5d38JZC1UjVec" tvg-country="AR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/uvck4Vj.png" tvg-status="live" group-title="News",Radio Mitre
@@ -2233,7 +2239,7 @@ https://server.livelegitpro.in/bnews24/bnews24/video.m3u8
 https://cdn.pishow.tv/ott/live/1526/master.m3u8
 #EXTINF:-1 tvg-id="famelack-0V4ffffN69jNL9" tvg-country="IN" tvg-language="Telugu" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_TV5_TELUGU/images/LOGO_HD/image.png" tvg-status="live" group-title="News",TV5 News
 https://mumbai-edge.smartplaytv.in/TV5Telugu/index.m3u8
-#EXTINF:-1 tvg-id="TV5MondeInfo.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/AJx5Fy2.png" tvg-status="live" group-title="News",TV5Monde Info
+#EXTINF:-1 tvg-id="TV5MondeInfo.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/AJx5Fy2.png" tvg-status="down" group-title="News",TV5Monde Info
 https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
 #EXTINF:-1 tvg-id="TV7Bharat.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://tv7bharat.tv/wp-content/uploads/2023/07/Logo-Bharat.jpg" tvg-status="live" group-title="News",TV7 Bharat
 https://stream.ottlive.co.in/tv7bharat/index.m3u8

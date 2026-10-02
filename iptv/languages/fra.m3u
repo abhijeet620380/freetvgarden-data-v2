@@ -125,7 +125,7 @@ https://cs2.push2stream.com/CANAL3BENIN/playlist.m3u8
 https://livehd.vedge.infomaniak.com/livecast/livehd/master.m3u8
 #EXTINF:-1 tvg-id="famelack-jkhVUzLb6rEW8B" tvg-country="CA" tvg-language="French" tvg-logo="" tvg-status="live" group-title="General",Canal Savoir
 https://hls.savoir.media/live/stream.m3u8
-#EXTINF:-1 tvg-id="CanalZ.be" tvg-country="BE" tvg-language="French" tvg-logo="https://i.imgur.com/qtiGLzZ.png" tvg-status="live" group-title="Business",Canal Z
+#EXTINF:-1 tvg-id="CanalZ.be" tvg-country="BE" tvg-language="French" tvg-logo="https://i.imgur.com/qtiGLzZ.png" tvg-status="down" group-title="Business",Canal Z
 https://d1hz1p2gea2zy4.cloudfront.net/live/rmgtv/RMG-TRENDSZFR-LIVE/index.m3u8
 #EXTINF:-1 tvg-id="CanalZoom.be" tvg-country="BE" tvg-language="French" tvg-logo="https://i.imgur.com/JUNP8Rx.png" tvg-status="down" group-title="General",Canal Zoom
 https://tvlocales-live.freecaster.com/live/95d2e3af-5ab8-45a9-9dc9-f544d006b5d5/95d2e3af-5ab8-45a9-9dc9-f544d006b5d5.isml/master.m3u8
@@ -351,7 +351,7 @@ https://streaming.lauradavemedia.com/ldm/index.m3u8
 https://tnt-television.com/LBFD_RTV/index.m3u8
 #EXTINF:-1 tvg-id="LCI.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/DED8EXs.png" tvg-status="down" group-title="News",LCI
 http://145.239.5.177/368/index.m3u8
-#EXTINF:-1 tvg-id="LCN.ca" tvg-country="CA" tvg-language="French" tvg-logo="https://i.imgur.com/iKDLgOG.png" tvg-status="live" group-title="News",LCN
+#EXTINF:-1 tvg-id="LCN.ca" tvg-country="CA" tvg-language="French" tvg-logo="https://i.imgur.com/iKDLgOG.png" tvg-status="down" group-title="News",LCN
 https://tvalive.akamaized.net/hls/live/2014213/tvan01/tvan01.m3u8
 #EXTINF:-1 tvg-id="famelack-ao2VustxYc4JJe" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/a8RuRUQ.png" tvg-status="live" group-title="General",Le Figaro TV Ile-de-France
 https://static.lefigaro.fr/secom/tnt.m3u8
@@ -677,9 +677,9 @@ https://channels.trace.plus/Traceprod/TERANGA_hd/index.m3u8
 https://channels.trace.plus/Traceprod/AYITI_hd/index.m3u8
 #EXTINF:-1 tvg-id="famelack-yLCxHzKZ8frJd2" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/ZHD7Vxy.png" tvg-status="live" group-title="Music",Trace Caribbean
 https://channels.trace.plus/Traceprod/CARIBBEAN_hd/index.m3u8
-#EXTINF:-1 tvg-id="famelack-70sX04jX14d4dB" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/X0UmU3K.png" tvg-status="live" group-title="Music",Trace Gospel
+#EXTINF:-1 tvg-id="famelack-70sX04jX14d4dB" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/X0UmU3K.png" tvg-status="live" group-title="Religious",Trace Gospel
 https://channels.trace.plus/Traceprod/GOSPEL_FR_hd/index.m3u8
-#EXTINF:-1 tvg-id="famelack-qlnlzIINox50mW" tvg-country="FR" tvg-language="French" tvg-logo="" tvg-status="live" group-title="Music",Trace Gospel Southern Africa
+#EXTINF:-1 tvg-id="famelack-qlnlzIINox50mW" tvg-country="FR" tvg-language="French" tvg-logo="" tvg-status="live" group-title="Religious",Trace Gospel Southern Africa
 https://channels.trace.plus/Traceprod/GOSPEL_SA_hd/index.m3u8
 #EXTINF:-1 tvg-id="TraceIvoire.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/W2l3rVx.png" tvg-status="live" group-title="Music",Trace Ivoire
 https://channels.trace.plus/Traceprod/TRACE_IVOIRE_hd/index.m3u8
@@ -688,7 +688,7 @@ https://channels.trace.plus/Traceprod/TRACE_IVOIRE_hd/index.m3u8
 #EXTINF:-1 tvg-id="famelack-GOL0LeAC5fNTzD" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/q6vkMrU.png" tvg-status="live" group-title="Music",Trace Kitoko
 https://channels.trace.plus/Traceprod/KITOKO_hd/index.m3u8
 #EXTINF:-1 tvg-id="TraceLatina.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/CUVAi4u.png" tvg-status="live" group-title="Music",Trace Latina
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracelatinait-samsungit/playlist.m3u8
+https://channels.trace.plus/Traceprod/LATINA_hd/index.m3u8
 #EXTINF:-1 tvg-id="famelack-0fWZLIAvkDVD4z" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/cYwkCj2.png" tvg-status="live" group-title="Music",Trace Mboa
 https://channels.trace.plus/Traceprod/MBOA_hd/index.m3u8
 #EXTINF:-1 tvg-id="famelack-IQN10ZdvEALsRy" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/xsEGIXO.png" tvg-status="live" group-title="Music",Trace Muzika
@@ -705,7 +705,7 @@ https://channels.trace.plus/Traceprod/URBAN_SA_hd/index.m3u8
 https://channels.trace.plus/Traceprod/VANILLA_hd/index.m3u8
 #EXTINF:-1 tvg-id="TrueCrimebyPlutoTV.de" tvg-country="DE" tvg-language="French" tvg-logo="https://images.pluto.tv/channels/5f914f4b36d67d0007a91a04/colorLogoSVG.svg" tvg-status="down" group-title="Series",True Crime by Pluto TV
 https://jmp2.uk/plu-5f914f4b36d67d0007a91a04.m3u8
-#EXTINF:-1 tvg-id="Turbo.de" tvg-country="DE" tvg-language="French" tvg-logo="https://images.pluto.tv/channels/66f55c3955567d0008ef9b68/colorLogoSVG.svg" tvg-status="down" group-title="Entertainment",Turbo
+#EXTINF:-1 tvg-id="Turbo.de" tvg-country="DE" tvg-language="French" tvg-logo="https://images.pluto.tv/channels/66f55c3955567d0008ef9b68/colorLogoSVG.svg" tvg-status="live" group-title="Entertainment",Turbo
 https://jmp2.uk/plu-66f55c3955567d0008ef9b68.m3u8
 #EXTINF:-1 tvg-id="TVAlsace.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://academie.kasumay.international/ico/radioalsace.png" tvg-status="live" group-title="General",TV Alsace
 http://194.163.157.137:8080/hls/radioalsace.m3u8
@@ -737,7 +737,7 @@ https://tvf-tv5ch.otteravision.com/tvf/tv5ch/tv5ch.m3u8
 http://5.180.164.197:8080/TV5MONDE/index.m3u8
 #EXTINF:-1 tvg-id="TV5MondeFranceBelgiumSwitzerlandMonaco.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/WmRbudc.png" tvg-status="down" group-title="General",TV5Monde France Belgium Switzerland Monaco
 https://ott.tv5monde.com/Content/HLS/Live/channel(fbs)/variant.m3u8
-#EXTINF:-1 tvg-id="TV5MondeInfo.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/AJx5Fy2.png" tvg-status="live" group-title="News",TV5Monde Info
+#EXTINF:-1 tvg-id="TV5MondeInfo.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/AJx5Fy2.png" tvg-status="down" group-title="News",TV5Monde Info
 https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
 #EXTINF:-1 tvg-id="TV5MondeLatinAmerica.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/x8rjGhp.png" tvg-status="down" group-title="General",TV5Monde Latin America
 http://45.162.231.38:7779/TV5_Monde/index.m3u8
@@ -749,7 +749,7 @@ https://ott.tv5monde.com/Content/HLS/Live/channel(style1)/variant.m3u8
 https://tv7.live-kd.com/live/tv7/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="TV78.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/stzE1Ij.png" tvg-status="down" group-title="General",TV78
 https://streamtv.cdn.dvmr.fr/TV78/ngrp:tv78.stream_all/master.m3u8
-#EXTINF:-1 tvg-id="TVA.ca" tvg-country="CA" tvg-language="French" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/TVA_logo_2020.svg/960px-TVA_logo_2020.svg.png" tvg-status="live" group-title="General",TVA
+#EXTINF:-1 tvg-id="TVA.ca" tvg-country="CA" tvg-language="French" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/TVA_logo_2020.svg/960px-TVA_logo_2020.svg.png" tvg-status="down" group-title="General",TVA
 https://tvalive-dai01.akamaized.net/Content/HLS/Live/channel(575b93c5-be31-ee34-6285-14620fd14048)/index.m3u8
 #EXTINF:-1 tvg-id="famelack-r701W6Krlv63Lr" tvg-country="BJ" tvg-language="French" tvg-logo="https://i.imgur.com/oUnEYl5.png" tvg-status="live" group-title="General",TVC Benin
 https://live.tvcbenin.com/direct/729c37a1d3319ee21991227b1f84c687.sdp/playlist.m3u8
