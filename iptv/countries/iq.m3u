@@ -21,7 +21,7 @@ https://live.alissahost.net/hls/test.m3u8
 https://media1.livaat.com/static/AL-RASHEED-HD/playlist.m3u8
 #EXTINF:-1 tvg-id="AlSharqiya.iq" tvg-country="IQ" tvg-language="Arabic" tvg-logo="https://i.imgur.com/mJIG5IV.png" tvg-native-name="الشرقية" tvg-status="live" group-title="General",Al Sharqiya
 http://185.9.2.18/chid_144/index.m3u8
-#EXTINF:-1 tvg-id="AlSharqiyaNews.iq" tvg-country="IQ" tvg-language="Arabic" tvg-logo="https://i.imgur.com/PeAcXB9.png" tvg-native-name="الشرقية للأخبار" tvg-status="live" group-title="News",Al Sharqiya News
+#EXTINF:-1 tvg-id="AlSharqiyaNews.iq" tvg-country="IQ" tvg-language="Arabic" tvg-logo="https://i.imgur.com/PeAcXB9.png" tvg-native-name="الشرقية للأخبار" tvg-status="down" group-title="News",Al Sharqiya News
 https://5d94523502c2d.streamlock.net/alsharqiyalive/mystream/playlist.m3u8
 #EXTINF:-1 tvg-id="AlAimmaTV.iq" tvg-country="IQ" tvg-language="Arabic" tvg-logo="https://alaimma.tv/alaimma-logo.png" tvg-native-name="قناة الائمة" tvg-status="live" group-title="Religious",Al-Aimma TV
 https://alaimma.tv/live/index.m3u8
@@ -107,8 +107,8 @@ https://live.rudaw.net/hls/rudaw-tv/master.m3u8
 https://live.bradosti.net/live/samaraweb_playlist.m3u8
 #EXTINF:-1 tvg-id="famelack-5tvpIjV4plOKmq" tvg-country="IQ" tvg-language="Arabic" tvg-logo="https://www.semakurd.net/sites/default/files/imagecache/400xY/shemis-tv.jpg" tvg-native-name="شمس" tvg-status="live" group-title="News",Shams TV
 https://stream.shams.tv/hls/stream.m3u8
-#EXTINF:-1 tvg-id="UTV.iq" tvg-country="IQ" tvg-language="Arabic" tvg-logo="https://i.imgur.com/9qFHjnu.png" tvg-status="down" group-title="General",UTV
-https://mn-nl.mncdn.com/utviraqi2/64c80359/index.m3u8
+#EXTINF:-1 tvg-id="UTV.iq" tvg-country="IQ" tvg-language="Arabic" tvg-logo="https://i.imgur.com/9qFHjnu.png" tvg-status="live" group-title="General",UTV
+https://utviraqi-live.lg.mncdn.com/utviraqi-live/64c80359/index.m3u8
 #EXTINF:-1 tvg-id="famelack-KMzVAKGUvyz4eh" tvg-country="IQ" tvg-language="Kurdish" tvg-logo="https://i.imgur.com/rK0y02d.png" tvg-status="live" group-title="General",Waar TV
 https://hlspackager.akamaized.net/live/DB/WAAR_HD/HLS/WAAR_HD.m3u8
 #EXTINF:-1 tvg-id="famelack-1BItbbUxYfR9by" tvg-country="IQ" tvg-language="Arabic" tvg-logo="https://i.imgur.com/9Mspf32.png" tvg-native-name="قناة زاكروس الفضائية" tvg-status="live" group-title="General",Zagros TV
