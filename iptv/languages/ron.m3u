@@ -85,7 +85,7 @@ https://hls02ns.antenaplay.ro/hls/euronews-ro-sd/index.m3u8
 rtmp://89.28.25.122/live/tnt_md
 #EXTINF:-1 tvg-id="famelack-Zuuz0ec4YwcYzF" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/sTy4FHs.png" tvg-status="live" group-title="General",Favorit TV
 https://hls02ns.antenaplay.ro/hls/favorit-sd/index.m3u8
-#EXTINF:-1 tvg-id="FilmNow.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/sSoRvGz.png" tvg-status="live" group-title="Movies",Film Now
+#EXTINF:-1 tvg-id="FilmNow.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/sSoRvGz.png" tvg-status="down" group-title="Movies",Film Now
 https://lbgo.bozztv.com/ssh101/ssh101/filmnoww/playlist.m3u8
 #EXTINF:-1 tvg-id="famelack-GwJhdsRcye8S3I" tvg-country="RO" tvg-language="Romanian" tvg-logo="" tvg-status="live" group-title="Movies",FILMBOX+ Hits Romania
 https://nosignal1.antenaplay.ro/hls/fb-hits-sd/index.m3u8
@@ -152,7 +152,7 @@ https://v0.trm.md/static/streaming-playlists/hls/9b79338b-1870-4cd7-91d4-0f6ce5c
 #EXTINF:-1 tvg-id="famelack-JI8jIu049ZR6mo" tvg-country="MD" tvg-language="Romanian" tvg-logo="https://i.imgur.com/Hv6Nk8A.png" tvg-status="live" group-title="General",Moldova 2
 https://v0.trm.md/static/streaming-playlists/hls/d5fafab0-9c37-4746-9e7a-b2d6c0427015/master.m3u8
 #EXTINF:-1 tvg-id="MoldovaTV.md" tvg-country="MD" tvg-language="Romanian" tvg-logo="https://i.imgur.com/gPMlDCP.png" tvg-status="live" group-title="General",Moldova TV
-https://moldovatv.ro/live-tv/live.m3u8
+http://89.38.8.130:39435
 #EXTINF:-1 tvg-id="MoozDance.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/aX70RD2.png" tvg-status="live" group-title="Music",Mooz Dance
 https://tvextra-hls.b-cdn.net/moozdance/moozdance.m3u8
 #EXTINF:-1 tvg-id="famelack-HXUJ0Y6Fs5W3Ui" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/GwATd3Y.png" tvg-status="live" group-title="Music",Mooz Hits
@@ -239,8 +239,8 @@ https://rotv.romediavalencia.com:3839/live/rotvlive.m3u8
 http://188.237.212.16:8888/live/cameraFeed.m3u8
 #EXTINF:-1 tvg-id="famelack-4apagZXEOsADeK" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/KUyqQCX.png" tvg-status="live" group-title="Religious",SperantaTV
 https://jstre.am/live/jsl:2gNjpghXRLE.m3u8
-#EXTINF:-1 tvg-id="SuperTV.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/pzxUE0O.png" tvg-status="down" group-title="Music",Super TV
-https://live.supertv.ro/live/supertv/playlist.m3u8
+#EXTINF:-1 tvg-id="SuperTV.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/pzxUE0O.png" tvg-status="live" group-title="Music",Super TV
+http://iptv.supertv.ro:8000/play/a001/index.m3u8
 #EXTINF:-1 tvg-id="famelack-Uvcll90KSqDPmB" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/0iuwjbK.png" tvg-status="live" group-title="General",Taraf TV
 https://hls02ns.antenaplay.ro/hls/taraf-tv-sd/index.m3u8
 #EXTINF:-1 tvg-id="famelack-o5xFTwZ5XqqWJt" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/CheqyWH.png" tvg-status="live" group-title="General",Tele7ABC HD
