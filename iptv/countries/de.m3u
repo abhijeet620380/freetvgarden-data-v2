@@ -15,7 +15,7 @@ https://alex-stream.rosebud-media.de/bounce/alexlivetv50.smil/index.m3u8
 https://jmp2.uk/plu-622f6e1e2792150007e0b2ff.m3u8
 #EXTINF:-1 tvg-id="famelack-KgfZTMdFAXl97l" tvg-country="DE" tvg-language="German" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Allg%C3%A4u_TV_Logo_%282021%29.svg/960px-Allg%C3%A4u_TV_Logo_%282021%29.svg.png" tvg-status="live" group-title="General",Allgau TV
 https://stream01.welocal.stream/stream/fhd-allgaeutv_25679/ngrp:stream_all/playlist.m3u8
-#EXTINF:-1 tvg-id="famelack-Mn9IVvdpmAf7oU" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/3JriZGR.png" tvg-status="live" group-title="General",Altenburg TV
+#EXTINF:-1 tvg-id="AltenburgTV.de" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/3JriZGR.png" tvg-status="live" group-title="General",Altenburg TV
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/132661/132661_264_live.m3u8
 #EXTINF:-1 tvg-id="ANIMALKINGDOM.de" tvg-country="DE" tvg-language="German" tvg-logo="" tvg-status="down" group-title="Outdoor",ANIMAL KINGDOM
 https://cdn6.goprimetime.info/feed/202306140918/LC18/index.m3u8
@@ -121,7 +121,7 @@ https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.
 https://jmp2.uk/stvp-CHAJ0500413A
 #EXTINF:-1 tvg-id="famelack-hoEK50b8RIgSOh" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/HimuPPb.png" tvg-status="live" group-title="Music",Deluxe Music
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
-#EXTINF:-1 tvg-id="famelack-kxfwLfpFpzHMm2" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/s3h67hx.png" tvg-status="live" group-title="Music",Deluxe Rap
+#EXTINF:-1 tvg-id="DeluxeRap.de" tvg-country="DE" tvg-language="English" tvg-logo="https://i.imgur.com/s3h67hx.png" tvg-status="live" group-title="Music",Deluxe Rap
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8
 #EXTINF:-1 tvg-id="DisneyChannel.de" tvg-country="DE" tvg-language="German" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg" tvg-status="down" group-title="Kids",Disney Channel
 http://178.27.12.3:9981/stream/channelid/269948147?profile=pass
@@ -265,8 +265,6 @@ https://dash4.antik.sk/live/test_ntv_tizen/playlist.m3u8
 https://jmp2.uk/plu-60080e8a4bf36000076a81b1.m3u8
 #EXTINF:-1 tvg-id="Nachrichten360.de" tvg-country="DE" tvg-language="German" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE4300003MR_20251209T125847SQUARE.png" tvg-status="live" group-title="News",Nachrichten 360
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01821-lovetvfast-nachrichten360-samsungde/playlist.m3u8
-#EXTINF:-1 tvg-id="famelack-4YOpv1CYox1W50" tvg-country="DE" tvg-language="" tvg-logo="" tvg-status="live" group-title="General",Naruto Germany
-https://palatinmedia-naruto-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="NashKinomir.de" tvg-country="DE" tvg-language="Russian" tvg-logo="https://i.imgur.com/7M1J42A.png" tvg-native-name="Наш Киномир" tvg-status="down" group-title="Movies",Nash Kinomir
 http://hls127.freeott.top:8080/Nash_kinomir/video.m3u8
 #EXTINF:-1 tvg-id="NDRFernsehen.de" tvg-country="DE" tvg-language="German" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Logo_NDR_Fernsehen_2017.svg/960px-Logo_NDR_Fernsehen_2017.svg.png" tvg-status="live" group-title="General",NDR Fernsehen
@@ -629,12 +627,8 @@ https://live.creacast.com/radio21/smil:radio21.smil/playlist.m3u8
 https://rbhlslive.akamaized.net/hls/live/2020435/rbfs/master.m3u8
 #EXTINF:-1 tvg-id="famelack-FfKKaHEk2MpmA6" tvg-country="DE" tvg-language="German" tvg-logo="" tvg-status="live" group-title="Music",Radio Weser TV Bremen
 https://5857499ee635b.streamlock.net/radiowesertv-live/_definst_/mp4:livestreamTV/playlist.m3u8
-#EXTINF:-1 tvg-id="famelack-mMN16NkXBOiZlV" tvg-country="DE" tvg-language="German" tvg-logo="" tvg-status="live" group-title="Movies",Rakuten TV Comedy Movies Germany
-https://ecac08c9e2214375b907d6825aaf9a01.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6182/master.m3u8
-#EXTINF:-1 tvg-id="famelack-rahlDGPnE1FWrR" tvg-country="DE" tvg-language="" tvg-logo="" tvg-status="live" group-title="General",Rakuten TV Crime Series Germany
-https://b6244e915ee04a5aa758e863a55a6a3d.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6217/master.m3u8
-#EXTINF:-1 tvg-id="famelack-i6jMhimWGlGgKg" tvg-country="DE" tvg-language="German" tvg-logo="" tvg-status="live" group-title="Movies",Rakuten TV Top Movies Germany
-https://cbb622b29f5d43b598991f3fa19de291.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5985/master.m3u8
+#EXTINF:-1 tvg-id="famelack-FT8VcZltRS1FOf" tvg-country="DE" tvg-language="German" tvg-logo="" tvg-status="live" group-title="Movies",Rakuten TV Action Movies Germany
+https://284824cf70404fdfb6ddf9349009c710.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6066/master.m3u8
 #EXTINF:-1 tvg-id="RAN1.de" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/zRg2BEa.png" tvg-status="live" group-title="General",RAN1
 http://58bd5b7a98e04.streamlock.net/medienasa-live/ran1_high/playlist.m3u8
 #EXTINF:-1 tvg-id="famelack-D4fjmuUPITRfet" tvg-country="DE" tvg-language="German" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Rbb_Fernsehen_Logo_2017.08.svg/960px-Rbb_Fernsehen_Logo_2017.08.svg.png" tvg-status="live" group-title="General",rbb Fernsehen
@@ -649,7 +643,7 @@ https://regiotv-s.iptv-playoutcenter.de/regiotv-s/regiotv-s.stream_1/playlist.m3
 https://h056.video-stream-hosting.de/medienasa-live/_definst_/mp4:RFH_high/index.m3u8
 #EXTINF:-1 tvg-id="RFO.de" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/902BHGL.png" tvg-status="down" group-title="General",RFO
 https://stream01.stream.welocal.world/stream/fhd-rfo_66876/ngrp:stream_all/playlist.m3u8
-#EXTINF:-1 tvg-id="famelack-50AOLuz78mWfKm" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/4wMZ8Em.png" tvg-status="live" group-title="Family",RiC
+#EXTINF:-1 tvg-id="famelack-50AOLuz78mWfKm" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/4wMZ8Em.png" tvg-status="live" group-title="Kids",RiC
 https://rictv.iptv-playoutcenter.de/rictv/rictv-web/playlist.m3u8
 #EXTINF:-1 tvg-id="Ridiculousness.de" tvg-country="DE" tvg-language="French" tvg-logo="https://images.pluto.tv/channels/5f8eb8a8b2619a000710605c/colorLogoSVG.svg" tvg-status="live" group-title="Comedy",Ridiculousness
 https://jmp2.uk/plu-5f8eb8a8b2619a000710605c.m3u8
