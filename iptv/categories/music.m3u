@@ -13,6 +13,8 @@ https://stream8.cinerama.uz/1267/tracks-v1a1/mono.m3u8
 https://30a-tv.com/music.m3u8
 #EXTINF:-1 tvg-id="famelack-CReHCdZVKTCuD1" tvg-country="NL" tvg-language="English" tvg-logo="https://i.imgur.com/1Fyezng.png" tvg-status="live" group-title="Music",360TuneBox
 https://dash3.antik.sk/live/test_360_tunebox_medium_atk/playlist.m3u8
+#EXTINF:-1 tvg-id="famelack-YF7mndaBAlEUjm" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/iBcqT8L.png" tvg-status="live" group-title="Music",3ABN Praise Him Music Network
+https://3abn.bozztv.com/3abn1/PraiseHim/smil:PraiseHim.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="famelack-gnXbQSLxnNAtTV" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/rI1wo2l.png" tvg-status="live" group-title="Music",4 Fun TV
 https://stream.4fun.tv:8888/hls/4f.m3u8
 #EXTINF:-1 tvg-id="4Music.fr" tvg-country="FR" tvg-language="Persian" tvg-logo="" tvg-status="live" group-title="Music",4 Music
@@ -77,7 +79,7 @@ https://stream.ecable.tv/afrobeats/index.m3u8
 https://cdn.streamlane.tv/hls/aghanitv/index.m3u8
 #EXTINF:-1 tvg-id="AlbKanaleMusicTV.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="https://i.imgur.com/JdKxscs.png" tvg-status="live" group-title="Music",AlbKanale Music TV
 https://albportal.net/albkanalemusic.m3u8
-#EXTINF:-1 tvg-id="AlcanceFMPLAYTV.py" tvg-country="PY" tvg-language="Spanish" tvg-logo="https://i.imgur.com/ymcWecA.png" tvg-status="live" group-title="Music",Alcance FM PLAY TV
+#EXTINF:-1 tvg-id="famelack-c4VJcNzklIX0CI" tvg-country="PY" tvg-language="Spanish" tvg-logo="https://i.imgur.com/ymcWecA.png" tvg-status="live" group-title="Music",Alcance FM PLAY TV
 https://video.wilohosting.com:19360/alcancefmtv/alcancefmtv.m3u8
 #EXTINF:-1 tvg-id="famelack-C7CqrdYHekA32V" tvg-country="BO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/MIBZ2pZ.png" tvg-status="live" group-title="Music",Alegria TV
 https://lbgo.bozztv.com/ssh101/ssh101/confirmatv/playlist.m3u8
@@ -123,8 +125,6 @@ http://23.239.31.26:8989/axstv/index.m3u8
 https://streamyes.alsolnet.com/azaharesfm/live/playlist.m3u8
 #EXTINF:-1 tvg-id="B4UMusic.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/B4U_Music.png" tvg-status="live" group-title="Music",B4U Music
 https://cdn.pishow.tv/ott/live/415/master.m3u8
-#EXTINF:-1 tvg-id="famelack-j0t6b1I6SBTscN" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/lW3WIBD.png" tvg-status="live" group-title="Music",Baby Time
-https://fs.uplink.kz/baby_time/mono.m3u8?token=onlinetv
 #EXTINF:-1 tvg-id="famelack-llG3LZh10Mx22l" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Balle_Balle_TV.png" tvg-status="live" group-title="Music",Balle Balle
 https://mcncdndigital.com/balleballetv/index.m3u8
 #EXTINF:-1 tvg-id="Bandamax.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/4DfnOTA.png" tvg-status="live" group-title="Music",Bandamax
@@ -165,8 +165,6 @@ http://213.91.179.28:8000/play/a0an
 https://video1.getstreamhosting.com:1936/8212/8212/playlist.m3u8
 #EXTINF:-1 tvg-id="BRIDGE.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/qYObfrG.png" tvg-status="live" group-title="Music",BRIDGE
 http://stream.mcquack.net/318/index.m3u8
-#EXTINF:-1 tvg-id="famelack-d8w13QXT1QMGcP" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/JJTQq81.png" tvg-status="live" group-title="Music",BRIDGE Classic
-https://fs.uplink.kz/bridge_classic/mono.m3u8?token=onlinetv
 #EXTINF:-1 tvg-id="BRIDGEDeluxe.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/EazL8w7.png" tvg-status="live" group-title="Music",BRIDGE Deluxe
 http://stream.mcquack.net/92/index.m3u8
 #EXTINF:-1 tvg-id="BRIDGEFresh.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/IkUhaiG.png" tvg-native-name="BRIDGE Фрэш" tvg-status="down" group-title="Music",BRIDGE Fresh
@@ -197,19 +195,17 @@ http://74.91.26.218:82/live/cctv11hd.m3u8
 https://xykt-fix.github.io/play/a02e/index.m3u8
 #EXTINF:-1 tvg-id="CCTVStormMusic.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://i.imgur.com/IiiRmrf.png" tvg-native-name="CCTV-风云音乐" tvg-status="live" group-title="Music",CCTV-Storm Music
 http://38.75.136.137:98/gslb/dsdqpub/fyyy.m3u8?auth=testpub
-#EXTINF:-1 tvg-id="famelack-qAN5sBGpkuc0D2" tvg-country="BO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/hutdRfk.png" tvg-status="live" group-title="Music",CEACOM TV
-https://eu1.servers10.com:8081/ceacom/index.m3u8
 #EXTINF:-1 tvg-id="famelack-Rbhi1IeYnyJ3gG" tvg-country="CR" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="Music",Cedros TV
 https://eu1.servers10.com:8081/cedrostv/index.m3u8
 #EXTINF:-1 tvg-id="famelack-gwy1ac4V2q1IQ8" tvg-country="AR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/JigzJck.png" tvg-status="live" group-title="Music",Chamame TV
 https://srv4.zcast.com.br/chamametv/chamametv/playlist.m3u8
 #EXTINF:-1 tvg-id="famelack-YVZxTC9dQaBTqc" tvg-country="CL" tvg-language="Spanish" tvg-logo="https://cdn.m3u.cl/logo/382_ChocolateFM.png" tvg-status="live" group-title="Music",Chocolate FM
 https://5eaccbab48461.streamlock.net:1936/8180/8180/playlist.m3u8
-#EXTINF:-1 tvg-id="CityEdenBirmaPlay.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/38Q5L5W.png" tvg-native-name="Сити Эдем Бирма Play" tvg-status="live" group-title="Music",City Eden Birma Play
+#EXTINF:-1 tvg-id="famelack-BN8UK0JlgAMrEm" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/38Q5L5W.png" tvg-native-name="Сити Эдем Бирма Play" tvg-status="live" group-title="Music",City Eden Birma Play
 https://cityeden.catcast.tv/content/34364/index.m3u8
-#EXTINF:-1 tvg-id="CityEdenClassicMusic.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/l7BE8l6.png" tvg-native-name="Сити Эдем Классическая Музыка" tvg-status="live" group-title="Music",City Eden Classic Music
+#EXTINF:-1 tvg-id="famelack-Lk2MXbqIFnMEMM" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/l7BE8l6.png" tvg-native-name="Сити Эдем Классическая Музыка" tvg-status="live" group-title="Music",City Eden Classic Music
 https://cityeden.catcast.tv/content/47400/index.m3u8
-#EXTINF:-1 tvg-id="CityEdenPlay.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/ozEqob9.png" tvg-native-name="Сити Эдем Play" tvg-status="live" group-title="Music",City Eden Play
+#EXTINF:-1 tvg-id="famelack-9QIFKg7aQ0UqIc" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/ozEqob9.png" tvg-native-name="Сити Эдем Play" tvg-status="live" group-title="Music",City Eden Play
 https://cityeden.catcast.tv/content/34100/index.m3u8
 #EXTINF:-1 tvg-id="famelack-eLHDrGKZWgbc15" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/V3MTfyc.png" tvg-native-name="Сити Эдем Сиртаки ТВ" tvg-status="live" group-title="Music",City Eden Sirtaki TV
 https://cityeden.catcast.tv/content/46421/index.m3u8
@@ -238,7 +234,7 @@ https://jmp2.uk/plu-5f68f53eb1e5800007390bf8.m3u8
 #EXTINF:-1 tvg-id="famelack-zY8UN9MRRHxEYy" tvg-country="IT" tvg-language="Italian" tvg-logo="https://i.imgur.com/ccdwsWj.png" tvg-status="live" group-title="Music",Company TV
 https://5929b138b139d.streamlock.net/CompanyTV/smil:CompanyTV.smil/master.m3u8
 #EXTINF:-1 tvg-id="ConcertChannel.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/u2irADf.png" tvg-status="live" group-title="Music",Concert Channel
-https://jmp2.uk/plu-6868152657543d1f8be4ece3.m3u8
+http://45.167.1.138:8000/play/a04i
 #EXTINF:-1 tvg-id="famelack-npvsow7O979Ja1" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/qEk0QGa.png" tvg-status="live" group-title="Music",Conecta TV
 https://stream8.mexiserver.com:19360/conectatvx/conectatvx.m3u8
 #EXTINF:-1 tvg-id="famelack-ynzFVHU7oaBdM1" tvg-country="AW" tvg-language="English" tvg-logo="https://i.imgur.com/uGE6lZ2.png" tvg-status="live" group-title="Music",Cool FM 98.9
@@ -289,14 +285,14 @@ https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.
 https://jmp2.uk/stvp-CHAJ0500413A
 #EXTINF:-1 tvg-id="famelack-hoEK50b8RIgSOh" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/HimuPPb.png" tvg-status="live" group-title="Music",Deluxe Music
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
-#EXTINF:-1 tvg-id="DeluxeRap.de" tvg-country="DE" tvg-language="English" tvg-logo="https://i.imgur.com/s3h67hx.png" tvg-status="live" group-title="Music",Deluxe Rap
+#EXTINF:-1 tvg-id="famelack-kxfwLfpFpzHMm2" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/s3h67hx.png" tvg-status="live" group-title="Music",Deluxe Rap
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8
 #EXTINF:-1 tvg-id="Dhamaal.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Dhamaal_TV.png" tvg-status="live" group-title="Music",Dhamaal
 http://107.167.16.138/dhamaal/index.m3u8?token=test
 #EXTINF:-1 tvg-id="famelack-dWV1CU8Rzdsj5g" tvg-country="IN" tvg-language="Tamil" tvg-logo="https://i.ibb.co/Rk78p2LB/dhooltv.png" tvg-native-name="தூள் டிவி" tvg-status="live" group-title="Music",Dhool TV
 https://d1msejlow1t3l4.cloudfront.net/fta/subhartitv/playlist.m3u8
 #EXTINF:-1 tvg-id="famelack-7HykF2vy347Jox" tvg-country="IN" tvg-language="Bengali" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DHOOM_MUSIC/images/LOGO_HD/image.png" tvg-status="live" group-title="Music",Dhoom Music
-https://mumt06.tangotv.in/qYyB8fXVDHOOMMUSIC/index.m3u8
+https://cdn.pishow.tv/ott/live/1456/master.m3u8
 #EXTINF:-1 tvg-id="DiscoPoloMusic.pl" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/ZZbuTv7.png" tvg-status="live" group-title="Music",Disco Polo Music
 http://185.227.34.179:8080/disco-polo-music/index.m3u8
 #EXTINF:-1 tvg-id="famelack-RszKNvM58V3E5m" tvg-country="PY" tvg-language="Spanish" tvg-logo="https://i.imgur.com/KOuxdMD.png" tvg-status="live" group-title="Music",Dismar Radio TV
@@ -353,8 +349,8 @@ https://rp.tactivemedia.com/palestiniantv_source/live/playlist.m3u8
 https://tv2.fastcast4u.com:3310/live/famatvlive.m3u8
 #EXTINF:-1 tvg-id="Fame95FM.jm" tvg-country="JM" tvg-language="English" tvg-logo="https://i.imgur.com/n3PUxes.png" tvg-status="down" group-title="Music",Fame95 FM
 https://rjr-fame.akamaized.net/hls/live/2033820/RJR_FAME/master.m3u8
-#EXTINF:-1 tvg-id="FarraPlay.py" tvg-country="PY" tvg-language="Spanish" tvg-logo="https://i.imgur.com/bXWzstH.png" tvg-status="live" group-title="Music",Farra Play
-http://159.203.148.226/live/farra.m3u8
+#EXTINF:-1 tvg-id="famelack-FuiSRD0mYmX331" tvg-country="PY" tvg-language="Spanish" tvg-logo="https://i.imgur.com/bXWzstH.png" tvg-status="live" group-title="Music",Farra Play
+https://stream.farra.com.py/live/farra_low.m3u8
 #EXTINF:-1 tvg-id="FiestaTV.co" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/42wImV2.png" tvg-status="down" group-title="Music",Fiesta TV
 https://panelvideo1.intermediahost.co:3286/live/ruzfpkqklive.m3u8
 #EXTINF:-1 tvg-id="famelack-JUHY7ZFUwE8O9n" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/1uoP10V.png" tvg-status="live" group-title="Music",Finest TV
@@ -403,7 +399,7 @@ https://streamunoapp.com:3553/live/cromtvlive.m3u8
 https://funradiovisionhd.vedge.infomaniak.com/livecast/ik:funradiovisionhd/manifest.m3u8
 #EXTINF:-1 tvg-id="famelack-97DWduUX5Hf0aj" tvg-country="MQ" tvg-language="French" tvg-logo="https://i.imgur.com/WMrYEgH.png" tvg-status="live" group-title="Music",FUSION TV
 https://edge20.vedge.infomaniak.com/livecast/ik:fusiontv/manifest.m3u8
-#EXTINF:-1 tvg-id="GalacticaTV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/byL1zCV.jpeg" tvg-status="live" group-title="Music",Galactica TV
+#EXTINF:-1 tvg-id="famelack-IJ7gZA2UwesadP" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/byL1zCV.jpeg" tvg-status="live" group-title="Music",Galactica TV
 https://stream.neux.site/memfs/e3f59eec-6b93-45e1-a2ab-c82381c2a9ec.m3u8
 #EXTINF:-1 tvg-id="GalaxyTV.ug" tvg-country="UG" tvg-language="English" tvg-logo="https://i.imgur.com/P5OABe5.png" tvg-status="down" group-title="Music",Galaxy TV
 https://stream.castr.com/6463248048d6cd3e143655b2/live_43351ad0f3b411ed81c78fcc31887c54/index.fmp4.m3u8
@@ -419,12 +415,12 @@ https://v1.tustreaming.cl/genialtv/index.m3u8
 https://video.uitzending.tv:19360/gigantfm/gigantfm.m3u8
 #EXTINF:-1 tvg-id="GMTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/GJYb8c8.png" tvg-status="down" group-title="Music",GMTV
 https://livechannel.mdc.akamaized.net/stitch/livechannel/1341/master1400000.m3u8;session=live_stream_1341
-#EXTINF:-1 tvg-id="GOTV.py" tvg-country="PY" tvg-language="Spanish" tvg-logo="https://i.ibb.co/jkvYVyz/Captura.png" tvg-status="live" group-title="Entertainment",GO TV
-https://rds3.desdeparaguay.net/gotv/gotv/playlist.m3u8
 #EXTINF:-1 tvg-id="famelack-cqIhg7ovb7n2hP" tvg-country="KR" tvg-language="Korean" tvg-logo="https://i.imgur.com/Ey7Htm8.png" tvg-native-name="국악방송TV" tvg-status="live" group-title="Music",Gugak TV
 https://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="famelack-QoGBfp2S5Hqmo0" tvg-country="UA" tvg-language="English" tvg-logo="https://i.imgur.com/PAw36qJ.png" tvg-status="live" group-title="Music",Happy Radio TV
 https://tv.mediacp.eu:8081/happyradio/index.m3u8
+#EXTINF:-1 tvg-id="famelack-woulkVyjTkcdXl" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/iDiGBE3.png" tvg-status="live" group-title="Music",Harmony Gospel Music TV
+https://tgn.bozztv.com/watc57/watc57-harmony/watc57-harmony/index.m3u8
 #EXTINF:-1 tvg-id="famelack-sFkDjoLVPgprWa" tvg-country="AW" tvg-language="English" tvg-logo="https://i.imgur.com/MKZCskA.png" tvg-status="live" group-title="Music",Heart Radio Aruba
 https://live2.tensila.com/heart-v-1.heartar/hls/live/mystream.m3u8
 #EXTINF:-1 tvg-id="famelack-8vX1XPEH9jNBSM" tvg-country="PY" tvg-language="Spanish" tvg-logo="https://i.imgur.com/oMHiGRN.png" tvg-status="live" group-title="Music",HEi Now
@@ -501,7 +497,7 @@ https://juicex.nz/hls/mystream.m3u8
 https://k100streymi.mbl.is/beint/k100/index.m3u8
 #EXTINF:-1 tvg-id="KalikaTV.in" tvg-country="IN" tvg-language="Malayalam" tvg-logo="https://i.imgur.com/XWXFoJA.png" tvg-status="live" group-title="Music",Kalika TV
 http://server.applelive.in/kalikatv/kalikatv.m3u8
-#EXTINF:-1 tvg-id="KandelaTV.ve" tvg-country="VE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/cCFxyIp.jpg" tvg-status="live" group-title="Music",KandelaTV
+#EXTINF:-1 tvg-id="famelack-MIcJy2C1jnLtEJ" tvg-country="VE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/cCFxyIp.jpg" tvg-status="live" group-title="Music",KandelaTV
 https://streamtv.intervenhosting.net:3718/live/kandelamedioslive.m3u8
 #EXTINF:-1 tvg-id="famelack-4MzSBBmB0C1tiF" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/mdpIRoW.png" tvg-status="live" group-title="Music",Karibena
 https://iptv-pe-x-7-g3s-video.egostreaming.pe/karibenatv_685a-pe-a5676-584412/index.fmp4.m3u8
@@ -573,6 +569,8 @@ https://streamlov.alsolnet.com/lapuracrema/live/playlist.m3u8
 https://h056.video-stream-hosting.de/easycast11-live/_definst_/mp4:livestreamhd2/playlist.m3u8?ref=
 #EXTINF:-1 tvg-id="LaXitosaPanama.pa" tvg-country="PA" tvg-language="Spanish" tvg-logo="https://i.imgur.com/Pt4F9Xz.png" tvg-status="down" group-title="Music",LaXitosa Panama
 https://stmvideo2.livecastv.com/lax953/lax953/playlist.m3u8
+#EXTINF:-1 tvg-id="famelack-0KL7HXYYAtsJlk" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://lingkartv.com/assets/img/logo-square.png" tvg-status="live" group-title="Music",Lingkar TV
+https://lingkartv.my.id/hls/lingkartv.m3u8
 #EXTINF:-1 tvg-id="famelack-b0E5tyyObiYQ6m" tvg-country="ES" tvg-language="Romanian" tvg-logo="https://i.imgur.com/hBswXYZ.png" tvg-status="live" group-title="Music",LiraTV
 https://cloud2.streaminglivehd.com:1936/liratv/liratv/playlist.m3u8
 #EXTINF:-1 tvg-id="famelack-rOt2GRHARiewoL" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/DCZKAQ1.png" tvg-status="live" group-title="Music",Littoral FM TV
@@ -585,7 +583,7 @@ https://www.youtube-nocookie.com/embed/RqjsV-kGQQc
 https://livestream.liveone.com/lc1/p1.m3u8
 #EXTINF:-1 tvg-id="famelack-sGZGN77ULu3I6y" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/3fA50RJ.png" tvg-status="live" group-title="Music",Lobo TV
 https://5ca3e84a76d30.streamlock.net/tvlobo/videotvlobo/playlist.m3u8
-#EXTINF:-1 tvg-id="famelack-oMhYmCaf0w71Vh" tvg-country="LA" tvg-language="Lao" tvg-logo="https://i.imgur.com/eT7iE34.png" tvg-status="live" group-title="Music",Look Thoong TV
+#EXTINF:-1 tvg-id="LookThoongTV.la" tvg-country="LA" tvg-language="Lao" tvg-logo="https://i.imgur.com/eT7iE34.png" tvg-status="live" group-title="Music",Look Thoong TV
 https://livefta.malimarcdn.com/ftaedge00/lookthoongtv.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="famelack-lLlNJWyY2XdMQg" tvg-country="PY" tvg-language="Spanish" tvg-logo="https://i.imgur.com/CaNdkpJ.jpeg" tvg-status="live" group-title="Music",Los Angeles TV Radio
 https://stmv6.voxtvhd.com.br/losangeles/losangeles/playlist.m3u8
@@ -595,8 +593,6 @@ https://stream.nasatv.com.mk/lovetv/hls/lovetv_live.m3u8
 https://stream-live.lrt.lt/klasika/master.m3u8
 #EXTINF:-1 tvg-id="famelack-n9ltANAvf9McB6" tvg-country="LT" tvg-language="Lithuanian" tvg-logo="https://i.imgur.com/oLuZTMH.png" tvg-status="live" group-title="Music",LRT Opus
 https://stream-live.lrt.lt/opus/master.m3u8
-#EXTINF:-1 tvg-id="famelack-I6PZ8XlrYGQMPu" tvg-country="JP" tvg-language="Japanese" tvg-logo="" tvg-status="live" group-title="Music",Luiger: Japanese City Pop Radio
-https://www.youtube-nocookie.com/embed/bT-Px1VcImw
 #EXTINF:-1 tvg-id="famelack-TD6r7rS9yoQWgK" tvg-country="LT" tvg-language="Lithuanian" tvg-logo="https://i.ibb.co/gb4NmNHT/M1-2025.png" tvg-status="live" group-title="Music",M-1
 https://m-1.data.lt/m-1/smil:m-1.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="M1.ua" tvg-country="UA" tvg-language="Ukrainian" tvg-logo="https://i.imgur.com/wbRdUw8.png" tvg-status="live" group-title="Music",M1
@@ -743,6 +739,8 @@ https://cloudvideo.servers10.com:8081/8032/index.m3u8
 http://str2.iptvhd.ru:8080/360TuneBox/index.m3u8
 #EXTINF:-1 tvg-id="MusicTop.ar" tvg-country="AR" tvg-language="Spanish" tvg-logo="https://cdn.mitvstatic.com/channels/ar_musictop_m.png" tvg-status="down" group-title="Music",MusicTop
 https://stream-gtlc.telecentro.net.ar/hls/musictophls/0/playlist.m3u8
+#EXTINF:-1 tvg-id="famelack-CD6tJOVgDMcaFw" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/Puk1Bhx.png" tvg-native-name="Муз Союз" tvg-status="live" group-title="Music",Muz Soyuz
+https://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3u8
 #EXTINF:-1 tvg-id="famelack-NGs3QITdm4gdTq" tvg-country="UZ" tvg-language="Uzbek" tvg-logo="https://s8.vcdn.biz/static/f/6010782281/image.jpg" tvg-status="live" group-title="Music",Muz TV Uzbekistan
 https://stream8.cinerama.uz/1063/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="MuzTV.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/BtqrHmz.png" tvg-native-name="Муз-ТВ" tvg-status="live" group-title="Music",Muz-TV
@@ -763,16 +761,14 @@ http://stream.mcquack.net/303/index.m3u8
 https://stream8.cinerama.uz/1201/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="MuzzOne.kz" tvg-country="KZ" tvg-language="Kazakh" tvg-logo="https://i.imgur.com/nHVABXh.png" tvg-status="down" group-title="Music",MuzzOne
 https://streams.adapto.kz/hls/live/muzzone/main_stream.m3u8
-#EXTINF:-1 tvg-id="NandePortetepeTV.py" tvg-country="PY" tvg-language="Spanish" tvg-logo="https://i.imgur.com/3taT6JK.jpeg" tvg-status="live" group-title="Music",Nande Portetepe TV
+#EXTINF:-1 tvg-id="famelack-KiwbZFxfIOXSsb" tvg-country="PY" tvg-language="Spanish" tvg-logo="https://i.imgur.com/3taT6JK.jpeg" tvg-status="live" group-title="Music",Nande Portetepe TV
 https://video.hostingcaaguazu.com:19360/nandeportetepe/nandeportetepe.m3u8
 #EXTINF:-1 tvg-id="famelack-llmTLpa7nLu2lO" tvg-country="UA" tvg-language="Ukrainian" tvg-logo="https://i.imgur.com/ienkbOc.png" tvg-native-name="НАШЕ Music" tvg-status="live" group-title="Music",NASHE Music
 https://cdn15.live-tv.cloud/ua_infinitas_tv/nashemus-abr/playlist.m3u8
 #EXTINF:-1 tvg-id="famelack-DSxOBANqbGCYcT" tvg-country="FI" tvg-language="Persian" tvg-logo="https://i.imgur.com/YteKXJy.png" tvg-status="live" group-title="Music",Navahang TV
 https://hls.navahang.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="famelack-tVSimuRyVg06J3" tvg-country="CA" tvg-language="English" tvg-logo="https://videocdn.bamboo-cloud.com/p/11294/sp/1129400/thumbnail/entry_id/0_hd6fo6eq/version/100002/width/1920" tvg-status="live" group-title="Music",New Channel
-https://vodcdn.bamboo-cloud.com/livehls/6ab2104508fd5ee36702e3d4/master.m3u8
 #EXTINF:-1 tvg-id="famelack-leWgfh6XDv14BX" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/B7ILXMc.png" tvg-status="live" group-title="Music",NEW K-POP
-https://ads.its-newid.net/api/manifest.m3u8?ads.service_id=USAJ3000013FJ&channel_id=newid_338&tp=samsung_tvplus
+https://ads.its-newid.net/api/manifest.m3u8?ads.service_id=GB17000088V&channel_id=newid_086&tp=samsung_tvplus
 #EXTINF:-1 tvg-id="NextHD.py" tvg-country="PY" tvg-language="Spanish" tvg-logo="https://i.imgur.com/c2rF3SS.png" tvg-status="live" group-title="Movies",Next HD
 https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
 #EXTINF:-1 tvg-id="NHBollyRaga.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://i.ibb.co/BKB9mv1K/NH-Bolly-Raga.png" tvg-status="live" group-title="Music",NH BollyRaga
@@ -797,6 +793,8 @@ https://stmv5.samcast.com.br/nasciparacantartv/nasciparacantartv/playlist.m3u8
 http://tv.nrg91.gr:1935/onweb/live/master.m3u8
 #EXTINF:-1 tvg-id="NRJHits.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/2xDVwOh.png" tvg-status="down" group-title="Music",NRJ Hits
 https://test.946985.filegear-sg.me/proxy/a23981548880f405
+#EXTINF:-1 tvg-id="famelack-7W5fz3owCOtino" tvg-country="PR" tvg-language="Spanish" tvg-logo="https://i.ibb.co/3mbZWyN/nav-Bar-title-Image-iphone6plus.png" tvg-status="live" group-title="Music",Nueva Vida FM
+https://stream.nuevavidafm.net:3937/live/nuevavidalive.m3u8
 #EXTINF:-1 tvg-id="famelack-GIntzeUgHcQOIa" tvg-country="TR" tvg-language="Turkish" tvg-logo="https://i.imgur.com/slwbux7.png" tvg-status="live" group-title="Music",Number 1 Ask
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e18f9cea15_1/playlist.m3u8
 #EXTINF:-1 tvg-id="famelack-Qe2ak6SCt98R2p" tvg-country="TR" tvg-language="Turkish" tvg-logo="https://i.imgur.com/rYtbAGZ.png" tvg-status="live" group-title="Music",Number 1 Damar
@@ -868,8 +866,6 @@ https://sonhls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="famelack-BKwwWetfO9R72v" tvg-country="IR" tvg-language="Persian" tvg-logo="" tvg-status="live" group-title="Music",Persiana Folk
 https://sonhls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="PersianaNostalgia.fr" tvg-country="FR" tvg-language="Persian" tvg-logo="https://i.imgur.com/SWO9CKA.png" tvg-status="live" group-title="Music",Persiana Nostalgia
-https://noshls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="famelack-eCX0RwFfFIFc73" tvg-country="IR" tvg-language="Persian" tvg-logo="" tvg-status="live" group-title="Music",Persiana Nostalgia
 https://noshls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="PersianaVibe.fr" tvg-country="FR" tvg-language="Persian" tvg-logo="" tvg-status="live" group-title="Music",Persiana Vibe
 https://raphls.persiana.live/hls/stream.m3u8
@@ -991,7 +987,7 @@ https://peer2.tdiradio.com/static/streaming-playlists/hls/7c3ea8d3-49dc-4e1b-8b1
 https://videoserver.tmcreativos.com:19360/radiomaster/radiomaster.m3u8
 #EXTINF:-1 tvg-id="famelack-wKBVNDcxQstZ27" tvg-country="MD" tvg-language="Romanian" tvg-logo="https://i.imgur.com/ZFHWst4.png" tvg-status="live" group-title="Music",Radio Moldova Muzical
 https://radiolive.trm.md:8001/hls_rmm/muzical.m3u8
-#EXTINF:-1 tvg-id="RadioMonumentalTV.ec" tvg-country="EC" tvg-language="Spanish" tvg-logo="https://i.imgur.com/a97MaV2.png" tvg-status="live" group-title="Music",Radio Monumental TV
+#EXTINF:-1 tvg-id="famelack-QpaipzMOWMjyyR" tvg-country="EC" tvg-language="Spanish" tvg-logo="https://i.imgur.com/a97MaV2.png" tvg-status="live" group-title="Music",Radio Monumental TV
 https://cloud37.ecuatel.com/monumentaltv/live/manifest.m3u8
 #EXTINF:-1 tvg-id="famelack-mb8oy05yGkCcpe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/Lid5RTv.png" tvg-status="live" group-title="Music",Radio Onda Digital
 https://live.ondadigitaltv.com/RADIOODTV/index.m3u8
@@ -1007,6 +1003,8 @@ https://vivo.solumedia.com:19360/realpolitik/realpolitik.m3u8
 https://media.3netmedia.ro/hls/stream.m3u8
 #EXTINF:-1 tvg-id="RadioRomaniaAntenaSatelor.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://www.antenasatelor.ro/templates/default/images/custom/logo-main.svg" tvg-status="live" group-title="Music",Radio Romania Antena Satelor
 https://stream3.srr.ro/live/AntenaSatelor/playlist.m3u8
+#EXTINF:-1 tvg-id="famelack-BEYVH24fbdnqEV" tvg-country="RO" tvg-language="Romanian" tvg-logo="" tvg-status="live" group-title="Music",Radio Romania Antena Satelor 720p
+https://stream3.srr.ro/live/AntenaSatelor/playlist.m3u8
 #EXTINF:-1 tvg-id="famelack-okDHJ83ZlAyFOY" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://www.rador.ro/wp-content/uploads/2017/06/logo-radio-oltenia-craiova.png" tvg-status="live" group-title="Music",Radio Romania Oltenia-Craiova
 https://stream3.srr.ro/live/Radio-Oltenia/chunklist_w1200239883.m3u8
 #EXTINF:-1 tvg-id="famelack-lu21lJ2ydo0AAT" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://myradioonline.ro/public/uploads/radio_img/radio-romania-targu-mures/fb_cover.jpg" tvg-status="live" group-title="Music",Radio Romania Targu Mures
@@ -1015,7 +1013,7 @@ https://stream3.srr.ro/live/radio-muresr/chunklist_w1731505049.m3u8
 https://tv.sistemasandinos.org/rumbatv/video.m3u8
 #EXTINF:-1 tvg-id="RadioSanBorjaTV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/75dJBtH.png" tvg-status="down" group-title="Music",Radio San Borja TV
 https://stream.mediacorp.pe/srt/3/playlist.m3u8
-#EXTINF:-1 tvg-id="RadioSanCristobal887FM.py" tvg-country="PY" tvg-language="Spanish" tvg-logo="https://i.imgur.com/zaJhBdj.png" tvg-status="live" group-title="Music",Radio San Cristobal 88.7 FM
+#EXTINF:-1 tvg-id="famelack-Oy0RzzLMHXV3WJ" tvg-country="PY" tvg-language="Spanish" tvg-logo="https://i.imgur.com/zaJhBdj.png" tvg-status="live" group-title="Music",Radio San Cristobal 88.7 FM
 https://video.wilohosting.com:19360/sancristobalfm/sancristobalfm.m3u8
 #EXTINF:-1 tvg-id="RadioShanson.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/lbqM3K2.png" tvg-native-name="Радио Шансон" tvg-status="live" group-title="Music",Radio Shanson
 http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live.m3u8
@@ -1117,8 +1115,6 @@ http://186.148.196.100:8000/play/a02h
 https://live-evg5.tv360.bitel.com.pe/bitel/mixtvSRT/playlist.m3u8
 #EXTINF:-1 tvg-id="RussianMusicBox.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/ZkJ3Rh9.png" tvg-status="live" group-title="Music",Russian MusicBox
 http://stream.mcquack.net/319/index.m3u8
-#EXTINF:-1 tvg-id="famelack-S8p3TAyHimpVTh" tvg-country="US" tvg-language="English" tvg-logo="https://i.postimg.cc/521WRm5k/In-Shot-20260918-070004312.png" tvg-status="live" group-title="Music",S KPop!
-https://vodcdn.bamboo-cloud.com/livehls/6aac8803063044569e156563/master.m3u8
 #EXTINF:-1 tvg-id="famelack-ktEDI2D3vAFfqP" tvg-country="CL" tvg-language="Spanish" tvg-logo="https://cdn.m3u.cl/logo/416_Sabor_TV.png" tvg-status="live" group-title="Music",Sabor TV
 https://v1.tustreaming.cl/sabortv/index.m3u8
 #EXTINF:-1 tvg-id="famelack-RV4q1AzygKEv9i" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/3IhYd7G.jpg" tvg-status="live" group-title="Music",Salsa Gorda Television
@@ -1159,10 +1155,12 @@ https://5ff3d9babae13.streamlock.net/8000/8000/playlist.m3u8
 https://yuppnimrestreammum.akamaized.net/181224/smil:songdewtv.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
 #EXTINF:-1 tvg-id="famelack-uuwdAM4ggDTLQ4" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/nM7LbmV.png" tvg-status="live" group-title="Music",SONGTV Russia
 https://songtv.hls.iptvdc.com/web-russia/playlist.m3u8
-#EXTINF:-1 tvg-id="SOYPlanchaTV.cr" tvg-country="CR" tvg-language="Spanish" tvg-logo="https://i.ibb.co/P4kpMgk/1689344714578.jpg" tvg-status="live" group-title="Music",SOY Plancha TV
+#EXTINF:-1 tvg-id="famelack-2ogrHzPUOLVEgc" tvg-country="CR" tvg-language="Spanish" tvg-logo="https://i.ibb.co/P4kpMgk/1689344714578.jpg" tvg-status="live" group-title="Music",SOY Plancha TV
 https://59ef525c24caa.streamlock.net/vmtv/soyplancha/playlist.m3u8
 #EXTINF:-1 tvg-id="famelack-TAur6WI03rCzWr" tvg-country="ES" tvg-language="English" tvg-logo="https://lh3.googleusercontent.com/p/AF1QipNaX6JUYdDuKJ1A8HJqNGG5w0xtct-K_2h5X_3C=s680-w680-h510-rw" tvg-status="live" group-title="Music",SpektraTV
 https://cloudvideo.servers10.com:8081/8026/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id="famelack-tjg8L7lKOORAsp" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/yCp6vXz.png" tvg-status="live" group-title="Music",Spirit TV
+https://cdnlive.myspirit.tv/LS-ATL-43240-2/index.m3u8
 #EXTINF:-1 tvg-id="famelack-GhPgMfQiSel48D" tvg-country="GU" tvg-language="English" tvg-logo="https://star101.gu/images/fb_icon.jpg" tvg-status="live" group-title="Music",Star 101 FM
 https://live2.tensila.com/knut-v-1.choice/hls/master.m3u8
 #EXTINF:-1 tvg-id="StarMaaMusic.in" tvg-country="IN" tvg-language="Telugu" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_MAA_MUSIC/images/LOGO_HD/image.png" tvg-status="down" group-title="Music",Star Maa Music
@@ -1243,7 +1241,7 @@ https://fffffff110156200.tvustream.com:8298/ryfy.m3u8
 https://live.vrtcdn.be/groupb/live/450aa9d1-7173-47f3-aaaa-9701426f8ddd/live.isml/.m3u8
 #EXTINF:-1 tvg-id="famelack-wPlSUCmwkpBR6B" tvg-country="PA" tvg-language="Spanish" tvg-logo="https://i.imgur.com/ocTnqi7.png" tvg-status="live" group-title="Music",Super Q Panama
 https://vcp8.myplaytv.com:1936/superq/superq/playlist.m3u8
-#EXTINF:-1 tvg-id="SuperTV.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/pzxUE0O.png" tvg-status="live" group-title="Music",Super TV
+#EXTINF:-1 tvg-id="SuperTV.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/pzxUE0O.png" tvg-status="down" group-title="Music",Super TV
 https://live.supertv.ro/live/supertv/playlist.m3u8
 #EXTINF:-1 tvg-id="famelack-RvB0FuQSbeJDr5" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/MiVs42N.jpeg" tvg-status="live" group-title="Music",Supermusica TV
 https://backupmaxmedia.hvmultiplay.com/hls/stream4/supermusica.m3u8
@@ -1335,6 +1333,12 @@ https://channels.trace.plus/Traceprod/AYITI_hd/index.m3u8
 https://amg01131-tracetv-amg01131c4-stirr-us-4390.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="famelack-yLCxHzKZ8frJd2" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/ZHD7Vxy.png" tvg-status="live" group-title="Music",Trace Caribbean
 https://channels.trace.plus/Traceprod/CARIBBEAN_hd/index.m3u8
+#EXTINF:-1 tvg-id="famelack-70sX04jX14d4dB" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/X0UmU3K.png" tvg-status="live" group-title="Music",Trace Gospel
+https://channels.trace.plus/Traceprod/GOSPEL_FR_hd/index.m3u8
+#EXTINF:-1 tvg-id="famelack-Y4qPq23OdBqrZm" tvg-country="FR" tvg-language="English" tvg-logo="" tvg-status="live" group-title="Music",Trace Gospel Nigeria and East Africa
+https://channels.trace.plus/Traceprod/GOSPEL_ROA_hd/index.m3u8
+#EXTINF:-1 tvg-id="famelack-qlnlzIINox50mW" tvg-country="FR" tvg-language="French" tvg-logo="" tvg-status="live" group-title="Music",Trace Gospel Southern Africa
+https://channels.trace.plus/Traceprod/GOSPEL_SA_hd/index.m3u8
 #EXTINF:-1 tvg-id="TraceIvoire.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/W2l3rVx.png" tvg-status="live" group-title="Music",Trace Ivoire
 https://channels.trace.plus/Traceprod/TRACE_IVOIRE_hd/index.m3u8
 #EXTINF:-1 tvg-id="famelack-D5MYV8sWL3x6ui" tvg-country="CI" tvg-language="French" tvg-logo="" tvg-status="live" group-title="Music",Trace Ivoire
@@ -1344,7 +1348,7 @@ https://channels.trace.plus/Traceprod/JAMA_hd/index.m3u8
 #EXTINF:-1 tvg-id="famelack-GOL0LeAC5fNTzD" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/q6vkMrU.png" tvg-status="live" group-title="Music",Trace Kitoko
 https://channels.trace.plus/Traceprod/KITOKO_hd/index.m3u8
 #EXTINF:-1 tvg-id="TraceLatina.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/CUVAi4u.png" tvg-status="live" group-title="Music",Trace Latina
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracelatinait-samsungit/playlist.m3u8
+https://channels.trace.plus/Traceprod/LATINA_hd/index.m3u8
 #EXTINF:-1 tvg-id="famelack-0fWZLIAvkDVD4z" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/cYwkCj2.png" tvg-status="live" group-title="Music",Trace Mboa
 https://channels.trace.plus/Traceprod/MBOA_hd/index.m3u8
 #EXTINF:-1 tvg-id="famelack-IQN10ZdvEALsRy" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/xsEGIXO.png" tvg-status="live" group-title="Music",Trace Muzika
@@ -1418,7 +1422,7 @@ http://stream.mcquack.net/281/index.m3u8
 #EXTINF:-1 tvg-id="UltimateTV.in" tvg-country="IN" tvg-language="Tamil" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/U-Tv-logo_2000_X_1125_Transpharent.png" tvg-status="live" group-title="Music",Ultimate TV
 https://stream.ottlive.co.in/utvtamil/index.m3u8
 #EXTINF:-1 tvg-id="famelack-njbWsA8ODBjdM0" tvg-country="AR" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="Music",Urbana Play 104.3 FM
-https://www.youtube-nocookie.com/embed/YSgCp3rrun0
+https://www.youtube-nocookie.com/embed/LEVLlv8nMuQ
 #EXTINF:-1 tvg-id="famelack-sue3ShLLkmrNlc" tvg-country="CR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/KVVU9PI.png" tvg-status="live" group-title="Music",Urbano TV
 https://59ef525c24caa.streamlock.net/tvurbano/tvurbano/playlist.m3u8
 #EXTINF:-1 tvg-id="famelack-3UIRfQdeDlPsdL" tvg-country="CL" tvg-language="Spanish" tvg-logo="https://i.imgur.com/WIACJSy.png" tvg-status="live" group-title="Music",V Classic TV
@@ -1442,15 +1446,15 @@ https://hls.vantagetv.ee/vrock_stream/index.m3u8
 #EXTINF:-1 tvg-id="famelack-9KkStjSrl7VxIY" tvg-country="PY" tvg-language="Spanish" tvg-logo="https://i.imgur.com/XwmUbfp.png" tvg-status="live" group-title="Music",Venus Media
 https://tigocloud.desdeparaguay.net/venusmedia/venusmedia/playlist.m3u8
 #EXTINF:-1 tvg-id="Vevo70s.us" tvg-country="US" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/5f32f26bcd8aea00071240e5/featuredImage.jpg" tvg-status="live" group-title="Music",Vevo '70s
-https://jmp2.uk/plu-5f32f26bcd8aea00071240e5.m3u8
+https://d341pfs1smb2ef.cloudfront.net/Vevo_70s.m3u8
 #EXTINF:-1 tvg-id="Vevo80s.us" tvg-country="US" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/5fd7b8bf927e090007685853/featuredImage.jpg" tvg-status="live" group-title="Music",Vevo '80s
-https://jmp2.uk/plu-5fd7b8bf927e090007685853.m3u8
+https://d3svsvgc81yfe1.cloudfront.net/Vevo_80s.m3u8
 #EXTINF:-1 tvg-id="Vevo90s.us" tvg-country="US" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/5fd7bb1f86d94a000796e2c2/featuredImage.jpg" tvg-status="live" group-title="Music",Vevo '90s
-https://jmp2.uk/plu-5fd7bb1f86d94a000796e2c2.m3u8
+https://d29u7uq3k6xqk0.cloudfront.net/Vevo_90s.m3u8
 #EXTINF:-1 tvg-id="Vevo2K.us" tvg-country="US" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/5fd7bca3e0a4ee0007a38e8c/featuredImage.jpg" tvg-status="live" group-title="Music",Vevo 2K
-https://jmp2.uk/plu-5fd7bca3e0a4ee0007a38e8c.m3u8
+https://d3150hggbcolbo.cloudfront.net/Vevo_2K.m3u8
 #EXTINF:-1 tvg-id="VevoCountry.us" tvg-country="US" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/5da0d75e84830900098a1ea0/featuredImage.jpg" tvg-status="live" group-title="Music",Vevo Country
-https://jmp2.uk/plu-5da0d75e84830900098a1ea0.m3u8
+https://pb-xrdbj9zdgm6ez.akamaized.net/Vevo_Country.m3u8
 #EXTINF:-1 tvg-id="VevoHipHop.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/Lbc9cYw.png" tvg-status="live" group-title="Music",Vevo Hip Hop
 https://d3vgs3ro3x6v8a.cloudfront.net/Vevo_Hip_Hop.m3u8
 #EXTINF:-1 tvg-id="famelack-bXjRuRGczJcqIy" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/D7SwmuB.png" tvg-status="live" group-title="Music",Vevo Latino
@@ -1458,7 +1462,7 @@ https://amg00056-amg00056c13-rakuten-es-3246.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="famelack-0RxuFLgkbqzGRf" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/dZHktKR.png" tvg-status="live" group-title="Music",Vevo Pop
 https://amg00056-amg00056c6-rakuten-uk-3235.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="VevoRB.us" tvg-country="US" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/5da0d83f66c9700009b96d0e/featuredImage.jpg" tvg-status="live" group-title="Music",Vevo R&B
-https://jmp2.uk/plu-5da0d83f66c9700009b96d0e.m3u8
+https://d1hf773q57zx9s.cloudfront.net/Vevo_R_B.m3u8
 #EXTINF:-1 tvg-id="VevoRetroRock.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/H1Aap4E.png" tvg-status="live" group-title="Music",Vevo Retro Rock
 https://d2hdqrshyzxswl.cloudfront.net/Vevo_Retro_Rock.m3u8
 #EXTINF:-1 tvg-id="VevoTrueSchoolHipHop.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/owUXUih.png" tvg-status="live" group-title="Music",Vevo True School Hip-Hop
@@ -1506,7 +1510,7 @@ https://d284aawtm5vi48.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 tvg-id="famelack-F9Ox1CfaRW0T4t" tvg-country="US" tvg-language="" tvg-logo="https://i.imgur.com/coSrUwV.png" tvg-status="live" group-title="Music",XITE Celebrates
 https://dt1s4l2cmiyit.cloudfront.net/XITE_Celebrates.m3u8
 #EXTINF:-1 tvg-id="XITEClassicCountry.nl" tvg-country="NL" tvg-language="English" tvg-logo="https://provider-static.plex.tv/epg/cms/production/511ebc88-a7f7-4f6d-85ff-38c849bbb4a3/xiteclassiccountry_logo_light_-_Arlette_FiranRDX.png" tvg-status="live" group-title="Music",XITE Classic Country
-https://jmp2.uk/plu-623b92a2ccefed0007b1db48.m3u8
+https://pb-wgi5ljoabjgdm.akamaized.net/XITE_Countrys_Finest.m3u8
 #EXTINF:-1 tvg-id="XITEHits.nl" tvg-country="NL" tvg-language="English" tvg-logo="https://provider-static.plex.tv/epg/cms/production/b79c1102-0a7d-4310-a0df-6cbe6fb660e2/xitehits_logo_WHITE_-_Arlette_FiranRDX2.png" tvg-status="live" group-title="Music",XITE Hits
 https://d726x48n2pd5h.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-skxr1pazhltvp/XITE_Hits.m3u8
 #EXTINF:-1 tvg-id="famelack-MTSj2olhZiM1t9" tvg-country="DE" tvg-language="German" tvg-logo="" tvg-status="live" group-title="Music",XITE Hits Germany
@@ -1536,7 +1540,7 @@ https://live.yettelevision.com:5443/LiveApp/streams/yettv2.m3u8
 #EXTINF:-1 tvg-id="YleX.fi" tvg-country="FI" tvg-language="Finnish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/YleX.svg/960px-YleX.svg.png" tvg-status="down" group-title="Music",YleX
 https://ylestudiolive.akamaized.net/hls/live/2007826/ylestudiolive-YleX/master.m3u8
 #EXTINF:-1 tvg-id="YoMTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/654102ed770cf1000866c307/colorLogoSVG.svg" tvg-status="live" group-title="Music",Yo! MTV
-https://jmp2.uk/plu-654102ed770cf1000866c307.m3u8
+https://jmp2.uk/plu-5d14fc31252d35decbc4080b.m3u8
 #EXTINF:-1 tvg-id="YRFMusic.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/YRF_Music.png" tvg-status="live" group-title="Music",YRF Music
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
 #EXTINF:-1 tvg-id="famelack-mGqiGx8PLsFhQa" tvg-country="UZ" tvg-language="Uzbek" tvg-logo="" tvg-status="live" group-title="Music",Yulduz Usmanova
