@@ -289,6 +289,8 @@ https://vs20.live.opencaster.com/canalpulpotv_bdeee6e2/index.m3u8
 https://liveingesta118.cdnmedia.tv/canaltro2live/smil:troplus.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="CanalWomtv.co" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/Nr4muMP.jpeg" tvg-status="live" group-title="Entertainment",Canal Womtv
 https://live.amelbatv.co:81/womtvlive/index.m3u8
+#EXTINF:-1 tvg-id="CanalPlus.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/5HcyMnW.png" tvg-status="live" group-title="Entertainment",Canal+
+http://tv.streambox.fr/live/testlivestream/testlivestream/41.m3u8
 #EXTINF:-1 tvg-id="Canale5.it" tvg-country="IT" tvg-language="Italian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Canale_5_-_2018_logo.svg/960px-Canale_5_-_2018_logo.svg.png" tvg-status="down" group-title="Entertainment",Canale 5
 https://live02-seg.msf.cdn.mediaset.net/live/ch-c5/c5-clr.isml/index.m3u8
 #EXTINF:-1 tvg-id="famelack-ShieRphx7QNWj7" tvg-country="US" tvg-language="Spanish" tvg-logo="https://i.imgur.com/8Hllkpk.png" tvg-status="live" group-title="Entertainment",Canela TV
@@ -360,9 +362,9 @@ https://edge.essastream.com/canalcocotv/playlist.m3u8
 #EXTINF:-1 tvg-id="famelack-5ZXjzA9WC4UY7k" tvg-country="TR" tvg-language="Turkish" tvg-logo="" tvg-status="live" group-title="Entertainment",Çocuklar Duymasın
 https://www.youtube-nocookie.com/embed/g7oVIIevRMk
 #EXTINF:-1 tvg-id="Colors.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS/images/LOGO_HD/image.png" tvg-status="live" group-title="Entertainment",Colors
-http://51.75.127.199:3141/colorssd/index.m3u8
-#EXTINF:-1 tvg-id="ColorsBangla.in" tvg-country="IN" tvg-language="Bengali" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_BANGLA/images/LOGO_HD/image.png" tvg-status="down" group-title="Entertainment",Colors Bangla
-http://103.165.93.31:8095/colorsBangla/index.m3u8
+http://103.151.60.162:2122/play/a02q/index.m3u8?hls
+#EXTINF:-1 tvg-id="ColorsBangla.in" tvg-country="IN" tvg-language="Bengali" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_BANGLA/images/LOGO_HD/image.png" tvg-status="live" group-title="Entertainment",Colors Bangla
+http://103.151.60.162:2122/play/a02o/index.m3u8?hls
 #EXTINF:-1 tvg-id="ColorsGujarati.in" tvg-country="IN" tvg-language="Gujarati" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_GUJARATI/images/LOGO_HD/image.png" tvg-status="live" group-title="Entertainment",Colors Gujarati
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/ColorsGujarati.m3u8
 #EXTINF:-1 tvg-id="ColorsInfinity.in" tvg-country="IN" tvg-language="English" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_INFINITY/images/LOGO_HD/image.png" tvg-status="live" group-title="Entertainment",Colors Infinity
@@ -479,6 +481,8 @@ https://enterbcef94b.airspace-cdn.cbsivideo.com/master.m3u8
 https://mumt06.tangotv.in/qYyB8fXVEPICTV/index.m3u8
 #EXTINF:-1 tvg-id="famelack-xhwVTBcE2Ljy9d" tvg-country="IN" tvg-language="Hindi" tvg-logo="" tvg-status="live" group-title="Entertainment",Epic Bharat Digital
 https://epiconvh.akamaized.net/live/nazara/master.m3u8
+#EXTINF:-1 tvg-id="EpicParivar.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ISHARA_TV/images/LOGO_HD/image.png" tvg-status="live" group-title="Entertainment",Epic Parivar
+http://103.151.60.162:2122/play/a01p/index.m3u8?hls
 #EXTINF:-1 tvg-id="EpicTV.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_EPIC/images/LOGO_HD/image.png" tvg-status="live" group-title="Entertainment",Epic TV
 https://cc-czbq30x55knit.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-czbq30x55knit/DIYC/PMSL/IN10/Epic_TV_IN_B/Epic_TV_IN_B.m3u8
 #EXTINF:-1 tvg-id="ERT3.gr" tvg-country="GR" tvg-language="Greek" tvg-logo="https://i.imgur.com/f2l9bDR.png" tvg-native-name="ΕΡΤ3" tvg-status="down" group-title="Entertainment",ERT3
@@ -700,7 +704,7 @@ https://mumbai-edge.smartplaytv.in/JayaPLus/index.m3u8
 #EXTINF:-1 tvg-id="famelack-Peq2FVjvdeypXQ" tvg-country="LK" tvg-language="Sinhala" tvg-logo="https://i.imgur.com/J8NA1i9.jpeg" tvg-status="live" group-title="Entertainment",Jaya Tv Live
 https://www.youtube-nocookie.com/embed/TEOcX6ye-Og
 #EXTINF:-1 tvg-id="JerseyShore.se" tvg-country="SE" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/6442508e5a0cd500083edd3c/colorLogoSVG.svg" tvg-status="live" group-title="Entertainment",Jersey Shore
-https://jmp2.uk/plu-64424b21e1979c0008379681.m3u8
+https://jmp2.uk/plu-6442508e5a0cd500083edd3c.m3u8
 #EXTINF:-1 tvg-id="JerseyShoreFamilyVacation.se" tvg-country="SE" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/6728c831c7626f0008b28127/colorLogoSVG.svg" tvg-status="live" group-title="Entertainment",Jersey Shore Family Vacation
 https://jmp2.uk/plu-6728c831c7626f0008b28127.m3u8
 #EXTINF:-1 tvg-id="JiangsuVarietyChannel.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://www.tvchinese.net/uploads/tv/jszy.jpg" tvg-native-name="江苏综艺频道" tvg-status="down" group-title="Entertainment",Jiangsu Variety Channel
@@ -769,7 +773,7 @@ https://s3.tvdatta.com:3700/live/jjrtvlive.m3u8
 https://d3svnrf3rmq619.cloudfront.net/krgv-live/smil:krgv-somos.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="famelack-8YNFXXuZHnJiGA" tvg-country="IQ" tvg-language="Arabic" tvg-logo="https://i.imgur.com/UAbSwYA.png" tvg-status="live" group-title="Entertainment",Kurdsat
 https://hlspackager.akamaized.net/live/DB/KURDSAT_HD/HLS/KURDSAT_HD.m3u8
-#EXTINF:-1 tvg-id="LaMelinkanaTV.cl" tvg-country="CL" tvg-language="Spanish" tvg-logo="https://i.imgur.com/I0nzI1y.png" tvg-status="live" group-title="Entertainment",La Melinkana TV
+#EXTINF:-1 tvg-id="LaMelinkanaTV.cl" tvg-country="CL" tvg-language="Spanish" tvg-logo="https://i.imgur.com/I0nzI1y.png" tvg-status="down" group-title="Entertainment",La Melinkana TV
 https://v1.tustreaming.cl/melinkana/index.m3u8
 #EXTINF:-1 tvg-id="famelack-8btJIA7cFV9U21" tvg-country="CL" tvg-language="Spanish" tvg-logo="https://i.imgur.com/WExojSG.png" tvg-status="live" group-title="Entertainment",La Nuestra
 https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/ln/ln.smil/playlist.m3u8
@@ -1188,7 +1192,7 @@ https://fox.hostlagarto.com:8081/pulatv/index.m3u8
 #EXTINF:-1 tvg-id="famelack-WuglMDY1bXYG3i" tvg-country="IN" tvg-language="Malayalam" tvg-logo="https://i.imgur.com/v5urG30.png" tvg-status="live" group-title="Entertainment",Pulari TV
 https://mumbai-edge.smartplaytv.in/PulariTV/index.m3u8
 #EXTINF:-1 tvg-id="QTV.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://www.theq.tv/wp-content/uploads/2023/10/The-Q-new-Logo.png" tvg-status="live" group-title="Entertainment",Q TV
-https://tvsen6.aynaott.com/3PjZZahm/index.m3u8
+https://mumt05.tangotv.in/87NeALx2THEQ/index.m3u8
 #EXTINF:-1 tvg-id="QonaevMedia.kz" tvg-country="KZ" tvg-language="Kazakh" tvg-logo="https://i.imgur.com/JLlqgdp.png" tvg-status="down" group-title="Entertainment",Qonaev Media
 https://s.qonaevtv.kz/live/qonaev/playlist.m3u8
 #EXTINF:-1 tvg-id="QuizTV.ua" tvg-country="UA" tvg-language="Russian" tvg-logo="https://i.imgur.com/I0ZE0M4.png" tvg-status="live" group-title="Entertainment",Quiz TV
@@ -1316,13 +1320,15 @@ https://ext.cdn.nashnet.tv/228.0.0.165/index.m3u8
 #EXTINF:-1 tvg-id="famelack-fyG9et2B8LrqxV" tvg-country="UA" tvg-language="Ukrainian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Sonce%2B_%28logo%29_2024.png" tvg-native-name="Сонце+" tvg-status="live" group-title="Entertainment",Sonce+
 https://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTI1LjIzOjcwMDAvY2g0My90cmFja3MtdjFhMS9tb25vLm0zdTg%2FbGl2ZT0xJmlwPTU3LjEyOC4yMzYuMjIzJmlkPTk0ODg2NSZzZWNyZXQ9bjF1N3VpMDYmc3NsPTEmMjF5bz0wJmU9MTc5MDc1NTE0NiZzdD02SC1HSlEtemw4X1NCQjMzRjVLTUpn&master=1103
 #EXTINF:-1 tvg-id="SonyAath.in" tvg-country="IN" tvg-language="Bengali" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_8/images/LOGO_HD/image.png" tvg-status="live" group-title="Entertainment",Sony Aath
-http://103.165.93.31:8095/sonyAath/index.m3u8
+http://103.151.60.162:2122/play/a023/index.m3u8?hls
 #EXTINF:-1 tvg-id="SonyEntertainmentTelevision.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SET/images/LOGO_HD/image.png" tvg-status="live" group-title="Entertainment",Sony Entertainment Television
 http://38.96.178.205/SONYHD/index.m3u8
 #EXTINF:-1 tvg-id="SonyMarathi.in" tvg-country="IN" tvg-language="Marathi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/SonyMarathi.png" tvg-status="live" group-title="Entertainment",Sony Marathi
 http://107.167.16.138/sonymarathi/index.m3u8?token=test
 #EXTINF:-1 tvg-id="SonyPal.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/SonyPAL.png" tvg-status="live" group-title="Entertainment",Sony Pal
 http://59.103.38.46:8000/play/a0ac/index.m3u8
+#EXTINF:-1 tvg-id="SonySAB.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY%20SAB%20SD.png" tvg-status="live" group-title="Entertainment",Sony SAB
+http://103.151.60.162:2122/play/a01q/index.m3u8?hls
 #EXTINF:-1 tvg-id="famelack-mmZjHuy87LmO4O" tvg-country="CA" tvg-language="Tamil" tvg-logo="https://i.ibb.co/LSyydKj/Sooriyan-TV-Tamil.jpg" tvg-status="live" group-title="Entertainment",Sooriyan TV
 https://live20.bozztv.com/giatv/giatv-Infinittyott/Infinittyott/playlist.m3u8
 #EXTINF:-1 tvg-id="Sorozatklub.hu" tvg-country="HU" tvg-language="Hungarian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Sorozatklub.svg/1920px-Sorozatklub.svg.png" tvg-status="live" group-title="Entertainment",Sorozatklub
@@ -1340,11 +1346,13 @@ https://livestar.siliconweb.com/starvod/star4/star4.m3u8
 #EXTINF:-1 tvg-id="StarChannel.pt" tvg-country="PT" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/960px-Star_Channel_2020.svg.png" tvg-status="down" group-title="Entertainment",Star Channel
 http://znty.dyndns.org:5010/hls/fox.m3u8
 #EXTINF:-1 tvg-id="StarChannelInternational.gr" tvg-country="GR" tvg-language="Greek" tvg-logo="https://i.imgur.com/6NUpxhr.png" tvg-status="live" group-title="Entertainment",Star Channel International
-https://livestar.siliconweb.com/starvod/star_int/star_inthd.m3u8
+https://livestar.siliconweb.com/starvod/star_int/star_int.m3u8
 #EXTINF:-1 tvg-id="famelack-yPVwjKCneNspdH" tvg-country="US" tvg-language="Greek" tvg-logo="" tvg-status="live" group-title="Entertainment",Star Channel International
 https://livestar.siliconweb.com/starvod/star_int/star_int.m3u8
 #EXTINF:-1 tvg-id="StarJalsha.in" tvg-country="IN" tvg-language="Bengali" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_JALSHA/images/LOGO_HD/LOGO_HD_image.png" tvg-status="live" group-title="Entertainment",Star Jalsha
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starjalsha.smil/chunklist_b1928000.m3u8
+#EXTINF:-1 tvg-id="StarKiran.in" tvg-country="IN" tvg-language="Oriya (macrolanguage)" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_KIRAN/images/LOGO_HD/image.png" tvg-status="live" group-title="Entertainment",Star Kiran
+http://103.151.60.162:2122/play/a032/index.m3u8?hls
 #EXTINF:-1 tvg-id="StarMaa.in" tvg-country="IN" tvg-language="Telugu" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_MAA/images/LOGO_HD/image.png" tvg-status="live" group-title="Entertainment",Star Maa
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starmaa1.smil/chunklist_b2628000.m3u8
 #EXTINF:-1 tvg-id="StarMaaGold.in" tvg-country="IN" tvg-language="Telugu" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_MAA_GOLD/images/LOGO_HD/LOGO_HD_image.png" tvg-status="live" group-title="Entertainment",Star Maa Gold
@@ -1353,8 +1361,6 @@ http://51.75.127.199:3141/starmaagold/index.m3u8
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starpravah.smil/chunklist_b1928000.m3u8
 #EXTINF:-1 tvg-id="StarSuvarna.in" tvg-country="IN" tvg-language="Kannada" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SUVARNA/images/LOGO_HD/LOGO_HD_image.png" tvg-status="live" group-title="Entertainment",Star Suvarna
 http://51.75.127.199:3141/starsuvarna/index.m3u8
-#EXTINF:-1 tvg-id="StarTV.md" tvg-country="MD" tvg-language="English" tvg-logo="https://i.imgur.com/6BBnG6f.png" tvg-status="live" group-title="Entertainment",Star TV
-http://forever.megogo.xyz/iptv/QGB4M3H62GC7E3/2465/index.m3u8
 #EXTINF:-1 tvg-id="famelack-25KpPpidlrPZ8K" tvg-country="PH" tvg-language="Tagalog" tvg-logo="" tvg-status="live" group-title="Entertainment",Star TV Philippines
 https://startvphilippines.itunerworldwide.workers.dev/master.live.m3u8
 #EXTINF:-1 tvg-id="StarUtsav.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_UTSAV/images/LOGO_HD/image.png" tvg-status="live" group-title="Entertainment",Star Utsav
@@ -1379,6 +1385,8 @@ https://d2gvyg6lvauoko.cloudfront.net/230226/studioyuva/playlist.m3u8?hdnts=st=1
 http://stream.mcquack.net/269/index.m3u8
 #EXTINF:-1 tvg-id="famelack-HI7bWwswisFi9D" tvg-country="IN" tvg-language="Tamil" tvg-logo="https://www.subintv.in/SUBINLOGO.png" tvg-status="live" group-title="Entertainment",Subin TV
 https://stream.galaxyott.live/live/subintv/index.m3u8
+#EXTINF:-1 tvg-id="SunTV.in" tvg-country="IN" tvg-language="Tamil" tvg-logo="https://sund-images.sunnxt.com/194408/300x300_SunTV_194408_a54b0f81-2c2a-475f-ac37-794334397024.png" tvg-status="live" group-title="Entertainment",Sun TV
+http://103.151.60.162:2122/play/a02a/index.m3u8?hls
 #EXTINF:-1 tvg-id="SuperCable.cr" tvg-country="CR" tvg-language="Spanish" tvg-logo="https://i.postimg.cc/PJ46GHTH/SC.jpg" tvg-status="live" group-title="Entertainment",Super Cable
 http://191.102.39.254:5000/live/5up3r5/playlist.m3u8
 #EXTINF:-1 tvg-id="SuperPlus.ua" tvg-country="UA" tvg-language="Ukrainian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Super%2B_UA_%282024%29.svg/960px-Super%2B_UA_%282024%29.svg.png" tvg-status="down" group-title="General",Super+
@@ -1566,7 +1574,7 @@ https://verginanews.gr:8443/hls_live/stream1.m3u8
 #EXTINF:-1 tvg-id="VH1QueensofReality.us" tvg-country="US" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/66abefe5d2d50d00082c7d12/colorLogoSVG.svg" tvg-status="live" group-title="Entertainment",VH1 Queens of Reality
 https://jmp2.uk/plu-66abefe5d2d50d00082c7d12.m3u8
 #EXTINF:-1 tvg-id="VinhLongTV2.vn" tvg-country="VN" tvg-language="Vietnamese" tvg-logo="https://i.imgur.com/iluoazf.png" tvg-status="live" group-title="Culture",Vinh Long TV 2
-https://dethich.pw/thvl2/index.m3u8
+https://1011154949.vnns.net/CDN-FPT02/THVL2-HD-1080p/playlist.m3u8
 #EXTINF:-1 tvg-id="VinhLongTV3.vn" tvg-country="VN" tvg-language="Vietnamese" tvg-logo="https://i.imgur.com/OQXEhqu.png" tvg-status="live" group-title="Movies",Vinh Long TV 3
 https://dethich.pw/thvl3/index.m3u8
 #EXTINF:-1 tvg-id="VinhLongTV4.vn" tvg-country="VN" tvg-language="Vietnamese" tvg-logo="https://i.imgur.com/ARhIkvR.png" tvg-status="live" group-title="Culture",Vinh Long TV 4
@@ -1583,8 +1591,8 @@ https://5caf24a595d94.streamlock.net:1937/8028/8028/playlist.m3u8
 https://tv.westream.cloud/VozdiBonaireTV/VozdiBonaireTV.m3u8
 #EXTINF:-1 tvg-id="VRTChannel.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/crszh3d.png" tvg-status="down" group-title="Entertainment",VRT Channel
 https://sistemavrt.vrtchannel.tv.br:3473/stream/play.m3u8
-#EXTINF:-1 tvg-id="W9.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/reYeMuE.png" tvg-status="down" group-title="Entertainment",W9
-https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-w9/cmaf_q2hyb21h/hls-short-hd.m3u8
+#EXTINF:-1 tvg-id="W9.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/reYeMuE.png" tvg-status="live" group-title="Entertainment",W9
+http://5.180.164.197:8080/W9/index.m3u8
 #EXTINF:-1 tvg-id="famelack-QMsKW2NGa9ux0Z" tvg-country="TN" tvg-language="Arabic" tvg-logo="" tvg-status="live" group-title="Entertainment",Watania2 Replay
 https://www.youtube-nocookie.com/embed/sFsUrX7g_9U
 #EXTINF:-1 tvg-id="famelack-3immFxvjNCicJY" tvg-country="CA" tvg-language="English" tvg-logo="" tvg-status="live" group-title="Entertainment",WatchMojo.com
