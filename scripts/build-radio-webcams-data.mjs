@@ -83,6 +83,91 @@ function toM3U(list) {
   return ["#EXTM3U", ...list.flatMap(ch => [buildExtinf(ch), ch.url])].join("\n") + "\n";
 }
 
+
+// =====================================================================
+// CUSTOM RADIO / WEBCAM CHANNELS + BLOCKLIST  (added block)
+// ---------------------------------------------------------------------
+// Lets you add your own stations by hand, the same way TV has
+// custom-channels/. Radio and webcams use their OWN folders so they are
+// never mixed up with the TV custom channels (the TV script reads every
+// .m3u file in custom-channels/):
+//     custom-radio/*.m3u     -> published into radio/
+//     custom-webcams/*.m3u   -> published into webcams/
+// A custom entry with the same name + country as an existing one REPLACES
+// it (this is how you swap a dead stream). The same blocklist file TV uses
+// (unpublished-channels/*.txt, one stream URL per line) is applied here too.
+// =====================================================================
+const KNOWN_CATEGORY_IDS = new Set([...RADIO_CATEGORY_IDS, ...WEBCAM_CATEGORY_IDS]);
+
+function slugify(s) {
+  return String(s || "").toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g, "")
+    .replace(/[^\p{L}\p{N}]+/gu, "-").replace(/^-+|-+$/g, "") || "channel";
+}
+
+async function loadCustomChannels(type, langNameByCode) {
+  const dir = `custom-${type}`;
+  const out = [];
+  try {
+    const stats = await fs.stat(dir).catch(() => null);
+    if (!stats || !stats.isDirectory()) return out;
+    for (const file of await fs.readdir(dir)) {
+      if (!file.endsWith(".m3u")) continue;
+      const lines = (await fs.readFile(path.join(dir, file), "utf-8")).split(/\r?\n/);
+      let inf = null;
+      for (const line of lines) {
+        const t = line.trim();
+        if (!t) continue;
+        if (t.startsWith("#EXTINF:")) { inf = t; continue; }
+        if (t.startsWith("#")) continue;                 // #EXTM3U, comments, #EXTVLCOPT ...
+        if (!inf) continue;
+        const attr = k => (inf.match(new RegExp(k + '="([^"]*)"')) || [])[1] || "";
+        const comma = inf.indexOf(",", inf.lastIndexOf('"') >= 0 ? inf.lastIndexOf('"') : 0);
+        const name = (comma >= 0 ? inf.slice(comma + 1) : "").trim();
+        if (name && /^https?:\/\//.test(t)) {
+          // Category: use the radio/webcam category id when it matches one, else keep what was typed.
+          const rawGroup = attr("group-title").trim();
+          const group = KNOWN_CATEGORY_IDS.has(rawGroup.toLowerCase()) ? rawGroup.toLowerCase() : (rawGroup || "General");
+          // Language: accept a name ("Hindi") or a code ("hin"); store the NAME like Famelack entries.
+          const rawLang = attr("tvg-language").trim();
+          const language = langNameByCode.get(rawLang.toLowerCase()) || rawLang;
+          const country = (attr("tvg-country") || "UN").toUpperCase();
+          out.push({
+            id: attr("tvg-id") || `custom-${type}-${slugify(name)}`,
+            name, country, language,
+            logo: attr("tvg-logo"),
+            group, url: t, status: "live", source: "custom-m3u"
+          });
+        }
+        inf = null;
+      }
+    }
+    console.log(`  Loaded ${out.length} custom ${type} channels from ${dir}/`);
+  } catch (e) {
+    console.log(`  Error reading ${dir}/: ${e.message}`);
+  }
+  return out;
+}
+
+async function loadBlockedUrls() {
+  const blocked = new Set();
+  try {
+    const dir = "unpublished-channels";
+    const stats = await fs.stat(dir).catch(() => null);
+    if (!stats || !stats.isDirectory()) return blocked;
+    for (const file of await fs.readdir(dir)) {
+      if (!file.endsWith(".txt")) continue;
+      for (const line of (await fs.readFile(path.join(dir, file), "utf-8")).split(/\r?\n/)) {
+        const t = line.trim();
+        if (t && !t.startsWith("#")) blocked.add(t);
+      }
+    }
+  } catch (e) {
+    console.log(`  Error reading blocklist: ${e.message}`);
+  }
+  return blocked;
+}
+// ============================ end added block ========================
+
 async function fetchCategoryMap(type, categoryIds) {
   const nanoidToCategoryId = new Map();
   await Promise.all(categoryIds.map(async id => {
@@ -225,6 +310,25 @@ async function buildOne(type, categoryIds, sourceField, langNameByCode) {
   }
 
   console.log(`${type}: ${channels.length} channels published (from ${data.length} raw entries${usingCache ? ", CACHED" : ""}), ${categorized} matched to a real category.`);
+
+
+  // ---- Custom channels + blocklist (added) ---------------------------------
+  {
+    const custom = await loadCustomChannels(type, langNameByCode);
+    for (const c of custom) {
+      // same name + country as a published channel -> replace it, otherwise add
+      const i = channels.findIndex(x => String(x.name || "").toLowerCase() === c.name.toLowerCase() && x.country === c.country);
+      if (i !== -1) channels[i] = c; else channels.push(c);
+    }
+    const blocked = await loadBlockedUrls();
+    if (blocked.size) {
+      const before = channels.length;
+      for (let i = channels.length - 1; i >= 0; i--) {
+        if (blocked.has(channels[i].url)) channels.splice(i, 1);
+      }
+      console.log(`  ${before - channels.length} ${type} channels removed by the blocklist.`);
+    }
+  }
 
   // Write outputs
   const byCountry = {};
