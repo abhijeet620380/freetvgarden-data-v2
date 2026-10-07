@@ -34,8 +34,8 @@ https://live-antenne-reunion.zeop.tv/live/c3eds/antreunihd/hls_fta/antreunihd.m3
 #EXTINF:-1 tvg-id="arte.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/ecXMjNl.png" tvg-status="down" group-title="Entertainment",arte
 https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8
 #EXTINF:-1 tvg-id="famelack-SFsrKozwjoLj8R" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/RyVEFcG.png" tvg-status="live" group-title="News",B SMART
-https://www.youtube-nocookie.com/embed/dXzvSHeVj_w
-#EXTINF:-1 tvg-id="famelack-cGjSaev20uBBta" tvg-country="FR" tvg-language="French" tvg-logo="" tvg-status="live" group-title="Animation",Banijay Mr Bean Animé
+https://www.youtube-nocookie.com/embed/iQHPViUAhKw
+#EXTINF:-1 tvg-id="famelack-cGjSaev20uBBta" tvg-country="FR" tvg-language="French" tvg-logo="" tvg-status="live" group-title="Kids",Banijay Mr Bean Animé
 https://amg00627-amg00627c31-rakuten-fr-3991.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanfrcc-rakutenfr/playlist.m3u8
 #EXTINF:-1 tvg-id="famelack-43AnT98rvIMgpF" tvg-country="FR" tvg-language="" tvg-logo="" tvg-status="live" group-title="General",BBC Top Gear France
 https://amg00793-amg00793c45-rakuten-fr-5539.playouts.now.amagi.tv/playlist.m3u8
@@ -111,47 +111,33 @@ https://amg01796-amg01796c2-rakuten-uk-3887.playouts.now.amagi.tv/playlist.m3u8
 https://rakutenaa-zylo-emotional-rakuten-r1zkm.amagi.tv/playlist/rakutenAA-zylo-emotional-rakuten/playlist.m3u8
 #EXTINF:-1 tvg-id="Equidia.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/QPpbRcZ.png" tvg-status="live" group-title="Sports",Equidia
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/live2.m3u8
-#EXTINF:-1 tvg-id="famelack-DmuSIeE8brywZA" tvg-country="FR" tvg-language="Spanish" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/DISTROTV/LIVECHANNEL/66698908bac4421ebc533648/images/logo_20231218_175505_70.png" tvg-status="live" group-title="News",Euronews en Español
-https://www.youtube-nocookie.com/embed/O9mOtdZ-nSk
 #EXTINF:-1 tvg-id="EuronewsEnglish.fr" tvg-country="FR" tvg-language="English" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/DISTROTV/LIVECHANNEL/66698907bac4421ebc533647/images/logo_20231218_175557_70.png" tvg-status="live" group-title="News",Euronews English
 https://dash4.antik.sk/live/test_euronews/playlist.m3u8
-#EXTINF:-1 tvg-id="famelack-32YXpnKvxn9M0K" tvg-country="FR" tvg-language="French" tvg-logo="https://provider-static.plex.tv/epg/cms/production/29d2a047-b486-4123-8642-45fe71d022fe/Logo_Euronews_stacked_white_on_french_1500x1000.png" tvg-status="live" group-title="News",Euronews Français
+#EXTINF:-1 tvg-id="famelack-qZx2FfhpEJUqdS" tvg-country="FR" tvg-language="French" tvg-logo="https://provider-static.plex.tv/epg/cms/production/29d2a047-b486-4123-8642-45fe71d022fe/Logo_Euronews_stacked_white_on_french_1500x1000.png" tvg-status="live" group-title="News",Euronews French
 https://www.youtube-nocookie.com/embed/NiRIbKwAejk
-#EXTINF:-1 tvg-id="EuronewsFrench.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://provider-static.plex.tv/epg/cms/production/29d2a047-b486-4123-8642-45fe71d022fe/Logo_Euronews_stacked_white_on_french_1500x1000.png" tvg-status="live" group-title="News",Euronews French
-https://2f6c5bf4.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmxheHhUVi1ldV9FdXJvbmV3c0ZyYW5jYWlzX0hMUw/playlist.m3u8
 #EXTINF:-1 tvg-id="EuronewsGerman.fr" tvg-country="FR" tvg-language="German" tvg-logo="https://staticcyl.euronews.com/wp-content/uploads/2023/03/Logo_Euronews_white-on-neon_german_RGB.png" tvg-status="live" group-title="News",Euronews German
 https://575b7833.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmxheHhUVi1ldV9FdXJvbmV3c0RldXRzY2hfSExT/playlist.m3u8
 #EXTINF:-1 tvg-id="famelack-x5fWrafkMRpDW8" tvg-country="FR" tvg-language="Greek" tvg-logo="https://i.imgur.com/8t9mdg9.png" tvg-status="live" group-title="News",Euronews Greek
 https://cdn-euronews.akamaized.net/live/eds/euronews-el/25068/index.m3u8
-#EXTINF:-1 tvg-id="EuronewsHungarian.fr" tvg-country="FR" tvg-language="Hungarian" tvg-logo="https://i.imgur.com/8t9mdg9.png" tvg-status="live" group-title="News",Euronews Hungarian
-https://cdn-euronews.akamaized.net/live/eds/euronews-hu/25075/index.m3u8
+#EXTINF:-1 tvg-id="famelack-Iq86nUR80ay3qv" tvg-country="FR" tvg-language="Hungarian" tvg-logo="https://i.imgur.com/8t9mdg9.png" tvg-status="live" group-title="News",Euronews Hungarian
+https://www.youtube-nocookie.com/embed/jAn7L2Kt32U
 #EXTINF:-1 tvg-id="EuronewsItalian.fr" tvg-country="FR" tvg-language="Italian" tvg-logo="https://provider-static.plex.tv/epg/cms/production/ca19114a-f498-4ac3-bade-257fb304e0be/ITLogo_Euronews_stacked_white_on_italien_1500x1000whtrdx2.png" tvg-status="live" group-title="News",Euronews Italian
 https://acb6ca89.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmxheHhUVi1ldV9FdXJvbmV3c0l0YWxpYW5vX0hMUw/playlist.m3u8
-#EXTINF:-1 tvg-id="famelack-xrA5xgdFcK6f66" tvg-country="FR" tvg-language="Italian" tvg-logo="https://provider-static.plex.tv/epg/cms/production/ca19114a-f498-4ac3-bade-257fb304e0be/ITLogo_Euronews_stacked_white_on_italien_1500x1000whtrdx2.png" tvg-status="live" group-title="News",Euronews Italiano
-https://www.youtube-nocookie.com/embed/pUcmpyynASM
-#EXTINF:-1 tvg-id="famelack-JoqV25BvXTYp5C" tvg-country="FR" tvg-language="Hungarian" tvg-logo="" tvg-status="live" group-title="News",Euronews Magyar
-https://www.youtube-nocookie.com/embed/jAn7L2Kt32U
-#EXTINF:-1 tvg-id="famelack-ebFbvTKN8YcHpc" tvg-country="FR" tvg-language="Polish" tvg-logo="" tvg-status="live" group-title="News",Euronews Polski
+#EXTINF:-1 tvg-id="famelack-s8LUnwDl6mY0ZL" tvg-country="FR" tvg-language="Persian" tvg-logo="" tvg-status="live" group-title="News",Euronews Persian
+https://www.youtube-nocookie.com/embed/A8eHIQdTpvQ
+#EXTINF:-1 tvg-id="famelack-ebFbvTKN8YcHpc" tvg-country="FR" tvg-language="Polish" tvg-logo="" tvg-status="live" group-title="News",Euronews Polish
 https://www.youtube-nocookie.com/embed/fG7PjdiKaBY
-#EXTINF:-1 tvg-id="famelack-iGI0lZtaC0qVgq" tvg-country="FR" tvg-language="Portuguese" tvg-logo="https://provider-static.plex.tv/epg/cms/production/73b5e777-8a44-4def-8e33-be43f7f8177c/Logo_Euronews_stacked_white_on_portuguese_1500x1000rdxWHITE.png" tvg-status="live" group-title="News",Euronews Português
+#EXTINF:-1 tvg-id="famelack-GGI2245NqAePNm" tvg-country="FR" tvg-language="Portuguese" tvg-logo="https://provider-static.plex.tv/epg/cms/production/73b5e777-8a44-4def-8e33-be43f7f8177c/Logo_Euronews_stacked_white_on_portuguese_1500x1000rdxWHITE.png" tvg-status="live" group-title="News",Euronews Portuguese
 https://www.youtube-nocookie.com/embed/XuZAl-ZPEcA
-#EXTINF:-1 tvg-id="EuronewsPortuguese.fr" tvg-country="FR" tvg-language="Portuguese" tvg-logo="https://provider-static.plex.tv/epg/cms/production/73b5e777-8a44-4def-8e33-be43f7f8177c/Logo_Euronews_stacked_white_on_portuguese_1500x1000rdxWHITE.png" tvg-status="live" group-title="News",Euronews Portuguese
-https://6e52fb8b.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmxheHhUVi1ldV9FdXJvbmV3c1BvcnR1Z3Vlc19ITFM/playlist.m3u8
-#EXTINF:-1 tvg-id="famelack-edGsS9KBSmSMSh" tvg-country="FR" tvg-language="Romanian" tvg-logo="" tvg-status="live" group-title="News",Euronews Română
-https://www.youtube-nocookie.com/embed/IW7WOYL9zm8
-#EXTINF:-1 tvg-id="EuronewsRussian.fr" tvg-country="FR" tvg-language="Russian" tvg-logo="https://i.imgur.com/8t9mdg9.png" tvg-native-name="Euronews по-русски" tvg-status="live" group-title="News",Euronews Russian
-https://cdn-euronews.akamaized.net/live/eds/euronews-ru/25071/index.m3u8
+#EXTINF:-1 tvg-id="famelack-AebbSbQ8k1zQps" tvg-country="FR" tvg-language="Russian" tvg-logo="https://i.imgur.com/8t9mdg9.png" tvg-native-name="Euronews по-русски" tvg-status="live" group-title="News",Euronews Russian
+https://www.youtube-nocookie.com/embed/lwYzwdBiaho
 #EXTINF:-1 tvg-id="famelack-xsUZSvBNUz3yiT" tvg-country="FR" tvg-language="Spanish" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/DISTROTV/LIVECHANNEL/66698908bac4421ebc533648/images/logo_20231218_175505_70.png" tvg-status="live" group-title="News",Euronews Spanish
 https://cdn-euronews.akamaized.net/live/eds/euronews-es/25053/index.m3u8
-#EXTINF:-1 tvg-id="famelack-SPix7L8rl3SPVz" tvg-country="FR" tvg-language="Greek" tvg-logo="" tvg-status="live" group-title="News",Euronews Ελληνικά
-https://www.youtube-nocookie.com/embed/uWIhV9gQClg
-#EXTINF:-1 tvg-id="famelack-xjpmQDsZSRhSoo" tvg-country="FR" tvg-language="Russian" tvg-logo="" tvg-status="live" group-title="News",Euronews Русский
-https://www.youtube-nocookie.com/embed/lwYzwdBiaho
 #EXTINF:-1 tvg-id="famelack-9eVKsiEEc1KvRY" tvg-country="FR" tvg-language="French" tvg-logo="https://i.ibb.co/rGqB5FcH/Europe1-TV.png" tvg-status="live" group-title="News",Europe 1 TV
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/misc/europe-1-tv-dm.m3u8
 #EXTINF:-1 tvg-id="famelack-obM4Ta9tHLJdKA" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/v8TiqhH.png" tvg-status="live" group-title="Religious",Evandis Gospel TV
 https://evandis.streamakaci.tv/str_evandis_evandis/str_evandis_multi/playlist.m3u8
-#EXTINF:-1 tvg-id="FashionTVAsia.fr" tvg-country="FR" tvg-language="English" tvg-logo="https://i.imgur.com/ucTh9tO.png" tvg-status="live" group-title="Lifestyle",FashionTV Asia
+#EXTINF:-1 tvg-id="FashionTVAsia.fr" tvg-country="FR" tvg-language="English" tvg-logo="https://i.imgur.com/ucTh9tO.png" tvg-status="down" group-title="Lifestyle",FashionTV Asia
 http://58.8.186.128:10006/bysid/2616
 #EXTINF:-1 tvg-id="FashionTVEurope.fr" tvg-country="FR" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/960px-Fashion_TV_logo.svg.png" tvg-status="down" group-title="Lifestyle",FashionTV Europe
 https://68f1accef2154d2195cae87dec183843.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_FashionTV/playlist.m3u8
@@ -285,6 +271,8 @@ https://www.youtube-nocookie.com/embed/1R8767hzeLk
 https://vdo2.pro-fhi.net:3207/stream/play.m3u8
 #EXTINF:-1 tvg-id="ParisPremiere.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/ily4bEm.png" tvg-status="down" group-title="General",Paris Premiere
 http://193.254.245.162/PARIS-PREMIERE/index.m3u8
+#EXTINF:-1 tvg-id="famelack-Qa2TkurpEPA9Uh" tvg-country="FR" tvg-language="Persian" tvg-logo="" tvg-status="live" group-title="Entertainment",Persiana China
+https://chinahls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="PersianaCinema.fr" tvg-country="FR" tvg-language="Persian" tvg-logo="https://i.imgur.com/hgIro9r.png" tvg-status="live" group-title="Movies",Persiana Cinema
 https://cinehls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="PersianaComedy.fr" tvg-country="FR" tvg-language="Persian" tvg-logo="https://i.imgur.com/DBZ3Pi5.png" tvg-status="live" group-title="Comedy",Persiana Comedy
@@ -307,14 +295,20 @@ https://korhls.persiana.live/hls/stream.m3u8
 https://latinohls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="PersianaMedical.fr" tvg-country="FR" tvg-language="Persian" tvg-logo="" tvg-status="live" group-title="Education",Persiana Medical
 https://phd2hls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="PersianaNostalgia.fr" tvg-country="FR" tvg-language="Persian" tvg-logo="https://i.imgur.com/SWO9CKA.png" tvg-status="live" group-title="Music",Persiana Nostalgia
+#EXTINF:-1 tvg-id="famelack-oZsxPrEzz4rgql" tvg-country="FR" tvg-language="Persian" tvg-logo="https://i.imgur.com/SHxxi5I.png" tvg-status="live" group-title="Music",Persiana Music
+https://musichls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="famelack-odbTAV6ttz1zzI" tvg-country="FR" tvg-language="Persian" tvg-logo="https://i.imgur.com/SWO9CKA.png" tvg-status="live" group-title="Classic",Persiana Nostalgia
 https://noshls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="PersianaPlus.fr" tvg-country="FR" tvg-language="Persian" tvg-logo="https://i.imgur.com/0xttibX.png" tvg-status="live" group-title="Movies",Persiana Plus
 https://euhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="famelack-NzExxCJopnh2RO" tvg-country="FR" tvg-language="Persian" tvg-logo="" tvg-status="live" group-title="Entertainment",Persiana Podcast
+https://podhls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="PersianaReality.fr" tvg-country="FR" tvg-language="Persian" tvg-logo="" tvg-status="down" group-title="Entertainment",Persiana Reality
 https://twohls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="PersianaSeries.fr" tvg-country="FR" tvg-language="Persian" tvg-logo="" tvg-status="live" group-title="Series",Persiana Series
 https://onehls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="famelack-YtM6FfHGe1sGb4" tvg-country="FR" tvg-language="Persian" tvg-logo="" tvg-status="live" group-title="Music",Persiana SetMix
+https://setmixhls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="PersianaTeen.fr" tvg-country="FR" tvg-language="Persian" tvg-logo="" tvg-status="down" group-title="Kids",Persiana Teen
 https://kphls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="PersianaTravel.fr" tvg-country="FR" tvg-language="Persian" tvg-logo="" tvg-status="live" group-title="Documentary",Persiana Travel
@@ -323,6 +317,8 @@ https://ptravelhls.persiana.live/hls/stream.m3u8
 https://turkhls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="PersianaVibe.fr" tvg-country="FR" tvg-language="Persian" tvg-logo="" tvg-status="live" group-title="Music",Persiana Vibe
 https://raphls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="famelack-5PUbpFZXErBkAG" tvg-country="FR" tvg-language="Persian" tvg-logo="" tvg-status="live" group-title="Travel",Persiana Voyage
+https://voyhls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="famelack-4NyFCBjkWuIpW6" tvg-country="FR" tvg-language="French" tvg-logo="" tvg-status="live" group-title="Kids",Pocoyo
 https://www.youtube-nocookie.com/embed/lXZJD1-o1SI
 #EXTINF:-1 tvg-id="famelack-3NvakxlQdvFfhn" tvg-country="FR" tvg-language="French" tvg-logo="https://pbs.twimg.com/profile_images/1274572654016675842/A6v8Qo_X_400x400.jpg" tvg-status="live" group-title="News",Puissance Télévision
@@ -335,12 +331,12 @@ https://amg02393-awpg-amg02393c1-rakuten-uk-2461.playouts.now.amagi.tv/playlist/
 https://qwestjazz-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-qwestjazz-rakuten/CDN/master.m3u8
 #EXTINF:-1 tvg-id="QwestTVJazzBeyond.fr" tvg-country="FR" tvg-language="English" tvg-logo="https://i.imgur.com/89yWH5L.png" tvg-status="live" group-title="Music",Qwest TV Jazz & Beyond
 https://samsungau-qwestjazz-samsungtv-zw2jc.amagi.tv/playlist/samsungau-qwestjazz-samsungtv/playlist.m3u8
-#EXTINF:-1 tvg-id="famelack-9PtGiKgkdbGXR3" tvg-country="FR" tvg-language="" tvg-logo="" tvg-status="live" group-title="General",Rakuten TV Films Action
-https://01ac9352fbfa4204998783d41f9b1a2e.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6068/master.m3u8
-#EXTINF:-1 tvg-id="famelack-4ukW3AXj5x20Zs" tvg-country="FR" tvg-language="" tvg-logo="" tvg-status="live" group-title="General",Rakuten TV Films Famille
-https://b3088e48baab418a9a95dc8110a1b736.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6206/master.m3u8
-#EXTINF:-1 tvg-id="famelack-AIirayhr6r6kA6" tvg-country="FR" tvg-language="" tvg-logo="" tvg-status="live" group-title="General",Rakuten TV Films Thriller
-https://thriller-rakuten-tv-fr.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6479/master.m3u8
+#EXTINF:-1 tvg-id="famelack-kVuXOdBXr2x3dW" tvg-country="FR" tvg-language="" tvg-logo="" tvg-status="live" group-title="General",Rakuten TV Alerte Cobra
+https://alarm-for-cobra-rakuten-tv-fr.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6477/master.m3u8
+#EXTINF:-1 tvg-id="famelack-4OHJUKjDj7pE2U" tvg-country="FR" tvg-language="" tvg-logo="" tvg-status="live" group-title="General",Rakuten TV Films Drames
+https://f396f4db84a54f7bb496b2541477b626.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6095/master.m3u8
+#EXTINF:-1 tvg-id="famelack-phice2bsfFKDLs" tvg-country="FR" tvg-language="" tvg-logo="" tvg-status="live" group-title="General",Rakuten TV Séries Crime
+https://1ffd245e4d30495e9b006502a155479e.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6214/master.m3u8
 #EXTINF:-1 tvg-id="famelack-K1cCEN7WNbjDun" tvg-country="FR" tvg-language="" tvg-logo="" tvg-status="live" group-title="General",Revry Europe (Frequency backend)
 https://03e7e5beea1d42fea576037d67f531eb.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_Revry/playlist.m3u8
 #EXTINF:-1 tvg-id="famelack-fsqc3tbNlosErK" tvg-country="FR" tvg-language="French" tvg-logo="" tvg-status="live" group-title="News",RFI
@@ -361,6 +357,8 @@ http://41.205.93.154/SYFY/index.m3u8
 https://rakutenaa-zylo-screamin-rakuten-p11ej.amagi.tv/playlist/rakutenAA-zylo-screamin-rakuten/playlist.m3u8
 #EXTINF:-1 tvg-id="SerieClub.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/V8wRRg5.png" tvg-status="down" group-title="General",Serie Club
 http://145.239.5.177/355/index.m3u8
+#EXTINF:-1 tvg-id="famelack-e2QKMdwgfK4Vxo" tvg-country="FR" tvg-language="French" tvg-logo="" tvg-status="live" group-title="Animation",Simon Super Lapin
+https://www.youtube-nocookie.com/embed/zUV96NgJVUM
 #EXTINF:-1 tvg-id="famelack-f1Z2REVZIJr4vr" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/uJC8rXr.png" tvg-status="live" group-title="Series",Sony One Blacklist
 https://06cb85ad6ccb4a6b97f561e62d16ad3f.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-822-FR-SONYONETHEBLACKLIST-LG_FR/playlist.m3u8
 #EXTINF:-1 tvg-id="famelack-NZ0M4Z47C2ZcVG" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/RO4AM4b.png" tvg-status="live" group-title="Movies",Sony One Favoris
@@ -451,7 +449,7 @@ https://tv3v.live-kd.com/live/tv3v/livestream/index.m3u8
 http://5.9.121.178/tv5monde/index.m3u8
 #EXTINF:-1 tvg-id="TV5MondeAsia.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/2f/TV5Monde_2025.png/revision/latest?cb=20251019134025&path-prefix=vi" tvg-status="live" group-title="General",TV5Monde Asia
 http://27.131.164.187:8080/TV5_Monde/index.m3u8
-#EXTINF:-1 tvg-id="famelack-2gvbHx7OrU70G2" tvg-country="FR" tvg-language="French" tvg-logo="https://psi.tv5monde.com/media/static/default/lives/tv5monde-chef.png" tvg-status="live" group-title="Lifestyle",TV5MONDE Chefs
+#EXTINF:-1 tvg-id="famelack-2gvbHx7OrU70G2" tvg-country="FR" tvg-language="French" tvg-logo="https://psi.tv5monde.com/media/static/default/lives/tv5monde-chef.png" tvg-status="live" group-title="Cooking",TV5MONDE Chefs
 https://tvf-tv5ch.otteravision.com/tvf/tv5ch/tv5ch.m3u8
 #EXTINF:-1 tvg-id="TV5MondeEurope.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/rPAbMSu.png" tvg-status="live" group-title="General",TV5Monde Europe
 http://5.180.164.197:8080/TV5MONDE/index.m3u8
