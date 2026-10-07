@@ -57,8 +57,8 @@ https://5bf7b725107e5.streamlock.net/bungotv/bungotv/playlist.m3u8
 https://stream.carubantv.id/hls/0/stream.m3u8
 #EXTINF:-1 tvg-id="DavikaTV.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/id/6/60/Logo_Davika_TV.png" tvg-status="down" group-title="General",Davika TV
 https://5bf7b725107e5.streamlock.net/davika/davika/playlist.m3u8
-#EXTINF:-1 tvg-id="DensFoodChannel.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501416_tvchannels_v1.jpg" tvg-status="down" group-title="Cooking",Dens Food Channel
-https://op-group1-swiftservehd-1.dens.tv/h/h221/index.m3u8
+#EXTINF:-1 tvg-id="DensFoodChannel.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501416_tvchannels_v1.jpg" tvg-status="live" group-title="Cooking",Dens Food Channel
+https://op-flashcon-digdayahd-1.dens.tv/h/h221/02.m3u8
 #EXTINF:-1 tvg-id="DensKnowledge.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1701335417_tvchannels_v1.jpg" tvg-status="down" group-title="Education",Dens Knowledge
 https://op-group1-swiftservehd-1.dens.tv/h/h236/index.m3u8
 #EXTINF:-1 tvg-id="DensLifeStyle.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501284_tvchannels_v1.jpg" tvg-status="down" group-title="Lifestyle",Dens Life & Style
@@ -97,16 +97,18 @@ https://www.youtube-nocookie.com/embed/74U0ROQlxfw
 https://gist.githubusercontent.com/iptvonlinetv/02d209207082846012c15305f7471c55/raw/4439b54b986e696e6fcfba7a53380d85b27bbbc1/udp450.500.723:6050.m3u8
 #EXTINF:-1 tvg-id="famelack-VB5Y2IgDFOp8I1" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://hosting.renderforestsites.com/35126779/1657983/media/37034d6b30d2c092aa6827a34fa145ab.png" tvg-status="live" group-title="Kids",Groovia Kids
 https://gist.githubusercontent.com/iptvonlinetv/244b66c61f162a7c0c2b4fa59b528139/raw/2376b7ba1989ebbd383301ec7d645e222a6c9338/udp780.510.345:4545.m3u8
-#EXTINF:-1 tvg-id="GTV.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://i.imgur.com/jjuKnYs.png" tvg-status="down" group-title="General",GTV
-https://mncmedia.malingtv.workers.dev/gtv.m3u8
+#EXTINF:-1 tvg-id="GTV.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://i.imgur.com/jjuKnYs.png" tvg-status="live" group-title="General",GTV
+http://202.150.172.59/GTVHD/index.m3u8
 #EXTINF:-1 tvg-id="HumaBetangTV.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://i.imgur.com/xBTqOEu.png" tvg-status="down" group-title="News",Huma Betang TV
 https://v3.siar.us/humabetangtv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="famelack-Hae4Rh59QFhZLW" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://i.imgur.com/Gg6OcGT.png" tvg-status="live" group-title="Religious",I Am Channel
 https://61146e7ab7a66.streamlock.net:8089/tes/1/chunklist.m3u8
 #EXTINF:-1 tvg-id="famelack-4XTEtIon4adh6d" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://i.imgur.com/192wiS1.png" tvg-status="live" group-title="Entertainment",Indonesiana.TV
 https://tvstreamcast.com/indonesiana.m3u8
-#EXTINF:-1 tvg-id="iNews.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://i.imgur.com/M2R3lfg.png" tvg-status="down" group-title="News",iNews
-https://mncmedia.malingtv.workers.dev/inews.m3u8
+#EXTINF:-1 tvg-id="Indosiar.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/960px-Indosiar_2015.svg.png" tvg-status="live" group-title="General",Indosiar
+http://202.150.172.59/Indosiar/index.m3u8
+#EXTINF:-1 tvg-id="iNews.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://i.imgur.com/M2R3lfg.png" tvg-status="live" group-title="News",iNews
+http://202.150.172.59/iNews/index.m3u8
 #EXTINF:-1 tvg-id="JakTV.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://i.imgur.com/xyLLLOi.png" tvg-status="down" group-title="General",Jak TV
 https://op-group1-swiftservesd-1.dens.tv/s/s123/index2.m3u8
 #EXTINF:-1 tvg-id="famelack-AwWVoTg8nnvs2w" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/15/Jambi_TV.png" tvg-status="live" group-title="General",Jambi TV
@@ -120,7 +122,7 @@ http://103.255.15.222:1935/tv/jitv_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="famelack-oSWD42bHwHKlIE" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/40/Jogjatvnew.png" tvg-status="live" group-title="General",Jogja TV
 https://stream.jogjatv.co.id/jtvlive/stream/index.m3u8
 #EXTINF:-1 tvg-id="JTV.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://i.imgur.com/mIDWIQk.png" tvg-status="live" group-title="General",JTV
-http://122.248.43.242:1935/JTVMADIUN/_definst_/myStream/playlist.m3u8
+http://122.248.43.242:1935/JTVKEDIRI/_definst_/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="KawanuaTV.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/Logo_kawanua_tv.png" tvg-status="live" group-title="General",Kawanua TV
 http://122.248.43.242:1935/KAWANUATV/_definst_/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="famelack-0xr9dDKplwszmy" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://i.imgur.com/B5YiUIP.png" tvg-status="live" group-title="Kids",Kids TV
@@ -187,8 +189,8 @@ https://www.streaming.radartv.co.id/hls/test.m3u8
 https://v2.siar.us/radartasikmalaya/live/playlist.m3u8
 #EXTINF:-1 tvg-id="RajawaliTV.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://i.imgur.com/dlsv1sl.png" tvg-status="live" group-title="General",Rajawali TV
 https://rtvstream.rtv.co.id:4555/hls/rtv.m3u8
-#EXTINF:-1 tvg-id="RCTI.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://i.imgur.com/iLFx8ia.png" tvg-status="down" group-title="General",RCTI
-https://mncmedia.malingtv.workers.dev/rcti.m3u8
+#EXTINF:-1 tvg-id="RCTI.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://i.imgur.com/iLFx8ia.png" tvg-status="live" group-title="General",RCTI
+http://202.150.172.59/RCTIHD/index.m3u8
 #EXTINF:-1 tvg-id="famelack-2osdXOCanj9JNQ" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://i.imgur.com/CyIlt0y.png" tvg-status="live" group-title="General",RCTV
 https://v10.siar.us/rctv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="RiauTV.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://i.imgur.com/1g8FtJi.png" tvg-status="live" group-title="General",Riau TV
@@ -201,14 +203,14 @@ https://rodjatv.com/rodjatv/live.m3u8
 https://private-streaming.rri.go.id/memfs/6f77c7b5-feb2-4935-9f89-e7e9fca0a54a_output_0.m3u8
 #EXTINF:-1 tvg-id="famelack-SM5dGWTEmeAMrT" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://i.imgur.com/00Ifzgo.png" tvg-status="live" group-title="General",Salam TV
 https://live.salamtelevisi.com/hls/0/stream.m3u8
-#EXTINF:-1 tvg-id="famelack-qWijccdHGumaJp" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/Logo_Salira_TV.png" tvg-status="live" group-title="Lifestyle",Salira TV
+#EXTINF:-1 tvg-id="famelack-qWijccdHGumaJp" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/Logo_Salira_TV.png" tvg-status="live" group-title="Culture",Salira TV
 https://live.salira.tv:3870/stream/play.m3u8
 #EXTINF:-1 tvg-id="famelack-Cx1Butu3HjYB81" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://i.imgur.com/8cFJa8G.png" tvg-status="live" group-title="General",Sampit TV
 https://sampit-tv.siar.us/live/sampit-tv.m3u8
 #EXTINF:-1 tvg-id="famelack-4WttbEI2P66IMh" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://i.imgur.com/4rTNT8F.png" tvg-status="live" group-title="General",Sangaji TV
 https://cdn.adyadigitalteknologi.com:8090/vod/relay.m3u8
-#EXTINF:-1 tvg-id="SCTV.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://i.imgur.com/EMmOvnQ.png" tvg-status="down" group-title="General",SCTV
-https://op-group1-swiftservehd-1.dens.tv/h/h217/index.m3u8
+#EXTINF:-1 tvg-id="SCTV.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://i.imgur.com/EMmOvnQ.png" tvg-status="live" group-title="General",SCTV
+http://202.150.172.59/SCTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="famelack-2XkFMpRoLYu9Ma" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/id/c/ce/Logo_Selaparang_TV.png" tvg-status="live" group-title="General",Selaparang TV
 https://selaparangtv.siar.us/live/selaparangtv.m3u8
 #EXTINF:-1 tvg-id="SemarangTV.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://i.imgur.com/KFC2WSB.png" tvg-status="down" group-title="General",Semarang TV
@@ -309,8 +311,8 @@ https://ott-balancer.tvri.go.id/live/eds/NTT/hls/NTT.m3u8
 https://ott-balancer.tvri.go.id/live/eds/Papua/hls/Papua.m3u8
 #EXTINF:-1 tvg-id="famelack-MehwfGmaYpHRPe" tvg-country="ID" tvg-language="Indonesian" tvg-logo="" tvg-status="live" group-title="General",TVRI Riau
 https://ott-balancer.tvri.go.id/live/eds/Riau/hls/Riau.m3u8
-#EXTINF:-1 tvg-id="TVRISport.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/TVRI_Sport_2022.svg/960px-TVRI_Sport_2022.svg.png" tvg-status="down" group-title="Sports",TVRI Sport
-https://op-group1-swiftservesd-1.dens.tv/s/s107/index.m3u8
+#EXTINF:-1 tvg-id="TVRISport.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/TVRI_Sport_2022.svg/960px-TVRI_Sport_2022.svg.png" tvg-status="live" group-title="Sports",TVRI Sport
+http://202.150.172.59/TVRISport/index.m3u8
 #EXTINF:-1 tvg-id="famelack-cSiW0KDziigtPl" tvg-country="ID" tvg-language="Indonesian" tvg-logo="" tvg-status="live" group-title="General",TVRI Sulawesi Barat
 https://ott-balancer.tvri.go.id/live/eds/Sulbar/hls/Sulbar.m3u8
 #EXTINF:-1 tvg-id="famelack-5BD8NXhLlxGRfy" tvg-country="ID" tvg-language="Indonesian" tvg-logo="" tvg-status="live" group-title="General",TVRI Sulawesi Selatan
@@ -333,7 +335,7 @@ https://srs.u-channel.tv/live/uchannel-tv.m3u8
 https://www.youtube-nocookie.com/embed/NjGIXHrMfWs
 #EXTINF:-1 tvg-id="famelack-SlDXX35NImvk2c" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://i.imgur.com/iEKDH26.png" tvg-status="live" group-title="General",UGTV
 https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv.m3u8
-#EXTINF:-1 tvg-id="VTV.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://i.postimg.cc/cJRJr3BR/2560px-VTV-Indonesia-White-2023-svg.png" tvg-status="down" group-title="Kids",VTV
-http://ikitv.sqn.at:8000/play/a023/index.m3u8
+#EXTINF:-1 tvg-id="VTV.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://i.postimg.cc/cJRJr3BR/2560px-VTV-Indonesia-White-2023-svg.png" tvg-status="live" group-title="Kids",VTV
+http://202.150.172.59/VTVHD/index.m3u8
 #EXTINF:-1 tvg-id="famelack-1lNNrVKg7dpBUl" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://hosting.renderforestsites.com/35126779/1657983/media/3ed50b4273b16759c16450206bec0196.png" tvg-status="live" group-title="General",YOY International
 https://gist.githubusercontent.com/iptvonlinetv/8a6b2f12e5e968537378f1245cea02c9/raw/78bf84476f8e24cc8ea9d5ac24855078c61b18db/udp305.575.530:3030.m3u8

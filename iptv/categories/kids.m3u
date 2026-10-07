@@ -11,8 +11,6 @@ https://jmp2.uk/plu-6452c77ed3fdde00080eb3a8.m3u8
 https://9now-livestreams.akamaized.net/hls/live/2008312/go-syd/master.m3u8
 #EXTINF:-1 tvg-id="ABCEntertains.au" tvg-country="AU" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/ABC_Entertains_logo.svg/960px-ABC_Entertains_logo.svg.png" tvg-status="live" group-title="Education",ABC Entertains
 https://c.mjh.nz/abc-me.m3u8
-#EXTINF:-1 tvg-id="famelack-v83xg8X6mcPJfC" tvg-country="AU" tvg-language="English" tvg-logo="" tvg-status="live" group-title="Kids",ABC Entertains Sydney
-https://c.mjh.nz/abc-me.m3u8
 #EXTINF:-1 tvg-id="ABCKids.au" tvg-country="AU" tvg-language="English" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/29/ABC_Kids_%282020%29.svg/revision/latest/scale-to-width-down/512" tvg-status="live" group-title="Kids",ABC Kids
 https://c.mjh.nz/abc-kids.m3u8
 #EXTINF:-1 tvg-id="famelack-pBX0n0NNoCv2oI" tvg-country="AU" tvg-language="English" tvg-logo="" tvg-status="live" group-title="Kids",ABC Kids Sydney
@@ -45,6 +43,8 @@ https://jmp2.uk/plu-6759eeb1bd523200083b4f29.m3u8
 https://jmp2.uk/plu-6759ee82bd523200083b4f0f.m3u8
 #EXTINF:-1 tvg-id="famelack-BA4cWPIdrFeLrG" tvg-country="US" tvg-language="" tvg-logo="https://i.imgur.com/SbBKr8L.png" tvg-status="live" group-title="Kids",Baby Shark TV
 https://c0c65b821b3542c3a4dca92702f59944.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_BabySharkTV/playlist.m3u8
+#EXTINF:-1 tvg-id="famelack-j0t6b1I6SBTscN" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/lW3WIBD.png" tvg-status="live" group-title="Kids",Baby Time
+https://fs.uplink.kz/baby_time/mono.m3u8?token=onlinetv
 #EXTINF:-1 tvg-id="BabyFirst.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/WxLHBwu.png" tvg-status="live" group-title="Kids",BabyFirst
 http://168.228.44.241:9997/play/a07u/index.m3u8
 #EXTINF:-1 tvg-id="famelack-sBqCqBRYo6k0Cg" tvg-country="US" tvg-language="Arabic" tvg-logo="" tvg-status="live" group-title="Kids",BabyFirst US
@@ -157,6 +157,8 @@ https://www.youtube-nocookie.com/embed/ldbRPSoUFAk
 http://88.212.15.19/live/ct_art_avc_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="Cufo.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="https://i.imgur.com/GbBHtwD.png" tvg-status="down" group-title="Kids",Cufo
 https://digitalb-live.morescreens.com/DAL_1_005/playlist.m3u8?application_id=backoffice1&application_installation_id=1&authority_instance_id=spectar-prd-digitalb&detected_delivery_method=hls&id=DAL_1_005&playlist_template=nginx&profile_id=1&ps=94d0066599d8f74d1c090e93ac4617b6491d3629d2e2d770870fcef1f7effa25b204aa53b3821da5e9e65bee8e94331bcae2cb344d0739ca3a938b4ef2051cc8&subscriber_id=1&token=142cda7d50870275a9ca7988ff001b32ab30709b&uuid=backoffice1&vh=7ab82e63aae8510c6b37ea16da502e54e441a5a1a88bce0c8ed63da99bce948d86253d64ae00424dda8b9c8b6e2cd0f6cd79d8b0a56e10759210cdf4f6761d11&video_id=12498
+#EXTINF:-1 tvg-id="DeParintiro.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://assets.antenaplay.ro/2023/11/21/EO57SfnF8caVPEaQFs4Z.png" tvg-status="live" group-title="Education",DeParinti.ro
+https://live77cdn2.antenaplay.ro/live2_fast/ch4/stream.m3u8
 #EXTINF:-1 tvg-id="DetectiveConan.us" tvg-country="US" tvg-language="Spanish" tvg-logo="https://images.pluto.tv/channels/629a066860ef810008267b70/colorLogoPNG.png?w=512" tvg-status="down" group-title="Animation",Detective Conan
 https://jmp2.uk/plu-62f3e8ad2a8e8000077b013d.m3u8
 #EXTINF:-1 tvg-id="Detskimir.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://xml-epgservice.cdnvideo.ru/EPGService/hs/xmldata/852f4b92-cae5-463e-aad6-cd8844c5a49/logo/51.png" tvg-native-name="Детский мир" tvg-status="down" group-title="Kids",Detski mir
@@ -180,7 +182,7 @@ http://str2.iptvhd.ru:8080/disney/index.m3u8
 #EXTINF:-1 tvg-id="DisneyChannel.in" tvg-country="IN" tvg-language="English" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DISNEY_CHANNEL/images/LOGO_HD/image.png" tvg-status="live" group-title="Kids",Disney Channel
 http://51.75.127.199:3141/disneychannel/index.m3u8
 #EXTINF:-1 tvg-id="DisneyChannel.nl" tvg-country="NL" tvg-language="Dutch" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg" tvg-status="down" group-title="Kids",Disney Channel
-https://masterofiptv.s.gy/iptv2/disney_channel_nl_uhd.m3u8
+http://86.87.15.10:8004/play/a02g/index.m3u8
 #EXTINF:-1 tvg-id="DisneyChannel.pl" tvg-country="PL" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg" tvg-status="live" group-title="Kids",Disney Channel
 http://185.227.34.179:8080/disney-channel-hd/index.m3u8
 #EXTINF:-1 tvg-id="DisneyChannel.pt" tvg-country="PT" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg" tvg-status="live" group-title="Kids",Disney Channel
@@ -263,8 +265,6 @@ https://live20.bozztv.com/giatvplayout7/giatv-211465/playlist.m3u8
 https://cc-t8lqe1o99pszu.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-t8lqe1o99pszu/playlist.m3u8
 #EXTINF:-1 tvg-id="famelack-Ht9PiMiIQXHmHr" tvg-country="IN" tvg-language="Hindi" tvg-logo="" tvg-status="live" group-title="Kids",Epic Kids Digital
 https://cc-t8lqe1o99pszu.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-t8lqe1o99pszu/playlist.m3u8
-#EXTINF:-1 tvg-id="famelack-w1TyAWzZva88k1" tvg-country="EE" tvg-language="Estonian" tvg-logo="https://i.imgur.com/fUjGHDa.png" tvg-status="live" group-title="Kids",ETV 2
-https://sb.err.ee/live/etv2.m3u8
 #EXTINF:-1 tvg-id="ETVBalBharat.in" tvg-country="IN" tvg-language="English" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ETV_BAL_BHARAT/images/LOGO_HD/image.png" tvg-status="live" group-title="Kids",ETV Bal Bharat
 http://103.185.24.134:3001/ETV-BAL-BHARAT/index.m3u8
 #EXTINF:-1 tvg-id="Eureka.co" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/WgnZPol.png" tvg-status="down" group-title="Kids",Eureka
@@ -431,6 +431,8 @@ https://sirius.greenhosting.ru/MultimaniaRu/tracks-v1a1/mono.m3u8
 https://cdn10jtedge.indihometv.com/atm/DASH/mykids/manifest.mpd
 #EXTINF:-1 tvg-id="NCMEducationalKidsChannel.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/3YPvfPn.png" tvg-status="down" group-title="Education",NCM Educational & Kids Channel
 https://reflect-npa.cablecast.tv/live-9/live/live.m3u8
+#EXTINF:-1 tvg-id="famelack-tVSimuRyVg06J3" tvg-country="CA" tvg-language="English" tvg-logo="https://videocdn.bamboo-cloud.com/p/11294/sp/1129400/thumbnail/entry_id/0_hd6fo6eq/version/100002/width/1920" tvg-status="live" group-title="Kids",New Channel
+https://vodcdn.bamboo-cloud.com/livehls/6ab2104508fd5ee36702e3d4/master.m3u8
 #EXTINF:-1 tvg-id="famelack-Z35fC410AatQuT" tvg-country="CA" tvg-language="English" tvg-logo="https://videocdn.bamboo-cloud.com/p/11294/sp/1129400/thumbnail/entry_id/0_vjhh0bly/version/100012/width/1920" tvg-status="live" group-title="Kids",New Channel Pop!
 https://vodcdn.bamboo-cloud.com/livehls/6ab37c6c7e057f9063071c85/master.m3u8
 #EXTINF:-1 tvg-id="NickHDPlus.in" tvg-country="IN" tvg-language="English" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NICK_HDSYMPLUS/images/LOGO_HD/image.png" tvg-status="live" group-title="Kids",Nick HD+
@@ -545,18 +547,8 @@ http://190.128.214.97:64333/play/a02r/index.m3u8
 https://www.youtube-nocookie.com/embed/SICKt_uLs4g
 #EXTINF:-1 tvg-id="famelack-7zFLo9wZEOWLN9" tvg-country="US" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="Kids",PAW Patrol (Español)
 https://www.youtube-nocookie.com/embed/GFjboJCsrkA
-#EXTINF:-1 tvg-id="famelack-veSkgi6hizxqlB" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/PBS_Kids_logo_%282022%29.svg/960px-PBS_Kids_logo_%282022%29.svg.png" tvg-status="live" group-title="Kids",PBS Kids
-https://livestream.pbskids.org/out/v1/14507d931bbe48a69287e4850e53443c/est.m3u8
-#EXTINF:-1 tvg-id="famelack-lZcSMdwkQIJx74" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/ambc9le.png" tvg-status="live" group-title="Kids",PBS Kids Alaska
-https://livestream.pbskids.org/out/v1/94b88ad58fc14f84a9382341f1c00b82/akst.m3u8
 #EXTINF:-1 tvg-id="PBSKidsEasternCentral.us" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/PBS_Kids_logo_%282022%29.svg" tvg-status="live" group-title="Education",PBS Kids Eastern/Central
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
-#EXTINF:-1 tvg-id="famelack-jdgPZWgMCGIzNv" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/ambc9le.png" tvg-status="live" group-title="Kids",PBS Kids Hawaii
-https://livestream.pbskids.org/out/v1/aa31792fee094b24b09045483f04d150/hast.m3u8
-#EXTINF:-1 tvg-id="famelack-Zq8ejlsB34g72F" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/PBS_Kids_logo_%282022%29.svg" tvg-status="live" group-title="Kids",PBS Kids Mountain
-https://livestream.pbskids.org/out/v1/3fe3030a2c8045a3932f4289d9eba3e6/mst.m3u8
-#EXTINF:-1 tvg-id="famelack-mwrBMj9pE1Egws" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/PBS_Kids_logo_%282022%29.svg" tvg-status="live" group-title="Kids",PBS Kids Pacific
-https://livestream.pbskids.org/out/v1/11f2e6b73eaa4887b3746cb863960e79/pst.m3u8
 #EXTINF:-1 tvg-id="famelack-9q3m5MrdjQd0TM" tvg-country="US" tvg-language="English" tvg-logo="" tvg-status="live" group-title="Kids",PBS Kids: Daniel Tiger
 https://www.youtube-nocookie.com/embed/VrEKkzmBaXc
 #EXTINF:-1 tvg-id="famelack-yzwKpvNdMAZglL" tvg-country="US" tvg-language="English" tvg-logo="" tvg-status="live" group-title="Kids",PBS KIDS: Weather Hunters
@@ -575,8 +567,6 @@ https://junhls.persiana.live/hls/stream.m3u8
 https://kphls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="Pingviins.lv" tvg-country="LV" tvg-language="Latvian" tvg-logo="https://i.imgur.com/hfXoJIY.png" tvg-status="down" group-title="Animation",Pingviins
 https://void.greenhosting.ru/PingvinsLV_Mpeg4/video.m3u8
-#EXTINF:-1 tvg-id="PixelTV.pl" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.ibb.co/S4jM2WXk/pixeltv.png" tvg-status="down" group-title="Animation",Pixel TV
-https://jmp2.uk/plu-62790dc1c733e8000733ba4d.m3u8
 #EXTINF:-1 tvg-id="famelack-IAHNNM2HDRUGA0" tvg-country="UA" tvg-language="Ukrainian" tvg-logo="https://i.imgur.com/ECro8Ah.png" tvg-native-name="Піксель TV" tvg-status="live" group-title="Kids",Pixel TV
 https://cdn15.live-tv.cloud/ua_infinitas_tv/pixel-abr/playlist.m3u8
 #EXTINF:-1 tvg-id="PlimPlim.ar" tvg-country="AR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/MYc8srh.png" tvg-status="live" group-title="Animation",Plim Plim
@@ -633,8 +623,6 @@ https://ncdn.telewebion.ir/pooya/live/playlist.m3u8
 https://ncdn.telewebion.ir/javaneh/live/playlist.m3u8
 #EXTINF:-1 tvg-id="PopUp.uk" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/GdSotmS.png" tvg-status="down" group-title="Kids",Pop Up
 https://amg01753-amg01753c9-samsung-gb-8005.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg01753-narrativeuk-popup-samsunggb/playlist.m3u8
-#EXTINF:-1 tvg-id="PoyoTV.kr" tvg-country="KR" tvg-language="Korean" tvg-logo="https://i.imgur.com/5UiSqE5.png" tvg-native-name="뽀요TV" tvg-status="down" group-title="Kids",Poyo TV
-https://xyktmobile00.s.gy/PPV936_PORORO_HD
 #EXTINF:-1 tvg-id="QTV6.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://www.tvchinese.net/uploads/tv/qdtv6.jpg" tvg-native-name="青少旅游频道" tvg-status="live" group-title="Lifestyle",QTV-6
 http://video10.qtv.com.cn/drm/qtv6at/manifest.m3u8
 #EXTINF:-1 tvg-id="famelack-uuPEZrmKbOVuZJ" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/B5FA62o.png" tvg-native-name="Радость Моя" tvg-status="live" group-title="Kids",Radost Moya
@@ -643,6 +631,8 @@ https://radm.mediacdn.ru/cdn/radost/playlist.m3u8
 https://www.youtube-nocookie.com/embed/cM9oNdezOVs
 #EXTINF:-1 tvg-id="famelack-GzjkBwRPP1x8dy" tvg-country="MZ" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/oAygpDw.png" tvg-status="live" group-title="Kids",Reino Infantil
 https://www.khuwemultimedia.com/hls/reinoinfantiltv/reinoinfantiltv.m3u8
+#EXTINF:-1 tvg-id="famelack-50AOLuz78mWfKm" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/4wMZ8Em.png" tvg-status="live" group-title="Kids",RiC
+https://rictv.iptv-playoutcenter.de/rictv/rictv-web/playlist.m3u8
 #EXTINF:-1 tvg-id="RING.bg" tvg-country="BG" tvg-language="Bulgarian" tvg-logo="" tvg-status="down" group-title="Kids",RING
 http://213.91.179.28:8000/play/a06e
 #EXTINF:-1 tvg-id="RUTVKids.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://rutvkids.ru/brand/logo-kids.png" tvg-native-name="РУ.ТВ Кидс" tvg-status="down" group-title="Kids",RU.TV Kids
@@ -659,6 +649,8 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00286-pocketwatch-ryanandfriends-
 https://stream8.cinerama.uz/1407/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="famelack-hiIkEPBcvNefi1" tvg-country="US" tvg-language="English" tvg-logo="https://i.postimg.cc/432q9g12/In-Shot-20260908-063951605.png" tvg-status="live" group-title="Kids",S Corby TV
 https://vodcdn.bamboo-cloud.com/livehls/6a9f89be0630445532152563/master.m3u8
+#EXTINF:-1 tvg-id="famelack-S8p3TAyHimpVTh" tvg-country="US" tvg-language="English" tvg-logo="https://i.postimg.cc/521WRm5k/In-Shot-20260918-070004312.png" tvg-status="live" group-title="Kids",S KPop!
+https://vodcdn.bamboo-cloud.com/livehls/6aac8803063044569e156563/master.m3u8
 #EXTINF:-1 tvg-id="famelack-bQ5D5ZXpNsKdVk" tvg-country="US" tvg-language="English" tvg-logo="https://i.postimg.cc/5y6t70Mz/In-Shot-20260908-113231556.png" tvg-status="live" group-title="Kids",S Play Event
 https://vodcdn.bamboo-cloud.com/livehls/6a9f929f0630443af52c7162/master.m3u8
 #EXTINF:-1 tvg-id="famelack-iZ6TQd6NFXr7I3" tvg-country="US" tvg-language="English" tvg-logo="https://i.postimg.cc/5tfB3Ktv/In-Shot-20260818-133542271.png" tvg-status="live" group-title="Kids",S Tom Sings
@@ -753,8 +745,6 @@ https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
 https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
 #EXTINF:-1 tvg-id="ToonGoggles.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/JMnxswq.png" tvg-status="live" group-title="Kids",ToonGoggles
 https://amg01329-otterainc-toongoggles-samsungau-ad-4c.amagi.tv/playlist/amg01329-otterainc-toongoggles-samsungau/playlist.m3u8
-#EXTINF:-1 tvg-id="Tooniverse.kr" tvg-country="KR" tvg-language="Korean" tvg-logo="https://i.imgur.com/Fesm8M3.png" tvg-native-name="투니버스" tvg-status="down" group-title="Animation",Tooniverse
-https://xyktmobile00.s.gy/PPV939_TOONCAST
 #EXTINF:-1 tvg-id="TortuesNinjaTV.de" tvg-country="DE" tvg-language="French" tvg-logo="https://images.pluto.tv/channels/5f8ecc1b37867f00071469e9/colorLogoSVG.svg" tvg-status="live" group-title="Kids",Tortues Ninja TV
 https://jmp2.uk/plu-5f8ecc1b37867f00071469e9.m3u8
 #EXTINF:-1 tvg-id="TortuesNinjaTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/62e9566e27ce19000732ec85/colorLogoSVG.svg" tvg-status="down" group-title="Kids",Tortues Ninja TV
@@ -799,8 +789,8 @@ https://mumt05.tangotv.in/87NeALx2UNIQUETV/index.m3u8
 https://www.youtube-nocookie.com/embed/tvx1N0fHpkk
 #EXTINF:-1 tvg-id="famelack-QCJumJIeWNNAUV" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/jNJkLHl.png" tvg-native-name="В гостях у сказки" tvg-status="live" group-title="Kids",V gostyakh u skazki
 https://fs.uplink.kz/v_gostyah_u_skazki/mono.m3u8?token=onlinetv
-#EXTINF:-1 tvg-id="VTV.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://i.postimg.cc/cJRJr3BR/2560px-VTV-Indonesia-White-2023-svg.png" tvg-status="down" group-title="Kids",VTV
-http://ikitv.sqn.at:8000/play/a023/index.m3u8
+#EXTINF:-1 tvg-id="VTV.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://i.postimg.cc/cJRJr3BR/2560px-VTV-Indonesia-White-2023-svg.png" tvg-status="live" group-title="Kids",VTV
+http://202.150.172.59/VTVHD/index.m3u8
 #EXTINF:-1 tvg-id="famelack-4eac2SIShkjuk2" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/YNx0j1b.png" tvg-status="live" group-title="Kids",Watch it KID!
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=2245
 #EXTINF:-1 tvg-id="famelack-S031zk98bWY7Ix" tvg-country="UK" tvg-language="English" tvg-logo="" tvg-status="live" group-title="Kids",WildBrain Kids
