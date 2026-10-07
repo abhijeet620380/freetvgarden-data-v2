@@ -90,7 +90,7 @@ http://50.7.120.34:8080/AXN_BLACK/index.m3u8
 #EXTINF:-1 tvg-id="AXNPoland.pl" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/i5wOhkf.png" tvg-status="down" group-title="Movies",AXN Poland
 https://2203.weebvideo.stream/hls/1288486/s/DI_yOeqLvqKFgnP7nYS18cjzG8MYtfk13VVnqo8DPkw/current/high/index.m3u8
 #EXTINF:-1 tvg-id="B4UBhojpuri.in" tvg-country="IN" tvg-language="Bhojpuri" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN39000307N_20260623T013644SQUARE.png" tvg-status="live" group-title="Movies",B4U Bhojpuri
-http://51.75.127.199:3141/b4ubhojpuri/index.m3u8
+https://cdnb4u.wiseplayout.com/B4U_Bhojpuri/master.m3u8
 #EXTINF:-1 tvg-id="B4UKadak.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/B4U-Kadak-BLACK-transparent.png" tvg-status="live" group-title="Movies",B4U Kadak
 https://cdn.pishow.tv/ott/live/227/master.m3u8
 #EXTINF:-1 tvg-id="BattlestarGalactica.us" tvg-country="US" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/69d7ebff029c431826bd328e/colorLogoSVG_1776982986391.svg" tvg-status="down" group-title="Movies",Battlestar Galactica
@@ -286,7 +286,7 @@ https://jmp2.uk/plu-561c5b0dada51f8004c4d855.m3u8
 #EXTINF:-1 tvg-id="famelack-UOMFXhyr1JXaa5" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/rHxcraT.png" tvg-status="live" group-title="Movies",Classique TV
 https://stmv1.srvif.com/classique/classique/playlist.m3u8
 #EXTINF:-1 tvg-id="CNDFilmMiddleSchoolChannel.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://i.imgur.com/4uG8HsQ.png" tvg-native-name="中央新影-中学生" tvg-status="live" group-title="Movies",CND Film Middle School Channel
-http://live2.rxip.sc96655.com/live/zxs_4000.m3u8?A=&E=&K=&P=&S=&U=
+http://live-play.zxstv.com.cn/zhongxuesheng/zhongxuesheng.m3u8
 #EXTINF:-1 tvg-id="ColorsBanglaCinema.in" tvg-country="IN" tvg-language="Bengali" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_BANGLA_CINEMA/images/LOGO_HD/image.png" tvg-status="live" group-title="Movies",Colors Bangla Cinema
 http://51.75.127.199:3141/colorsbanglacinema/index.m3u8
 #EXTINF:-1 tvg-id="ColorsCineplex.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_CINEPLEX/images/LOGO_HD/image.png" tvg-status="live" group-title="Movies",Colors Cineplex
@@ -299,8 +299,6 @@ http://51.75.127.199:3141/colorscineplexsuperhit/index.m3u8
 http://51.75.127.199:3141/colorsgujaraticinema/index.m3u8
 #EXTINF:-1 tvg-id="ColorsKannadaCinema.in" tvg-country="IN" tvg-language="Kannada" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_KANNADA_CINEMA/images/LOGO_HD/image.png" tvg-native-name="Colors ಕನ್ನಡ ಸಿನಿಮಾ" tvg-status="live" group-title="Movies",Colors Kannada Cinema
 http://51.75.127.199:3141/colorskannadacinema/index.m3u8
-#EXTINF:-1 tvg-id="famelack-mrbOEcmtP5KVxY" tvg-country="AR" tvg-language="Spanish" tvg-logo="https://i0.wp.com/fmcosmos.com/wp-content/uploads/2021/11/COSMOS-TV.png" tvg-status="live" group-title="Movies",Cosmos Tv
-https://canaletaplus.com:3922/live/cosmoslive.m3u8
 #EXTINF:-1 tvg-id="CTBPerthMoviesChannel.au" tvg-country="AU" tvg-language="English" tvg-logo="https://i.imgur.com/VB8gtCy.jpeg" tvg-status="down" group-title="Movies",CTB Perth Movies Channel
 https://movies.ctbperth.net.au/hls/stream.m3u8
 #EXTINF:-1 tvg-id="DePeliculaLatinAmerica.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/aksM8pa.png" tvg-status="live" group-title="Movies",De Pelicula Latin America
@@ -312,7 +310,7 @@ http://138.121.15.230:9002/DEPELICULA/index.m3u8
 #EXTINF:-1 tvg-id="Detskoekino.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/dJqFRhQ.png" tvg-native-name="Детское кино" tvg-status="down" group-title="Movies",Detskoe kino
 https://autopilot.catcast.tv/content/38720/index.m3u8
 #EXTINF:-1 tvg-id="DHE.us" tvg-country="US" tvg-language="Spanish" tvg-logo="https://i.imgur.com/nsttoEa.png" tvg-status="live" group-title="Movies",DHE
-http://15.204.246.24:8080/DHEHD/index.m3u8
+http://38.252.238.18:8000/play/a01f/index.m3u8
 #EXTINF:-1 tvg-id="Diema.bg" tvg-country="BG" tvg-language="Bulgarian" tvg-logo="" tvg-native-name="Диема" tvg-status="down" group-title="Movies",Diema
 http://213.91.179.28:8000/play/a045
 #EXTINF:-1 tvg-id="famelack-TzIN60aLMDMQAJ" tvg-country="RU" tvg-language="Russian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0_%D0%94%D0%BE%D0%BC_%D0%9A%D0%B8%D0%BD%D0%BE.png/960px-%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0_%D0%94%D0%BE%D0%BC_%D0%9A%D0%B8%D0%BD%D0%BE.png" tvg-native-name="Дом кино" tvg-status="live" group-title="Movies",Dom kino
@@ -411,8 +409,6 @@ https://pb-x9qsxrudiq9d2.akamaized.net/webvtt/v1/18584c3f3a2a4df8/88886014/maste
 https://dz05z8iljgvbe.cloudfront.net/master.m3u8
 #EXTINF:-1 tvg-id="famelack-xbUgKyNJkUd9WG" tvg-country="UA" tvg-language="Ukrainian" tvg-logo="https://i.imgur.com/kizTBgS.png" tvg-status="live" group-title="Movies",FilmUA Live
 https://dash2.antik.sk/live/test_film_life_atktv/playlist.m3u8
-#EXTINF:-1 tvg-id="famelack-0r210a3FA40XwI" tvg-country="UA" tvg-language="Russian" tvg-logo="https://i.imgur.com/Hnwsh5d.png" tvg-status="live" group-title="Movies",FilmUADrama
-https://dash2.antik.sk/live/test_film_drama_atktv/playlist.m3u8
 #EXTINF:-1 tvg-id="FlicksofFury.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/rtL5L81.png" tvg-status="down" group-title="Movies",Flicks of Fury
 https://jmp2.uk/plu-58e55b14ad8e9c364d55f717.m3u8
 #EXTINF:-1 tvg-id="famelack-sHoHuSAlPWO3Lh" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/rgNQYAl.png" tvg-status="live" group-title="Movies",FrightFlix
@@ -519,8 +515,6 @@ https://ncdn.telewebion.ir/ifilm/live/playlist.m3u8
 http://176.118.197.101/Illuzion+/index.m3u8
 #EXTINF:-1 tvg-id="famelack-iq4LfiXtlMe7B1" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/LL8GyCh.png" tvg-native-name="Индийское кино" tvg-status="live" group-title="Movies",Indiyskoye Kino
 https://fs.uplink.kz/indiyskoe_kino/mono.m3u8?token=onlinetv
-#EXTINF:-1 tvg-id="famelack-gNZqBrN60JADEb" tvg-country="IN" tvg-language="English" tvg-logo="https://i.ibb.co/jT3NCPp/logo-tv.png" tvg-status="live" group-title="Movies",Indywood TV
-https://43wrzjnpqoxe-hls-live.wmncdn.net/indywood/indywoodtv/index.m3u8
 #EXTINF:-1 tvg-id="famelack-FJT1T5Bg3eMVVa" tvg-country="NG" tvg-language="Yoruba" tvg-logo="https://i.imgur.com/FP1aUPw.jpg" tvg-status="live" group-title="Movies",Itage TV
 https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_011/Stream/playlist.m3u8
 #EXTINF:-1 tvg-id="JalshaMovies.in" tvg-country="IN" tvg-language="Bengali" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_JALSHA_MOVIES/images/LOGO_HD/image.png" tvg-status="live" group-title="Movies",Jalsha Movies
@@ -605,7 +599,7 @@ https://mmn1-301f.kxcdn.com/hls/MMN-HLS.m3u8
 http://88.212.15.19/live/mozi/index.m3u8
 #EXTINF:-1 tvg-id="famelack-tWWWWJwjjkFKBL" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Maha_Movies.png" tvg-status="live" group-title="Movies",Maha Movie
 https://cdn.pishow.tv/ott/live/10007/master.m3u8
-#EXTINF:-1 tvg-id="famelack-rzDxJa5Z3U6kt6" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Manoranjan-Grand-Logo-transparent.png" tvg-status="live" group-title="Movies",Manoranjan Grand
+#EXTINF:-1 tvg-id="famelack-rzDxJa5Z3U6kt6" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://i.imgur.com/qfMEz78.png" tvg-status="live" group-title="Movies",Manoranjan Grand
 https://mumt06.tangotv.in/qYyB8fXVMANORANJANGRAND/index.m3u8
 #EXTINF:-1 tvg-id="famelack-oIzxmGqvYu7BiG" tvg-country="IN" tvg-language="Panjabi" tvg-logo="https://i.imgur.com/oTBVML2.png" tvg-status="live" group-title="Movies",Manoranjan Movies
 https://mumt04.tangotv.in/m18aqlK4MANORANJANMOVIES/index.m3u8
@@ -627,8 +621,6 @@ https://live20.bozztv.com/giatvplayout7/giatv-209909/playlist.m3u8
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-bollywood/546eb40d7dcf9a209255dd2496903764/index.m3u8
 #EXTINF:-1 tvg-id="MBCPlusDrama.sa" tvg-country="SA" tvg-language="Arabic" tvg-logo="https://i.imgur.com/lxWdjXG.png" tvg-status="live" group-title="Movies",MBC+ Drama
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-plus-drama/e37251ec2aac8f6c98f75cd0fa37cd28/index.m3u8
-#EXTINF:-1 tvg-id="famelack-Lzh8NoZwGUGsG2" tvg-country="CO" tvg-language="English" tvg-logo="https://pbs.twimg.com/profile_images/1836009952420274177/FfYonU6r_400x400.jpg" tvg-status="live" group-title="Movies",MCI Television
-https://video.ejeserver.com/live/mcitelevision.m3u8
 #EXTINF:-1 tvg-id="Medium.de" tvg-country="DE" tvg-language="Spanish" tvg-logo="https://images.pluto.tv/channels/6578808014fbe400086e21bc/colorLogoSVG.svg" tvg-status="live" group-title="Movies",Medium
 https://jmp2.uk/plu-6578808014fbe400086e21bc.m3u8
 #EXTINF:-1 tvg-id="famelack-CH0OBldtzqtjEK" tvg-country="DO" tvg-language="Spanish" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2893-294x165-FFFFFF.jpg" tvg-status="live" group-title="Movies",Mega Cine TV
@@ -800,7 +792,7 @@ https://jmp2.uk/plu-66b4990746762a00084c2f78.m3u8
 #EXTINF:-1 tvg-id="PlutoTVALaMexicana.us" tvg-country="US" tvg-language="Spanish" tvg-logo="https://images.pluto.tv/channels/5dfcde52d28b09000a42d7a2/colorLogoSVG.svg" tvg-status="down" group-title="Movies",Pluto TV A La Mexicana
 https://jmp2.uk/plu-5dfcde52d28b09000a42d7a2.m3u8
 #EXTINF:-1 tvg-id="PlutoTVAction.se" tvg-country="SE" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/61c095861782bd000780e0ba/colorLogoSVG.svg" tvg-status="live" group-title="Movies",Pluto TV Action
-https://jmp2.uk/plu-61c1e270489a9c000874d209.m3u8
+https://jmp2.uk/plu-61c095861782bd000780e0ba.m3u8
 #EXTINF:-1 tvg-id="PlutoTVAction.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/tDapGal.png" tvg-status="down" group-title="Movies",Pluto TV Action
 https://jmp2.uk/plu-561d7d484dc7c8770484914a.m3u8
 #EXTINF:-1 tvg-id="PlutoTVActionMovies.us" tvg-country="US" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/62ea3c2e4823db00072788ed/colorLogoSVG.svg" tvg-status="down" group-title="Movies",Pluto TV Action Movies
@@ -890,7 +882,7 @@ https://jmp2.uk/plu-5fa15ad6367e170007cdd098.m3u8
 #EXTINF:-1 tvg-id="PlutoTVFilm.de" tvg-country="DE" tvg-language="Italian" tvg-logo="https://images.pluto.tv/channels/608aa17fb9f4490007e6419a/colorLogoSVG_1733013721866.svg" tvg-status="down" group-title="Movies",Pluto TV Film
 https://jmp2.uk/plu-608aa17fb9f4490007e6419a.m3u8
 #EXTINF:-1 tvg-id="PlutoTVFilm.se" tvg-country="SE" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/61c09515fbb4b50007d221f5/colorLogoSVG.svg" tvg-status="live" group-title="Movies",Pluto TV Film
-https://jmp2.uk/plu-61c1e1e55deef000075aed0c.m3u8
+https://jmp2.uk/plu-61c09515fbb4b50007d221f5.m3u8
 #EXTINF:-1 tvg-id="PlutoTVFilmAncoraPiuRomantici.de" tvg-country="DE" tvg-language="Italian" tvg-logo="https://images.pluto.tv/channels/699d87093d5dba980705cca8/colorLogoSVG_1777274173528.svg" tvg-status="down" group-title="Movies",Pluto TV Film Ancora Piu Romantici
 https://jmp2.uk/plu-699d87093d5dba980705cca8.m3u8
 #EXTINF:-1 tvg-id="PlutoTVFilmAzione.de" tvg-country="DE" tvg-language="Italian" tvg-logo="https://images.pluto.tv/channels/608aa20a2e7f270007c4878d/colorLogoSVG.svg" tvg-status="down" group-title="Movies",Pluto TV Film Azione
@@ -1091,7 +1083,7 @@ https://jmp2.uk/plu-676e7b4a4bd636000819c6a7.m3u8
 https://stv-live.akamaized.net/hls/live/2031011/lingeoSTVATwebPri/master.m3u8
 #EXTINF:-1 tvg-id="ShemarooFilmiGaane.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/0d5b07555b2d4415aa9f145273095ed7.png" tvg-status="down" group-title="Music",Shemaroo Filmi Gaane
 https://prod-runn.cdn.runn.tv/shemaroo/stream/smrfgn/playlist.m3u8
-#EXTINF:-1 tvg-id="famelack-ntFXvg9cVQFfHp" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_CHUMBAK_TV/images/LOGO_HD/image.png" tvg-status="live" group-title="Movies",Shemaroo Josh
+#EXTINF:-1 tvg-id="famelack-ntFXvg9cVQFfHp" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSutWZzQySLPpaZvaSHq1SnpV0dXNSFZimyag&s" tvg-status="live" group-title="Movies",Shemaroo Josh
 https://cdn.pishow.tv/ott/live/337/master.m3u8
 #EXTINF:-1 tvg-id="Shokiruyushchee.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/UG63hZ0.png" tvg-native-name="Шокирующее" tvg-status="live" group-title="Movies",Shokiruyushchee
 http://stream.mcquack.net/75/index.m3u8
@@ -1113,14 +1105,14 @@ https://sltwohls.wns.live/hls/stream.m3u8
 https://stream.smotrim.ru/hls/fasttv03/playlist_3.m3u8
 #EXTINF:-1 tvg-id="SonyCanalNovelas.us" tvg-country="US" tvg-language="Spanish" tvg-logo="" tvg-status="down" group-title="Movies",Sony Canal Novelas
 https://a89829b8dca2471ab52ea9a57bc28a35.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_SonyCanalNovelas/playlist.m3u8
-#EXTINF:-1 tvg-id="SonyMax.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://i.imgur.com/LBICKI5.png" tvg-status="live" group-title="Movies",Sony Max
+#EXTINF:-1 tvg-id="SonyMax.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://dtil.tmsimg.com/assets/s159098_ld_h15_aa.png?lock=720x540" tvg-status="live" group-title="Movies",Sony Max
 http://103.185.24.134:3001/SonyMAX/index.m3u8
 #EXTINF:-1 tvg-id="SonyMax2.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/SonyMAX2.png" tvg-status="live" group-title="Movies",Sony Max 2
 http://107.167.16.138/sonymax2/index.m3u8?token=test
 #EXTINF:-1 tvg-id="SonyMovies.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/500px-Sony_Movies_Logo.svg.png" tvg-status="live" group-title="Movies",Sony Movies
 http://45.162.64.114/SONY_MOVIES/index.m3u8
 #EXTINF:-1 tvg-id="SonyMoviesLatinAmerica.us" tvg-country="US" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/500px-Sony_Movies_Logo.svg.png" tvg-status="live" group-title="Movies",Sony Movies Latin America
-http://15.204.246.24:8080/SonyMoviesHD/index.m3u8
+http://38.252.238.18:8000/play/a01e/index.m3u8
 #EXTINF:-1 tvg-id="famelack-NZ0M4Z47C2ZcVG" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/RO4AM4b.png" tvg-status="live" group-title="Movies",Sony One Favoris
 https://49d735318d6b4c30a24a7997ea594e1b.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-820-FR-SONYONEFAVORIS-LG_FR/playlist.m3u8
 #EXTINF:-1 tvg-id="famelack-bcMCtiQR1EZ7L7" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/pXsZEsR.png" tvg-status="live" group-title="Movies",Sony One Hits Action
@@ -1128,7 +1120,7 @@ https://5098a8b860504a3690fd2e7c0a18d68f.mediatailor.us-west-2.amazonaws.com/v1/
 #EXTINF:-1 tvg-id="famelack-FLA1VaGF1q2tdh" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/8sHuxxS.png" tvg-status="live" group-title="Movies",Sony One Hits Comedie
 https://7aa9671895264ec9a384dfed1b992171.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-818-FR-SONYONEHITSCOMDIE-LG_FR/playlist.m3u8
 #EXTINF:-1 tvg-id="SonyPix.in" tvg-country="IN" tvg-language="English" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_PIX/images/LOGO_HD/image.png" tvg-status="live" group-title="Movies",Sony Pix
-http://103.151.60.162:2122/play/a01d/index.m3u8?hls
+https://cloudplay-sonyliv.pages.dev/pixhd.m3u8
 #EXTINF:-1 tvg-id="SonyWah.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://upload.wikimedia.org/wikipedia/hi/5/58/Sony_Wah_new_logo.png" tvg-status="live" group-title="Movies",Sony Wah
 https://sl.vodep39240327.workers.dev/channel/SONY+WAH.m3u8
 #EXTINF:-1 tvg-id="famelack-NazIwx46NznWNx" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3800008CX_20260325T012316SQUARE.png" tvg-status="live" group-title="Movies",South Station
@@ -1142,7 +1134,7 @@ http://190.61.47.54:8000/play/a035/index.m3u8
 #EXTINF:-1 tvg-id="StarChannel.si" tvg-country="SI" tvg-language="Slovenian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/960px-Star_Channel_2020.svg.png" tvg-status="down" group-title="Movies",Star Channel
 http://92.36.202.5:10001/play/a01s
 #EXTINF:-1 tvg-id="StarChannelLatinAmerica.us" tvg-country="US" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/960px-Star_Channel_2020.svg.png" tvg-status="live" group-title="Movies",Star Channel Latin America
-http://15.204.246.24:8080/STARCHANNELHD/index.m3u8
+http://181.119.66.28:8081/STAR-CHANNEL/index.m3u8
 #EXTINF:-1 tvg-id="famelack-bGtZkBQX1pajI4" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/5sis895.png" tvg-status="live" group-title="Movies",Star Cinema
 https://dash2.antik.sk/live/test_star_cinema_atktv/playlist.m3u8
 #EXTINF:-1 tvg-id="famelack-HNOf8nkgiaINaY" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/eGuGHnZ.png" tvg-status="live" group-title="Movies",Star Family
@@ -1183,7 +1175,7 @@ https://jmp2.uk/plu-693add137e308621c051e733.m3u8
 https://jmp2.uk/plu-65787f2eb228b7000843fa5c.m3u8
 #EXTINF:-1 tvg-id="StarTrekVoyager.us" tvg-country="US" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/634dacf51d90320007fcd5fa/colorLogoSVG_1758310288116.svg" tvg-status="down" group-title="Movies",Star Trek: Voyager
 https://jmp2.uk/plu-634dacf51d90320007fcd5fa.m3u8
-#EXTINF:-1 tvg-id="StarUtsavMovies.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_UTSAV_MOVIES/images/LOGO_HD/image.png" tvg-status="live" group-title="Movies",Star Utsav Movies
+#EXTINF:-1 tvg-id="StarUtsavMovies.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://i.imgur.com/k5QHfH2.png" tvg-status="live" group-title="Movies",Star Utsav Movies
 http://51.75.127.199:3141/starutsavmovies/index.m3u8
 #EXTINF:-1 tvg-id="famelack-9f7IFEFwv1iC1Z" tvg-country="RU" tvg-language="Russian" tvg-logo="https://images.iptv.rt.ru/images/d60qp8omife4gis72tk0.png" tvg-status="live" group-title="Movies",START Air
 https://fs.uplink.kz/start_air/mono.m3u8?token=onlinetv
@@ -1257,7 +1249,7 @@ https://live03-col.msf.cdn.mediaset.net/live/ch-ts/ts-clr.isml/manifest.mpd
 http://45.167.1.138:8000/play/a06m
 #EXTINF:-1 tvg-id="UniversalComedy.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/avBL8pQ.png" tvg-status="live" group-title="Movies",Universal Comedy
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/universalcomedy/playlist.m3u8
-#EXTINF:-1 tvg-id="USANetwork.us" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/960px-USA_Network_logo_%282016%29.svg.png" tvg-status="live" group-title="Movies",USA Network
+#EXTINF:-1 tvg-id="USANetwork.us" tvg-country="US" tvg-language="English" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/USA_Network_2025_logo.svg/960px-USA_Network_2025_logo.svg.png" tvg-status="live" group-title="Movies",USA Network
 http://190.197.41.183/USA_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="VelvetEuropeanMovies.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://antiabuse-container.b-cdn.net/eurkino.png" tvg-native-name="Velvet. Европейское кино" tvg-status="down" group-title="Movies",Velvet. European Movies
 https://cdn.rostelekom-tv.xyz/live/LQ3j0n7j0Kq4OQm8.m3u8
@@ -1273,11 +1265,11 @@ https://jmp2.uk/plu-62bebc3459624e00078209c3.m3u8
 https://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjUxOjcwMDAvY2g0Ni90cmFja3MtdjFhMS9tb25vLm0zdTg%2FbGl2ZT0xJmlwPTE3OC4xMzYuNDIuMjIwJmlkPTk0ODg2NSZzZWNyZXQ9bjF1N3VpMDYmc3NsPTEmMjF5bz0wJmU9MTc5MDU5NzA2MyZzdD1IMENxaGExNldkUTV0YWFSaW04QWlR&master=104
 #EXTINF:-1 tvg-id="famelack-8S6XWyiADx3IBB" tvg-country="UA" tvg-language="English" tvg-logo="https://i.imgur.com/HwsNIDK.png" tvg-status="live" group-title="Movies",Viasat Kino Action
 https://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjUxOjcwMDAvY2g0Ny90cmFja3MtdjFhMS9tb25vLm0zdTg%2FbGl2ZT0xJmlwPTE3OC4xMzYuNDIuMjIwJmlkPTk0ODg2NSZzZWNyZXQ9bjF1N3VpMDYmc3NsPTEmMjF5bz0wJmU9MTc5MDU5OTA0MiZzdD1tVWRSQVFvbDY4SHVMTEc2MENpeTFn&master=105
+#EXTINF:-1 tvg-id="famelack-3KIbg37PQUOdm7" tvg-country="UA" tvg-language="English" tvg-logo="https://i.imgur.com/qVYt8kP.png" tvg-status="live" group-title="Movies",Viasat Kino Comedy
+https://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoNDQvdHJhY2tzLXYxYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA1OTk4Mzcmc3Q9UzRPS1VZemNocmREQWhnSTJkTDJ5QQ%3D%3D&master=249
 #EXTINF:-1 tvg-id="famelack-DrX3v9SZK4N49f" tvg-country="UA" tvg-language="Russian" tvg-logo="https://i.imgur.com/GPiE2Rb.png" tvg-status="live" group-title="Movies",Viasat Kino World
 https://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoNDgvdHJhY2tzLXYxYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA1OTk5NDcmc3Q9N3ROblpCZy02WTBka1RuekRIZjU0QQ%3D%3D&master=102
-#EXTINF:-1 tvg-id="famelack-ZcTlJjeaCc55j6" tvg-country="UA" tvg-language="Russian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7d/Viasat_Serial.svg" tvg-status="live" group-title="Movies",Viasat Serial
-https://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoNDUvdHJhY2tzLXYyYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA2MDExNzAmc3Q9VS12czVHQmhOdF9WQXJ4bHVYVzR2dw%3D%3D&master=599
-#EXTINF:-1 tvg-id="VijaySuper.in" tvg-country="IN" tvg-language="Tamil" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_VIJAYSUPER/images/LOGO_HD/image.png" tvg-status="live" group-title="Movies",Vijay Super
+#EXTINF:-1 tvg-id="VijaySuper.in" tvg-country="IN" tvg-language="Tamil" tvg-logo="https://i.imgur.com/3MWm9nD.png" tvg-status="live" group-title="Movies",Vijay Super
 http://51.75.127.199:3141/vijaysuper/index.m3u8
 #EXTINF:-1 tvg-id="famelack-gN2eRoSlW9AHDR" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/ZMsyjSr.png" tvg-status="live" group-title="Movies",viju TV1000
 https://fs.uplink.kz/viju_tv1000/mono.m3u8?token=onlinetv
