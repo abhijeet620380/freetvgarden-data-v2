@@ -284,6 +284,10 @@ async function loadManualChannels() {
           const countryMatch = currentInf.match(/tvg-country="([^"]+)"/);
           const groupMatch = currentInf.match(/group-title="([^"]+)"/);
           const logoMatch = currentInf.match(/tvg-logo="([^"]+)"/);
+          // Also read the language and native name from the custom entry, so custom channels
+          // show their language tag and appear on the language pages like every other channel.
+          const langMatch = currentInf.match(/tvg-language="([^"]+)"/);
+          const nativeMatch = currentInf.match(/tvg-native-name="([^"]+)"/);
           
           const nameParts = currentInf.split(",");
           const name = nameParts.length > 1 ? nameParts.slice(1).join(",").trim() : "Unknown Channel";
@@ -291,9 +295,9 @@ async function loadManualChannels() {
           manualChannels.push({
             id: idMatch ? idMatch[1] : `manual-${Math.random().toString(36).slice(-6)}`,
             name: name,
-            native_name: "",
+            native_name: nativeMatch ? nativeMatch[1].trim() : "",
             country: countryMatch ? countryMatch[1].toUpperCase() : "UN",
-            language: "", 
+            language: langMatch ? langMatch[1].trim() : "", 
             logo: logoMatch ? logoMatch[1] : "",
             group: groupMatch ? groupMatch[1] : "General",
             categories: [],
@@ -770,6 +774,18 @@ async function main() {
     }
   }
   for (const custom of manualChannels) {
+    // Resolve the custom entry's language name ("Hindi") to its iptv-org code ("hin"), which is
+    // what the language pages (languages/hin.m3u) and the language tag are built from.
+    if (custom.language && !custom.languageCode) {
+      const wantLang = custom.language.trim().toLowerCase();
+      for (const [code, langName] of languageNameByCode) {
+        if (String(langName).toLowerCase() === wantLang) {
+          custom.languageCode = code;
+          custom.language = langName;   // use the canonical spelling
+          break;
+        }
+      }
+    }
     // Replace, don't duplicate, if a channel with this exact name+country is already
     // published (from Famelack/iptv-org/YouTube, or an earlier custom entry).
     const existingIndex = finalChannels.findIndex(
