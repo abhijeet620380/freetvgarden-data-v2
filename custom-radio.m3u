@@ -1,0 +1,25 @@
+#EXTM3U
+# =====================================================================
+# CUSTOM RADIO STATIONS  (put this file at custom-radio/custom-radio.m3u)
+# ---------------------------------------------------------------------
+# Add one station per two lines: an #EXTINF line, then the stream URL.
+# Lines starting with "# " (hash + space) are comments and are ignored.
+#
+# To REPLACE a dead station: add an entry with exactly the same name and
+# the same country as the old one, and put the old dead URL in
+# unpublished-channels/blocklist.txt.
+#
+# Fields:
+#   tvg-id        any unique id (optional - one is made from the name if empty)
+#   tvg-country   2-letter country code, e.g. IN
+#   tvg-language  language name or code, e.g. Hindi or hin
+#   tvg-logo      logo image URL (optional)
+#   group-title   category: 70s 80s 90s blues chill christmas classical country
+#                 easy-listening electronic folk hip-hop hits indie jazz latin
+#                 metal news oldies politics pop reggae religious rock schlager
+#                 soul sports talk   (anything else is kept as typed)
+#
+# Example (remove the leading "# " to use it):
+# #EXTINF:-1 tvg-id="MyStation.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="" group-title="hits",My Station FM
+# https://example.com/my-station/stream.mp3
+# =====================================================================
