@@ -144,7 +144,19 @@
     "titleLiveTVByLanguage": "Suora TV kielen mukaan - FreeTV Garden",
     "titleLiveRadioByLanguage": "Suora radio kielen mukaan - FreeTV Garden",
     "suggestLanguage": "Näytä sivusto kohteessa {langName}?",
-    "btnSwitch": "Kytkin"
+    "btnSwitch": "Kytkin",
+    "downloadApp": "Lataa sovellus",
+    "apkSheetTitle": "Hanki FreeTV Garden-sovellus",
+    "apkSheetRecommended": "Suositus: asenna suoraan selaimesta. Se on sama sovellus, jossa ei ole ladattavaa tiedostoa.",
+    "apkSheetInstallBtn": "Asenna sovellus",
+    "apkSheetOr": "Tai lataa Android APK -tiedosto:",
+    "apkSheetIntro": "Lataa Android-sovellus. Se avautuu koko näytölle ja käynnistyy aloitusnäytöltä kuten mikä tahansa muu sovellus.",
+    "apkSheetDownloadBtn": "Lataa Android-sovellus",
+    "apkSheetAllow": "Jos Android pyytää, anna selaimesi asentaa sovelluksia (Asetukset → Salli tästä lähteestä) ja avaa sitten ladattu tiedosto.",
+    "apkSheetAlreadyInstalled": "Oletko jo asentanut sovelluksen Chromesta? Et tarvitse APK:ta, ja molempien asentaminen antaa sinulle kaksi kopiota.",
+    "apkSheetPreferNot": "mieluummin ei? Napauta Chromessa ⋮ → Lisää sen sijaan aloitusnäyttöön.",
+    "apkDownloadStarted": "Lataus aloitettu.",
+    "apkDownloadStartedHelp": "Vedä ilmoituspalkki alas (tai avaa Lataukset/tiedostot) ja napauta FreeTV.apk. Jos Chrome sanoo, että tiedosto saattaa olla haitallinen, valitse Lataa silti / Säilytä ja napauta sitten Avaa ja asenna."
   },
   "seo": {
     "homeTitle": "FreeTV Garden - Ilmaiset suorat TV-lähetykset, radiot ja verkkokamerat",
@@ -422,6 +434,19 @@
     "hubHowToHeadingWebcam": "Kuinka katsoa laitteellasi",
     "hubHowToBody": "Sovellusta tai tiliä ei tarvita. Tämä sivu toimii suoraan selaimessasi millä tahansa laitteella – napauta vain {nounSingular} ja paina play. Avaa tämä sivu Androidilla tai iPhonella Chromessa tai Safarissa ja käytä \"Lisää aloitusnäyttöön\" -painiketta, jotta pääset seuraavan kerran yhdellä napautuksella. Työpöydällä mikä tahansa nykyaikainen selain toimii.",
     "nounSingularRadio": "radioasema",
-    "nounSingularWebcam": "web-kamera"
+    "nounSingularWebcam": "web-kamera",
+    "homeAndroidApp": "Android-sovellus",
+    "homeApkIntro": "FreeTV Garden sisältää nyt virallisen Android-sovelluksen. Lataa APK suoraan osoitteesta freetvgarden.com ja katso ilmaisia ​​suoria TV-lähetyksiä, radiota ja verkkokameroita koko näytön kokoisena aloitusnäytöltäsi – ei rekisteröitymistä, ei tilausta.",
+    "homeApkButton": "Lataa Android-sovellus (APK)",
+    "homeApkNote": "Ilmainen · Ei rekisteröitymistä · Virallinen lataus osoitteesta freetvgarden.com",
+    "homeInstallIntro2": "FreeTV Garden sisältää nyt virallisen Android-sovelluksen (APK), ja se myös asennetaan suoraan selaimestasi mille tahansa laitteelle muutamalla napautuksella.",
+    "homeApkH3": "Android-sovellus (APK)",
+    "homeInstallApk": "Napauta yllä \"Lataa Android-sovellus\" tai avaa freetvgarden.com /FreeTV.apk puhelimellasi. Kun lataus on valmis, avaa FreeTV.apk ilmoituspalkista tai Lataukset-kansiosta ja napauta Asenna. Android saattaa pyytää sinua sallimaan asennukset selaimeltasi ja näyttää varoituksen, koska sovellus ei ole Play Kaupasta – lataa se vain osoitteesta freetvgarden.com.",
+    "homeInstallAndroid2": "Haluatko olla lataamatta tiedostoa? Avaa Chrome (tai muu selain, joka tukee verkkoasennuksia) ja siirry osoitteeseen freetvgarden.com. Etsi asennuskuvake osoitepalkista tai avaa selainvalikko ja valitse \"Lisää aloitusnäyttöön\" / \"Asenna sovellus\". FreeTV Garden avautuu sitten koko näytön kokoisena aloitusnäytöltäsi, aivan kuten natiivisovellus.",
+    "homeFaq15Q": "Onko FreeTV Garden:lla virallista Android-sovellusta?",
+    "homeFaq15A": "Kyllä. FreeTV Garden sisältää virallisen Android-sovelluksen, joka on ladattavissa ilmaiseksi APK:na osoitteessa freetvgarden.com /FreeTV.apk. Se tarjoaa sinulle saman ilmaisen live-TV:n, radion ja verkkokamerat koko näytön sovelluksessa ilman rekisteröitymistä.",
+    "homeFaq16Q": "Onko Android APK turvallista asentaa?",
+    "homeFaq16A": "Lataa APK vain osoitteesta freetvgarden.com – sitä ei jaeta missään muualla. Koska Android ei ole peräisin Play Kaupasta, se saattaa näyttää tavallisen varoituksen ennen asennusta. Tämä on normaalia suoraan verkkosivustolta asennetuille sovelluksille.",
+    "homeIntroTemplate2": "FreeTV Garden on ilmainen suoratoistoalusta: pyöritä maapalloa tai valitse maa suoratoistaaksesi TV-lähetystä, kuunnellaksesi suoraa radiota ja katsoaksesi suoria verkkokameroita – ilman tiliä, maksutta ja nyt virallisella Android-sovelluksella. {learnMoreLink} tai katso kuinka me {alternativesLink} ."
   }
 }

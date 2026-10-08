@@ -144,7 +144,19 @@
     "titleLiveTVByLanguage": "TV tiešraides pēc valodas — FreeTV Garden",
     "titleLiveRadioByLanguage": "Tiešraides radio pēc valodas — FreeTV Garden",
     "suggestLanguage": "Skatīt vietni {langName}?",
-    "btnSwitch": "Slēdzis"
+    "btnSwitch": "Slēdzis",
+    "downloadApp": "Lejupielādēt lietotni",
+    "apkSheetTitle": "Iegūstiet lietotni FreeTV Garden",
+    "apkSheetRecommended": "Ieteicams: instalējiet tieši no pārlūkprogrammas. Tā ir tā pati lietotne, bez lejupielādes faila.",
+    "apkSheetInstallBtn": "Instalējiet lietotni",
+    "apkSheetOr": "Vai lejupielādējiet Android APK failu:",
+    "apkSheetIntro": "Lejupielādējiet Android lietotni. Tā tiek atvērta pilnekrāna režīmā un sākas no sākuma ekrāna tāpat kā jebkura cita lietotne.",
+    "apkSheetDownloadBtn": "Lejupielādējiet Android lietotni",
+    "apkSheetAllow": "Ja Android pieprasa, ļaujiet pārlūkprogrammai instalēt programmas (Iestatījumi → Atļaut no šī avota), pēc tam atveriet lejupielādēto failu.",
+    "apkSheetAlreadyInstalled": "Vai jau esat instalējis lietotni no pārlūka Chrome? Jums nav nepieciešams APK, un, instalējot abus, tiek iegūtas divas kopijas.",
+    "apkSheetPreferNot": "Vai nevēlaties? Pārlūkā Chrome pieskarieties ⋮ → Pievienot sākuma ekrānam.",
+    "apkDownloadStarted": "Lejupielāde sākta.",
+    "apkDownloadStartedHelp": "Velciet uz leju paziņojumu joslu (vai atveriet Lejupielādes/Faili) un pieskarieties FreeTV.apk. Ja pārlūkā Chrome tiek teikts, ka fails var būt kaitīgs, izvēlieties Lejupielādēt tik un tā, pēc tam pieskarieties vienumam Atvērt un instalēt."
   },
   "seo": {
     "homeTitle": "FreeTV Garden — bezmaksas TV tiešraide, radio un tīmekļa kameras",
@@ -422,6 +434,19 @@
     "hubHowToHeadingWebcam": "Kā skatīties savā ierīcē",
     "hubHowToBody": "Nav nepieciešama lietotne vai konts. Šī lapa darbojas tieši jūsu pārlūkprogrammā jebkurā ierīcē — vienkārši pieskarieties {nounSingular} un nospiediet atskaņot. Android vai iPhone ierīcē atveriet šo lapu pārlūkprogrammā Chrome vai Safari un izmantojiet opciju Pievienot sākuma ekrānam, lai nākamreiz piekļūtu ar vienu pieskārienu. Darbvirsmā darbojas jebkura moderna pārlūkprogramma.",
     "nounSingularRadio": "radiostacija",
-    "nounSingularWebcam": "tīmekļa kamera"
+    "nounSingularWebcam": "tīmekļa kamera",
+    "homeAndroidApp": "Android lietotne",
+    "homeApkIntro": "FreeTV Garden tagad ir oficiāla Android lietotne. Lejupielādējiet APK tieši no freetvgarden.com un skatieties bezmaksas TV tiešraidi, radio un tīmekļa kameras pilnekrāna režīmā no sākuma ekrāna — bez reģistrācijas un bez abonēšanas.",
+    "homeApkButton": "Lejupielādēt Android lietotni (APK)",
+    "homeApkNote": "Bezmaksas · Nav reģistrēšanās · Oficiālā lejupielāde no freetvgarden.com",
+    "homeInstallIntro2": "FreeTV Garden tagad ir oficiāla Android lietotne (APK), un tā tiek instalēta tieši no jūsu pārlūkprogrammas jebkurā ierīcē, veicot dažus pieskārienus.",
+    "homeApkH3": "Android lietotne (APK)",
+    "homeInstallApk": "Pieskarieties augšpusē \"Lejupielādēt Android lietotni\" vai savā tālrunī atveriet vietni freetvgarden.com /FreeTV.apk. Kad lejupielāde ir pabeigta, paziņojumu joslā vai mapē Lejupielādes atveriet FreeTV.apk un pieskarieties pie Instalēt. Android var lūgt atļaut instalēšanu no pārlūkprogrammas un var parādīt brīdinājumu, jo lietotne nav no Play veikala — lejupielādējiet to tikai no freetvgarden.com.",
+    "homeInstallAndroid2": "Vai nevēlaties lejupielādēt failu? Atveriet pārlūku Chrome (vai citu pārlūkprogrammu, kas atbalsta tīmekļa instalēšanu) un dodieties uz freetvgarden.com. Adreses joslā meklējiet instalēšanas ikonu vai atveriet pārlūkprogrammas izvēlni un izvēlieties \"Pievienot sākuma ekrānam\" / \"Instalēt lietotni\". Pēc tam FreeTV Garden tiks atvērts pilnekrāna režīmā no sākuma ekrāna, tāpat kā vietējā lietotne.",
+    "homeFaq15Q": "Vai FreeTV Garden ir oficiāla Android lietotne?",
+    "homeFaq15A": "Jā. FreeTV Garden ir oficiāla Android lietotne, kas pieejama kā bezmaksas APK lejupielāde vietnē freetvgarden.com /FreeTV.apk. Tas nodrošina to pašu bezmaksas TV tiešraidi, radio un tīmekļa kameras pilnekrāna lietotnē, bez nepieciešamības reģistrēties.",
+    "homeFaq16Q": "Vai Android APK ir droši instalēt?",
+    "homeFaq16A": "Lejupielādējiet APK tikai no freetvgarden.com — tas netiek izplatīts nekur citur. Tā kā tas nav no Play veikala, Android pirms instalēšanas var parādīt standarta brīdinājumu; tas ir normāli lietotnēm, kas instalētas tieši no vietnes.",
+    "homeIntroTemplate2": "FreeTV Garden ir bezmaksas straumēšanas platforma: apgrieziet pasauli vai izvēlieties valsti, lai straumētu TV tiešraidi, klausītos radio tiešraidi un skatītos tiešraides tīmekļa kameras — bez konta, bez maksas un tagad ar oficiālu Android lietotni. {learnMoreLink} vai skatiet, kā mēs {alternativesLink} ."
   }
 }

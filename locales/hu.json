@@ -144,7 +144,19 @@
     "titleLiveTVByLanguage": "Élő TV nyelv szerint – FreeTV Garden",
     "titleLiveRadioByLanguage": "Élő rádió nyelv szerint – FreeTV Garden",
     "suggestLanguage": "Megtekinti a webhelyet itt: {langName}?",
-    "btnSwitch": "Kapcsoló"
+    "btnSwitch": "Kapcsoló",
+    "downloadApp": "Töltse le az alkalmazást",
+    "apkSheetTitle": "Töltse le a FreeTV Garden alkalmazást",
+    "apkSheetRecommended": "Ajánlott: telepítse közvetlenül a böngészőből. Ez ugyanaz az alkalmazás, nincs letölthető fájl.",
+    "apkSheetInstallBtn": "Telepítse az alkalmazást",
+    "apkSheetOr": "Vagy töltse le az Android APK fájlt:",
+    "apkSheetIntro": "Töltse le az Android alkalmazást. Teljes képernyőn nyílik meg, és a kezdőképernyőről indul, mint bármely más alkalmazás.",
+    "apkSheetDownloadBtn": "Android alkalmazás letöltése",
+    "apkSheetAllow": "Ha az Android kéri, engedélyezze böngészőjének az alkalmazások telepítését (Beállítások → Engedélyezés ebből a forrásból), majd nyissa meg a letöltött fájlt.",
+    "apkSheetAlreadyInstalled": "Már telepítette az alkalmazást a Chrome-ból? Nincs szüksége az APK-ra, és mindkettő telepítése két példányt kap.",
+    "apkSheetPreferNot": "Inkább nem? A Chrome-ban érintse meg a ⋮ → Hozzáadás a kezdőképernyőhöz lehetőséget.",
+    "apkDownloadStarted": "A letöltés elindult.",
+    "apkDownloadStartedHelp": "Húzza le az értesítési sávot (vagy nyissa meg a Letöltések / Fájlok lehetőséget), és koppintson a FreeTV.apk elemre. Ha a Chrome azt mondja, hogy a fájl káros lehet, válassza a Letöltés mindenképpen / Megtartás lehetőséget, majd koppintson a Megnyitás és telepítés lehetőségre."
   },
   "seo": {
     "homeTitle": "FreeTV Garden - Ingyenes élő TV, rádió és webkamerák",
@@ -422,6 +434,19 @@
     "hubHowToHeadingWebcam": "Hogyan nézhet meg az eszközén",
     "hubHowToBody": "Nincs szükség alkalmazásra vagy fiókra. Ez az oldal közvetlenül a böngészőjében működik bármely eszközön – csak érintse meg a {nounSingular} ikont, és nyomja meg a lejátszás gombot. Androidon vagy iPhone-on nyissa meg ezt az oldalt a Chrome-ban vagy a Safariban, és használja a „Hozzáadás a kezdőképernyőhöz” elemet a következő alkalommal egy koppintással való eléréshez. Asztali számítógépen minden modern böngésző működik.",
     "nounSingularRadio": "rádióállomás",
-    "nounSingularWebcam": "webkamera"
+    "nounSingularWebcam": "webkamera",
+    "homeAndroidApp": "Android App",
+    "homeApkIntro": "A FreeTV Garden már rendelkezik hivatalos Android-alkalmazással. Töltse le az APK-t közvetlenül a freetvgarden.com webhelyről, és nézzen ingyenes élő TV-t, rádiót és webkamerákat teljes képernyőn a kezdőképernyőről – regisztráció és előfizetés nélkül.",
+    "homeApkButton": "Android-alkalmazás (APK) letöltése",
+    "homeApkNote": "Ingyenes · Nincs regisztráció · Hivatalos letöltés innen: freetvgarden.com",
+    "homeInstallIntro2": "A FreeTV Garden most már rendelkezik hivatalos Android-alkalmazással (APK), és néhány koppintással közvetlenül a böngészőből települ bármely eszközre.",
+    "homeApkH3": "Android-alkalmazás (APK)",
+    "homeInstallApk": "Koppintson a fenti „Android-alkalmazás letöltése” elemre, vagy nyissa meg a freetvgarden.com /FreeTV.apk webhelyet a telefonján. Amikor a letöltés befejeződött, nyissa meg a FreeTV.apk fájlt az értesítési sávból vagy a Letöltések mappából, és koppintson a Telepítés elemre. Az Android kérheti, hogy engedélyezze a telepítést a böngészőből, és figyelmeztetést jeleníthet meg, mert az alkalmazás nem a Play Áruházból származik – csak a freetvgarden.com webhelyről töltse le.",
+    "homeInstallAndroid2": "Nem szeretne letölteni egy fájlt? Nyissa meg a Chrome-ot (vagy egy másik böngészőt, amely támogatja a webes telepítéseket), és lépjen a freetvgarden.com címre. Keresse meg a telepítés ikont a címsorban, vagy nyissa meg a böngésző menüjét, és válassza a \"Hozzáadás a kezdőképernyőhöz\" / \"Alkalmazás telepítése\" lehetőséget. A FreeTV Garden ezután teljes képernyőn megnyílik a kezdőképernyőről, akár egy natív alkalmazás.",
+    "homeFaq15Q": "A FreeTV Garden rendelkezik hivatalos Android-alkalmazással?",
+    "homeFaq15A": "Igen. A FreeTV Garden rendelkezik egy hivatalos Android-alkalmazással, amely ingyenes APK-fájlként letölthető a freetvgarden.com /FreeTV.apk címről. Ugyanazt az ingyenes élő TV-t, rádiót és webkamerát kínálja teljes képernyős alkalmazásban, regisztráció nélkül.",
+    "homeFaq16Q": "Biztonságos az Android APK telepítése?",
+    "homeFaq16A": "Az APK-t csak a freetvgarden.com webhelyről töltse le – máshol nem terjesztik. Mivel nem a Play Áruházból származik, az Android normál figyelmeztetést jeleníthet meg a telepítés előtt; ez normális a közvetlenül webhelyről telepített alkalmazások esetében.",
+    "homeIntroTemplate2": "A FreeTV Garden egy ingyenes adatfolyam-platform: forgasd meg a világot, vagy válassz egy országot, ahol élő TV-t közvetíthetsz, élő rádiót hallgathatsz és élő webkamerákat nézhetsz – fiók nélkül, költség nélkül, és most egy hivatalos Android-alkalmazással. {learnMoreLink} vagy nézze meg, hogyan {alternativesLink} ."
   }
 }

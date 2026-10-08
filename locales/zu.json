@@ -144,7 +144,19 @@
     "titleLiveTVByLanguage": "I-TV ebukhoma ngolimi - FreeTV Garden",
     "titleLiveRadioByLanguage": "Irediyo ebukhoma ngolimi - FreeTV Garden",
     "suggestLanguage": "Buka isayithi kokuthi {langName} ?",
-    "btnSwitch": "Shintsha"
+    "btnSwitch": "Shintsha",
+    "downloadApp": "Landa uhlelo lokusebenza",
+    "apkSheetTitle": "Thola uhlelo lokusebenza lwe-FreeTV Garden",
+    "apkSheetRecommended": "Kunconyiwe: faka ngqo kusuka kusiphequluli sakho. Iwuhlelo lokusebenza olufanayo, alikho ifayela ongalilanda.",
+    "apkSheetInstallBtn": "Faka uhlelo lokusebenza",
+    "apkSheetOr": "Noma landa ifayela le-Android APK:",
+    "apkSheetIntro": "Landa uhlelo lokusebenza lwe-Android. Ivula isikrini esigcwele futhi iqala esikrinini sakho sasekhaya njenganoma yiluphi olunye uhlelo lokusebenza.",
+    "apkSheetDownloadBtn": "Landa uhlelo lokusebenza lwe-Android",
+    "apkSheetAllow": "Uma i-Android ibuza, vumela isiphequluli sakho ukuthi sifake izinhlelo zokusebenza (Izilungiselelo → Vumela kulo mthombo), bese uvula ifayela elilandiwe.",
+    "apkSheetAlreadyInstalled": "Usuvele ulufakile uhlelo lokusebenza olusuka ku-Chrome? Awudingi i-APK, futhi ukuyifaka kokubili kukunika amakhophi amabili.",
+    "apkSheetPreferNot": "Ukhetha ukungakhethi? Ku-Chrome thepha okuthi ⋮ → Engeza esikrinini sasekhaya esikhundleni salokho.",
+    "apkDownloadStarted": "Ukulanda kuqalile.",
+    "apkDownloadStartedHelp": "Donsela phansi ibha yakho yezaziso (noma vula Okulandiwe / Amafayela) bese ucindezela i-FreeTV.apk. Uma i-Chrome ithi ifayela lingase libe yingozi, khetha Landa noma kunjalo / Gcina, bese uthepha okuthi Vula futhi Faka."
   },
   "seo": {
     "homeTitle": "FreeTV Garden - I-TV ebukhoma yamahhala, irediyo namakhamera ewebhu",
@@ -422,6 +434,19 @@
     "hubHowToHeadingWebcam": "Ungabuka kanjani kudivayisi yakho",
     "hubHowToBody": "Alukho uhlelo lokusebenza noma i-akhawunti edingekayo. Leli khasi lisebenza ngokuqondile kusiphequluli sakho kunoma iyiphi idivayisi — vele uthephe i-{nounSingular} bese ucindezela okuthi dlala. Ku-Android noma ku-iPhone, vula leli khasi ku-Chrome noma ku-Safari bese usebenzisa okuthi \"Engeza Esikrinini Sasekhaya\" ukuze uthole ukufinyelela ngokuthepha okukodwa ngokuzayo. Kudeskithophu, noma yisiphi isiphequluli sesimanje siyasebenza.",
     "nounSingularRadio": "isiteshi somsakazo",
-    "nounSingularWebcam": "ikhamera yewebhu"
+    "nounSingularWebcam": "ikhamera yewebhu",
+    "homeAndroidApp": "Uhlelo lokusebenza lwe-Android",
+    "homeApkIntro": "FreeTV Garden manje inohlelo lokusebenza olusemthethweni lwe-Android. Landa i-APK ngokuqondile kusukela ku-freetvgarden.com futhi ubukele i-TV ebukhoma yamahhala, irediyo namakhamera ewebhu ngesikrini esigcwele esikrinini sakho sasekhaya — akukho ukubhalisa, akukho ukubhalisa.",
+    "homeApkButton": "Landa uhlelo lokusebenza lwe-Android (APK)",
+    "homeApkNote": "Mahhala · Akukho ukubhalisa · Ukulanda okusemthethweni kusuka ku-freetvgarden.com",
+    "homeInstallIntro2": "FreeTV Garden manje isinohlelo lokusebenza olusemthethweni lwe-Android (i-APK), futhi iphinda ifake isuka kusiphequluli sakho kunoma iyiphi idivayisi ngokuthepha okumbalwa.",
+    "homeApkH3": "Uhlelo lokusebenza lwe-Android (APK)",
+    "homeInstallApk": "Thepha okuthi \"Landa uhlelo lokusebenza lwe-Android\" ngenhla, noma vula freetvgarden.com /FreeTV.apk efonini yakho. Uma ukulanda kuqeda, vula i-FreeTV.apk kubha yakho yezaziso noma ifolda yokulanda bese ucindezela u-Faka. I-Android ingase ikucele ukuthi uvumele ukufakwa esipheqululini sakho, futhi ingase ibonise isexwayiso ngoba uhlelo lokusebenza aluveli ku-Google Play Isitolo — lulande kuphela ku-freetvgarden.com .",
+    "homeInstallAndroid2": "Uncamela ukungadawunilodi ifayela? Vula i-Chrome (noma esinye isiphequluli esisekela ukufakwa kwewebhu) bese uya kokuthi freetvgarden.com . Bheka isithonjana sokufaka kubha yekheli, noma vula imenyu yesiphequluli bese ukhetha \"Engeza Esikrinini Sasekhaya\" / \"Faka Uhlelo Lokusebenza.\" FreeTV Garden izobese ivula isikrini esigcwele esikrinini sakho sasekhaya, njengohlelo lokusebenza lwendabuko.",
+    "homeFaq15Q": "Ingabe i-FreeTV Garden inalo uhlelo lokusebenza lwe-Android olusemthethweni?",
+    "homeFaq15A": "Yebo. I-FreeTV Garden inohlelo lokusebenza olusemthethweni lwe-Android, olutholakala njengokulandwa kwamahhala kwe-APK ku-freetvgarden.com /FreeTV.apk. Ikunikeza i-TV ebukhoma efanayo yamahhala, umsakazo namakhamera ewebhu kuhlelo lokusebenza lwesikrini esigcwele, ngaphandle kokubhalisa okudingekayo.",
+    "homeFaq16Q": "Ingabe i-Android APK iphephile ukuyifaka?",
+    "homeFaq16A": "Landa kuphela i-APK kusuka ku-freetvgarden.com — ayisatshalaliswa kwenye indawo. Ngenxa yokuthi ayiveli ku-Google Play Isitolo, i-Android ingase ibonise isexwayiso esivamile ngaphambi kokusifaka; lokho kujwayelekile ezinhlelweni zokusebenza ezifakwe ngqo kusuka kuwebhusayithi.",
+    "homeIntroTemplate2": "I-FreeTV Garden iyinkundla yokusakaza yamahhala: zulazula imbulunga yonke noma khetha izwe ozosakaza ngalo i-TV bukhoma, ulalele irediyo ebukhoma, futhi ubuke amakhamera ewebhu bukhoma — akuna-akhawunti, akukho zindleko, futhi manje ngohlelo lokusebenza olusemthethweni lwe-Android. {learnMoreLink} noma ubone ukuthi {alternativesLink} ."
   }
 }

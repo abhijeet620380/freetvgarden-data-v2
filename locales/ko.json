@@ -144,7 +144,19 @@
     "titleLiveTVByLanguage": "언어별 라이브 TV - FreeTV Garden",
     "titleLiveRadioByLanguage": "언어별 라이브 라디오 - FreeTV Garden",
     "suggestLanguage": "{langName}의 사이트를 보시겠습니까?",
-    "btnSwitch": "스위치"
+    "btnSwitch": "스위치",
+    "downloadApp": "앱 다운로드",
+    "apkSheetTitle": "FreeTV Garden 앱 다운로드",
+    "apkSheetRecommended": "권장사항: 브라우저에서 바로 설치하세요. 다운로드할 파일이 없는 동일한 앱입니다.",
+    "apkSheetInstallBtn": "앱 설치",
+    "apkSheetOr": "또는 Android APK 파일을 다운로드하세요.",
+    "apkSheetIntro": "안드로이드 앱을 다운로드하세요. 전체 화면으로 열리고 다른 앱과 마찬가지로 홈 화면에서 시작됩니다.",
+    "apkSheetDownloadBtn": "안드로이드 앱 다운로드",
+    "apkSheetAllow": "Android에서 요청하면 브라우저에서 앱을 설치할 수 있도록 허용한 다음(설정 → 이 소스에서 허용) 다운로드한 파일을 엽니다.",
+    "apkSheetAlreadyInstalled": "이미 Chrome에서 앱을 설치하셨나요? APK는 필요하지 않으며 둘 다 설치하면 복사본 두 개가 제공됩니다.",
+    "apkSheetPreferNot": "원하지 않습니까? Chrome에서는 ⋮ → 홈 화면에 추가를 탭하세요.",
+    "apkDownloadStarted": "다운로드가 시작되었습니다.",
+    "apkDownloadStartedHelp": "알림 표시줄을 아래로 내리고(또는 다운로드/파일 열기) FreeTV.apk를 탭하세요. Chrome에서 해당 파일이 유해할 수 있다는 메시지가 표시되면 무시하고 다운로드/유지를 선택한 다음 열기 및 설치를 탭합니다."
   },
   "seo": {
     "homeTitle": "FreeTV Garden - 무료 라이브 TV, 라디오 및 웹캠",
@@ -422,6 +434,19 @@
     "hubHowToHeadingWebcam": "기기에서 시청하는 방법",
     "hubHowToBody": "앱이나 계정이 필요하지 않습니다. 이 페이지는 모든 기기의 브라우저에서 직접 작동합니다. {nounSingular}을 탭하고 재생을 누르기만 하면 됩니다. Android 또는 iPhone의 경우 Chrome 또는 Safari에서 이 페이지를 열고 다음에 한 번 탭하여 액세스하려면 '홈 화면에 추가'를 사용하세요. 데스크톱에서는 모든 최신 브라우저가 작동합니다.",
     "nounSingularRadio": "라디오 방송국",
-    "nounSingularWebcam": "웹캠"
+    "nounSingularWebcam": "웹캠",
+    "homeAndroidApp": "안드로이드 앱",
+    "homeApkIntro": "FreeTV Garden에는 이제 공식 Android 앱이 있습니다. freetvgarden.com에서 바로 APK를 다운로드하고 홈 화면에서 무료 라이브 TV, 라디오, 웹캠을 전체 화면으로 시청하세요. 가입이나 구독이 필요하지 않습니다.",
+    "homeApkButton": "안드로이드 앱(APK) 다운로드",
+    "homeApkNote": "무료 · 가입 불필요 · freetvgarden.com에서 공식 다운로드",
+    "homeInstallIntro2": "FreeTV Garden에는 이제 공식 Android 앱(APK)이 있으며 탭 몇 번만 하면 모든 기기의 브라우저에서 바로 설치할 수 있습니다.",
+    "homeApkH3": "안드로이드 앱(APK)",
+    "homeInstallApk": "위의 \"Android 앱 다운로드\"를 탭하거나 휴대폰에서 freetvgarden.com /FreeTV.apk를 엽니다. 다운로드가 완료되면 알림 표시줄이나 다운로드 폴더에서 FreeTV.apk를 열고 설치를 탭하세요. Android에서는 브라우저에서 설치를 허용하도록 요청할 수 있으며 해당 앱이 Play 스토어에 있지 않기 때문에 경고가 표시될 수 있습니다. freetvgarden.com에서만 다운로드하세요.",
+    "homeInstallAndroid2": "파일을 다운로드하고 싶지 않으신가요? Chrome(또는 웹 설치를 지원하는 다른 브라우저)을 열고 freetvgarden.com 으로 이동합니다. 주소 표시줄에서 설치 아이콘을 찾거나 브라우저 메뉴를 열고 \"홈 화면에 추가\" / \"앱 설치\"를 선택하세요. 그러면 FreeTV Garden이(가) 기본 앱처럼 홈 화면에서 전체 화면으로 열립니다.",
+    "homeFaq15Q": "FreeTV Garden에는 공식 Android 앱이 있나요?",
+    "homeFaq15A": "예. FreeTV Garden에는 freetvgarden.com /FreeTV.apk에서 무료 APK 다운로드가 가능한 공식 Android 앱이 있습니다. 가입이 필요 없이 전체 화면 앱에서 동일한 무료 라이브 TV, 라디오 및 웹캠을 제공합니다.",
+    "homeFaq16Q": "Android APK를 설치해도 안전한가요?",
+    "homeFaq16A": "freetvgarden.com에서만 APK를 다운로드하세요. 다른 곳에서는 배포되지 않습니다. Play Store에서 제공되지 않기 때문에 Android는 설치하기 전에 표준 경고를 표시할 수 있습니다. 이는 웹사이트에서 직접 설치된 앱의 경우 정상적인 현상입니다.",
+    "homeIntroTemplate2": "FreeTV Garden은(는) 무료 스트리밍 플랫폼입니다. 지구본을 돌리거나 국가를 선택하여 라이브 TV를 스트리밍하고, 라이브 라디오를 듣고, 라이브 웹캠을 시청할 수 있습니다. 계정이나 비용이 없으며 이제 공식 Android 앱을 사용할 수 있습니다. {learnMoreLink} 또는 우리가 어떻게 {alternativesLink}하는지 알아보세요."
   }
 }

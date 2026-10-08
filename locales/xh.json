@@ -144,7 +144,19 @@
     "titleLiveTVByLanguage": "I-TV edlalwa ngolwimi - FreeTV Garden",
     "titleLiveRadioByLanguage": "Irediyo ngolwimi-FreeTV Garden",
     "suggestLanguage": "Jonga indawo kwi- {langName} ?",
-    "btnSwitch": "Tshintsha"
+    "btnSwitch": "Tshintsha",
+    "downloadApp": "Khuphela usetyenziso",
+    "apkSheetTitle": "Fumana i- FreeTV Garden app",
+    "apkSheetRecommended": "eCetyisiweyo: faka ngqo kwibrawuza yakho. Yiapp efanayo, kwaye akukho fayile yokukhuphela.",
+    "apkSheetInstallBtn": "Faka usetyenziso",
+    "apkSheetOr": "Okanye ukhuphele ifayile ye-APK ye-Android:",
+    "apkSheetIntro": "Khuphela usetyenziso lwe-Android. Ivula isikrini esigcweleyo kwaye iqala kwiscreen sakho sasekhaya njengayo nayiphi na enye iapp.",
+    "apkSheetDownloadBtn": "Khuphela usetyenziso lwe-Android",
+    "apkSheetAllow": "Ukuba i-Android iyabuza, vumela isikhangeli sakho sifake ii-apps (Useto → Vumela kulo mthombo), emva koko uvule ifayile ekhutshelweyo.",
+    "apkSheetAlreadyInstalled": "Ngaba sele uyifakile i-app esuka kuChrome? Awudingi i-APK, kwaye ukuyifaka zombini kukunika iikopi ezimbini.",
+    "apkSheetPreferNot": "Awuthandi? Kwi-Chrome cinezela ⋮ → Yongeza kwiscreen sasekhaya endaweni yoko.",
+    "apkDownloadStarted": "Ukukhuphela kuqalile.",
+    "apkDownloadStartedHelp": "Tsala phantsi ibha yakho yesaziso (okanye uvule uKhuphela / iiFayile) kwaye ucofe iFreeTV.apk. Ukuba uChrome uthi ifayile inokuba yingozi, khetha Khuphela nokuba kunjalo / Gcina, emva koko ucofe Vula kwaye Uyifake."
   },
   "seo": {
     "homeTitle": "FreeTV Garden - Umabonakude wasimahla, irediyo kunye neekhamera zewebhu",
@@ -422,6 +434,19 @@
     "hubHowToHeadingWebcam": "Indlela yokubukela kwisixhobo sakho",
     "hubHowToBody": "Akukho app okanye akhawunti efunekayo. Eli phepha lisebenza ngqo kwisikhangeli sakho nakwesiphi na isixhobo — vele ucofe i- {nounSingular} kwaye ucinezele dlala. Kwi-Android okanye kwi-iPhone, vula eli phepha kwi-Chrome okanye kwiSafari kwaye usebenzise \"Yongeza kwiSkrini saseKhaya\" ukufikelela kwimpompo enye kwixesha elizayo. Kwi-desktop, nasiphi na isikhangeli sangoku siyasebenza.",
     "nounSingularRadio": "isikhululo sikanomathotholo",
-    "nounSingularWebcam": "iwebcam"
+    "nounSingularWebcam": "iwebcam",
+    "homeAndroidApp": "Android App",
+    "homeApkIntro": "FreeTV Garden ngoku ine-app esemthethweni ye-Android. Khuphela i-APK ngqo kwi- freetvgarden.com kwaye ubukele umabonakude simahla, unomathotholo kunye neewebcams zesikrini esigcweleyo kwiscreen sakho sasekhaya — akukho kubhalisa, akukho mrhumo.",
+    "homeApkButton": "Khuphela usetyenziso lwe-Android (APK)",
+    "homeApkNote": "Mahala · Akukho kubhalisa · Khuphela ngokusemthethweni ku- freetvgarden.com",
+    "homeInstallIntro2": "FreeTV Garden ngoku ine-Android app esemthethweni (APK), kwaye iphinda ihlohle ngqo kwibrawuza yakho kuso nasiphi na isixhobo ngeempompo ezimbalwa.",
+    "homeApkH3": "I-Android App (APK)",
+    "homeInstallApk": "Cinezela u-\"Khuphela i-Android App\" ngasentla, okanye uvule freetvgarden.com /FreeTV.apk kwifowuni yakho. Xa ukhuphelo lugqityiwe, vula iFreeTV.apk kwibha yakho yesaziso okanye ifolda yokuKhuphela kwaye ucofe Faka. I-Android isenokukucela ukuba uvumele ukufakwa kwibrawuza yakho, kwaye ingabonisa isilumkiso kuba i-app ayisuki ku-Play Store — yikhuphele kuphela ku- freetvgarden.com .",
+    "homeInstallAndroid2": "Ukhetha ukungakhupheli ifayile? Vula iChrome (okanye esinye isikhangeli esixhasa uhloliso lwewebhu) kwaye uye ku- freetvgarden.com . Jonga i-icon yokufaka kwibar yedilesi, okanye uvule imenyu yesikhangeli kwaye ukhethe \"Yongeza kwiSkrini saseKhaya\" / \"Faka i-App.\" FreeTV Garden iya kuthi emva koko ivule isikrini esigcweleyo kwiscreen sakho sasekhaya, njengeapp yakudala.",
+    "homeFaq15Q": "Ngaba i- FreeTV Garden inosetyenziso olusemthethweni lwe-Android?",
+    "homeFaq15A": "Ewe. FreeTV Garden inosetyenziso olusemthethweni lwe-Android, olufumaneka njengokhuphelo lwasimahla lwe-APK ku- freetvgarden.com /FreeTV.apk. Ikunika iTV efanayo yasimahla, unomathotholo kunye neewebcams kwiscreen esigcweleyo, ngaphandle kokubhalisa okufunekayo.",
+    "homeFaq16Q": "Ngaba i-APK ye-Android ikhuselekile ukuyifaka?",
+    "homeFaq16A": "Khuphela kuphela i-APK esuka freetvgarden.com — ayihanjiswa kwenye indawo. Ngenxa yokuba ayiveli kwi-Play Store, i-Android ingabonisa isilumkiso esiqhelekileyo ngaphambi kokufaka; oko kuqhelekile kwii-apps ezifakwe ngqo kwiwebhusayithi.",
+    "homeIntroTemplate2": "FreeTV Garden liqonga losasazo lasimahla: jonga iglowubhu okanye ukhethe ilizwe oza kubukela umabonakude ngqo, mamela unomathotholo ngqo, kwaye ubukele iiwebcams ngqo - akukho akhawunti, akukho ndleko, kwaye ngoku ngeapp esemthethweni ye-Android. {learnMoreLink} okanye ubone ukuba sinjani {alternativesLink} ."
   }
 }

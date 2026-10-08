@@ -144,7 +144,19 @@
     "titleLiveTVByLanguage": "Til bo'yicha jonli TV - FreeTV Garden",
     "titleLiveRadioByLanguage": "Til bo'yicha jonli radio - FreeTV Garden",
     "suggestLanguage": "Saytni {langName} ichida ko'rasizmi?",
-    "btnSwitch": "Oʻzgartirish"
+    "btnSwitch": "Oʻzgartirish",
+    "downloadApp": "Ilovani yuklab oling",
+    "apkSheetTitle": "FreeTV Garden ilovasini yuklab oling",
+    "apkSheetRecommended": "Tavsiya etiladi: to'g'ridan-to'g'ri brauzeringizdan o'rnating. Bu xuddi shu dastur, yuklab olish uchun fayl yo'q.",
+    "apkSheetInstallBtn": "Ilovani o'rnating",
+    "apkSheetOr": "Yoki Android APK faylini yuklab oling:",
+    "apkSheetIntro": "Android ilovasini yuklab oling. U to'liq ekranni ochadi va boshqa ilovalar kabi bosh ekrandan boshlanadi.",
+    "apkSheetDownloadBtn": "Android ilovasini yuklab oling",
+    "apkSheetAllow": "Agar Android so'rasa, brauzeringizga ilovalarni o'rnatishga ruxsat bering (Sozlamalar → Ushbu manbadan ruxsat berish), keyin yuklab olingan faylni oching.",
+    "apkSheetAlreadyInstalled": "Ilovani Chrome'dan allaqachon o'rnatganmisiz? Sizga APK kerak emas va ikkalasini ham o'rnatish sizga ikkita nusxani beradi.",
+    "apkSheetPreferNot": "Yo'qligini afzal ko'rasizmi? Buning oʻrniga Chrome brauzerida ⋮ → Asosiy ekranga qoʻshish ga teging.",
+    "apkDownloadStarted": "Yuklab olish boshlandi.",
+    "apkDownloadStartedHelp": "Bildirishnomalar panelini pastga torting (yoki Yuklashlar / Fayllarni oching) va FreeTV.apk ga teging. Agar Chrome fayl zararli bo‘lishi mumkinligini aytsa, Yuklab olish / Saqlash-ni tanlang, so‘ng Ochish va o‘rnatish-ga teging."
   },
   "seo": {
     "homeTitle": "FreeTV Garden - Bepul jonli TV, radio va veb-kameralar",
@@ -422,6 +434,19 @@
     "hubHowToHeadingWebcam": "Qurilmangizda qanday tomosha qilish mumkin",
     "hubHowToBody": "Hech qanday ilova yoki hisob kerak emas. Bu sahifa toʻgʻridan-toʻgʻri istalgan qurilmada brauzeringizda ishlaydi — shunchaki {nounSingular} tugmasini bosing va oʻynash tugmasini bosing. Android yoki iPhone’da ushbu sahifani Chrome yoki Safari’da oching va keyingi safar bir marta bosish uchun “Bosh ekranga qo‘shish” tugmasidan foydalaning. Ish stolida har qanday zamonaviy brauzer ishlaydi.",
     "nounSingularRadio": "radiostansiya",
-    "nounSingularWebcam": "vebkamera"
+    "nounSingularWebcam": "vebkamera",
+    "homeAndroidApp": "Android ilovasi",
+    "homeApkIntro": "FreeTV Garden endi rasmiy Android ilovasiga ega. freetvgarden.com dan toʻgʻridan-toʻgʻri APK-ni yuklab oling va bosh ekraningizdan toʻliq ekran rejimida bepul jonli TV, radio va veb-kameralarni tomosha qiling — roʻyxatdan oʻtmaysiz, obunasiz.",
+    "homeApkButton": "Android ilovasini yuklab oling (APK)",
+    "homeApkNote": "Bepul · Roʻyxatdan oʻtish yoʻq · freetvgarden.com dan rasmiy yuklab olish",
+    "homeInstallIntro2": "FreeTV Garden endi rasmiy Android ilovasiga (APK) ega va u bir necha marta bosish orqali istalgan qurilmaga brauzeringizdan toʻgʻridan-toʻgʻri oʻrnatiladi.",
+    "homeApkH3": "Android ilovasi (APK)",
+    "homeInstallApk": "Yuqoridagi “Android ilovasini yuklab olish” tugmasini bosing yoki telefoningizda freetvgarden.com /FreeTV.apk ni oching. Yuklab olish tugagach, bildirishnomalar paneli yoki Yuklashlar jildidan FreeTV.apk ni oching va Oʻrnatish tugmasini bosing. Android sizdan brauzeringizdan oʻrnatishga ruxsat berishingizni soʻrashi va ilova Play Marketdan boʻlmagani uchun ogohlantirish koʻrsatishi mumkin — uni faqat freetvgarden.com dan yuklab oling.",
+    "homeInstallAndroid2": "Faylni yuklab olishni xohlamaysizmi? Chrome (yoki veb-o'rnatishni qo'llab-quvvatlaydigan boshqa brauzer) oching va freetvgarden.com ga o'ting. Manzil satrida o'rnatish belgisini toping yoki brauzer menyusini oching va \"Bosh ekranga qo'shish\" / \"Ilovani o'rnatish\" ni tanlang. FreeTV Garden so‘ngra mahalliy ilova kabi bosh ekraningizdan to‘liq ekranni ochadi.",
+    "homeFaq15Q": "FreeTV Garden rasmiy Android ilovasiga egami?",
+    "homeFaq15A": "Ha. FreeTV Garden rasmiy Android ilovasiga ega, uni freetvgarden.com /FreeTV.apk saytida bepul APK yuklab olish mumkin. Bu sizga ro'yxatdan o'tish shartisiz, to'liq ekranli ilovada bir xil bepul jonli televizor, radio va veb-kameralarni taqdim etadi.",
+    "homeFaq16Q": "Android APK-ni o'rnatish xavfsizmi?",
+    "homeFaq16A": "APK'ni faqat freetvgarden.com dan yuklab oling — u boshqa joyda tarqatilmaydi. U Play Store'dan kelmagani uchun Android o'rnatishdan oldin standart ogohlantirishni ko'rsatishi mumkin; Bu to'g'ridan-to'g'ri veb-saytdan o'rnatilgan ilovalar uchun odatiy holdir.",
+    "homeIntroTemplate2": "FreeTV Garden – bu bepul striming platformasi: jonli TV translatsiyasi, jonli radio tinglash va jonli veb-kameralarni tomosha qilish uchun dunyoni aylantiring yoki mamlakatni tanlang — hisobsiz, to‘lovsiz va endi rasmiy Android ilovasi bilan. {learnMoreLink} yoki qanday qilib biz {alternativesLink} ko'ring."
   }
 }
