@@ -5,7 +5,7 @@ http://stream.mcquack.net/263/index.m3u8
 http://178.134.1.158:8081/red/index.m3u8
 #EXTINF:-1 tvg-id="scifi.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/nSSUHcg.png" tvg-status="live" group-title="Science",.sci-fi
 http://stream.mcquack.net/180/index.m3u8
-#EXTINF:-1 tvg-id="100NEWS.ua" tvg-country="UA" tvg-language="Russian" tvg-logo="https://i.imgur.com/bSXKdK5.png" tvg-status="down" group-title="News",100% NEWS
+#EXTINF:-1 tvg-id="100NEWS.ua" tvg-country="UA" tvg-language="Russian" tvg-logo="https://i.imgur.com/bSXKdK5.png" tvg-status="live" group-title="News",100% NEWS
 http://85.238.112.40:8810/hls_sec/239.33.16.32-.m3u8
 #EXTINF:-1 tvg-id="15PlusMusic.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/kj21hwd.png" tvg-status="down" group-title="Music",15+ Music
 https://live.15plusmg.ru/memfs/ce3366b1-bf25-4e24-96bb-1adf0d44bd3d.m3u8
@@ -273,7 +273,7 @@ https://fs.uplink.kz/extreme_sports/mono.m3u8?token=onlinetv
 http://stream.mcquack.net/420/index.m3u8
 #EXTINF:-1 tvg-id="FeniksplusKino.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/S9OPMLE.png" tvg-native-name="Феникс плюс кино" tvg-status="down" group-title="Movies",Feniks plus Kino
 http://31.148.48.15/Feniks_plus_kino/index.m3u8
-#EXTINF:-1 tvg-id="famelack-0r210a3FA40XwI" tvg-country="UA" tvg-language="Russian" tvg-logo="https://i.imgur.com/Hnwsh5d.png" tvg-status="live" group-title="Movies",FilmUADrama
+#EXTINF:-1 tvg-id="famelack-0r210a3FA40XwI" tvg-country="UA" tvg-language="Russian" tvg-logo="https://i.imgur.com/Hnwsh5d.png" tvg-status="live" group-title="Series",FilmUADrama
 https://dash2.antik.sk/live/test_film_drama_atktv/playlist.m3u8
 #EXTINF:-1 tvg-id="FirstMusicChannel.by" tvg-country="BY" tvg-language="Russian" tvg-logo="https://i.imgur.com/YdyFJrl.png" tvg-native-name="Первый Музыкальный Канал" tvg-status="live" group-title="Music",First Music Channel
 http://hz1.teleport.cc/HLS/SD.m3u8
@@ -563,7 +563,7 @@ https://fs.uplink.kz/o/mono.m3u8?token=onlinetv
 https://stream8.cinerama.uz/1001/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-id="o2tv.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/CM6z7fA.png" tvg-native-name="о2тв" tvg-status="down" group-title="Music",o2tv
 http://31.148.48.15/O2_HD/index.m3u8
-#EXTINF:-1 tvg-id="ObshchestvennoeNezavisimoeTelevidenie.ua" tvg-country="UA" tvg-language="Russian" tvg-logo="https://i.imgur.com/jFP50g2.png" tvg-native-name="Общественное Независимое Телевидение" tvg-status="down" group-title="News",Obshchestvennoe Nezavisimoe Televidenie
+#EXTINF:-1 tvg-id="ObshchestvennoeNezavisimoeTelevidenie.ua" tvg-country="UA" tvg-language="Russian" tvg-logo="https://i.imgur.com/jFP50g2.png" tvg-native-name="Общественное Независимое Телевидение" tvg-status="live" group-title="News",Obshchestvennoe Nezavisimoe Televidenie
 http://85.238.112.40:8810/hls_sec/239.33.75.33-.m3u8
 #EXTINF:-1 tvg-id="OceanTV.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/zswzDZS.png" tvg-status="down" group-title="General",Ocean-TV
 http://hls127.freeott.top:8080/Ocean_TV/video.m3u8
@@ -613,7 +613,7 @@ https://streaming.televizor-24-tochka.ru/live/27.m3u8
 https://cdn-dvr.ntv.ru/Pes/index.m3u8
 #EXTINF:-1 tvg-id="famelack-kCBrKLRK8wKXax" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/4KiYSln.png" tvg-native-name="Победа" tvg-status="live" group-title="General",Pobeda
 https://streaming.thestream.cyou/live/43.m3u8
-#EXTINF:-1 tvg-id="famelack-3EEayoY7m4WXhg" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/ZNCpbII.png" tvg-native-name="Поехали!" tvg-status="live" group-title="Entertainment",Poehali!
+#EXTINF:-1 tvg-id="famelack-3EEayoY7m4WXhg" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/ZNCpbII.png" tvg-native-name="Поехали!" tvg-status="live" group-title="Outdoor",Poehali!
 https://fs.uplink.kz/poehali/mono.m3u8?token=onlinetv
 #EXTINF:-1 tvg-id="Premialnoe.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/ck4aLBP.png" tvg-native-name="Премиальное" tvg-status="live" group-title="Movies",Premialnoe
 http://stream.mcquack.net/421/index.m3u8
@@ -684,7 +684,7 @@ http://31.148.5.241/kanal_21/index.m3u8
 #EXTINF:-1 tvg-id="Russia1.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/Osd2JHL.png" tvg-native-name="Россия-1" tvg-status="live" group-title="General",Russia-1
 https://stream.smotrim.ru/hls2/russia_hd/playlist_6.m3u8
 #EXTINF:-1 tvg-id="Russia24.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Rossiya-24_Logo.svg/960px-Rossiya-24_Logo.svg.png" tvg-native-name="Россия-24" tvg-status="live" group-title="News",Russia-24
-http://77.232.131.211/Rossiya24/index.m3u8
+https://live.smotrim.ru/vgtrk/0/russia24-hd/index.m3u8
 #EXTINF:-1 tvg-id="RussiaK.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Russia-Cultura.svg/960px-Russia-Cultura.svg.png" tvg-native-name="Россия-К" tvg-status="live" group-title="Culture",Russia-K
 https://stream.smotrim.ru/hls2/russia_k/playlist_5.m3u8
 #EXTINF:-1 tvg-id="RussianExtreme.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/hJK7mOW.png" tvg-native-name="Русский Экстрим" tvg-status="down" group-title="Sports",Russian Extreme
@@ -961,7 +961,7 @@ https://stream.smotrim.ru/hls2/vesti_fm/playlist_4.m3u8
 http://serv24.vintera.tv:8081/vetta/vetta_office/playlist.m3u8
 #EXTINF:-1 tvg-id="famelack-DrX3v9SZK4N49f" tvg-country="UA" tvg-language="Russian" tvg-logo="https://i.imgur.com/GPiE2Rb.png" tvg-status="live" group-title="Movies",Viasat Kino World
 https://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoNDgvdHJhY2tzLXYxYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA1OTk5NDcmc3Q9N3ROblpCZy02WTBka1RuekRIZjU0QQ%3D%3D&master=102
-#EXTINF:-1 tvg-id="famelack-ZcTlJjeaCc55j6" tvg-country="UA" tvg-language="Russian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7d/Viasat_Serial.svg" tvg-status="live" group-title="Movies",Viasat Serial
+#EXTINF:-1 tvg-id="famelack-ZcTlJjeaCc55j6" tvg-country="UA" tvg-language="Russian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7d/Viasat_Serial.svg" tvg-status="live" group-title="Series",Viasat Serial
 https://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoNDUvdHJhY2tzLXYyYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA2MDExNzAmc3Q9VS12czVHQmhOdF9WQXJ4bHVYVzR2dw%3D%3D&master=599
 #EXTINF:-1 tvg-id="famelack-pZthsgjcG9ZCMb" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/EGIpLPu.png" tvg-status="live" group-title="Documentary",viju Explore
 https://fs.uplink.kz/viju_explore/mono.m3u8?token=onlinetv
@@ -1031,7 +1031,7 @@ https://stream8.cinerama.uz/1250/tracks-v1a1/mono.m3u8
 http://stream.mcquack.net/225/index.m3u8
 #EXTINF:-1 tvg-id="Zhivi.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://cdn2.red-media.ru/wp-content/uploads/2019/12/jivi(1).png" tvg-native-name="Живи!" tvg-status="down" group-title="Lifestyle",Zhivi!
 https://fs.uplink.kz/zhivi/mono.m3u8?token=onlinetv
-#EXTINF:-1 tvg-id="famelack-Y67heKltErviMJ" tvg-country="UZ" tvg-language="Russian" tvg-logo="https://i.imgur.com/NuzyhVM.png" tvg-status="live" group-title="Entertainment",Zo'r TV
+#EXTINF:-1 tvg-id="famelack-Y67heKltErviMJ" tvg-country="UZ" tvg-language="Russian" tvg-logo="https://i.imgur.com/NuzyhVM.png" tvg-status="live" group-title="Music",Zo'r TV
 https://stream8.cinerama.uz/1016/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ZooTV.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/p7WzqGS.png" tvg-native-name="Зоо ТВ" tvg-status="down" group-title="General",Zoo TV
 http://31.148.48.15/Zoo_TV/index.m3u8
