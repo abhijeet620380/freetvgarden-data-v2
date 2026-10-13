@@ -33,7 +33,9 @@ http://193.46.58.239:8080/CbeebiesHD/index.m3u8
 http://193.46.58.239:8080/CBBCHD/index.m3u8
 #EXTINF:-1 tvg-id="CartoonClassics.pl" tvg-country="PL" tvg-language="English" tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/3227c06e-333b-4b1b-b657-3e3ab99ebd06-width200-quality90.jpeg" tvg-status="live" group-title="Animation",Cartoon Classics
 https://daiconnect.com/live/hls/tvup/rk-cartoonclassics/578f4b7eb725168349ec0af81b21d388/index.m3u8
-#EXTINF:-1 tvg-id="CartoonNetwork.it" tvg-country="IT" tvg-language="Italian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png" tvg-status="live" group-title="Animation",Cartoon Network
+#EXTINF:-1 tvg-id="famelack-lSTW1dzY0A0GTW" tvg-country="PL" tvg-language="English" tvg-logo="" tvg-status="live" group-title="Animation",Cartoon Classics FAST
+https://daiconnect.com/live/hls/tvup/rk-cartoonclassics/578f4b7eb725168349ec0af81b21d388/index.m3u8
+#EXTINF:-1 tvg-id="CartoonNetwork.it" tvg-country="IT" tvg-language="Italian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png" tvg-status="down" group-title="Animation",Cartoon Network
 https://bin.webhookrelay.com/v1/webhooks/c804ab58-63c4-427d-bd2e-4d774eb34073
 #EXTINF:-1 tvg-id="CartoonNetwork.us" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png" tvg-status="live" group-title="Animation",Cartoon Network
 http://tvsen7.aynascope.net/cartoonnetwork/index.m3u8
@@ -42,7 +44,7 @@ http://88.212.15.17/live/test_cartoon_network_tizen/playlist.m3u8
 #EXTINF:-1 tvg-id="famelack-Z2RG0xDeG0qYnE" tvg-country="US" tvg-language="English" tvg-logo="" tvg-status="live" group-title="Animation",Cartoon Network East
 https://tvsen7.aynascope.net/cartoonnetwork/index.m3u8
 #EXTINF:-1 tvg-id="CartoonNetworkLatinAmerica.us" tvg-country="US" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png" tvg-status="live" group-title="Animation",Cartoon Network Latin America
-http://170.244.209.30:8000/play/a027/index.m3u8
+http://15.204.246.24:8080/CartoonNetworkHD/index.m3u8
 #EXTINF:-1 tvg-id="famelack-6PXWfNXySezA4E" tvg-country="US" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="Animation",Cartoon Network Latin America South Atlantic
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/cartoonnetwork.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="famelack-tIGqdwnTT3ZqJq" tvg-country="US" tvg-language="English" tvg-logo="" tvg-status="live" group-title="Animation",Cartoon Network: Adventure Time
@@ -157,16 +159,14 @@ https://d21vn5eki5qsdi.cloudfront.net/playlist.m3u8
 https://jmp2.uk/plu-5ca673e0d0bd6c2689c94ce3.m3u8
 #EXTINF:-1 tvg-id="famelack-1JYYpqQgnjcE3u" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://x1colegal.com/logo.png" tvg-status="live" group-title="Animation",NickOnline
 https://x1colegal.com/hls/stream.m3u8
-#EXTINF:-1 tvg-id="NickOnlineBobEsponja.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://x1colegal.com/nickonlinebobesponja.png" tvg-status="live" group-title="Animation",NickOnline Bob Esponja
+#EXTINF:-1 tvg-id="famelack-dlSxOcHpkY3viD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://x1colegal.com/nickonlinebobesponja.png" tvg-status="live" group-title="Animation",NickOnline Bob Esponja
 https://bob.x1colegal.com/hls/stream.m3u8
-#EXTINF:-1 tvg-id="famelack-B7oUuXqbWsfBhP" tvg-country="FR" tvg-language="English" tvg-logo="" tvg-status="live" group-title="Animation",OGGY
-https://www.youtube-nocookie.com/embed/1R8767hzeLk
 #EXTINF:-1 tvg-id="OnePiece.us" tvg-country="US" tvg-language="" tvg-logo="https://images.pluto.tv/channels/5f7790b3ed0c88000720b241/colorLogoPNG_1731837233662.png" tvg-status="live" group-title="Animation",One Piece
 https://jmp2.uk/plu-624b1c8d4321e200073ee421.m3u8
 #EXTINF:-1 tvg-id="Pingviins.lv" tvg-country="LV" tvg-language="Latvian" tvg-logo="https://i.imgur.com/hfXoJIY.png" tvg-status="down" group-title="Animation",Pingviins
 https://void.greenhosting.ru/PingvinsLV_Mpeg4/video.m3u8
 #EXTINF:-1 tvg-id="famelack-yzZp6BhMvaS7qt" tvg-country="BR" tvg-language="Portuguese" tvg-logo="" tvg-status="live" group-title="Animation",PJ Masks Brasil
-https://www.youtube-nocookie.com/embed/13ck0pnYSo4
+https://www.youtube-nocookie.com/embed/qg8gewyqH9w
 #EXTINF:-1 tvg-id="Placid.us" tvg-country="US" tvg-language="English" tvg-logo="https://static.wikitide.net/indietvwiki/0/03/Placid_(2026).svg" tvg-status="live" group-title="Animation",Placid
 https://toy.vcdn.fyi/placid/index.m3u8
 #EXTINF:-1 tvg-id="famelack-VUygLVykVOKbWL" tvg-country="US" tvg-language="English" tvg-logo="" tvg-status="live" group-title="Animation",Placid East HD
