@@ -64,7 +64,7 @@ http://wms.shared.streamshow.it/canale8/canale8/playlist.m3u8
 #EXTINF:-1 tvg-id="CanaleDieci.it" tvg-country="IT" tvg-language="Italian" tvg-logo="https://i.imgur.com/8Pay0Vv.png" tvg-status="down" group-title="General",Canale Dieci
 http://37.187.142.147:1935/ch10live/high.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="CartoonNetwork.it" tvg-country="IT" tvg-language="Italian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png" tvg-status="live" group-title="Animation",Cartoon Network
-https://zg9mhld.s.gy/HD-CARTOON-IT.ts
+https://bin.webhookrelay.com/v1/webhooks/c804ab58-63c4-427d-bd2e-4d774eb34073
 #EXTINF:-1 tvg-id="CasaItalia53.it" tvg-country="IT" tvg-language="Italian" tvg-logo="https://i.imgur.com/X8BI1Md.png" tvg-status="live" group-title="Shop",Casa Italia 53
 https://ovp-live.akamaized.net/ac115_live/canale3.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="CGEntertainment.it" tvg-country="IT" tvg-language="Italian" tvg-logo="https://i.imgur.com/XeWzy7e.png" tvg-status="live" group-title="Entertainment",CG Entertainment
@@ -115,7 +115,7 @@ https://5cbd3bc28341f.streamlock.net:444/fanotv_live/_definst_/43DA-3923-9C72-4E
 https://stream2.xdevel.com/video0s975817-1183/stream/playlist.m3u8
 #EXTINF:-1 tvg-id="famelack-7mF9lPyV9Hym2p" tvg-country="IT" tvg-language="Italian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/960px-Food_Network_New_Logo.png" tvg-status="live" group-title="Cooking",Food Network
 https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/FOODNETWORK/CMAF/index.m3u8
-#EXTINF:-1 tvg-id="GamberoRossoChannel.it" tvg-country="IT" tvg-language="Italian" tvg-logo="https://i.imgur.com/x5cwb1q.png" tvg-status="down" group-title="Cooking",Gambero Rosso Channel
+#EXTINF:-1 tvg-id="GamberoRossoChannel.it" tvg-country="IT" tvg-language="Italian" tvg-logo="https://i.imgur.com/x5cwb1q.png" tvg-status="live" group-title="Cooking",Gambero Rosso Channel
 https://jmp2.uk/plu-6971fc07c945e6e4e5bc46bf.m3u8
 #EXTINF:-1 tvg-id="famelack-bT0DyxeO3Y36es" tvg-country="IT" tvg-language="Italian" tvg-logo="https://i.imgur.com/2Y5qiao.png" tvg-status="live" group-title="News",Giornale Radio TV
 https://5f204aff97bee.streamlock.net/GR_tv/livestream/playlist.m3u8
@@ -151,6 +151,8 @@ http://151.0.207.99:1935/italia7/italia7/playlist.m3u8
 http://wms.shared.streamshow.it/italia2/mp4:italia2/playlist.m3u8
 #EXTINF:-1 tvg-id="famelack-R8E994mqmmDshs" tvg-country="IT" tvg-language="Italian" tvg-logo="https://i.imgur.com/qrn6tUO.png" tvg-status="live" group-title="Outdoor",Italian Fishing TV
 https://fms.premio.link/fishingtv/playlist.m3u8
+#EXTINF:-1 tvg-id="Italiana.it" tvg-country="IT" tvg-language="Italian" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/98/Italiana_%282026%29.svg/revision/latest?cb=20260824144626" tvg-status="live" group-title="Documentary",Italiana
+https://d3k8wzt41aflvx.cloudfront.net/RAIScuola/Live.m3u8
 #EXTINF:-1 tvg-id="famelack-qGCa4GceuRopDr" tvg-country="IT" tvg-language="English" tvg-logo="https://i.imgur.com/FBOJnfT.png" tvg-status="live" group-title="Kids",Iunior TV
 https://5f22d76e220e1.streamlock.net/iuniortv/iuniortv/playlist.m3u8
 #EXTINF:-1 tvg-id="famelack-3yI1RuuFvlPWvb" tvg-country="IT" tvg-language="German" tvg-logo="https://i.imgur.com/T3r1khc.png" tvg-status="live" group-title="Shop",Juwelo
@@ -199,14 +201,12 @@ https://59bb40cf810aa.streamlock.net:4443/streamingvincente/streamingvincente/pl
 https://5f22d76e220e1.streamlock.net/medjugorjeitaliatv/medjugorjeitaliatv/playlist.m3u8
 #EXTINF:-1 tvg-id="famelack-fR0ICU1okqQxU4" tvg-country="IT" tvg-language="Italian" tvg-logo="https://i.imgur.com/9Oq6fLw.png" tvg-status="live" group-title="News",Minformo TV
 https://5db313b643fd8.streamlock.net/MinformoTV/MinformoTV/playlist.m3u8
-#EXTINF:-1 tvg-id="famelack-TJTh9T3GBOw5hs" tvg-country="IT" tvg-language="Italian" tvg-logo="" tvg-status="live" group-title="Kids",Mr. Bean Anime Italy
+#EXTINF:-1 tvg-id="famelack-TJTh9T3GBOw5hs" tvg-country="IT" tvg-language="Italian" tvg-logo="" tvg-status="live" group-title="Animation",Mr. Bean Anime Italy
 https://amg00627-amg00627c29-rakuten-it-3989.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanitcc-rakutenit/playlist.m3u8
 #EXTINF:-1 tvg-id="NauticalChannel.it" tvg-country="IT" tvg-language="English" tvg-logo="https://i.imgur.com/2ByDyzL.png" tvg-status="live" group-title="Sports",Nautical Channel
 https://a-cdn.klowdtv.com/live2/nautical_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="NickJr.it" tvg-country="IT" tvg-language="Italian" tvg-logo="https://i.imgur.com/6p3eFgf.png" tvg-status="live" group-title="Kids",Nick Jr.
 http://102.129.186.182:81/nick/index.m3u8
-#EXTINF:-1 tvg-id="Nickelodeon.it" tvg-country="IT" tvg-language="Italian" tvg-logo="https://i.imgur.com/E84jnP8.png" tvg-status="live" group-title="Kids",Nickelodeon
-https://zg9mhld.s.gy/HD-NICK-IT.ts
 #EXTINF:-1 tvg-id="famelack-x90xuovG7tI1UK" tvg-country="IT" tvg-language="Italian" tvg-logo="https://i.imgur.com/AW5fJwa.png" tvg-status="live" group-title="General",NTN
 https://stream4.xdevel.com/video0s975955-782/stream/playlist.m3u8
 #EXTINF:-1 tvg-id="famelack-vep0J58HudEoW3" tvg-country="IT" tvg-language="Italian" tvg-logo="https://i.imgur.com/Ho7SdXY.png" tvg-status="live" group-title="General",Odeon 24
@@ -229,11 +229,11 @@ https://tsw.streamingwebtv24.it:1936/paradisetv/paradisetv/playlist.m3u8
 https://stream.paroledivita.org/paroledivita.m3u8
 #EXTINF:-1 tvg-id="PassioneLotto.it" tvg-country="IT" tvg-language="Italian" tvg-logo="https://i.imgur.com/jYmy4G5.png" tvg-status="down" group-title="Entertainment",Passione Lotto
 http://185.63.52.103:8080/hls/passionelotto/1_2/index.m3u8
-#EXTINF:-1 tvg-id="famelack-XVHhDeQHjuS3Dt" tvg-country="IT" tvg-language="Italian" tvg-logo="https://www.peer.biz/peertv-iptv/peer-tv-alto-adige.png" tvg-status="live" group-title="Travel",Peer TV Alto Adige
+#EXTINF:-1 tvg-id="famelack-XVHhDeQHjuS3Dt" tvg-country="IT" tvg-language="Italian" tvg-logo="https://www.peer.biz/peertv-iptv/peer-tv-alto-adige.png" tvg-status="live" group-title="Outdoor",Peer TV Alto Adige
 https://iptv.peer.biz/live/peertv-it.m3u8
-#EXTINF:-1 tvg-id="famelack-N6SFUaTsOKbZm2" tvg-country="IT" tvg-language="English" tvg-logo="https://www.peer.biz/peertv-iptv/peer-tv-south-tyrol.png" tvg-status="live" group-title="Travel",Peer TV South Tyrol
+#EXTINF:-1 tvg-id="famelack-N6SFUaTsOKbZm2" tvg-country="IT" tvg-language="English" tvg-logo="https://www.peer.biz/peertv-iptv/peer-tv-south-tyrol.png" tvg-status="live" group-title="Outdoor",Peer TV South Tyrol
 https://iptv.peer.biz/live/peertv-en.m3u8
-#EXTINF:-1 tvg-id="famelack-6qAfF0Ciz7BFIk" tvg-country="IT" tvg-language="German" tvg-logo="https://www.peer.biz/peertv-iptv/peer-tv-suedtirol.png" tvg-status="live" group-title="Travel",Peer TV Sudtirol
+#EXTINF:-1 tvg-id="famelack-6qAfF0Ciz7BFIk" tvg-country="IT" tvg-language="German" tvg-logo="https://www.peer.biz/peertv-iptv/peer-tv-suedtirol.png" tvg-status="live" group-title="Outdoor",Peer TV Sudtirol
 https://iptv.peer.biz/live/peertv.m3u8
 #EXTINF:-1 tvg-id="famelack-Bf229RUVr1fA3u" tvg-country="IT" tvg-language="Italian" tvg-logo="https://irp.cdn-website.com/184bfd6a/MOBILE/jpg/477.jpg" tvg-status="live" group-title="General",Prima Free
 https://5f22d76e220e1.streamlock.net/primafree/primafree/playlist.m3u8
@@ -499,7 +499,7 @@ https://live.mariatvcdn.com/tvprato/2db0dd5674586686a867ec52c3aa8e06.sdp/index.m
 https://59d7d6f47d7fc.streamlock.net/tvqui/tvqui/playlist.m3u8
 #EXTINF:-1 tvg-id="TVSei.it" tvg-country="IT" tvg-language="Italian" tvg-logo="https://i.imgur.com/H8fklOG.png" tvg-status="down" group-title="General",TV Sei
 http://185.202.128.1:1935/Tv6Stream/tv6TV.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="TVYesItalia.it" tvg-country="IT" tvg-language="Italian" tvg-logo="https://i.imgur.com/3CDxatu.png" tvg-status="live" group-title="General",TV Yes Italia
+#EXTINF:-1 tvg-id="TVYesItalia.it" tvg-country="IT" tvg-language="Italian" tvg-logo="https://i.imgur.com/3CDxatu.png" tvg-status="down" group-title="General",TV Yes Italia
 https://stream1.aswifi.it/radioyes/live/index.m3u8
 #EXTINF:-1 tvg-id="famelack-zDb7qG6O2nQx0A" tvg-country="IT" tvg-language="Italian" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/0/0d/Logo_tv2000_2015.svg/960px-Logo_tv2000_2015.svg.png" tvg-status="live" group-title="Religious",TV2000
 https://hls-live-tv2000.akamaized.net/hls/live/2028510/tv2000/master.m3u8
