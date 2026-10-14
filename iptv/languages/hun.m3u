@@ -69,6 +69,8 @@ http://88.212.15.19/live/film_plus_hun_atk/index.m3u8
 http://88.212.15.19/live/film4_hun/index.m3u8
 #EXTINF:-1 tvg-id="FIXTV.hu" tvg-country="HU" tvg-language="Hungarian" tvg-logo="https://i.imgur.com/PLhh0Ps.png" tvg-status="down" group-title="General",FIX TV
 https://fixhd.tv:8082/fix/1080i/playlist.m3u8
+#EXTINF:-1 tvg-id="FoodNetwork.hu" tvg-country="HU" tvg-language="Hungarian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/960px-Food_Network_New_Logo.png" tvg-status="live" group-title="Cooking",Food Network
+http://88.212.15.17/live/fn_hungary/index.m3u8
 #EXTINF:-1 tvg-id="famelack-cjLvzdREj6JZ9r" tvg-country="HU" tvg-language="Hungarian" tvg-logo="https://i.imgur.com/fTG99xh.png" tvg-status="live" group-title="General",Galaxy4
 https://budapest-cache-1.antik.sk/live/test_galaxy_4_atk_1200/playlist.m3u8
 #EXTINF:-1 tvg-id="GloboTV.hu" tvg-country="HU" tvg-language="Hungarian" tvg-logo="https://i.imgur.com/PJ4c4jq.png" tvg-status="down" group-title="General",Globo TV
@@ -231,6 +233,8 @@ https://cloudfront44.lexanetwork.com:1344/relay01/broadcast006.sdp/playlist.m3u8
 https://cloudfront44.lexanetwork.com:1344/relay02/livestream004.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="TiszaTV.hu" tvg-country="HU" tvg-language="Hungarian" tvg-logo="https://i.imgur.com/Q2bShnh.png" tvg-status="down" group-title="General",Tisza TV
 https://www.tiszatv.hu/onlinetv/tiszatv_1.m3u8
+#EXTINF:-1 tvg-id="TLC.hu" tvg-country="HU" tvg-language="Hungarian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/960px-TLC_Logo.svg.png" tvg-status="live" group-title="Lifestyle",TLC
+http://88.212.15.17/live/tlc_hungary/index.m3u8
 #EXTINF:-1 tvg-id="TravelChannel.hu" tvg-country="HU" tvg-language="Hungarian" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a3/Travel_Channel_2D_2014.svg/revision/latest?cb=20180112215118" tvg-status="live" group-title="General",Travel Channel
 http://88.212.15.17/live/travel_hun/index.m3u8
 #EXTINF:-1 tvg-id="TrimedioTV.hu" tvg-country="HU" tvg-language="Hungarian" tvg-logo="https://i.imgur.com/P4hxWVZ.png" tvg-status="down" group-title="General",Trimedio TV

@@ -143,12 +143,12 @@ https://video.ipstream.cl:3459/hybrid/play.m3u8
 https://v1.tustreaming.cl/emociontv/index.m3u8
 #EXTINF:-1 tvg-id="famelack-kMxscA2sewftOr" tvg-country="CL" tvg-language="Spanish" tvg-logo="https://enlineamaule.cl/wp-content/uploads/2025/08/En-linea-Maule841351465.png" tvg-status="live" group-title="General",En Linea Maule
 https://v2.tustreaming.cl/enlineamauletv/index.m3u8
-#EXTINF:-1 tvg-id="EnerGeek.cl" tvg-country="CL" tvg-language="Spanish" tvg-logo="https://cdn.energeek.cl/logos/EG-Retro-2025_pfp.png" tvg-status="down" group-title="Animation",EnerGeek
-https://backend.energeek.cl/webtv/egretroweb/index.m3u8?token=ZZDemoIPTVGH
-#EXTINF:-1 tvg-id="EnerGeekFAN.cl" tvg-country="CL" tvg-language="Spanish" tvg-logo="https://cdn.energeek.cl/logos/EG-Fan-2025_pfp.png" tvg-status="down" group-title="Animation",EnerGeek FAN
-https://backend.energeek.cl/webtv/egfanweb/index.m3u8?token=ZZDemoIPTVGH
-#EXTINF:-1 tvg-id="EnerGeekRadio.cl" tvg-country="CL" tvg-language="Spanish" tvg-logo="https://cdn.energeek.cl/logos/EG-Radio-2025_pfp.png" tvg-status="down" group-title="Music",EnerGeek Radio
-https://backend.energeek.cl/webtv/egradioweb/index.m3u8?token=ZZDemoIPTVGH
+#EXTINF:-1 tvg-id="EnerGeek.cl" tvg-country="CL" tvg-language="Spanish" tvg-logo="https://cdn.energeek.cl/logos/EG-Retro-2025_pfp.png" tvg-status="live" group-title="Animation",EnerGeek
+https://cl-2.backend.energeek.cl/bkp/egretroweb/index.m3u8?token=IPTVgh26
+#EXTINF:-1 tvg-id="EnerGeekFAN.cl" tvg-country="CL" tvg-language="Spanish" tvg-logo="https://cdn.energeek.cl/logos/EG-Fan-2025_pfp.png" tvg-status="live" group-title="Animation",EnerGeek FAN
+https://cl-2.backend.energeek.cl/bkp/egfan/mobile/index.m3u8?token=IPTVgh26
+#EXTINF:-1 tvg-id="EnerGeekRadio.cl" tvg-country="CL" tvg-language="Spanish" tvg-logo="https://cdn.energeek.cl/logos/EG-Radio-2025_pfp.png" tvg-status="live" group-title="Music",EnerGeek Radio
+https://cl-2.backend.energeek.cl/bkp/egradio/mobile/index.m3u8?token=IPTVgh26
 #EXTINF:-1 tvg-id="famelack-i6l8MV9GANNiZj" tvg-country="CL" tvg-language="Spanish" tvg-logo="https://i.imgur.com/GaJzjt5.png" tvg-status="live" group-title="General",Enfoque Digital TV
 https://5eaccbab48461.streamlock.net:1936/8074/8074/playlist.m3u8
 #EXTINF:-1 tvg-id="famelack-jta33fMEZzmlcL" tvg-country="CL" tvg-language="Spanish" tvg-logo="https://cdn.m3u.cl/logo/1649_EPA__TV.png" tvg-status="live" group-title="General",EPA! TV
@@ -267,8 +267,6 @@ https://5ff3d9babae13.streamlock.net/8028/8028/playlist.m3u8
 https://polartv.webredirect.org/memfs/319ac83c-e602-4e91-8104-2b5501380b5e.m3u8
 #EXTINF:-1 tvg-id="famelack-6Cf3xGjcPFdrr7" tvg-country="CL" tvg-language="Spanish" tvg-logo="https://www.preludioradio.cl/wp-content/uploads/2023/06/logopreludio.png" tvg-status="live" group-title="Religious",Preludio TV
 https://tv.arkeo.cl:1936/preludio/preludio/playlist.m3u8
-#EXTINF:-1 tvg-id="PRIDEtvLATAM.cl" tvg-country="CL" tvg-language="Spanish" tvg-logo="" tvg-status="down" group-title="Entertainment",PRIDEtv LATAM
-https://backend.energeek.cl/webtv/pridetvweb/index.m3u8?token=ZZDemoIPTVGH
 #EXTINF:-1 tvg-id="PrimiciaVida.cl" tvg-country="CL" tvg-language="Spanish" tvg-logo="https://i.imgur.com/hnkVwTG.png" tvg-status="down" group-title="Religious",Primicia Vida
 https://mc.servidor.stream:19360/8248/8248.m3u8
 #EXTINF:-1 tvg-id="PrimitivosTV.cl" tvg-country="CL" tvg-language="Spanish" tvg-logo="https://i.imgur.com/w9WpbTN.jpeg" tvg-status="live" group-title="General",Primitivos TV
@@ -316,7 +314,7 @@ https://tv.arkeo.cl:1936/radiorancagua/radiorancagua/playlist.m3u8
 #EXTINF:-1 tvg-id="famelack-iH1Ht1rUhcBhVb" tvg-country="CL" tvg-language="Spanish" tvg-logo="https://i.imgur.com/qU3E0kX.png" tvg-status="live" group-title="General",Radio Ritmo FM
 https://panel.tvstream.cl:1936/8046/8046/playlist.m3u8
 #EXTINF:-1 tvg-id="RadioSuyaiTV.cl" tvg-country="CL" tvg-language="Spanish" tvg-logo="https://stream-tools.zenomedia.com/content/stations/883465cc-a2ee-418a-972d-2c937707687d/image/?keep=w&lu=1775615385000&resize=350x350" tvg-status="live" group-title="Culture",Radio Suyai TV
-https://cl-2.backend.energeek.cl/RadioSuyai-Neo/index.m3u8
+https://trun.suyaitv.cl/memfs/d0835165-7fb4-4982-8336-84a7f4522908.m3u8
 #EXTINF:-1 tvg-id="famelack-x3MegkwECTjfLb" tvg-country="CL" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="Religious",Radio TV Fortaleza
 https://live.tvcontrolcp.com:1936/fortalezatv/fortalezatv/playlist.m3u8
 #EXTINF:-1 tvg-id="RadioUC.cl" tvg-country="CL" tvg-language="Spanish" tvg-logo="https://cdn.m3u.cl/logo/1467_Radio_UC.png" tvg-status="down" group-title="General",Radio UC
@@ -333,8 +331,12 @@ https://live20.bozztv.com/akamaissh101/ssh101/vialibretv/playlist.m3u8
 https://v2.tustreaming.cl/radiovidacurico/index.m3u8
 #EXTINF:-1 tvg-id="famelack-h5PiEg4Vy3H6ik" tvg-country="CL" tvg-language="Spanish" tvg-logo="https://cdn.m3u.cl/logo/1629_Radio_Zona_90_3.png" tvg-status="live" group-title="Music",Radio Zona 90.3
 https://live.tvcontrolcp.com:8081/radiozona/index.m3u8
-#EXTINF:-1 tvg-id="RetroPlus2.cl" tvg-country="CL" tvg-language="Spanish" tvg-logo="https://i.imgur.com/5G5kian.png" tvg-status="down" group-title="Music",Retro Plus 2
-https://tls-cl.cdnz.cl/retroplustvuno/live/playlist.m3u8
+#EXTINF:-1 tvg-id="RetroPlus.cl" tvg-country="CL" tvg-language="English" tvg-logo="https://i.imgur.com/fkCasXI.png" tvg-status="live" group-title="Music",Retro Plus
+http://181.119.97.124:8080/play/a00t/index.m3u8
+#EXTINF:-1 tvg-id="RetroPlus2.cl" tvg-country="CL" tvg-language="Spanish" tvg-logo="https://i.imgur.com/5G5kian.png" tvg-status="live" group-title="Music",Retro Plus 2
+http://181.119.97.124:8080/play/a00n/index.m3u8
+#EXTINF:-1 tvg-id="RetroPlus3.cl" tvg-country="CL" tvg-language="Spanish" tvg-logo="https://i.imgur.com/i0rZsgG.png" tvg-status="live" group-title="Movies",Retro Plus 3
+http://181.119.97.124:8080/play/retroplus_3/index.m3u8
 #EXTINF:-1 tvg-id="famelack-lruIH54uz7MA5B" tvg-country="CL" tvg-language="Spanish" tvg-logo="https://cdn.m3u.cl/logo/1765_Retromusica_Television.png" tvg-status="live" group-title="Music",Retromusica Television
 https://vdochile.com:3864/stream/play.m3u8
 #EXTINF:-1 tvg-id="famelack-tfCQ3FDYSxU3Xe" tvg-country="CL" tvg-language="Spanish" tvg-logo="https://i.imgur.com/OG0RC2e.png" tvg-status="live" group-title="Music",Rewind TV
@@ -370,7 +372,7 @@ https://surtv-2.mddsoluciones.cl/play/ZZZ-WEB-001:ULpj2JxXM9/live/surtvweb/playl
 #EXTINF:-1 tvg-id="famelack-0lsAbqAvTxwdm8" tvg-country="CL" tvg-language="Spanish" tvg-logo="https://i.imgur.com/ZQRb3L3.png" tvg-status="live" group-title="General",Surena TV
 https://vs20.live.opencaster.com/surenatv_187f915a/index.m3u8
 #EXTINF:-1 tvg-id="SuyaiTV.cl" tvg-country="CL" tvg-language="Spanish" tvg-logo="https://suyaitv.cl/wp-content/uploads/2024/10/ico_Suyai_TV_512.png" tvg-status="live" group-title="Culture",Suyai TV
-https://origin.skarnetchile.com:8081/suyai-tv-hd/index.m3u8
+https://trun.suyaitv.cl/memfs/1255a743-cd41-40a8-86c4-d264ee16ebf3.m3u8
 #EXTINF:-1 tvg-id="famelack-Ap4jlb2z9FPcau" tvg-country="CL" tvg-language="Spanish" tvg-logo="https://i.imgur.com/KisHIpA.png" tvg-status="live" group-title="General",T-Vinet
 https://unlimited1-us.dps.live/inet2/inet2.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="famelack-c5GR1pLsbPd5BR" tvg-country="CL" tvg-language="" tvg-logo="" tvg-status="live" group-title="General",T13
