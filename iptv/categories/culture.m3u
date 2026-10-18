@@ -71,8 +71,6 @@ https://v2.tustreaming.cl/chiloered/index.m3u8
 https://cloud37.ecuatel.com/ciracutv/live/manifest.m3u8
 #EXTINF:-1 tvg-id="Condavision.es" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/dlrazec.png" tvg-status="down" group-title="Culture",Condavision
 https://5d8d85cf2c308.streamlock.net:1936/Condavision/endirecto/playlist.m3u8
-#EXTINF:-1 tvg-id="famelack-0QTowwNml7pc3D" tvg-country="CR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/N4pFVVF.png" tvg-status="live" group-title="Culture",Costa Rica Channel
-https://video0.rogohosting.com:19360/8006/8006.m3u8
 #EXTINF:-1 tvg-id="famelack-msqk8hFvDiwdDB" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/h0LxXsx.png" tvg-status="live" group-title="Culture",Cultura 24
 https://www.opencaster.com/resources/hls_stream/cultura24.m3u8
 #EXTINF:-1 tvg-id="famelack-XDbtm1nI0M6XvU" tvg-country="CL" tvg-language="Spanish" tvg-logo="https://i.imgur.com/w8td5Lq.png" tvg-status="live" group-title="Culture",Cultura Online
@@ -197,12 +195,14 @@ https://cdn4.skygo.mn/live/disk1/Malchin/DASH-FTA/Malchin.mpd
 http://212.42.111.152:8080/hls/manas.m3u8
 #EXTINF:-1 tvg-id="famelack-EwK4bC43UwqpBP" tvg-country="EC" tvg-language="Spanish" tvg-logo="https://i.imgur.com/mZkW342.png" tvg-status="live" group-title="Culture",Manavision
 https://play.once.net.ec/play/Ily2oYdd3E1fi9wK2zORoRovFU9P5xM0g3CNVK2MT0M/.m3u8
+#EXTINF:-1 tvg-id="famelack-4GP05gaKgeZLke" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/RRc23ra.png" tvg-status="live" group-title="Culture",MBC America
+https://cdn-us-east-prod-ingest-infra-dacast-com.akamaized.net/624ff8f9-db18-da92-4d42-896fa2ff3eb3/source/index.m3u8
 #EXTINF:-1 tvg-id="famelack-R3BPTHW4pSeK4c" tvg-country="MT" tvg-language="English" tvg-logo="https://i.imgur.com/ejGeXPD.png" tvg-status="live" group-title="Culture",Med.TV
 https://med-tv-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-hls-aes128-medtv-1-restreaming/bitok/eyJzdGlkIjoiMGUzYjU2OWQtYTY3NC00ZDQxLThmZmMtNjA2NWU5YzMwNTViIiwibWt0IjoiaXQiLCJjaCI6IjUiLCJwdGYiOjV9/hls/main.m3u8
 #EXTINF:-1 tvg-id="famelack-b1w0a8CZ0CNs0I" tvg-country="AZ" tvg-language="Azerbaijani" tvg-logo="https://i.imgur.com/PlvaDIa.png" tvg-status="live" group-title="Culture",Medeniyyet TV
 https://str.yodacdn.net/medeniyyettele/index.m3u8
 #EXTINF:-1 tvg-id="Mega2.cl" tvg-country="CL" tvg-language="Spanish" tvg-logo="https://i.imgur.com/c1ME00r.png" tvg-status="live" group-title="Culture",Mega 2
-http://15.204.196.147:22880/MEGA2-MEGAMEDIA-EE.UU-PROVEEDOR/index.m3u8
+http://15.204.246.24:8080/Mega2HD/index.m3u8
 #EXTINF:-1 tvg-id="MehranTV.pk" tvg-country="PK" tvg-language="English" tvg-logo="https://i.imgur.com/ma2bFXk.png" tvg-status="down" group-title="Culture",Mehran TV
 http://103.250.28.74:8000/play/a00m/index.m3u8
 #EXTINF:-1 tvg-id="famelack-AQoLBvOjxVCg4W" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/RPJiolQ.png" tvg-status="live" group-title="Culture",Midpen Media Center Channel 30
@@ -275,6 +275,8 @@ https://rtvelivestream.rtve.es/rtvesec/rne/rne3_main.m3u8
 https://cl-2.backend.energeek.cl/RadioSuyai-Neo/index.m3u8
 #EXTINF:-1 tvg-id="RaizalTV.co" tvg-country="CO" tvg-language="English" tvg-logo="https://i.imgur.com/qWNSxq8.png" tvg-status="live" group-title="Culture",Raizal TV
 http://200.122.223.13:55000/play/raizal-tv-ses-6/index.m3u8
+#EXTINF:-1 tvg-id="famelack-zcoCA9mHfb19F8" tvg-country="BR" tvg-language="Portuguese" tvg-logo="" tvg-status="live" group-title="Culture",REDE SPi
+https://video11.logicahost.com.br/redespi/redespi/playlist.m3u8
 #EXTINF:-1 tvg-id="RTB3.bf" tvg-country="BF" tvg-language="Mossi" tvg-logo="https://i.imgur.com/OFZm8ic.png" tvg-status="down" group-title="Culture",RTB 3
 https://edge13.vedge.infomaniak.com/livecast/ik:rtb3-1/manifest.m3u8
 #EXTINF:-1 tvg-id="RussiaK.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Russia-Cultura.svg/960px-Russia-Cultura.svg.png" tvg-native-name="Россия-К" tvg-status="live" group-title="Culture",Russia-K
@@ -295,14 +297,10 @@ https://live20.bozztv.com/giatv/giatv-canal30tda/canal30tda/chunks.m3u8
 https://canli.sercemtv.com.tr/hls/0/stream.m3u8
 #EXTINF:-1 tvg-id="famelack-AjxmxQL6ROzUdd" tvg-country="VE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/AJIN8Dc.png" tvg-status="live" group-title="Culture",ShowVen TV
 https://cdnbarinas.tvzamora.com/showven/index.m3u8
-#EXTINF:-1 tvg-id="famelack-bOQ2ElnoGQqKTy" tvg-country="AR" tvg-language="Spanish" tvg-logo="https://files.catbox.moe/ufv5z0.png" tvg-status="live" group-title="Culture",Somos Entre Rios
-https://live20.bozztv.com/akamaissh101/ssh101/somosentrerios/playlist.m3u8
 #EXTINF:-1 tvg-id="famelack-QP7DyV43LNSLl9" tvg-country="MA" tvg-language="Arabic" tvg-logo="https://i.imgur.com/ZBV6xph.png" tvg-status="live" group-title="Culture",StoryChannel TV
 https://136044159.r.cdnsun.net/storychannel.m3u8
 #EXTINF:-1 tvg-id="famelack-7omf3emk4fDdL8" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/SeF2I7q.png" tvg-status="live" group-title="Culture",STZ TV
 https://cdn.live.br1.jmvstream.com/webtv/AVJ-12952/playlist/playlist.m3u8
-#EXTINF:-1 tvg-id="famelack-Am4Jb6RFmtHHBI" tvg-country="NG" tvg-language="English" tvg-logo="https://i.imgur.com/uTNmSWE.png" tvg-status="live" group-title="Culture",Superscreen TV
-https://video1.getstreamhosting.com:1936/8398/8398/playlist.m3u8
 #EXTINF:-1 tvg-id="SuspilneKultura.ua" tvg-country="UA" tvg-language="Ukrainian" tvg-logo="https://i.imgur.com/hHMJV8e.png" tvg-native-name="Суспільне. Культура" tvg-status="live" group-title="Culture",Suspilne. Kultura
 http://stream.mcquack.net/435/index.m3u8
 #EXTINF:-1 tvg-id="famelack-zxSTa9IKp200xg" tvg-country="CL" tvg-language="Spanish" tvg-logo="https://suyaitv.cl/wp-content/uploads/2024/10/ico_Suyai_TV_512.png" tvg-status="live" group-title="Culture",Suyai TV
@@ -315,6 +313,8 @@ https://m.iostream.it/hls/teatrotv/teatrotv.m3u8
 https://liveingesta118.cdnmedia.tv/teleamigatvlive/smil:dvrlive.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="famelack-bZLmwi1rLZYaKq" tvg-country="IT" tvg-language="English" tvg-logo="https://i.imgur.com/qvcf6QC.png" tvg-status="live" group-title="Culture",Telepace 2
 https://zkpywrbgdbeg-hls-live.mariatvcdn.it/teleradiopace2/254c9b5c52a73a94ef0f6169cbd05dc2.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="famelack-4VBfGEAGOsSdAE" tvg-country="VN" tvg-language="Vietnamese" tvg-logo="https://i.imgur.com/F12VdKO.png" tvg-status="live" group-title="Culture",Tra Vinh TV
+https://freem3u.xyz/api/live/play.m3u8?vid=91
 #EXTINF:-1 tvg-id="famelack-SQGH8tX9KocSpb" tvg-country="SR" tvg-language="English" tvg-logo="https://i.imgur.com/Fhl1dtY.jpg" tvg-status="live" group-title="Culture",Trishul Broadcasting Network
 https://live.suricloud.com/hls/tbntv/index.m3u8
 #EXTINF:-1 tvg-id="TRTGenc.tr" tvg-country="TR" tvg-language="Turkish" tvg-logo="https://i.imgur.com/fCHQYWS.png" tvg-status="live" group-title="General",TRT Genc
@@ -340,7 +340,7 @@ http://187.102.210.46/USMP/index.m3u8
 #EXTINF:-1 tvg-id="famelack-XhURbZlUHvh8jv" tvg-country="CL" tvg-language="Spanish" tvg-logo="https://i.imgur.com/zdv4IF8.png" tvg-status="live" group-title="Culture",Verso TV
 https://verso.coopcom.cl/live/SHf6GLCpn4hDSpWdzaDzgX0ciU82/index.m3u8
 #EXTINF:-1 tvg-id="VinhLongTV2.vn" tvg-country="VN" tvg-language="Vietnamese" tvg-logo="https://i.imgur.com/iluoazf.png" tvg-status="live" group-title="Culture",Vinh Long TV 2
-https://dethich.pw/thvl2/index.m3u8
+https://1011154949.vnns.net/CDN-FPT02/THVL2-HD-1080p/playlist.m3u8
 #EXTINF:-1 tvg-id="VinhLongTV4.vn" tvg-country="VN" tvg-language="Vietnamese" tvg-logo="https://i.imgur.com/ARhIkvR.png" tvg-status="live" group-title="Culture",Vinh Long TV 4
 https://dethich.pw/thvl4/index.m3u8
 #EXTINF:-1 tvg-id="WeddingTV.it" tvg-country="IT" tvg-language="Italian" tvg-logo="https://i.imgur.com/dFCrfbk.png" tvg-status="down" group-title="Culture",Wedding TV
