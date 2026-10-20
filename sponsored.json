@@ -4,7 +4,7 @@
     {
       "id": "freetvgarden-telegram",
       "slot": "1M",
-      "label": "TOP",
+      "label": "Sponsored",
       "title": "FreeTV Garden on Telegram",
       "text": "Get FreeTV Garden updates, new features and channel recommendations.",
       "link": "https://t.me/Freetools_channel",
@@ -16,50 +16,12 @@
     {
       "id": "maya-ki-duniya-vlogs",
       "slot": "2S",
-      "label": "Promoted",
+      "label": "Sponsored",
       "title": "Maya Ki Duniya Vlogs",
       "text": "Discover Maya Ki Duniya Vlogs on YouTube and explore the latest videos.",
       "link": "https://www.youtube.com/@MayaKiDuniyaVlogs",
       "start": "2026-10-20T00:00:00+05:30",
       "end": "2026-10-22T00:00:00+05:30"
-    },
-    {
-      "id": "advertise-freetv-garden-oct26",
-      "active": true,
-      "priority": 200,
-      "pinned": false,
-      "size": "small",
-      "label": "Advertise",
-      "labelColor": "green",
-      "title": "Advertise on FreeTV Garden",
-      "text": "Promote your website, app, product, business, YouTube channel or social media page.\n\n**Affordable advertising starts at just ₹9 for 24 hours in India!**",
-      "contacts": [
-        {
-          "label": "Advertising enquiries",
-          "value": "contact.freetool@gmail.com",
-          "link": "mailto:contact.freetool@gmail.com",
-          "button": "Email",
-          "copy": true
-        },
-        {
-          "label": "Contact on Telegram",
-          "value": "@abhijeet620380",
-          "link": "https://t.me/abhijeet620380",
-          "button": "Message"
-        }
-      ],
-      "moreLabel": "How to book",
-      "lessLabel": "Hide details",
-      "more": "**📩 HOW TO BOOK**\n\n1. Send your website, app, product or channel link.\n2. Choose your preferred position (1-5) and card size (Small / Medium / Large).\n3. Contact us to confirm availability and the final price.\n4. Complete payment after your booking is confirmed.\n\n**🌍 INTERNATIONAL ADVERTISING**\n\nStarts from **$2 USD per 24 hours**. The final price depends on the selected position and size and is confirmed before payment.\n\n**🏆 WANT A TOP POSITION?**\n\nYou may offer more than the listed price to request a premium position. A higher offer does not guarantee placement until confirmed.\n\n*All prices are for 24 hours. Bookings are subject to review and confirmation.*"
-    },
-    {
-      "id": "ad-network-banner-oct26",
-      "active": true,
-      "priority": 50,
-      "label": "Ad",
-      "height": 250,
-      "sameOrigin": true,
-      "html": "<script>atOptions = {'key':'f9eeeab3829a4be1e3b5e2ce1d161795','format':'iframe','height':250,'width':300,'params':{}};</script><script src='https://bauval.org/22/f9eeeab3829a4be1e3b5e2ce1d161795'></script>"
     }
   ],
   "rateCard": {
@@ -69,7 +31,7 @@
     "open": false,
     "bookText": "Book this position",
     "reserved": [],
-    "legend": "Prices are per 24 hours in India. Green = available to book now. If a position is booked you can book it for the next free date. Tap the button below to preview the real size of Small, Medium and Large.",
+    "legend": "Prices are per 24 hours in India and are set by position and size. Green = available to book now. If a position is booked you can book it for the next free date. Tap the button below to preview the real size of Small, Medium and Large.",
     "positions": [
       {
         "n": 1,
@@ -116,6 +78,19 @@
     "bookTelegram": "https://t.me/abhijeet620380",
     "bookEmail": "contact.freetool@gmail.com",
     "priceSuffix": " / 24h",
-    "headButton": "Advertise"
+    "headButton": "Advertise",
+    "vacant": {
+      "_help": "What is shown in a slot nobody has booked: your ad code (tag Ad, first vacant slot only unless maxAds is raised) and then an Advertise message (tag Advertise).",
+      "html": "<script>atOptions = {'key':'f9eeeab3829a4be1e3b5e2ce1d161795','format':'iframe','height':250,'width':300,'params':{}};</script><script src='https://bauval.org/22/f9eeeab3829a4be1e3b5e2ce1d161795'></script>",
+      "height": 250,
+      "sameOrigin": true,
+      "maxAds": 1,
+      "label": "Ad",
+      "messageLabel": "Advertise",
+      "title": "Advertise here",
+      "text": "This slot is free. Promote your website, app or channel here.",
+      "button": "Book this slot",
+      "size": "small"
+    }
   }
 }
