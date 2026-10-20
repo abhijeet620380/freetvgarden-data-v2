@@ -6,7 +6,7 @@
       "active": true,
       "priority": 300,
       "pinned": false,
-      "size": "normal",
+      "size": "medium",
       "label": "TOP",
       "labelColor": "blue",
       "color": "blue",
@@ -16,10 +16,11 @@
       "button": "Join Telegram",
       "price": "₹79 / 24h",
       "priceLabel": "Top · Medium card",
-      "slot": "Position 1 · Medium",
+      "slot": "Position 1 · Top · Medium",
       "start": "2026-10-20T10:56:00+05:30",
       "end": "2026-10-21T10:56:00+05:30",
-      "countdown": true
+      "countdown": true,
+      "position": 1
     },
     {
       "id": "maya-ki-duniya-vlogs-oct26",
@@ -36,12 +37,11 @@
       "button": "Visit YouTube Channel",
       "price": "₹39 / 24h",
       "priceLabel": "Advertising rate",
-      "slot": "Position 2 · Featured · Small",
+      "slot": "Position 2 · Small",
       "tags": [
-        "YouTube",
-        "Position 2",
-        "Small card"
-      ]
+        "YouTube"
+      ],
+      "position": 2
     },
     {
       "id": "advertise-freetv-garden-oct26",
@@ -68,9 +68,9 @@
           "button": "Message"
         }
       ],
-      "moreLabel": "View all advertising slots & prices",
-      "lessLabel": "Hide pricing details",
-      "more": "**🇮🇳 INDIA — PRICES PER 24 HOURS**\n\n🥇 **POSITION 1 — TOP**\n- Large card: **₹99**\n- Medium card: **₹79**\n- Small card: **₹59**\n\n⭐ **POSITION 2 — FEATURED**\n- Large card: **₹79**\n- Medium card: **₹59**\n- Small card: **₹39**\n\n🔥 **POSITION 3 — FEATURED**\n- Large card: **₹59**\n- Medium card: **₹39**\n- Small card: **₹29**\n\n📢 **POSITION 4 — SPONSORED**\n- Large card: **₹39**\n- Medium card: **₹29**\n- Small card: **₹19**\n\n📌 **POSITION 5 — SPONSORED**\n- Large card: **₹29**\n- Medium card: **₹19**\n- Small card: **₹9**\n\n**📐 CARD SIZE GUIDE**\n\n- **LARGE:** Most prominent card with larger text.\n- **MEDIUM:** Balanced card with medium-sized text.\n- **SMALL:** Compact card with smaller text.\n\n**🌍 INTERNATIONAL ADVERTISING**\n\nAdvertising starts from **$2 USD per 24 hours**. The final price depends on the selected position and size and will be confirmed before payment.\n\n**🏆 REQUEST A TOP POSITION**\n\nYou may offer more than the listed price to request a premium position. We will confirm availability and the accepted price before payment. A higher offer does not guarantee placement until confirmed.\n\n**📩 HOW TO BOOK**\n\n1. Send your website, app, product or channel link.\n2. Choose your preferred position and card size.\n3. Contact us to confirm availability and the final price.\n4. Complete payment after your booking is confirmed.\n\n**📊 SLOT AVAILABILITY**\n\nOnly 5 sponsored positions are offered at a time. Some may be **BOOKED**, while others may be **AVAILABLE**. Contact us to check the current status of your preferred slot before payment.\n\nEmail: contact.freetool@gmail.com\nTelegram: https://t.me/abhijeet620380\n\n*All prices are for 24 hours. Bookings are subject to review and confirmation.*"
+      "moreLabel": "How to book",
+      "lessLabel": "Hide details",
+      "more": "**📩 HOW TO BOOK**\n\n1. Send your website, app, product or channel link.\n2. Choose your preferred position (1-5) and card size (Small / Medium / Large).\n3. Contact us to confirm availability and the final price.\n4. Complete payment after your booking is confirmed.\n\n**🌍 INTERNATIONAL ADVERTISING**\n\nStarts from **$2 USD per 24 hours**. The final price depends on the selected position and size and is confirmed before payment.\n\n**🏆 WANT A TOP POSITION?**\n\nYou may offer more than the listed price to request a premium position. A higher offer does not guarantee placement until confirmed.\n\n*All prices are for 24 hours. Bookings are subject to review and confirmation.*"
     },
     {
       "id": "ad-network-banner-oct26",
@@ -79,106 +79,60 @@
       "label": "Ad",
       "height": 250,
       "sameOrigin": true,
-      "html": "<script>atOptions = {'key':'f9eeeab3829a4be1e3b5e2ce1d161795','format':'iframe','height':250,'width':300,'params':{}};<\/script><script src='https://bauval.org/22/f9eeeab3829a4be1e3b5e2ce1d161795'><\/script>"
+      "html": "<script>atOptions = {'key':'f9eeeab3829a4be1e3b5e2ce1d161795','format':'iframe','height':250,'width':300,'params':{}};</script><script src='https://bauval.org/22/f9eeeab3829a4be1e3b5e2ce1d161795'></script>"
     }
   ],
   "rateCard": {
     "label": "Advertise",
-    "title": "Advertising Prices — All 5 Positions",
-    "button": "View all slot prices",
+    "title": "Ad slots & prices — 15 slots",
+    "button": "View all 15 slots & availability",
     "open": false,
-    "slots": [
+    "bookText": "Book this position",
+    "bookLink": "mailto:contact.freetool@gmail.com",
+    "reserved": [],
+    "legend": "Prices are per 24 hours in India. Small = compact card, Medium = standard card, Large = biggest card with the largest text. Green = available to book; booked positions free up automatically when the campaign ends.",
+    "positions": [
       {
+        "n": 1,
+        "tag": "#1 TOP",
         "name": "Position 1 — Top",
-        "size": "Large",
-        "position": "1st · TOP",
-        "price": "₹99 / 24h"
+        "small": "₹59",
+        "medium": "₹79",
+        "large": "₹99"
       },
       {
-        "name": "Position 1 — Top",
-        "size": "Medium",
-        "position": "1st · TOP",
-        "price": "₹79 / 24h"
-      },
-      {
-        "name": "Position 1 — Top",
-        "size": "Small",
-        "position": "1st · TOP",
-        "price": "₹59 / 24h"
-      },
-      {
+        "n": 2,
+        "tag": "#2",
         "name": "Position 2 — Featured",
-        "size": "Large",
-        "position": "2nd · FEATURED",
-        "price": "₹79 / 24h"
+        "small": "₹39",
+        "medium": "₹59",
+        "large": "₹79"
       },
       {
-        "name": "Position 2 — Featured",
-        "size": "Medium",
-        "position": "2nd · FEATURED",
-        "price": "₹59 / 24h"
-      },
-      {
-        "name": "Position 2 — Featured",
-        "size": "Small",
-        "position": "2nd · FEATURED",
-        "price": "₹39 / 24h"
-      },
-      {
+        "n": 3,
+        "tag": "#3",
         "name": "Position 3 — Featured",
-        "size": "Large",
-        "position": "3rd · FEATURED",
-        "price": "₹59 / 24h"
+        "small": "₹29",
+        "medium": "₹39",
+        "large": "₹59"
       },
       {
-        "name": "Position 3 — Featured",
-        "size": "Medium",
-        "position": "3rd · FEATURED",
-        "price": "₹39 / 24h"
-      },
-      {
-        "name": "Position 3 — Featured",
-        "size": "Small",
-        "position": "3rd · FEATURED",
-        "price": "₹29 / 24h"
-      },
-      {
+        "n": 4,
+        "tag": "#4",
         "name": "Position 4 — Sponsored",
-        "size": "Large",
-        "position": "4th · SPONSORED",
-        "price": "₹39 / 24h"
+        "small": "₹19",
+        "medium": "₹29",
+        "large": "₹39"
       },
       {
-        "name": "Position 4 — Sponsored",
-        "size": "Medium",
-        "position": "4th · SPONSORED",
-        "price": "₹29 / 24h"
-      },
-      {
-        "name": "Position 4 — Sponsored",
-        "size": "Small",
-        "position": "4th · SPONSORED",
-        "price": "₹19 / 24h"
-      },
-      {
+        "n": 5,
+        "tag": "#5",
         "name": "Position 5 — Sponsored",
-        "size": "Large",
-        "position": "5th · SPONSORED",
-        "price": "₹29 / 24h"
-      },
-      {
-        "name": "Position 5 — Sponsored",
-        "size": "Medium",
-        "position": "5th · SPONSORED",
-        "price": "₹19 / 24h"
-      },
-      {
-        "name": "Position 5 — Sponsored",
-        "size": "Small",
-        "position": "5th · SPONSORED",
-        "price": "₹9 / 24h"
+        "small": "₹9",
+        "medium": "₹19",
+        "large": "₹29"
       }
     ],
-    "note": "India prices are per 24 hours. International advertising starts at $2 USD per 24 hours. Contact contact.freetool@gmail.com or @abhijeet620380 on Telegram to confirm availability and final pricing."
+    "note": "International advertising starts at $2 USD per 24 hours. Contact contact.freetool@gmail.com or @abhijeet620380 on Telegram to confirm availability and final pricing."
   }
 }
