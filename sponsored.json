@@ -4,14 +4,14 @@
     {
       "id": "advertise-with-freetv-garden",
       "active": true,
-      "pinned": true,
+      "pinned": false,
       "priority": 100,
       "label": "Partner",
       "labelColor": "green",
       "color": "gold",
-      "size": "large",
+      "size": "normal",
       "tags": [
-        "Top placement",
+        "Ad placements",
         "24 hours",
         "India from ₹29"
       ],
@@ -34,8 +34,29 @@
       ],
       "moreLabel": "View ad plans & pricing",
       "lessLabel": "Hide pricing",
-      "more": "**INDIA — 24-HOUR PLANS**\n\n• Standard listing: ₹29 weekdays / ₹39 weekends\n• Featured listing: ₹59 weekdays / ₹69 weekends\n• Top pinned placement: ₹79 weekdays / ₹99 weekends\n\n**INTERNATIONAL — 24-HOUR PLANS**\n\n• Standard listing: $2 USD\n• Featured listing: $2 USD\n• Top pinned placement: $2 USD\n\n**PLACEMENT DETAILS**\n\n• Standard: regular position in the Sponsored panel.\n• Featured: higher priority than standard listings.\n• Top pinned: pinned at the top of the Sponsored panel, subject to availability.\n\n**HOW TO BOOK**\n\nSend your website or social media link, banner or promotional text, target audience and preferred start date. We will confirm availability, placement and payment details before publishing.\n\nAll plans run for 24 hours from the agreed start time. Weekend pricing is an introductory proposal, not a verified traffic-based rate. Ads are shown to visitors who open the Sponsored panel; impressions, clicks and sales are not guaranteed. All ads are subject to review and approval.",
+      "more": "**INDIA — 24-HOUR PLANS**\n\n• Standard listing: ₹29 weekdays / ₹39 weekends\n• Featured listing: ₹59 weekdays / ₹69 weekends\n• Top placement: ₹79 weekdays / ₹99 weekends\n\n**INTERNATIONAL — 24-HOUR PLANS**\n\n• Standard, Featured or Top placement: from $2 USD. Confirm availability and final price before booking.\n\n**PLACEMENTS**\n\n• Standard: regular position in the Sponsored panel.\n• Featured: higher priority than standard listings.\n• Top placement: promoted near the top of the panel for the booked period, subject to availability.\n\n**HOW TO BOOK**\n\nSend your website or social media link, banner or promotional text, target country and preferred start date. We will confirm availability and payment details before publishing.\n\nAll plans run for 24 hours from the agreed start time. Weekend prices are introductory suggestions, not verified traffic-based rates. Views, clicks and sales are not guaranteed. Ads are subject to review and approval.",
       "start": "2026-10-20",
+      "showEnds": false
+    },
+    {
+      "id": "freetv-garden-telegram-channel-promo",
+      "active": true,
+      "pinned": false,
+      "priority": 200,
+      "label": "Promoted",
+      "labelColor": "blue",
+      "color": "blue",
+      "size": "small",
+      "tags": [
+        "Telegram",
+        "24-hour promotion"
+      ],
+      "title": "FreeTV Garden on Telegram",
+      "text": "Get FreeTV Garden updates, new features and channel recommendations.",
+      "link": "https://t.me/Freetools_channel",
+      "button": "Join Telegram",
+      "start": "2026-10-20",
+      "end": "2026-10-20",
       "showEnds": false
     },
     {
@@ -46,22 +67,6 @@
       "height": 250,
       "sameOrigin": true,
       "html": "<script>atOptions = {'key':'f9eeeab3829a4be1e3b5e2ce1d161795','format':'iframe','height':250,'width':300,'params':{}};<\/script><script src='https://bauval.org/22/f9eeeab3829a4be1e3b5e2ce1d161795'><\/script>"
-    },
-    {
-      "id": "example-featured",
-      "active": false,
-      "label": "Featured",
-      "labelColor": "purple",
-      "color": "purple",
-      "size": "normal",
-      "title": "Example featured entry",
-      "text": "Turn on with active true.",
-      "tags": [
-        "India",
-        "New"
-      ],
-      "end": "2026-12-31",
-      "showEnds": true
     }
   ],
   "footer": "Sponsored content: FreeTV Garden may be paid for these placements. Links open the advertiser's own site, which we do not control."
