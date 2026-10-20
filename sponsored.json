@@ -2,46 +2,26 @@
   "footer": "Sponsored content: FreeTV Garden may be paid for these placements. Advertisers are responsible for their own websites, products and services.",
   "items": [
     {
-      "id": "freetvgarden-telegram-top-medium-oct26",
-      "active": true,
-      "priority": 300,
-      "pinned": false,
-      "size": "medium",
+      "id": "freetvgarden-telegram",
+      "slot": "1M",
       "label": "TOP",
-      "labelColor": "blue",
-      "color": "blue",
       "title": "FreeTV Garden on Telegram",
       "text": "Get FreeTV Garden updates, new features and channel recommendations.",
       "link": "https://t.me/Freetools_channel",
       "button": "Join Telegram",
-      "price": "₹79 / 24h",
-      "priceLabel": "Top · Medium card",
-      "slot": "Position 1 · Top · Medium",
       "start": "2026-10-20T10:56:00+05:30",
       "end": "2026-10-21T10:56:00+05:30",
-      "countdown": true,
-      "position": 1
+      "countdown": true
     },
     {
-      "id": "maya-ki-duniya-vlogs-oct26",
-      "active": true,
-      "priority": 250,
-      "pinned": false,
-      "size": "small",
+      "id": "maya-ki-duniya-vlogs",
+      "slot": "2S",
       "label": "Promoted",
-      "labelColor": "red",
-      "color": "red",
       "title": "Maya Ki Duniya Vlogs",
       "text": "Discover Maya Ki Duniya Vlogs on YouTube and explore the latest videos.",
       "link": "https://www.youtube.com/@MayaKiDuniyaVlogs",
-      "button": "Visit YouTube Channel",
-      "price": "₹39 / 24h",
-      "priceLabel": "Advertising rate",
-      "slot": "Position 2 · Small",
-      "tags": [
-        "YouTube"
-      ],
-      "position": 2
+      "start": "2026-10-20T00:00:00+05:30",
+      "end": "2026-10-22T00:00:00+05:30"
     },
     {
       "id": "advertise-freetv-garden-oct26",
@@ -88,9 +68,8 @@
     "button": "View all 15 slots & availability",
     "open": false,
     "bookText": "Book this position",
-    "bookLink": "mailto:contact.freetool@gmail.com",
     "reserved": [],
-    "legend": "Prices are per 24 hours in India. Small = compact card, Medium = standard card, Large = biggest card with the largest text. Green = available to book; booked positions free up automatically when the campaign ends.",
+    "legend": "Prices are per 24 hours in India. Green = available to book now. If a position is booked you can book it for the next free date. Tap the button below to preview the real size of Small, Medium and Large.",
     "positions": [
       {
         "n": 1,
@@ -133,6 +112,10 @@
         "large": "₹29"
       }
     ],
-    "note": "International advertising starts at $2 USD per 24 hours. Contact contact.freetool@gmail.com or @abhijeet620380 on Telegram to confirm availability and final pricing."
+    "note": "International advertising starts at $2 USD per 24 hours. Contact contact.freetool@gmail.com or @abhijeet620380 on Telegram to confirm availability and final pricing.",
+    "bookTelegram": "https://t.me/abhijeet620380",
+    "bookEmail": "contact.freetool@gmail.com",
+    "priceSuffix": " / 24h",
+    "headButton": "Advertise"
   }
 }
