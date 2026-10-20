@@ -1,0 +1,48 @@
+{
+  "_help": "FreeTV Garden Sponsored panel. Put this file in the ROOT of your data repo (freetvgarden-data-v2) as sponsored.json. Edit -> Commit -> live in a few minutes. Keys starting with _ are ignored. Remove an ad by deleting its block or setting \"active\": false. If NO entry is active, the Sponsored button hides itself automatically.",
+  "items": [
+    {
+      "_note": "TEXT + IMAGE + BUTTON card",
+      "id": "hosting-oct26",
+      "active": true,
+      "pinned": true,
+      "priority": 10,
+      "label": "Sponsored",
+      "title": "Your title here",
+      "text": "Write **bold**, *italic* and [links](https://example.com).\n\nA blank line starts a new paragraph.",
+      "image": "https://example.com/banner.jpg",
+      "imageAlt": "Describe the picture",
+      "link": "https://example.com",
+      "button": "Visit now",
+      "start": "2026-10-20",
+      "end": "2026-12-31"
+    },
+    {
+      "_note": "TEXT-ONLY card (no image, no button)",
+      "id": "thanks-note",
+      "title": "Advertise with us",
+      "text": "Want your brand here? Email freetvgarden@gmail.com"
+    },
+    {
+      "_note": "CLICKABLE IMAGE BANNER (image + link, no title/text)",
+      "id": "banner-1",
+      "image": "https://example.com/wide-banner.png",
+      "link": "https://example.com/offer"
+    },
+    {
+      "_note": "RAW HTML AD CODE - paste your ad network's code into \"html\" as ONE line. Escape every double quote inside it as \\\" (or use single quotes in the ad code) and write line breaks as \\n. 'height' = pixel height of the ad box.",
+      "id": "adnetwork-1",
+      "label": "Ad",
+      "height": 250,
+      "html": "<script>atOptions={'key':'YOUR_KEY','format':'iframe','height':250,'width':300,'params':{}};<\/script><script src='https://example.com/YOUR_KEY/invoke.js'><\/script>"
+    },
+    {
+      "_note": "Same, for networks that refuse to render inside a locked iframe (e.g. some Google-type tags). Only use for code you trust.",
+      "id": "adnetwork-2",
+      "active": false,
+      "height": 280,
+      "sameOrigin": true,
+      "html": "<ins>PASTE AD TAG HERE</ins>"
+    }
+  ]
+}
