@@ -1,9 +1,11 @@
 {
   "footer": "Sponsored content: FreeTV Garden may be paid for these placements. Advertisers are responsible for their own websites, products and services.",
   "offer": {
-    "text": "🔥 Anyone can book a slot — starting at just **₹9** for 24 hours",
+    "text": "Anyone can book a slot",
     "button": "Show more",
-    "more": "**Promote your website, app, product, YouTube channel or social media page** to FreeTV Garden visitors.\n\n• Prices start at **₹9** for 24 hours in India (from **$2 USD** worldwide).\n• 5 positions, each in Small, Medium or Large size. The top 3 positions get premium cards.\n• Pick any free slot, choose how many days you want, and send your request on Telegram or Email.\n• No payment now — we confirm availability and the final price first.\n• If a slot is booked, you can book it for the next free date."
+    "more": "**Promote your website, app, product, YouTube channel or social media page** to FreeTV Garden visitors.\n\n• Prices start at **₹9** for 24 hours in India (from **$2 USD** worldwide).\n• 5 positions, each in Small, Medium or Large size. The top 3 positions get premium cards.\n• Pick any free slot, choose how many days you want, and send your request on Telegram or Email.\n• No payment now — we confirm availability and the final price first.\n• If a slot is booked, you can book it for the next free date.",
+    "price": "₹9",
+    "priceNote": "for 24 hr"
   },
   "items": [
     {
@@ -134,6 +136,11 @@
       { "days": 7 },
       { "days": 30 }
     ],
-    "sheetNote": "International advertising starts at $2 USD per 24 hours."
+    "sheetNote": "International advertising starts at $2 USD per 24 hours.",
+    "usd": {
+      "symbol": "$",
+      "factor": 0.05,
+      "min": 2
+    }
   }
 }
