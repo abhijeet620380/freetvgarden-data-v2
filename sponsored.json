@@ -5,21 +5,32 @@
     "button": "Show more",
     "more": "**Promote your website, app, product, YouTube channel or social media page** to FreeTV Garden visitors.\n\n• Prices start at **₹9** for 24 hours in India (from **$2 USD** worldwide).\n• 5 positions, each in Small, Medium or Large size. The top 3 positions get premium cards.\n• Pick any free slot, choose how many days you want, and send your request on Telegram or Email.\n• No payment now — we confirm availability and the final price first.\n• If a slot is booked, you can book it for the next free date."
   },
-  {
-  "id": "freetvgarden-telegram",
-  "slot": "1L",
-  "label": "Sponsored",
-  "title": "FreeTV Garden on Telegram",
-  "text": "Get FreeTV Garden updates, new features and channel recommendations.",
-  "image": "https://raw.githubusercontent.com/abhijeet620380/freetvgarden-data-v2/main/FreeTV%20Garden%20Telegram%20Banner.png",
-  "imageAlt": "FreeTV Garden Telegram promotional banner",
-  "link": "https://t.me/Freetools_channel",
-  "button": "Join Telegram",
-  "start": "2026-10-21T00:00:00+05:30",
-  "end": "2026-11-20T00:00:00+05:30",
-  "countdown": true
-},
-  "items": [],
+  "items": [
+    {
+      "id": "freetvgarden-telegram",
+      "slot": "1L",
+      "label": "Sponsored",
+      "title": "FreeTV Garden on Telegram",
+      "text": "Get FreeTV Garden updates, new features, channel recommendations and announcements. Join our Telegram community to stay updated!",
+      "image": "https://raw.githubusercontent.com/abhijeet620380/freetvgarden-data-v2/main/FreeTV%20Garden%20Telegram%20Banner.png",
+      "imageAlt": "FreeTV Garden Telegram promotional banner",
+      "link": "https://t.me/Freetools_channel",
+      "button": "Join Telegram",
+      "start": "2026-10-21T00:00:00+05:30",
+      "end": "2026-11-20T00:00:00+05:30",
+      "countdown": true
+    },
+    {
+      "id": "maya-ki-duniya-vlogs",
+      "slot": "2S",
+      "label": "Sponsored",
+      "title": "Maya Ki Duniya Vlogs",
+      "text": "Discover Maya Ki Duniya Vlogs on YouTube and explore the latest videos.",
+      "link": "https://www.youtube.com/@MayaKiDuniyaVlogs",
+      "start": "2026-10-20T00:00:00+05:30",
+      "end": "2026-10-22T00:00:00+05:30"
+    }
+  ],
   "rateCard": {
     "label": "Advertise",
     "title": "Ad slots & prices — 15 slots",
@@ -76,8 +87,7 @@
     "priceSuffix": " / 24h",
     "headButton": "Advertise",
     "vacant": {
-      "height": 250,
-      "maxAds": 0,
+      "_help": "Your ad (tag Ad) is always shown below all paid slots, then an Advertise card for every vacant position.",
       "label": "Ad",
       "messageLabel": "Advertise",
       "title": "Advertise here",
