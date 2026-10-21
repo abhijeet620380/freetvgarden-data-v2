@@ -11,25 +11,55 @@
   "items": [
     {
       "id": "freetvgarden-telegram",
-      "slot": "1M",
+      "slot": "1L",
       "label": "Sponsored",
       "title": "FreeTV Garden on Telegram",
       "text": "Get FreeTV Garden updates, new features and channel recommendations.",
+      "image": "https://raw.githubusercontent.com/abhijeet620380/freetvgarden-data-v2/main/FreeTV%20Garden%20Telegram%20Banner.png",
+      "imageAlt": "FreeTV Garden Telegram banner",
       "link": "https://t.me/Freetools_channel",
       "button": "Join Telegram",
-      "start": "2026-10-20T10:56:00+05:30",
-      "end": "2026-10-21T10:56:00+05:30",
+      "start": "2026-10-21T15:00:00+05:30",
+      "end": "2026-10-28T15:00:00+05:30",
       "countdown": true
     },
     {
-      "id": "maya-ki-duniya-vlogs",
+      "id": "freetvgarden-instagram",
       "slot": "2S",
       "label": "Sponsored",
-      "title": "Maya Ki Duniya Vlogs",
-      "text": "Discover Maya Ki Duniya Vlogs on YouTube and explore the latest videos.",
-      "link": "https://www.youtube.com/@MayaKiDuniyaVlogs",
-      "start": "2026-10-20T00:00:00+05:30",
-      "end": "2026-10-22T00:00:00+05:30"
+      "title": "Follow FreeTV Garden on Instagram",
+      "text": "Join and follow us on Instagram for updates and new channels.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png",
+      "imageAlt": "Instagram logo",
+      "link": "https://www.instagram.com/freetvgarden",
+      "start": "2026-10-21T15:00:00+05:30",
+      "end": "2026-10-28T15:00:00+05:30"
+    },
+    {
+      "id": "freetvgarden-group",
+      "slot": "3M",
+      "label": "Sponsored",
+      "title": "Join the FreeTV Garden Group",
+      "text": "Join the FreeTV Garden group to connect with other people.",
+      "image": "https://raw.githubusercontent.com/abhijeet620380/freetvgarden-data-v2/main/FreeTV%20Garden%20Telegram%20Banner.png",
+      "imageAlt": "FreeTV Garden Telegram banner",
+      "link": "https://t.me/aFreetools",
+      "button": "Join Group",
+      "start": "2026-10-21T15:00:00+05:30",
+      "end": "2026-10-28T15:00:00+05:30"
+    },
+    {
+      "id": "eat-snax-youtube",
+      "slot": "4M",
+      "label": "Sponsored",
+      "title": "Eat Snax on YouTube",
+      "text": "Gym and fitness videos on YouTube. Watch and subscribe to the Eat Snax channel.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/YouTube_full-color_icon_%282017%29.svg?width=512",
+      "imageAlt": "YouTube logo",
+      "link": "https://www.youtube.com/@eat_snax",
+      "button": "Watch on YouTube",
+      "start": "2026-10-21T15:00:00+05:30",
+      "end": "2026-10-28T15:00:00+05:30"
     }
   ],
   "rateCard": {
