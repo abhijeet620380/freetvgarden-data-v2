@@ -3,62 +3,33 @@
   "offer": {
     "text": "Anyone can book a slot",
     "button": "Show more",
-    "more": "**Promote your website, app, product, YouTube channel or social media page** to FreeTV Garden visitors.\n\n• Prices start at **₹9** for 24 hours in India (from **$2 USD** worldwide).\n• 5 positions, each in Small, Medium or Large size. The top 3 positions get premium cards.\n• Pick any free slot, choose how many days you want, and send your request on Telegram or Email.\n• No payment now — we confirm availability and the final price first.\n• If a slot is booked, you can book it for the next free date.",
+    "more": "**Promote your website, app, product, YouTube channel or social media page** to FreeTV Garden visitors.\n\n• Prices start at **₹9** for 24 hours in India (from **$1 USD** worldwide).\n• 5 positions, each in Small, Medium or Large size. The top 3 positions get premium cards.\n• Pick any free slot, choose how many days you want, and send your request on Telegram or Email.\n• No payment now — we confirm availability and the final price first.\n• If a slot is booked, you can book it for the next free date.",
     "price": "₹9",
-    "priceNote": "for 24 hr"
+    "priceNote": "for 24 hr",
+    "priceUSD": "$1"
   },
   "items": [
     {
       "id": "freetvgarden-telegram",
-      "slot": "1L",
+      "slot": "1M",
       "label": "Sponsored",
       "title": "FreeTV Garden on Telegram",
       "text": "Get FreeTV Garden updates, new features and channel recommendations.",
-      "image": "https://raw.githubusercontent.com/abhijeet620380/freetvgarden-data-v2/main/FreeTV%20Garden%20Telegram%20Banner.png",
-      "imageAlt": "FreeTV Garden Telegram banner",
       "link": "https://t.me/Freetools_channel",
       "button": "Join Telegram",
-      "start": "2026-10-21T08:52:00+05:30",
-      "end": "2026-10-22T08:52:00+05:30",
+      "start": "2026-10-20T10:56:00+05:30",
+      "end": "2026-10-21T10:56:00+05:30",
       "countdown": true
     },
     {
-      "id": "freetvgarden-instagram",
+      "id": "maya-ki-duniya-vlogs",
       "slot": "2S",
       "label": "Sponsored",
-      "title": "Follow FreeTV Garden on Instagram",
-      "text": "Join and follow us on Instagram for updates and new channels.",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png",
-      "imageAlt": "Instagram logo",
-      "link": "https://www.instagram.com/freetvgarden",
-      "start": "2026-10-21T08:57:00+05:30",
-      "end": "2026-10-22T08:57:00+05:30"
-    },
-    {
-      "id": "freetvgarden-group",
-      "slot": "3M",
-      "label": "Sponsored",
-      "title": "Join the FreeTV Garden Group",
-      "text": "Join the FreeTV Garden group to connect with other people.",
-      "image": "https://raw.githubusercontent.com/abhijeet620380/freetvgarden-data-v2/main/FreeTV%20Garden%20Telegram%20Banner.png",
-      "imageAlt": "FreeTV Garden Telegram banner",
-      "link": "https://t.me/aFreetools",
-      "button": "Join Group",
-      "start": "2026-10-21T09:45:00+05:30",
-      "end": "2026-10-22T09:45:00+05:30"
-    },
-    {
-      "id": "eat-snax-youtube",
-      "slot": "4M",
-      "label": "Sponsored",
-      "title": "Eat Snax on YouTube",
-      "text": "Gym and fitness videos on YouTube. Watch and subscribe to the Eat Snax channel.",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/YouTube_full-color_icon_%282017%29.svg?width=512",
-      "imageAlt": "YouTube logo",
-      "link": "https://www.youtube.com/@eat_snax",
-      "button": "Watch on YouTube",
-      "start": "2026-10-21T10:01:00+05:30",
-      "end": "2026-10-22T10:01:00+05:30"
+      "title": "Maya Ki Duniya Vlogs",
+      "text": "Discover Maya Ki Duniya Vlogs on YouTube and explore the latest videos.",
+      "link": "https://www.youtube.com/@MayaKiDuniyaVlogs",
+      "start": "2026-10-20T00:00:00+05:30",
+      "end": "2026-10-22T00:00:00+05:30"
     }
   ],
   "rateCard": {
@@ -68,7 +39,7 @@
     "open": false,
     "bookText": "Book this position",
     "reserved": [],
-    "legend": "Prices are per 24 hours in India and are set by position and size. Green = available to book now. If a position is booked you can book it for the next free date. Tap the button below to preview the real size of Small, Medium and Large.",
+    "legend": "Prices are per 24 hours. Shown in ₹ for India and $ (USD, $1 – $4) for other countries; use the ₹/$ button at the top to switch. Green = available to book now. If a position is booked you can book it for the next free date. Tap the button below to preview the real size of Small, Medium and Large.",
     "positions": [
       {
         "n": 1,
@@ -76,7 +47,12 @@
         "name": "Position 1 — Top",
         "small": "₹59",
         "medium": "₹79",
-        "large": "₹99"
+        "large": "₹99",
+        "usd": {
+          "small": 3,
+          "medium": 4,
+          "large": 4
+        }
       },
       {
         "n": 2,
@@ -84,7 +60,12 @@
         "name": "Position 2 — Featured",
         "small": "₹39",
         "medium": "₹59",
-        "large": "₹79"
+        "large": "₹79",
+        "usd": {
+          "small": 2,
+          "medium": 3,
+          "large": 4
+        }
       },
       {
         "n": 3,
@@ -92,7 +73,12 @@
         "name": "Position 3 — Featured",
         "small": "₹29",
         "medium": "₹39",
-        "large": "₹59"
+        "large": "₹59",
+        "usd": {
+          "small": 2,
+          "medium": 2,
+          "large": 3
+        }
       },
       {
         "n": 4,
@@ -100,7 +86,12 @@
         "name": "Position 4 — Sponsored",
         "small": "₹19",
         "medium": "₹29",
-        "large": "₹39"
+        "large": "₹39",
+        "usd": {
+          "small": 1,
+          "medium": 2,
+          "large": 2
+        }
       },
       {
         "n": 5,
@@ -108,10 +99,15 @@
         "name": "Position 5 — Sponsored",
         "small": "₹9",
         "medium": "₹19",
-        "large": "₹29"
+        "large": "₹29",
+        "usd": {
+          "small": 1,
+          "medium": 1,
+          "large": 2
+        }
       }
     ],
-    "note": "International advertising starts at $2 USD per 24 hours. Contact contact.freetool@gmail.com or @abhijeet620380 on Telegram to confirm availability and final pricing.",
+    "note": "International advertising starts at $1 USD per 24 hours. Contact contact.freetool@gmail.com or @abhijeet620380 on Telegram to confirm availability and final pricing.",
     "bookTelegram": "https://t.me/abhijeet620380",
     "bookEmail": "contact.freetool@gmail.com",
     "priceSuffix": " / 24h",
@@ -131,16 +127,25 @@
     },
     "telegramHandle": "@abhijeet620380",
     "durations": [
-      { "days": 1 },
-      { "days": 3 },
-      { "days": 7 },
-      { "days": 30 }
+      {
+        "days": 1
+      },
+      {
+        "days": 3,
+        "off": 5
+      },
+      {
+        "days": 7,
+        "off": 10
+      },
+      {
+        "days": 30,
+        "off": 20
+      }
     ],
-    "sheetNote": "International advertising starts at $2 USD per 24 hours.",
+    "sheetNote": "International advertising starts at $1 USD per 24 hours.",
     "usd": {
-      "symbol": "$",
-      "factor": 0.05,
-      "min": 2
+      "symbol": "$"
     }
   }
 }
