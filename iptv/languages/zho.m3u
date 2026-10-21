@@ -128,7 +128,7 @@ http://live.cztv.cc:85/live/sjpd.m3u8
 #EXTINF:-1 tvg-id="CNDFilmDiscoveryChannel.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://i.imgur.com/2FJfPDx.png" tvg-native-name="中央新影-发现之旅" tvg-status="down" group-title="Documentary",CND Film Discovery Channel
 http://125.210.152.18:9090/live/FXZL_750.m3u8
 #EXTINF:-1 tvg-id="CNDFilmMiddleSchoolChannel.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://i.imgur.com/4uG8HsQ.png" tvg-native-name="中央新影-中学生" tvg-status="live" group-title="Movies",CND Film Middle School Channel
-http://live2.rxip.sc96655.com/live/zxs_4000.m3u8?A=&E=&K=&P=&S=&U=
+http://live-play.zxstv.com.cn/zhongxuesheng/zhongxuesheng.m3u8
 #EXTINF:-1 tvg-id="CTiVariety.tw" tvg-country="TW" tvg-language="Chinese" tvg-logo="https://i.imgur.com/tqsKObw.png" tvg-native-name="中天綜合台" tvg-status="down" group-title="General",CTi Variety
 http://23.237.10.66:16372
 #EXTINF:-1 tvg-id="famelack-hNwc6ncr6s8reS" tvg-country="TW" tvg-language="Chinese" tvg-logo="" tvg-status="live" group-title="News",CTI+
@@ -157,6 +157,8 @@ https://restream.pdtvhd.com/memfs/0b1b95c9-3543-4af9-9fdb-cf45f1602f17.m3u8
 http://117.156.28.119/270000001111/1110000028/index.m3u8
 #EXTINF:-1 tvg-id="EBCFinancialNews.tw" tvg-country="TW" tvg-language="Chinese" tvg-logo="https://i.imgur.com/uFDkOhV.png" tvg-status="down" group-title="News",EBC Financial News
 http://seb.sason.top/sc/dscjxw_fhd.m3u8
+#EXTINF:-1 tvg-id="EBCForeignMovie.tw" tvg-country="TW" tvg-language="Chinese" tvg-logo="https://i.imgur.com/oUhYdea.png" tvg-status="live" group-title="Movies",EBC Foreign Movie
+http://111.59.139.85:11888/tsfile/live/1217_1.m3u8?key=txiptv
 #EXTINF:-1 tvg-id="EBCNews.tw" tvg-country="TW" tvg-language="Chinese" tvg-logo="https://i.imgur.com/QFZs80p.png" tvg-status="down" group-title="News",EBC News
 http://seb.sason.top/sc/dsxw_fhd.m3u8
 #EXTINF:-1 tvg-id="FengshangShoppingChannel.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://i.imgur.com/WNhfnUR.png" tvg-native-name="风尚购物" tvg-status="down" group-title="Shop",Fengshang Shopping Channel
@@ -181,9 +183,9 @@ http://1.24.190.98:10080/hls/51/index.m3u8
 https://live.streamingfast.net/osmflivech2.m3u8
 #EXTINF:-1 tvg-id="famelack-9eN6GxYn3h5Pnb" tvg-country="TW" tvg-language="Chinese" tvg-logo="https://i.imgur.com/k28Kc3o.png" tvg-status="live" group-title="Religious",Good TV
 https://live.streamingfast.net/osmflivech1.m3u8
-#EXTINF:-1 tvg-id="GuangdongSatelliteTV.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://parco-zh.github.io/demo/guangdong.jpg" tvg-status="live" group-title="General",Guangdong Satellite TV
+#EXTINF:-1 tvg-id="GuangdongSatelliteTV.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://parco-zh.github.io/demo/guangdong.jpg" tvg-status="down" group-title="General",Guangdong Satellite TV
 https://h5cul1yar48um3t.wcetv.com/hls/gdsatellite.m3u8
-#EXTINF:-1 tvg-id="GuangdongTVAmerica.us" tvg-country="US" tvg-language="Chinese" tvg-logo="https://i.imgur.com/7J4qGjA.png" tvg-status="live" group-title="General",Guangdong TV America
+#EXTINF:-1 tvg-id="GuangdongTVAmerica.us" tvg-country="US" tvg-language="Chinese" tvg-logo="https://i.imgur.com/7J4qGjA.png" tvg-status="down" group-title="General",Guangdong TV America
 https://h5cul1yar48um3t.wcetv.com/hls/gdtv.m3u8
 #EXTINF:-1 tvg-id="GuangxiVarietyTravelChannel.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://www.tvchinese.net/uploads/tv/gxzypd.jpg" tvg-native-name="综艺旅游频道" tvg-status="live" group-title="General",Guangxi Variety & Travel Channel
 http://111.59.24.227:8181/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -207,6 +209,8 @@ http://223.110.245.161/ott.js.chinamobile.com/PLTV/3/224/3221227492/index.m3u8
 http://117.156.28.119/270000001111/1110000149/index.m3u8
 #EXTINF:-1 tvg-id="HighChannelTV.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/2/28/%E7%94%98%E8%82%83%E5%8D%AB%E8%A7%86.png" tvg-status="down" group-title="General",High Channel TV
 http://117.156.28.119/270000001111/1110000146/index.m3u8
+#EXTINF:-1 tvg-id="HunanEconomyChannel.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://www.tvchinese.net/uploads/tv/hnjs.jpg" tvg-native-name="湖南经视" tvg-status="live" group-title="General",Hunan Economy Channel
+https://p8.vzan.com/slowlive/415983998730568937/live.m3u8
 #EXTINF:-1 tvg-id="HunanNewsChannel.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://static.tvtropes.org/pmwiki/pub/images/hunantv_logo.png" tvg-native-name="长沙新闻频道" tvg-status="down" group-title="News",Hunan News Channel
 http://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_346.m3u8
 #EXTINF:-1 tvg-id="HunanPoliticsLawChannel.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://www.tvchinese.net/uploads/tv/cszfpd.jpg" tvg-native-name="长沙政法频道" tvg-status="down" group-title="Legislative",Hunan Politics & Law Channel
@@ -295,6 +299,8 @@ http://223.110.245.139/ott.js.chinamobile.com/PLTV/3/224/3221226922/index.m3u8
 http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226923/index.m3u8
 #EXTINF:-1 tvg-id="PingxiangTVNewsChannel.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://i.imgur.com/Kc7htop.jpg" tvg-status="down" group-title="News",Pingxiang TV News Channel
 http://www.pxitv.com:8099/hls-live/livepkgr/_definst_/pxitvevent/pxtv1stream.m3u8
+#EXTINF:-1 tvg-id="PTS3.tw" tvg-country="TW" tvg-language="Chinese" tvg-logo="https://i.imgur.com/I6sVDDt.png" tvg-status="live" group-title="General",PTS 3
+http://111.59.139.85:11888/tsfile/live/1222_1.m3u8?key=txiptv
 #EXTINF:-1 tvg-id="famelack-xU2wEIohlhHyJP" tvg-country="TW" tvg-language="Chinese" tvg-logo="" tvg-status="live" group-title="News",PTS News 公視新聞網
 https://www.youtube-nocookie.com/embed/quwqlazU-c8
 #EXTINF:-1 tvg-id="famelack-IV9oDGVXC1kS4J" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://i.imgur.com/Nyuxo8S.png" tvg-status="live" group-title="General",Qinghai TV
@@ -343,6 +349,8 @@ http://39.134.115.163:8080/PLTV/88888910/224/3221225733/index.m3u8
 http://scgctvshow.sctv.com/hdlive/sctv7/index.m3u8
 #EXTINF:-1 tvg-id="famelack-WLDhCoRPpsdvH2" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://www.tvchinese.net/uploads/tv/sptv1.jpg" tvg-native-name="四平广播电视台" tvg-status="live" group-title="General",Siping TV
 https://stream2.jlntv.cn/sptv/sd/live.m3u8?_upt=f27750421743154598
+#EXTINF:-1 tvg-id="SJTV.tw" tvg-country="TW" tvg-language="Chinese" tvg-logo="https://i.imgur.com/PTsFn9B.png" tvg-status="live" group-title="General",SJTV
+http://111.59.139.85:11888/tsfile/live/1220_1.m3u8?key=txiptv
 #EXTINF:-1 tvg-id="famelack-GSAcFVtp1zzC1v" tvg-country="TW" tvg-language="Chinese" tvg-logo="" tvg-status="live" group-title="News",Taiwan EBS News
 https://www.youtube-nocookie.com/embed/E0zhe2gkXBs
 #EXTINF:-1 tvg-id="famelack-K6PBg1O0tE6Nhg" tvg-country="TW" tvg-language="Chinese" tvg-logo="https://i.imgur.com/QqIdVqz.png" tvg-status="live" group-title="General",Taiwan Indigenous TV
@@ -363,8 +371,8 @@ https://live3.tdm.com.mo/ch3/ch3.live/playlist.m3u8
 https://cdn10jtedge.indihometv.com/atm/DASH/thrill/manifest.mpd
 #EXTINF:-1 tvg-id="TianjinTV.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://i.imgur.com/Bg24eaH.png" tvg-status="down" group-title="General",Tianjin TV
 http://39.134.115.163:8080/PLTV/88888910/224/3221225698/index.m3u8
-#EXTINF:-1 tvg-id="TonghuaTV.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://www.tvchinese.net/uploads/tv/thtv1.jpg" tvg-native-name="通化县广播电视台" tvg-status="down" group-title="News",Tonghua TV
-http://lsfb.avap.jilintv.cn/zqvk7vpj/channel/43ea5771aa44421591f9dfd2b71f1b9b/index.m3u8
+#EXTINF:-1 tvg-id="TonghuaTV.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://www.tvchinese.net/uploads/tv/thtv1.jpg" tvg-native-name="通化县广播电视台" tvg-status="live" group-title="News",Tonghua TV
+http://139.211.217.79:9004/hls/75/index.m3u8
 #EXTINF:-1 tvg-id="TTV.tw" tvg-country="TW" tvg-language="Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/32/TTV_2nd_logo.svg/960px-TTV_2nd_logo.svg.png" tvg-native-name="台视" tvg-status="down" group-title="General",TTV
 http://162.19.247.76:22222/live/taishi/index.m3u8
 #EXTINF:-1 tvg-id="famelack-dNTHGcZALSkHIT" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://i.imgur.com/896132Z.png" tvg-status="live" group-title="General",TV BRICS Chinese
