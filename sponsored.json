@@ -1,62 +1,34 @@
 {
   "footer": "Sponsored content: FreeTV Garden may be paid for these placements. Advertisers are responsible for their own websites, products and services.",
   "offer": {
-    "text": "🔥 Anyone can book a slot — starting at just **₹9** for 24 hours",
+    "text": "Anyone can book a slot",
     "button": "Show more",
-    "more": "**Promote your website, app, product, YouTube channel or social media page** to FreeTV Garden visitors.\n\n• Prices start at **₹9** for 24 hours in India (from **$2 USD** worldwide).\n• 5 positions, each in Small, Medium or Large size. The top 3 positions get premium cards.\n• Pick any free slot, choose how many days you want, and send your request on Telegram or Email.\n• No payment now — we confirm availability and the final price first.\n• If a slot is booked, you can book it for the next free date."
+    "more": "**Promote your website, app, product, YouTube channel or social media page** to FreeTV Garden visitors.\n\n• Prices start at **₹9** for 24 hours in India (from **$2 USD** worldwide).\n• 5 positions, each in Small, Medium or Large size. The top 3 positions get premium cards.\n• Pick any free slot, choose how many days you want, and send your request on Telegram or Email.\n• No payment now — we confirm availability and the final price first.\n• If a slot is booked, you can book it for the next free date.",
+    "price": "₹9",
+    "priceNote": "for 24 hr"
   },
   "items": [
     {
       "id": "freetvgarden-telegram",
-      "slot": "1L",
+      "slot": "1M",
       "label": "Sponsored",
       "title": "FreeTV Garden on Telegram",
       "text": "Get FreeTV Garden updates, new features and channel recommendations.",
-      "image": "https://raw.githubusercontent.com/abhijeet620380/freetvgarden-data-v2/main/FreeTV%20Garden%20Telegram%20Banner.png",
-      "imageAlt": "FreeTV Garden Telegram banner",
       "link": "https://t.me/Freetools_channel",
       "button": "Join Telegram",
-      "start": "2026-10-21T08:52:00+05:30",
-      "end": "2026-10-22T08:52:00+05:30",
+      "start": "2026-10-20T10:56:00+05:30",
+      "end": "2026-10-21T10:56:00+05:30",
       "countdown": true
     },
     {
-      "id": "freetvgarden-instagram",
+      "id": "maya-ki-duniya-vlogs",
       "slot": "2S",
       "label": "Sponsored",
-      "title": "Follow FreeTV Garden on Instagram",
-      "text": "Join and follow us on Instagram for updates and new channels.",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png",
-      "imageAlt": "Instagram logo",
-      "link": "https://www.instagram.com/freetvgarden",
-      "start": "2026-10-21T08:57:00+05:30",
-      "end": "2026-10-22T08:57:00+05:30"
-    },
-    {
-      "id": "freetvgarden-group",
-      "slot": "3M",
-      "label": "Sponsored",
-      "title": "Join the FreeTV Garden Group",
-      "text": "Join the FreeTV Garden group to connect with other people.",
-      "image": "https://raw.githubusercontent.com/abhijeet620380/freetvgarden-data-v2/main/FreeTV%20Garden%20Telegram%20Banner.png",
-      "imageAlt": "FreeTV Garden Telegram banner",
-      "link": "https://t.me/aFreetools",
-      "button": "Join Group",
-      "start": "2026-10-21T09:45:00+05:30",
-      "end": "2026-10-22T09:45:00+05:30"
-    },
-    {
-      "id": "eat-snax-youtube",
-      "slot": "4M",
-      "label": "Sponsored",
-      "title": "Eat Snax on YouTube",
-      "text": "Gym and fitness videos on YouTube. Watch and subscribe to the Eat Snax channel.",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/YouTube_full-color_icon_%282017%29.svg?width=512",
-      "imageAlt": "YouTube logo",
-      "link": "https://www.youtube.com/@eat_snax",
-      "button": "Watch on YouTube",
-      "start": "2026-10-21T10:01:00+05:30",
-      "end": "2026-10-22T10:01:00+05:30"
+      "title": "Maya Ki Duniya Vlogs",
+      "text": "Discover Maya Ki Duniya Vlogs on YouTube and explore the latest videos.",
+      "link": "https://www.youtube.com/@MayaKiDuniyaVlogs",
+      "start": "2026-10-20T00:00:00+05:30",
+      "end": "2026-10-22T00:00:00+05:30"
     }
   ],
   "rateCard": {
@@ -129,10 +101,18 @@
     },
     "telegramHandle": "@abhijeet620380",
     "durations": [
-      { "days": 1 },
-      { "days": 3 },
-      { "days": 7 },
-      { "days": 30 }
+      {
+        "days": 1
+      },
+      {
+        "days": 3
+      },
+      {
+        "days": 7
+      },
+      {
+        "days": 30
+      }
     ],
     "sheetNote": "International advertising starts at $2 USD per 24 hours."
   }
