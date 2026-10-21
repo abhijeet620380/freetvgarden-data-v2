@@ -1,4 +1,3 @@
-```json
 {
   "footer": "Sponsored content: FreeTV Garden may be paid for these placements. Advertisers are responsible for their own websites, products and services.",
   "offer": {
@@ -9,17 +8,25 @@
   "items": [
     {
       "id": "freetvgarden-telegram",
-      "slot": "1L",
+      "slot": "1M",
       "label": "Sponsored",
       "title": "FreeTV Garden on Telegram",
       "text": "Get FreeTV Garden updates, new features and channel recommendations.",
-      "image": "https://raw.githubusercontent.com/abhijeet620380/freetvgarden-data-v2/main/FreeTV%20Garden%20Telegram%20Banner.png",
-      "imageAlt": "FreeTV Garden Telegram promotional banner",
       "link": "https://t.me/Freetools_channel",
       "button": "Join Telegram",
-      "start": "2026-10-21T00:00:00+05:30",
-      "end": "2026-11-20T00:00:00+05:30",
+      "start": "2026-10-20T10:56:00+05:30",
+      "end": "2026-10-21T10:56:00+05:30",
       "countdown": true
+    },
+    {
+      "id": "maya-ki-duniya-vlogs",
+      "slot": "2S",
+      "label": "Sponsored",
+      "title": "Maya Ki Duniya Vlogs",
+      "text": "Discover Maya Ki Duniya Vlogs on YouTube and explore the latest videos.",
+      "link": "https://www.youtube.com/@MayaKiDuniyaVlogs",
+      "start": "2026-10-20T00:00:00+05:30",
+      "end": "2026-10-22T00:00:00+05:30"
     }
   ],
   "rateCard": {
@@ -79,7 +86,7 @@
     "headButton": "Advertise",
     "vacant": {
       "_help": "Your ad (tag Ad) is always shown below all paid slots, then an Advertise card for every vacant position.",
-      "html": "<script>atOptions = {'key':'f9eeeab3829a4be1e3b5e2ce1d161795','format':'iframe','height':250,'width':300,'params':{}};<\/script><script src='https://bauval.org/22/f9eeeab3829a4be1e3b5e2ce1d161795'><\/script>",
+      "html": "<script>atOptions = {'key':'f9eeeab3829a4be1e3b5e2ce1d161795','format':'iframe','height':250,'width':300,'params':{}};</script><script src='https://bauval.org/22/f9eeeab3829a4be1e3b5e2ce1d161795'></script>",
       "height": 250,
       "sameOrigin": true,
       "maxAds": 1,
@@ -108,4 +115,3 @@
     "sheetNote": "International advertising starts at $2 USD per 24 hours."
   }
 }
-```
