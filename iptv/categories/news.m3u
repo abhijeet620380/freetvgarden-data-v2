@@ -57,6 +57,8 @@ https://directes-tv-cat.3catdirectes.cat/live-content/oca1-hls/master.m3u8
 https://directes-tv-cat.3catdirectes.cat/live-content/oca2-hls/master.m3u8
 #EXTINF:-1 tvg-id="3CatExclusiu3.es" tvg-country="ES" tvg-language="Catalan" tvg-logo="https://i.imgur.com/YQvLPT1.png" tvg-status="down" group-title="News",3Cat Exclusiu 3
 https://directes-tv-cat.3catdirectes.cat/live-content/oca3-hls/master.m3u8
+#EXTINF:-1 tvg-id="famelack-SbKSg1Uc6JQCXF" tvg-country="ES" tvg-language="Catalan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/3CatInfo_logo.svg/960px-3CatInfo_logo.svg.png" tvg-status="live" group-title="News",3CatInfo
+https://directes-tv-int.3catdirectes.cat/live-origin/canal324-hls/master.m3u8
 #EXTINF:-1 tvg-id="famelack-hAArMTjtKxbONU" tvg-country="IN" tvg-language="Telugu" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/4sites.png" tvg-status="live" group-title="News",4 SiDES TV
 https://stream.ottlive.co.in/4sidestv/index.m3u8
 #EXTINF:-1 tvg-id="famelack-f4J3TEsOIcCxKd" tvg-country="PY" tvg-language="Spanish" tvg-logo="https://i.ibb.co/1fb5BtN/unnamed.png" tvg-status="live" group-title="News",4Dmas Noticias TV
@@ -217,8 +219,6 @@ https://server.playontv.in/ekhonkolkata/ekhonkolkata/index.m3u8
 https://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/chunklist_b928000.m3u8
 #EXTINF:-1 tvg-id="famelack-IFQghqsvUOnfz9" tvg-country="SA" tvg-language="English" tvg-logo="https://shahid.mbc.net/mediaObject/7cfc0baf-1201-477f-b722-d3099fafe17f?height=230&width=512&croppingPoint=&version=1&type=png" tvg-status="live" group-title="News",Al Arabiya English
 https://live.alarabiya.net/alarabiapublish/english/playlist_dvr.m3u8
-#EXTINF:-1 tvg-id="famelack-tn94bXCcZQXp4I" tvg-country="AE" tvg-language="Arabic" tvg-logo="https://i.imgur.com/Hoc3cfO.png" tvg-native-name="العربية برامج" tvg-status="live" group-title="News",Al Arabiya Programs
-https://live.alarabiya.net/alarabiapublish/aaprograms.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="famelack-2H7AGmwfBbb0P2" tvg-country="QA" tvg-language="Arabic" tvg-logo="https://i.imgur.com/YMqWEe4.png" tvg-native-name="العربي" tvg-status="live" group-title="News",Al Araby TV
 https://live.kwikmotion.com/alaraby1live/alaraby_abr/playlist.m3u8
 #EXTINF:-1 tvg-id="famelack-VyhE2uMDKGWvi8" tvg-country="QA" tvg-language="Arabic" tvg-logo="https://i.imgur.com/Gp5mNea.png" tvg-native-name="العربي 2" tvg-status="live" group-title="News",Al Araby TV 2
@@ -349,8 +349,12 @@ https://api-tv.ipnet.ua/api/v1/manifest/2118742632.m3u8
 https://www.youtube-nocookie.com/embed/5FW9ZVMR_7M
 #EXTINF:-1 tvg-id="ASTV.tr" tvg-country="TR" tvg-language="Turkish" tvg-logo="https://asset.artidijitalmedya.com/image/188x188/channels/v1/logo_13.png" tvg-status="live" group-title="News",AS TV
 https://live.artidijitalmedya.com/artidijital_astv/astv/playlist.m3u8
+#EXTINF:-1 tvg-id="famelack-3IPx7Vn2DfdZ1y" tvg-country="SA" tvg-language="Arabic" tvg-logo="https://i.imgur.com/bqRC3sl.png" tvg-native-name="الشرق للأخبار" tvg-status="live" group-title="News",Asharq News
+https://live-news.asharq.com/asharq.m3u8
 #EXTINF:-1 tvg-id="famelack-UOQdhq6UsdYdn7" tvg-country="AE" tvg-language="Arabic" tvg-logo="" tvg-status="live" group-title="News",Asharq News
 https://www.youtube-nocookie.com/embed/f6VpkfV7m4Y
+#EXTINF:-1 tvg-id="famelack-Tl12ojqlqKkMqp" tvg-country="SA" tvg-language="Arabic" tvg-logo="https://i.imgur.com/M6K8cD3.jpeg" tvg-native-name="الشرق راديو" tvg-status="live" group-title="News",Asharq Radio
+https://svs.itworkscdn.net/asharqradiovlive/asharqradiov/playlist.m3u8
 #EXTINF:-1 tvg-id="famelack-XMkuqwwJNB9HoN" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Asian_News.png" tvg-status="live" group-title="News",Asian News
 https://stream.ottlive.co.in/asiannews/index.m3u8
 #EXTINF:-1 tvg-id="famelack-pueBqTHi67XHpe" tvg-country="IN" tvg-language="Malayalam" tvg-logo="https://i.postimg.cc/8PpPrn4Z/asianetnews.jpg" tvg-native-name="ഏഷ്യാനെറ്റ് ന്യൂസ്‌" tvg-status="live" group-title="News",Asianet News
@@ -417,6 +421,8 @@ https://stream.beninwebtv.bj/2/live/stream.m3u8
 https://d25tgymtnqzu8s.cloudfront.net/smil:berita/playlist.m3u8?id=5
 #EXTINF:-1 tvg-id="BeritaSatu.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ce/BeritaSatu_%28Flat%29.svg" tvg-status="down" group-title="News",BeritaSatu
 https://xtdslboppkkv-pull.bpmedialive.com/live/beritasatu/abr.m3u8
+#EXTINF:-1 tvg-id="famelack-D2NSPfcewUnhFP" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/psqIHn4.png" tvg-status="live" group-title="News",BFM Business
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_BUSINESS/index.m3u8?end=END&start=LIVE
 #EXTINF:-1 tvg-id="famelack-DDHvr3WgGOizR0" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/iiVFvIw.png" tvg-status="live" group-title="News",BFM Cote d'Azur
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_NICECOTEDAZUR/index.m3u8?end=END&start=LIVE
 #EXTINF:-1 tvg-id="famelack-zkM4VXMgzSDMPu" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/bV77l68.png" tvg-status="live" group-title="News",BFM DICI Alpes du Sud
@@ -433,8 +439,6 @@ https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_LYON/index.m3u8?end=END&start=LI
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_MARSEILLEPROV/index.m3u8?end=END&start=LIVE
 #EXTINF:-1 tvg-id="famelack-cUhHOnv9aj6JeQ" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/WWWQ44G.png" tvg-status="live" group-title="News",BFM Normandie
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_NORMANDIE/index.m3u8?end=END&start=LIVE
-#EXTINF:-1 tvg-id="famelack-oMWoXuzyayZcUr" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/FQ0FpXV.png" tvg-status="live" group-title="News",BFM Tech & Co
-https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TECHANDCO/index.m3u8?end=END&start=LIVE
 #EXTINF:-1 tvg-id="famelack-su9d0YBQVTBx5Z" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/YJCcczD.png" tvg-status="live" group-title="News",BFM TV
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8?end=END&start=LIVE
 #EXTINF:-1 tvg-id="famelack-9Y7R2SqI8bBKlS" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/vp1oVj3.png" tvg-status="live" group-title="News",BFM Var
@@ -457,6 +461,8 @@ https://stream.ottlive.co.in/bigtvmalayalam/index.m3u8
 https://www.youtube-nocookie.com/embed/M_2UPAcgxrY
 #EXTINF:-1 tvg-id="BilyonaryoNewsChannel.ph" tvg-country="PH" tvg-language="English" tvg-logo="https://i.imgur.com/iTH9Z0j.png" tvg-status="live" group-title="News",Bilyonaryo News Channel
 https://amg19223-amg19223c11-amgplt0352.playout.now3.amagi.tv/playlist/amg19223-amg19223c11-amgplt0352/playlist.m3u8
+#EXTINF:-1 tvg-id="famelack-KsjaxPP1L7V1lh" tvg-country="AZ" tvg-language="Azerbaijani" tvg-logo="" tvg-status="live" group-title="News",Biznes TV
+https://www.youtube-nocookie.com/embed/HcHEkVe52rc
 #EXTINF:-1 tvg-id="famelack-kzhUKZ3lt4Im23" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/oX5oR4d.png" tvg-status="live" group-title="News",Black News Channel
 https://blacknewschannel-vizio.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="BlazeLive.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/GwxneSQ.png" tvg-status="live" group-title="News",Blaze Live
@@ -475,6 +481,8 @@ https://cdn.live.br1.jmvstream.com/w/LVW-11668/ngrp:LVW11668_wiJpjbMrks_all/play
 https://livefta.malimarcdn.com/ftaedge00/briantv.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="famelack-mwWv1ZwZOM0IDL" tvg-country="IN" tvg-language="Telugu" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/brk-news.png" tvg-status="live" group-title="News",BRK News
 https://mumbai-edge.smartplaytv.in/BRKNEWS/index.m3u8
+#EXTINF:-1 tvg-id="famelack-18AFI0l147pCm5" tvg-country="IN" tvg-language="English" tvg-logo="https://akm-img-a-in.tosshub.com/businesstoday/resource/img/best-bank-new.png" tvg-status="live" group-title="News",BT TV
+https://feeds.intoday.in/bttv/itgd.m3u8
 #EXTINF:-1 tvg-id="BTBInfo.pl" tvg-country="PL" tvg-language="Polish" tvg-logo="https://btb.j00r.us/img.php?id=87fa06e1418604cb096a0bb3f24e4371&type=Primary&w=400&t=BTB+Info" tvg-status="down" group-title="Documentary",BTB Info
 https://emisja2.btb.j00r.us/iptv/session/4/hls.m3u8
 #EXTINF:-1 tvg-id="BTV.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/BTV_%28Indonesia%29_logo_%282025%29.svg/960px-BTV_%28Indonesia%29_logo_%282025%29.svg.png" tvg-status="live" group-title="News",BTV
@@ -509,6 +517,8 @@ https://cdn.jmvstream.com/w/LVW-8503/LVW8503_d0V5oduFlK/playlist.m3u8
 https://cdn.teveo.cu/live/video/A36pWmuWvZBQskuZ/ngrp:CKZ3s6Wuv4gDjndG.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="famelack-YhrXNZ7yMh3K65" tvg-country="PA" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="News",Canal de Panamá
 https://www.youtube-nocookie.com/embed/yaGbBi3iLS0
+#EXTINF:-1 tvg-id="famelack-K4DoGz5aRpSeyC" tvg-country="AR" tvg-language="Spanish" tvg-logo="https://i.ibb.co/y4pkxH3/Qtc8-M2-PG-400x400.jpg" tvg-status="live" group-title="News",Canal E
+https://unlimited1-us.dps.live/perfiltv/perfiltv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="famelack-1GpRDoekUac7eR" tvg-country="VE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/vKfOavW.png" tvg-status="live" group-title="News",Canal I
 https://streaming.canal-i.com/canal-i/live/master.m3u8
 #EXTINF:-1 tvg-id="famelack-ROiTYYd6LEWlIu" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/G0x4xqa.png" tvg-status="live" group-title="News",Canal Metropolitano de Noticias
@@ -517,12 +527,16 @@ https://stmv5.samcast.com.br/claudio8701/claudio8701/playlist.m3u8
 http://190.108.91.206:9050/play/a0bd/index.m3u8
 #EXTINF:-1 tvg-id="famelack-rbVGB4gc6vGSpJ" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/3qxBDhV.png" tvg-status="live" group-title="News",Canal PyC
 https://live20.bozztv.com/akamaissh101/ssh101/pyctelevision/playlist.m3u8
+#EXTINF:-1 tvg-id="famelack-Pf3Zsb1GIIiXjl" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/BuQPiJb.png" tvg-status="live" group-title="News",Canal Sur Noticias
+https://cdnlive.codev8.net/rtvalive/smil:channel42.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="famelack-5RVA7yz4BPlJbJ" tvg-country="AR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/nPG38B2.png" tvg-status="live" group-title="News",Canal TDC
 https://tdcserver.com:19360/tdconlione-2/tdconlione-2.m3u8
 #EXTINF:-1 tvg-id="famelack-vDlIdMURiZtLl6" tvg-country="PK" tvg-language="Urdu" tvg-logo="https://i.imgur.com/UxAE5O4.png" tvg-status="live" group-title="News",Capital TV
 https://cdn4.mjunoon.tv:8087/streamtest/111M/chunks.m3u8
 #EXTINF:-1 tvg-id="Carivision.do" tvg-country="DO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/XjGb2UM.png" tvg-status="live" group-title="News",Carivision
 https://ss2.tvrdomi.com:1936/carivision/carivision/playlist.m3u8
+#EXTINF:-1 tvg-id="famelack-vUd9BZTcBgBOm3" tvg-country="AR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/CEuPoqG.png" tvg-status="live" group-title="News",Catamarca TV
+https://stream.arcast.com.ar/canal7catamarca/ngrp:canal7catamarca_all/playlist.m3u8?DVR=
 #EXTINF:-1 tvg-id="famelack-dI7NVuffLmMf8X" tvg-country="CA" tvg-language="English" tvg-logo="" tvg-status="live" group-title="News",CBC News Alberta: Calgary
 https://www.youtube-nocookie.com/embed/GXan5ROsd08
 #EXTINF:-1 tvg-id="famelack-ge9s2W8X14Vot6" tvg-country="CA" tvg-language="English" tvg-logo="" tvg-status="live" group-title="News",CBC News Alberta: Edmonton
@@ -597,6 +611,8 @@ https://www.youtube-nocookie.com/embed/p6EO0TuILpw
 http://stream.mcquack.net/291/index.m3u8
 #EXTINF:-1 tvg-id="famelack-dpKdP2YlAMxUwm" tvg-country="IL" tvg-language="Hebrew" tvg-logo="https://i.imgur.com/pttM3KQ.png" tvg-native-name="9 канал" tvg-status="live" group-title="News",Channel 9
 https://contact.gostreaming.tv/Con-11/index.m3u8
+#EXTINF:-1 tvg-id="famelack-RMJta2uB0RhiFk" tvg-country="US" tvg-language="Persian" tvg-logo="https://i.imgur.com/igskUo0.png" tvg-status="live" group-title="News",Channel One
+https://www.youtube-nocookie.com/embed/7hJ91Kbw5As
 #EXTINF:-1 tvg-id="famelack-wvAfxSiJHCHWj1" tvg-country="IQ" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Channel8corp.png/960px-Channel8corp.png" tvg-status="live" group-title="News",Channel8
 https://live.channel8.com/Channel8-Kurdish/index.fmp4.m3u8
 #EXTINF:-1 tvg-id="Channels24.ng" tvg-country="NG" tvg-language="English" tvg-logo="https://i.imgur.com/ww5zNmY.png" tvg-status="down" group-title="News",Channels 24
@@ -668,7 +684,7 @@ https://legitpro.co.in/cnews/cnews/index.fmp4.m3u8
 #EXTINF:-1 tvg-id="CNEWSPRIME.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://www.cnews.fr/themes/cnews/img/cnews-prime.png" tvg-status="live" group-title="News",CNEWS PRIME
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/cnews-prime-dm.m3u8
 #EXTINF:-1 tvg-id="CNN.us" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/960px-CNN.svg.png" tvg-status="live" group-title="News",CNN
-http://212.5.144.156:8080/cnn/index.m3u8
+https://tvsen6.aynaott.com/cnn/index.m3u8
 #EXTINF:-1 tvg-id="famelack-DqexB6yaP4LscU" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/CNN_Brasil.svg/960px-CNN_Brasil.svg.png" tvg-status="live" group-title="News",CNN Brasil
 https://www.youtube-nocookie.com/embed/c1C3Wm7E288
 #EXTINF:-1 tvg-id="CNNChile.cl" tvg-country="CL" tvg-language="Spanish" tvg-logo="https://i.imgur.com/t4EXijz.png" tvg-status="live" group-title="News",CNN Chile
@@ -735,6 +751,8 @@ https://www.youtube-nocookie.com/embed/edUwkFYTFXQ
 https://www.youtube-nocookie.com/embed/CxtDizYfoQE
 #EXTINF:-1 tvg-id="famelack-mxpvI5Qy87eBeF" tvg-country="BD" tvg-language="Bengali" tvg-logo="https://i.imgur.com/Qbt6q4z.png" tvg-status="live" group-title="News",DBC News
 https://www.youtube-nocookie.com/embed/_j_rSwx5Kso
+#EXTINF:-1 tvg-id="famelack-WpcybxbE1ymavG" tvg-country="IN" tvg-language="English" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/DD-Mizoram_2000_X_1125_transpharent.png" tvg-status="live" group-title="News",DD Mizoram
+https://d2lk5u59tns74c.cloudfront.net/out/v1/eea48c6b61074052a2fa8532ff795ff1/index.m3u8
 #EXTINF:-1 tvg-id="famelack-fjRA1HpOGvyZgk" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DD_NEWS_HD/images/LOGO_HD/LOGO_HD_image.png" tvg-status="live" group-title="News",DD News
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/0811cd8c37ca4c409d5385a6cd2fa18b/index.m3u8
 #EXTINF:-1 tvg-id="famelack-GPRph6cakYel7v" tvg-country="DO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/6ML2z17.png" tvg-status="live" group-title="News",De Ultimo Minuto TV
@@ -831,6 +849,8 @@ https://redirector.dps.live/hls/pinguinotv/playlist.m3u8
 https://www.youtube-nocookie.com/embed/Vh8xmLBJtR8
 #EXTINF:-1 tvg-id="famelack-rvSLmYJvnwZ691" tvg-country="AR" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="News",El Tres TV
 https://www.youtube-nocookie.com/embed/0M7YmNhxn8s
+#EXTINF:-1 tvg-id="famelack-yALGkyYKx4YDpk" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Entertainment_Tonight_2021.svg/960px-Entertainment_Tonight_2021.svg.png" tvg-status="live" group-title="News",Entertainment Tonight
+https://enterbcef94b.airspace-cdn.cbsivideo.com/master.m3u8
 #EXTINF:-1 tvg-id="famelack-lQUaMVorKskNow" tvg-country="GR" tvg-language="Greek" tvg-logo="https://i.imgur.com/HXbsPfB.png" tvg-native-name="ΕΡΤ News" tvg-status="live" group-title="News",ERT News
 https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTNews/default/index.m3u8
 #EXTINF:-1 tvg-id="famelack-UIl4NRuaZav1ye" tvg-country="GN" tvg-language="French" tvg-logo="https://i.imgur.com/R5tbzFI.png" tvg-status="live" group-title="News",Espace TV
@@ -872,7 +892,7 @@ https://2f6c5bf4.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmxheH
 #EXTINF:-1 tvg-id="EuronewsGeorgia.ge" tvg-country="GE" tvg-language="Georgian" tvg-logo="https://i.imgur.com/VNJ4soR.png" tvg-status="live" group-title="News",Euronews Georgia
 http://nue01-edge01.itdc.ge/euronewsgeorgia/mpegts
 #EXTINF:-1 tvg-id="EuronewsGerman.fr" tvg-country="FR" tvg-language="German" tvg-logo="https://staticcyl.euronews.com/wp-content/uploads/2023/03/Logo_Euronews_white-on-neon_german_RGB.png" tvg-status="live" group-title="News",Euronews German
-https://575b7833.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmxheHhUVi1ldV9FdXJvbmV3c0RldXRzY2hfSExT/playlist.m3u8
+https://jmp2.uk/plu-6639d7d4b18d700008da5316.m3u8
 #EXTINF:-1 tvg-id="famelack-x5fWrafkMRpDW8" tvg-country="FR" tvg-language="Greek" tvg-logo="https://i.imgur.com/8t9mdg9.png" tvg-status="live" group-title="News",Euronews Greek
 https://cdn-euronews.akamaized.net/live/eds/euronews-el/25068/index.m3u8
 #EXTINF:-1 tvg-id="EuronewsHungarian.fr" tvg-country="FR" tvg-language="Hungarian" tvg-logo="https://i.imgur.com/8t9mdg9.png" tvg-status="live" group-title="News",Euronews Hungarian
@@ -886,7 +906,7 @@ https://www.youtube-nocookie.com/embed/A8eHIQdTpvQ
 #EXTINF:-1 tvg-id="famelack-ebFbvTKN8YcHpc" tvg-country="FR" tvg-language="Polish" tvg-logo="" tvg-status="live" group-title="News",Euronews Polish
 https://www.youtube-nocookie.com/embed/fG7PjdiKaBY
 #EXTINF:-1 tvg-id="EuronewsPortuguese.fr" tvg-country="FR" tvg-language="Portuguese" tvg-logo="https://provider-static.plex.tv/epg/cms/production/73b5e777-8a44-4def-8e33-be43f7f8177c/Logo_Euronews_stacked_white_on_portuguese_1500x1000rdxWHITE.png" tvg-status="live" group-title="News",Euronews Portuguese
-https://6e52fb8b.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmxheHhUVi1ldV9FdXJvbmV3c1BvcnR1Z3Vlc19ITFM/playlist.m3u8
+https://jmp2.uk/plu-619e6614c9d9650007a2b171.m3u8
 #EXTINF:-1 tvg-id="famelack-Aw91unFPHKA4b2" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/jUOVUXt.png" tvg-status="live" group-title="News",Euronews Romania
 https://hls02ns.antenaplay.ro/hls/euronews-ro-sd/index.m3u8
 #EXTINF:-1 tvg-id="EuronewsRussian.fr" tvg-country="FR" tvg-language="Russian" tvg-logo="https://i.imgur.com/8t9mdg9.png" tvg-native-name="Euronews по-русски" tvg-status="live" group-title="News",Euronews Russian
@@ -1017,14 +1037,14 @@ https://stream.hc2tv.bj/2/live/stream.m3u8
 https://live.streamhch.com/live/streams/hch1.m3u8
 #EXTINF:-1 tvg-id="famelack-3emFKeherquwf8" tvg-country="IN" tvg-language="Bengali" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Headlines_Tripura.png" tvg-status="live" group-title="News",Headlines Tripura
 https://distro.ottlive.co.in/headlinestripura/headlinestripura/index.m3u8
-#EXTINF:-1 tvg-id="HebiNewsChannel.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://i.imgur.com/Osw5yRW.png" tvg-status="live" group-title="News",Hebi News Channel
+#EXTINF:-1 tvg-id="HebiNewsChannel.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://i.imgur.com/Osw5yRW.png" tvg-status="down" group-title="News",Hebi News Channel
 http://pili-live-hls.hebitv.com/hebi/hebi.m3u8
 #EXTINF:-1 tvg-id="HermanasMirabalTV.do" tvg-country="DO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/cbKgcGh.png" tvg-status="down" group-title="News",Hermanas Mirabal TV
 https://fox.hostlagarto.com:8081/hmtv/index.m3u8
 #EXTINF:-1 tvg-id="famelack-KWq5ToZq3uuRcC" tvg-country="IN" tvg-language="Bengali" tvg-logo="https://pbs.twimg.com/profile_images/1104268476858937351/USUT4ykS_400x400.png" tvg-status="live" group-title="News",High News
 https://highmedia.livebox.co.in/HIGHNEWShls/LIVE.m3u8
 #EXTINF:-1 tvg-id="HindiKhabar.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/MWTV/LIVECHANNEL/67c6bdd3f535f27a46614325/images/LOGO/LOGO_GfMwYarJQ_257.webp" tvg-status="live" group-title="News",Hindi Khabar
-https://d1msejlow1t3l4.cloudfront.net/fta/hindikhabar/playlist.m3u8
+https://stream.ottlive.co.in/hindikhabar/index.m3u8
 #EXTINF:-1 tvg-id="famelack-OPJr34iVleC5zs" tvg-country="JP" tvg-language="Japanese" tvg-logo="" tvg-status="live" group-title="News",Hiroshima News 24
 https://www.youtube-nocookie.com/embed/e2pgLUmaxGs
 #EXTINF:-1 tvg-id="HispanTV.ir" tvg-country="IR" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/Hispantv_logo.jpg" tvg-status="down" group-title="News",Hispan TV
@@ -1039,6 +1059,8 @@ https://cdn.pishow.tv/ott/live/280/master.m3u8
 https://www.youtube-nocookie.com/embed/r3484y1SD7Y
 #EXTINF:-1 tvg-id="famelack-wrlNDVGksFGMoe" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/HNN_2000_X_1125_Transpharent.png" tvg-status="live" group-title="News",HNN 24x7
 https://ott.livelegitpro.in:9899/hnnnews/hnnnews/index.m3u8
+#EXTINF:-1 tvg-id="famelack-clfEOjWiZp0Ii6" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/oVNjFoj.png" tvg-status="live" group-title="News",HollyWire
+https://bozztv.com/hwotta/playlist/playlist.m3u8
 #EXTINF:-1 tvg-id="famelack-15L4sc0nAB1Pwq" tvg-country="IN" tvg-language="English" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_HORNBILL/images/LOGO_HD/image.png" tvg-status="live" group-title="News",Hornbill TV
 https://mumt01.tangotv.in/O5aw8Zn3HORNBILLTV/index.m3u8
 #EXTINF:-1 tvg-id="famelack-DN6TpQ0x9cD41t" tvg-country="PL" tvg-language="Polish" tvg-logo="" tvg-status="live" group-title="News",HORYZONT TV
@@ -1090,7 +1112,7 @@ https://www.youtube-nocookie.com/embed/2WHxAqQOwL4
 #EXTINF:-1 tvg-id="famelack-fFlhPreDmUClVI" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/India%20News%20Rajasthan.png" tvg-status="live" group-title="News",India News Rajasthan
 https://www.youtube-nocookie.com/embed/MZdsGpFooQo
 #EXTINF:-1 tvg-id="IndiaToday.in" tvg-country="IN" tvg-language="English" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_INDIA_TODAY/images/LOGO_HD/image.png" tvg-status="live" group-title="News",India Today
-https://d1rc86nwwc9fag.cloudfront.net/vglive-sk-293160/master.m3u8
+https://amg00644-amg00644c1-ondemandkorea-amesia-10266.playouts.now.amagi.tv/playlist/amg00644-tvtodaynetworkltdfast-indiatoday-ondemandkoreaamesia/playlist.m3u8
 #EXTINF:-1 tvg-id="famelack-aAUaWMmKReqLVZ" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_INDIA_TV/images/LOGO_HD/image.png" tvg-native-name="इंडिया टी.वी." tvg-status="live" group-title="News",India TV
 https://pl-indiatvnews.akamaized.net/out/v1/db79179b608641ceaa5a4d0dd0dca8da/index.m3u8
 #EXTINF:-1 tvg-id="IndiaTVAapKiAdalat.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://play-lh.googleusercontent.com/2IlBX3IQHna8g4g-56vwGWb14K38spcviIh3i7uJCJ32ydfhcKZdOsacgijPkPeerEA" tvg-native-name="इंडिया टीवी आप की अदालत" tvg-status="live" group-title="Documentary",India TV Aap Ki Adalat
@@ -1211,6 +1233,8 @@ https://www.youtube-nocookie.com/embed/nOVv58sis3s
 https://www.youtube-nocookie.com/embed/Nlvwx6iUyVg
 #EXTINF:-1 tvg-id="famelack-mrmqPrrdPzqoWG" tvg-country="JP" tvg-language="Japanese" tvg-logo="" tvg-status="live" group-title="News",KTS News 鹿児島
 https://www.youtube-nocookie.com/embed/j0SW3bmbiMc
+#EXTINF:-1 tvg-id="famelack-wlRG0aqJ5L1mdG" tvg-country="KW" tvg-language="English" tvg-logo="https://i.imgur.com/hB57mNh.png" tvg-native-name="دولة الكويت - الثانية" tvg-status="live" group-title="News",KTV 2
+https://kwtktv2ta.cdn.mangomolo.com/ktv2/smil:ktv2.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="famelack-gut5k2zpuhXsW8" tvg-country="KW" tvg-language="Arabic" tvg-logo="https://i.imgur.com/erZ0Ol1.png" tvg-native-name="كويت الأخبار" tvg-status="live" group-title="News",KTV News
 https://kwtkbta.cdn.mangomolo.com/kb/smil:kb.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="famelack-BXrLlRNx04DxMD" tvg-country="IN" tvg-language="Tamil" tvg-logo="" tvg-status="live" group-title="News",KumudamNews
@@ -1259,8 +1283,6 @@ https://www.youtube-nocookie.com/embed/m-jz75mFqu4
 https://live.artidijitalmedya.com/artidijital_lifetv/lifetv/playlist.m3u8
 #EXTINF:-1 tvg-id="famelack-oObG6G5pXCsikw" tvg-country="US" tvg-language="English" tvg-logo="https://ml.globenewswire.com/Resource/Download/93a3878f-0cee-4b51-b851-bd519049af8d" tvg-status="live" group-title="News",Lindell TV
 https://stream.vocl.com/hls/lindelltv/index.m3u8
-#EXTINF:-1 tvg-id="famelack-0KL7HXYYAtsJlk" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://lingkartv.com/assets/img/logo-square.png" tvg-status="live" group-title="News",Lingkar TV
-https://lingkartv.my.id/hls/lingkartv.m3u8
 #EXTINF:-1 tvg-id="famelack-320S8yhqhPXOWr" tvg-country="DO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/bLutjkf.png" tvg-status="live" group-title="News",Linieros TV
 https://soportedvb.click:3017/live/linierostvlive.m3u8
 #EXTINF:-1 tvg-id="famelack-QUgozEv0vZrkjK" tvg-country="IT" tvg-language="Italian" tvg-logo="https://i.imgur.com/sC9ELuY.jpg" tvg-status="live" group-title="News",Lira TV
@@ -1510,7 +1532,7 @@ https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12PLUS_H_CT_A
 #EXTINF:-1 tvg-id="News12PlusHudsonValley.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.ibb.co/cKkdC203/news12plus-HV.jpg" tvg-status="live" group-title="News",News12+ Hudson Valley
 https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12PLUS_H_WC_A1/index_new.m3u8
 #EXTINF:-1 tvg-id="News12PlusLongIsland.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.ibb.co/p6FPNcCk/news12plus-LI.jpg" tvg-status="live" group-title="News",News12+ Long Island
-https://mdc4.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12LH_WEST_A1/index_new.m3u8
+https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12PLUS_H_LI_A1/index_new.m3u8
 #EXTINF:-1 tvg-id="News12PlusNewJersey.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.ibb.co/qYCVcWDV/news12plus-NJ.jpg" tvg-status="live" group-title="News",News12+ New Jersey
 https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12PLUS_H_NJ_A1/index_new.m3u8
 #EXTINF:-1 tvg-id="News12PlusNewYork.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.ibb.co/tThKYM09/news12plus-NYC.jpg" tvg-status="live" group-title="News",News12+ New York
@@ -1615,6 +1637,10 @@ https://live.nowtelly.com/now_arabic/live/playlist.m3u8
 https://live.nowtelly.com/now_spanish/live/playlist.m3u8
 #EXTINF:-1 tvg-id="famelack-QsIrtjOzipSRxh" tvg-country="US" tvg-language="English" tvg-logo="" tvg-status="live" group-title="News",NOW News USA
 https://live.nowtelly.com/now_usa/live_usa/playlist.m3u8
+#EXTINF:-1 tvg-id="famelack-ZGvoYb8iZS7uzb" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/8m8gy0n.png" tvg-status="live" group-title="News",NowMedia Television
+https://stream-204968.castr.net/64e0c91d08bff3041638aee3/live_a4243540d4b911f0b624bda5e9a32aa9/index.m3u8
+#EXTINF:-1 tvg-id="famelack-e6vVftJ1IvJN45" tvg-country="US" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="News",NowMedia Television Spanish
+https://stream-204968.castr.net/64e0c91d08bff3041638aee3/live_a16fa020f4c411f09ddaa1978319689a/index.m3u8
 #EXTINF:-1 tvg-id="famelack-7RybIRrll1cJpa" tvg-country="PY" tvg-language="Spanish" tvg-logo="https://i.imgur.com/pUEkaiW.png" tvg-status="live" group-title="News",NPY
 https://copacogen.desdeparaguay.net/npy/npy_py_alta/playlist.m3u8?admin=tvaccion
 #EXTINF:-1 tvg-id="NRTTV.iq" tvg-country="IQ" tvg-language="Kurdish" tvg-logo="https://i.imgur.com/uGKGtbW.png" tvg-status="down" group-title="News",NRT TV
@@ -1663,10 +1689,6 @@ https://www.youtube-nocookie.com/embed/RbRSSfXZqh0
 https://partwota.cdn.mgmlcdn.com/omlive/smil:omlive.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="ONNewsHD.pk" tvg-country="PK" tvg-language="English" tvg-logo="https://i.imgur.com/h3IUrMI.png" tvg-status="down" group-title="News",ON News HD
 http://103.250.28.74:8000/play/a046/index.m3u8
-#EXTINF:-1 tvg-id="famelack-q7nooMvVTTe0YZ" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/mUrZz9O.png" tvg-status="live" group-title="News",Onda 15 TV
-https://cloudvideo.servers10.com:8081/8034/index.m3u8
-#EXTINF:-1 tvg-id="famelack-w0BuuYkb1LM5NS" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/6HxLUQd.png" tvg-status="live" group-title="News",Onda Valencia TV
-https://cloudvideo.servers10.com:8081/8116/index.m3u8
 #EXTINF:-1 tvg-id="famelack-w5EWzw31ShdREs" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/84/One_America_News_Network_logo.svg/960px-One_America_News_Network_logo.svg.png" tvg-status="live" group-title="News",One America News Network
 https://a-cdn.klowdtv.com/live1/oan_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="OnlineTVNusantara.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://i.imgur.com/E9CCIpP.jpg" tvg-status="down" group-title="General",Online TV Nusantara
@@ -1761,6 +1783,8 @@ https://cmero-ott-live.ssl.cdn.cra.cz/channels/cme-ro-voyo-news/playlist.m3u8?of
 https://prudentmcdn.rixcast.com/prudentm.m3u8
 #EXTINF:-1 tvg-id="PSMNews.mv" tvg-country="MV" tvg-language="Dhivehi" tvg-logo="https://i.imgur.com/mGuBbPv.png" tvg-status="live" group-title="News",PSM News
 https://customer-ujex1meek7koqd9x.cloudflarestream.com/21262545317dadfa20dab4f9bd37c7c2/manifest/video.m3u8
+#EXTINF:-1 tvg-id="famelack-eg1gONSWrKSqw4" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/7i7GkSL.png" tvg-status="live" group-title="News",PSN
+https://srspsn.live/live/livestream.m3u8
 #EXTINF:-1 tvg-id="famelack-rGCqu82AwJbUrk" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/7i7GkSL.png" tvg-status="live" group-title="News",PSN Canal 45.2
 https://srspsn2.live/live/livestream.m3u8
 #EXTINF:-1 tvg-id="famelack-h5ZEdljx5FiEEW" tvg-country="IN" tvg-language="Panjabi" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_PTC_NEWS/images/LOGO_HD/image.png" tvg-status="live" group-title="News",PTC News
@@ -1787,6 +1811,8 @@ https://pnt.janusmedia.tv/hls/pnt.m3u8
 https://mumt07.tangotv.in/zHjX9OFlPUTHIYAEXPRESS/index.m3u8
 #EXTINF:-1 tvg-id="famelack-ycIORsCl0Fwyqe" tvg-country="IN" tvg-language="Tamil" tvg-logo="" tvg-status="live" group-title="News",PuthiyathalaimuraiTV
 https://www.youtube-nocookie.com/embed/hw7Fjh6mncQ
+#EXTINF:-1 tvg-id="famelack-1ivzt9CdjGwK6L" tvg-country="QA" tvg-language="Arabic" tvg-logo="https://www.qbc.news/_next/static/media/logo.0~2x9wpd284~a.svg" tvg-native-name="كيو بي سي" tvg-status="live" group-title="News",QBC
+https://live.kwikmotion.com/qbusinesslive/qbusiness.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="famelack-5KzJxTUZ8XM9K0" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/oWJauwQ.png" tvg-status="live" group-title="News",Qosqo Times
 https://stmv2.srvif.com/qtelevision/qtelevision/playlist.m3u8
 #EXTINF:-1 tvg-id="QTV1.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://www.tvchinese.net/uploads/tv/qdtv1.jpg" tvg-native-name="新闻综合频道" tvg-status="live" group-title="News",QTV-1
@@ -1797,8 +1823,6 @@ https://videostream.shockmedia.com.ar:19360/quanticatv/quanticatv.m3u8
 https://server.playontv.in/raatdinbangla/index.m3u8
 #EXTINF:-1 tvg-id="famelack-MFtmVHiGqE67Ua" tvg-country="PA" tvg-language="Spanish" tvg-logo="https://i.imgur.com/xum8PNe.jpg" tvg-status="live" group-title="News",Radio Ancon
 https://www.streaming507.net:19360/anconvideo/anconvideo.m3u8
-#EXTINF:-1 tvg-id="famelack-0AeHu53Cy2m0HP" tvg-country="IT" tvg-language="Italian" tvg-logo="https://upload.wikimedia.org/wikipedia/it/3/38/Radio_Capital_logo_%282020%29.svg" tvg-status="live" group-title="News",Radio Capital TiVu
-https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S35394734/Z6U2wGoDYANk/playlist.m3u8
 #EXTINF:-1 tvg-id="RadioIslaTV.pr" tvg-country="PR" tvg-language="Spanish" tvg-logo="https://i.ibb.co/PDThYr5/Logo-Radio-Isla.png" tvg-status="down" group-title="News",Radio Isla TV
 https://59a564764e2b6.streamlock.net/palestra/palestra/playlist.m3u8
 #EXTINF:-1 tvg-id="famelack-o5d38JZC1UjVec" tvg-country="AR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/uvck4Vj.png" tvg-status="live" group-title="News",Radio Mitre
@@ -1829,6 +1853,10 @@ https://realitatealive.md/tv/rlive.m3u8
 http://45.162.64.114/RECORD_NEWS/index.m3u8
 #EXTINF:-1 tvg-id="famelack-rcAVPicFrfGwrS" tvg-country="LB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/bWwY885.png" tvg-status="live" group-title="News",Red TV Lebanon
 https://live.kwikmotion.com/redtvlive/redtv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="famelack-iEaQZyuCD9tKa4" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/kuqkTMC.png" tvg-status="live" group-title="News",Red+
+https://inforedvos.lcdn.claro.net.co/Content/HLS_HLS_DIR/Live/channel(REDMASHDWEB)/master.m3u8
+#EXTINF:-1 tvg-id="famelack-zcoCA9mHfb19F8" tvg-country="BR" tvg-language="Portuguese" tvg-logo="" tvg-status="live" group-title="News",REDE SPi
+https://video11.logicahost.com.br/redespi/redespi/playlist.m3u8
 #EXTINF:-1 tvg-id="ReportTV.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="https://i.imgur.com/C9lM1KP.png" tvg-status="down" group-title="News",Report TV
 https://deb10stream.duckdns.org/hls/stream.m3u8
 #EXTINF:-1 tvg-id="Reporter.ua" tvg-country="UA" tvg-language="Ukrainian" tvg-logo="https://i.imgur.com/LyA3kBR.png" tvg-native-name="Репортёр" tvg-status="live" group-title="News",Reporter
@@ -1985,6 +2013,8 @@ https://live.cast-control.eu/StartMedia/StartMedia/playlist.m3u8
 https://hlspackager.akamaized.net/live/DB/STERK_TV/HLS/STERK_TV.m3u8
 #EXTINF:-1 tvg-id="famelack-qNDlG3J8FqlbVd" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://i.imgur.com/oyQ2FnC.jpg" tvg-native-name="STVニュース北海道" tvg-status="live" group-title="News",STV News Hokkaido
 https://www.youtube-nocookie.com/embed/3MBdJPHR8lg
+#EXTINF:-1 tvg-id="famelack-7omf3emk4fDdL8" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/SeF2I7q.png" tvg-status="live" group-title="News",STZ TV
+https://cdn.live.br1.jmvstream.com/webtv/AVJ-12952/playlist/playlist.m3u8
 #EXTINF:-1 tvg-id="SucesoTV.py" tvg-country="PY" tvg-language="Spanish" tvg-logo="https://i.imgur.com/BwRNes1.png" tvg-status="live" group-title="News",Suceso TV
 https://live.enhdtv.com:8081/8060/index.m3u8
 #EXTINF:-1 tvg-id="famelack-oy323hi3qdqwPY" tvg-country="PK" tvg-language="Urdu" tvg-logo="https://i.imgur.com/yYMh3JJ.png" tvg-status="live" group-title="News",Such TV
@@ -2159,6 +2189,8 @@ https://video01.logicahost.com.br/tvafolha/tvafolha/playlist.m3u8
 https://gjirafa-video-live.gjirafa.net/gjvideo-live/mps-vgx-u9p-qv1/index.m3u8
 #EXTINF:-1 tvg-id="famelack-riJfvbebPYWsNV" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/J2EAZPS.png" tvg-status="live" group-title="News",TV Brusque
 https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/5d880199c902eb4a1e8df00d/playlist.m3u8
+#EXTINF:-1 tvg-id="famelack-46bhWZVm1EdjmB" tvg-country="CR" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="News",TV Cartago Digital
+https://video2.getstreamhosting.com:19360/8110/8110.m3u8
 #EXTINF:-1 tvg-id="famelack-J3nEPCNB7tfIfa" tvg-country="HR" tvg-language="Croatian" tvg-logo="https://i.imgur.com/UWMHnOG.png" tvg-status="live" group-title="News",TV Jadran
 https://tvjadran.stream.agatin.hr:3412/live/tvjadranlive.m3u8
 #EXTINF:-1 tvg-id="famelack-ldMuaEv5ZnKJiR" tvg-country="JP" tvg-language="Japanese" tvg-logo="" tvg-status="live" group-title="News",TV Kanazawa News
@@ -2273,6 +2305,8 @@ https://www.youtube-nocookie.com/embed/28IZl9iM-EE
 https://gpa-vja-samsungtvplus-br.otteravision.com/gpa/vja/vja.m3u8
 #EXTINF:-1 tvg-id="famelack-JrW9i3cofQFUq4" tvg-country="IN" tvg-language="Tamil" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/Logo_of_Velicham_TV.png" tvg-status="live" group-title="News",Velicham TV
 https://cdn.pishow.tv/ott/live/461/master.m3u8
+#EXTINF:-1 tvg-id="famelack-cu6RCMF1x7RHRd" tvg-country="GR" tvg-language="Greek" tvg-logo="https://i.imgur.com/abQmFoH.png" tvg-native-name="Βεργίνα TV" tvg-status="live" group-title="News",Vergina TV
+https://verginanews.gr:8443/hls_live/stream1.m3u8
 #EXTINF:-1 tvg-id="famelack-Tk0mG4VFLQVdIQ" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/ZBHqSZj.png" tvg-native-name="Вести FM" tvg-status="live" group-title="News",Vesti FM
 https://stream.smotrim.ru/hls2/vesti_fm/playlist_4.m3u8
 #EXTINF:-1 tvg-id="VinhLongTV1.vn" tvg-country="VN" tvg-language="Vietnamese" tvg-logo="https://i.imgur.com/5YFsqPx.png" tvg-status="live" group-title="News",Vinh Long TV 1
