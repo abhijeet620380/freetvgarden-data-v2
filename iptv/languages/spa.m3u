@@ -425,7 +425,7 @@ http://digisat.ddns.net:4022/udp/239.0.5.177:8208
 https://hls.tvabierta.net/hls/boliviatv.m3u8
 #EXTINF:-1 tvg-id="Bolivision.bo" tvg-country="BO" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/Bolivisi%C3%B3n2025.png" tvg-status="down" group-title="General",Bolivision
 http://15.204.246.24:8080/BolivisionHD/index.m3u8
-#EXTINF:-1 tvg-id="BonaoTV.do" tvg-country="DO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/en1vCZB.png" tvg-status="down" group-title="General",Bonao TV
+#EXTINF:-1 tvg-id="BonaoTV.do" tvg-country="DO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/en1vCZB.png" tvg-status="live" group-title="General",Bonao TV
 https://tele-stream.telecasa.net/live/st2/bonaotv-hd/index.m3u8
 #EXTINF:-1 tvg-id="famelack-hovo939geWj8nW" tvg-country="DO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/Kp8x0NS.png" tvg-status="live" group-title="Entertainment",Bonches Latinos TV
 https://5790d294af2dc.streamlock.net/latinostv/latinostv/playlist.m3u8
@@ -491,7 +491,7 @@ https://stream.hostuis.com:19360/canatvdigital/canatvdigital.m3u8
 http://138.121.15.230:9002/CANAL-UNO/index.m3u8
 #EXTINF:-1 tvg-id="famelack-X0fe1ozGC5qVsh" tvg-country="CR" tvg-language="Spanish" tvg-logo="https://i.ibb.co/KhNS8Dy/cropped-logoo-1.png" tvg-status="live" group-title="General",Canal 1
 https://vid.canal1cr.com:3424/multi_live/play.m3u8
-#EXTINF:-1 tvg-id="famelack-YKXcBcU301g5xd" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/MQOwCdZ.png" tvg-status="live" group-title="General",Canal 1 Mar Menor Torre Pacheco
+#EXTINF:-1 tvg-id="famelack-YKXcBcU301g5xd" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/MQOwCdZ.png" tvg-status="live" group-title="News",Canal 1 Mar Menor Torre Pacheco
 https://directo.tuwebtv.es/canal1.m3u8
 #EXTINF:-1 tvg-id="famelack-bL20OQOX6GoIrZ" tvg-country="CL" tvg-language="Spanish" tvg-logo="https://i.imgur.com/PGSixH5.png" tvg-status="live" group-title="General",Canal 1 Nuble
 https://tls-cl.cdnz.cl/canal21tv/live/playlist.m3u8
@@ -539,7 +539,7 @@ https://stream-207963.castr.net/65313d270e749722b6474684/live_55784330f36711ee97
 https://tv91.hostingnuclear.com:19360/intercable/intercable.m3u8
 #EXTINF:-1 tvg-id="Canal13Guadalajara.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/SlycKgZ.png" tvg-status="down" group-title="General",Canal 13 Guadalajara
 https://stream-207963.castr.net/65313d270e749722b6474684/live_fa0ed380dfbe11eeabd66ba1b9ba93a1/index.fmp4.m3u8
-#EXTINF:-1 tvg-id="Canal13Jujuy.ar" tvg-country="AR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/lmKLiJ3.jpg" tvg-status="live" group-title="Religious",Canal 13 Jujuy
+#EXTINF:-1 tvg-id="Canal13Jujuy.ar" tvg-country="AR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/lmKLiJ3.jpg" tvg-status="down" group-title="Religious",Canal 13 Jujuy
 https://genexservicios.com:19360/canal13jujuy/canal13jujuy.m3u8
 #EXTINF:-1 tvg-id="Canal13LaRioja.ar" tvg-country="AR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/OI97Sgq.png" tvg-status="live" group-title="General",Canal 13 La Rioja
 http://arcast.net:1935/mp/mp/playlist.m3u8
@@ -637,7 +637,7 @@ https://s.emisoras.tv:8081/canal30tvbethel/index.m3u8
 https://s.emisoras.tv:8081/stocanal32hn/playlist.m3u8
 #EXTINF:-1 tvg-id="famelack-RXOTRvJYcdYU7o" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Logo_Canal_33_Madrid_2025.jpg/960px-Logo_Canal_33_Madrid_2025.jpg" tvg-status="live" group-title="General",Canal 33 Madrid
 https://media2.streambrothers.com:1936/8140/8140/playlist.m3u8
-#EXTINF:-1 tvg-id="famelack-Hpf3KI7ImTrsrI" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://iili.io/JCt1Nbn.png" tvg-status="live" group-title="General",Canal 33 Tijuana
+#EXTINF:-1 tvg-id="famelack-Hpf3KI7ImTrsrI" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://iili.io/JCt1Nbn.png" tvg-status="live" group-title="News",Canal 33 Tijuana
 https://5f2c1b0d880e5.streamlock.net/canal33tijuana/videocanal33tijuana/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal4.cr" tvg-country="CR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/5arZEgO.png" tvg-status="live" group-title="General",Canal 4
 http://45.186.106.207:8000/play/a09t/index.m3u8
@@ -791,7 +791,7 @@ https://www.youtube-nocookie.com/embed/AMiVAF_tuJ4
 https://cdn-cloudfront.us-east-1.prod.ingest.aws-infra.dacast.com/live/dad6a736-9efb-40ce-89b6-81d1d54f92bd/master.m3u8
 #EXTINF:-1 tvg-id="famelack-YhrXNZ7yMh3K65" tvg-country="PA" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="News",Canal de Panamá
 https://www.youtube-nocookie.com/embed/yaGbBi3iLS0
-#EXTINF:-1 tvg-id="CanaldelCongreso451.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/xAC6gQO.png" tvg-status="live" group-title="Legislative",Canal del Congreso 45.1
+#EXTINF:-1 tvg-id="CanaldelCongreso451.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/xAC6gQO.png" tvg-status="down" group-title="Legislative",Canal del Congreso 45.1
 https://ccstreaming.packet.mx/WebRTCAppEE/streams/45.1_kd5oiNTTWO0gEOFc431277834.m3u8
 #EXTINF:-1 tvg-id="famelack-lGjT2jeXckVXEb" tvg-country="DO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/gK0M1jB.png" tvg-status="live" group-title="General",Canal del Sol
 https://stream.canaldelsol.com/sol26/live_1080.m3u8
@@ -807,7 +807,7 @@ https://secure5.todostreaming.es/live/division-alm.m3u8
 https://stream2.micanal2.tv/hls/canal2.m3u8
 #EXTINF:-1 tvg-id="famelack-LSLRTmwWOHFIfa" tvg-country="DO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/JO5yuNC.png" tvg-status="live" group-title="General",Canal DTV
 https://s.emisoras.tv:8081/dtv/index.m3u8
-#EXTINF:-1 tvg-id="famelack-K4DoGz5aRpSeyC" tvg-country="AR" tvg-language="Spanish" tvg-logo="https://i.ibb.co/y4pkxH3/Qtc8-M2-PG-400x400.jpg" tvg-status="live" group-title="News",Canal E
+#EXTINF:-1 tvg-id="famelack-K4DoGz5aRpSeyC" tvg-country="AR" tvg-language="Spanish" tvg-logo="https://i.ibb.co/y4pkxH3/Qtc8-M2-PG-400x400.jpg" tvg-status="live" group-title="Business",Canal E
 https://unlimited1-us.dps.live/perfiltv/perfiltv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="CanalExtremadura.es" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/CEXMA_new.png/500px-CEXMA_new.png" tvg-status="down" group-title="General",Canal Extremadura
 https://cdnlive.codev8.net/canalextremaduralive/smil:channel1DVR.smil/playlist.m3u8?DVR=
@@ -885,7 +885,7 @@ https://cdn.stmify.com/zapitv/stream/CANAL_SUR/canal_sur_hd.mpd
 https://cdnlive.codev8.net/rtvalive/smil:channel22.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="famelack-WsnjAbyAewcp2y" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/lznnA4v.png" tvg-status="live" group-title="Public",Canal Sur Andalucia
 https://dfk2a268yviz9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ddiii1m6jt6of/CanalSurAndaluciaES.m3u8
-#EXTINF:-1 tvg-id="famelack-Pf3Zsb1GIIiXjl" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/BuQPiJb.png" tvg-status="live" group-title="Public",Canal Sur Noticias
+#EXTINF:-1 tvg-id="famelack-Pf3Zsb1GIIiXjl" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/BuQPiJb.png" tvg-status="live" group-title="News",Canal Sur Noticias
 https://cdnlive.codev8.net/rtvalive/smil:channel42.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="famelack-8VzXZXOe3sUVad" tvg-country="CL" tvg-language="Spanish" tvg-logo="https://i.imgur.com/FknQYSp.png" tvg-status="live" group-title="General",Canal Survision Alerce
 https://s1.tvdatta.com:3384/live/canal20tvlive.m3u8
@@ -981,7 +981,7 @@ http://190.61.90.17:40000/play/a03p/index.m3u8
 https://hls.tvabierta.net/hls/036.m3u8
 #EXTINF:-1 tvg-id="CDNN23.ni" tvg-country="NI" tvg-language="Spanish" tvg-logo="https://i.imgur.com/7CNzlB6.png" tvg-status="down" group-title="News",CDNN 23
 https://cootv.cootel.com.ni:8095/Canal23_CooTel/playlist.m3u8
-#EXTINF:-1 tvg-id="famelack-qAN5sBGpkuc0D2" tvg-country="BO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/hutdRfk.png" tvg-status="live" group-title="Music",CEACOM TV
+#EXTINF:-1 tvg-id="famelack-qAN5sBGpkuc0D2" tvg-country="BO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/hutdRfk.png" tvg-status="live" group-title="Lifestyle",CEACOM TV
 https://eu1.servers10.com:8081/ceacom/index.m3u8
 #EXTINF:-1 tvg-id="famelack-Rbhi1IeYnyJ3gG" tvg-country="CR" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="Music",Cedros TV
 https://eu1.servers10.com:8081/cedrostv/index.m3u8
@@ -1042,7 +1042,7 @@ http://190.61.90.17:40000/play/a02i/index.m3u8
 #EXTINF:-1 tvg-id="CineSony.us" tvg-country="US" tvg-language="Spanish" tvg-logo="https://i.imgur.com/bZWoDTg.png" tvg-status="live" group-title="Movies",Cine Sony
 https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="CineTerror.us" tvg-country="US" tvg-language="Spanish" tvg-logo="https://images.pluto.tv/channels/5d8d180092e97a5e107638d3/colorLogoSVG.svg" tvg-status="live" group-title="Movies",Cine Terror
-https://jmp2.uk/plu-5f12111c9e6c2c00078ef3bb.m3u8
+https://jmp2.uk/plu-5dcddf1ed95e740009fef7ab.m3u8
 #EXTINF:-1 tvg-id="CineWestern.es" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/2UROzSc.png" tvg-status="live" group-title="Movies",Cine Western
 https://d2nq34q0i1r3la.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-awohw8g217ho8/CineWestern_ES.m3u8
 #EXTINF:-1 tvg-id="Cinecanal.us" tvg-country="US" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/960px-CinecanalLA.png" tvg-status="live" group-title="Movies",Cinecanal
@@ -1181,7 +1181,7 @@ https://sistemastr.tropicalmoonmedia.com/live/7FFCFEC3978B68D1A2ED0A38DE96AF76/1
 https://stream.arcast.net:4443/correadigital/canal12/playlist.m3u8
 #EXTINF:-1 tvg-id="famelack-c2k5mg9wITshic" tvg-country="AR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/7PBkvRp.png" tvg-status="live" group-title="General",Corrientes TV
 https://617c5175c970b.streamlock.net:4444/13max2/live13maxtv2026/playlist.m3u8
-#EXTINF:-1 tvg-id="famelack-mrbOEcmtP5KVxY" tvg-country="AR" tvg-language="Spanish" tvg-logo="https://i0.wp.com/fmcosmos.com/wp-content/uploads/2021/11/COSMOS-TV.png" tvg-status="live" group-title="Movies",Cosmos Tv
+#EXTINF:-1 tvg-id="famelack-mrbOEcmtP5KVxY" tvg-country="AR" tvg-language="Spanish" tvg-logo="https://i0.wp.com/fmcosmos.com/wp-content/uploads/2021/11/COSMOS-TV.png" tvg-status="live" group-title="News",Cosmos Tv
 https://canaletaplus.com:3922/live/cosmoslive.m3u8
 #EXTINF:-1 tvg-id="famelack-BZ9ohjnwvpwyuR" tvg-country="PY" tvg-language="Spanish" tvg-logo="https://i.imgur.com/dAMyExY.jpg" tvg-status="live" group-title="Science",Cosmos TV
 https://video.hostingcaaguazu.com:19360/cosmostv/cosmostv.m3u8
@@ -1727,7 +1727,7 @@ https://panel.dattalive.com/8122/8122/playlist.m3u8
 http://181.78.8.199:8000/play/a09k/index.m3u8
 #EXTINF:-1 tvg-id="GM7Digital.ec" tvg-country="EC" tvg-language="Spanish" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3708-294x165-FFFFFF.jpg" tvg-status="down" group-title="General",GM7 Digital
 https://s2.tvdatta.com:3858/live/gm7digitallive.m3u8
-#EXTINF:-1 tvg-id="famelack-KorxP0jgE3cFyZ" tvg-country="PY" tvg-language="Spanish" tvg-logo="https://i.ibb.co/jkvYVyz/Captura.png" tvg-status="live" group-title="Music",GO TV
+#EXTINF:-1 tvg-id="famelack-KorxP0jgE3cFyZ" tvg-country="PY" tvg-language="Spanish" tvg-logo="https://i.ibb.co/jkvYVyz/Captura.png" tvg-status="live" group-title="Entertainment",GO TV
 https://rds3.desdeparaguay.net/gotv/gotv/playlist.m3u8
 #EXTINF:-1 tvg-id="famelack-3qll92K68H7fAm" tvg-country="BO" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="General",GO TV
 https://stmv1.voxtvhd.com.br/vavizacli/vavizacli/playlist.m3u8
@@ -1907,7 +1907,7 @@ https://tv.arkeo.cl:1936/unetev/unetev/playlist.m3u8
 https://vcp.myplaytv.com/italianissimo/italianissimo/playlist.m3u8
 #EXTINF:-1 tvg-id="famelack-05SDuHyb6rt5nK" tvg-country="AR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/OxmpRDx.png" tvg-status="live" group-title="General",Itel TV Canal 2
 https://proxystream.iteltv.com.ar/output/iteltv/playlist.m3u8
-#EXTINF:-1 tvg-id="famelack-ZiZzS4tyBeE4oz" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://iili.io/J1kV1Bn.png" tvg-status="live" group-title="Sports",ITV Deportes
+#EXTINF:-1 tvg-id="famelack-ZiZzS4tyBeE4oz" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://iili.io/J1kV1Bn.png" tvg-status="live" group-title="Entertainment",ITV Deportes
 https://thm-it-roku.otteravision.com/thm/it/it.m3u8
 #EXTINF:-1 tvg-id="famelack-B06Trbkq5ZZMBH" tvg-country="CL" tvg-language="Spanish" tvg-logo="https://rhk91h.infiniteuploads.cloud/2025/08/Logo-ITV-Patagonia.jpg" tvg-status="live" group-title="General",ITV Patagonia
 https://redirector.dps.live/hls/itv/playlist.m3u8
@@ -2472,7 +2472,7 @@ https://streaming013.gestec-video.com/hls/negociostv.m3u8
 #EXTINF:-1 tvg-id="famelack-83vfpPczQc0o3d" tvg-country="AR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/Xtu85tb.png" tvg-status="live" group-title="General",Neo TV
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 #EXTINF:-1 tvg-id="NeoTV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/bS5JtYX.jpeg" tvg-status="live" group-title="Entertainment",Neo TV
-http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/DigitalTV/playlist.m3u8
+https://live-evg7.tv360.bitel.com.pe/bitel/neotvSRT/playlist.m3u8
 #EXTINF:-1 tvg-id="famelack-xVaEKcGj3VuSQR" tvg-country="AR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/eIX71c9.png" tvg-status="live" group-title="General",Neox TV
 https://tv.streamcasthd.com:3031/live/neoxtvlive.m3u8
 #EXTINF:-1 tvg-id="famelack-nCjEym27rIb7Sc" tvg-country="AR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/IhJ0BjF.png" tvg-status="live" group-title="General",NET TV
@@ -2533,7 +2533,7 @@ https://ss2.tvrdomi.com:1936/notisur/notisur/playlist.m3u8
 http://138.59.177.78:9999/play/a0gg/index.m3u8
 #EXTINF:-1 tvg-id="famelack-vPDh6a0L0L99BR" tvg-country="US" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="News",NOW News Spanish
 https://live.nowtelly.com/now_spanish/live/playlist.m3u8
-#EXTINF:-1 tvg-id="famelack-e6vVftJ1IvJN45" tvg-country="US" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="News",NowMedia Television Spanish
+#EXTINF:-1 tvg-id="famelack-e6vVftJ1IvJN45" tvg-country="US" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="Lifestyle",NowMedia Television Spanish
 https://stream-204968.castr.net/64e0c91d08bff3041638aee3/live_a16fa020f4c411f09ddaa1978319689a/index.m3u8
 #EXTINF:-1 tvg-id="famelack-7RybIRrll1cJpa" tvg-country="PY" tvg-language="Spanish" tvg-logo="https://i.imgur.com/pUEkaiW.png" tvg-status="live" group-title="News",NPY
 https://copacogen.desdeparaguay.net/npy/npy_py_alta/playlist.m3u8?admin=tvaccion
@@ -2581,7 +2581,7 @@ https://netzerstreaming.com:4433/hls/olammetro/index.m3u8
 https://v4.tustreaming.cl/retroplaytv/index.m3u8
 #EXTINF:-1 tvg-id="OlympicChannel.es" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/wPQVVtj.png" tvg-status="down" group-title="Sports",Olympic Channel
 https://ocshls-2-olympicchannel.akamaized.net/ocshls/OCTV_32.m3u8
-#EXTINF:-1 tvg-id="famelack-q7nooMvVTTe0YZ" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/mUrZz9O.png" tvg-status="live" group-title="Music",Onda 15 TV
+#EXTINF:-1 tvg-id="famelack-q7nooMvVTTe0YZ" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/mUrZz9O.png" tvg-status="live" group-title="News",Onda 15 TV
 https://cloudvideo.servers10.com:8081/8034/index.m3u8
 #EXTINF:-1 tvg-id="famelack-9dhga7gK9KijdY" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/kUhFkVF.png" tvg-status="live" group-title="General",Onda Algeciras
 https://cloudtv.provideo.es/live/algecirastv-livestream.m3u8
@@ -2593,7 +2593,7 @@ https://tv.ondadigital.pe/ondadigital/index.m3u8
 https://cnn.hostlagarto.com/ondatv/index.m3u8
 #EXTINF:-1 tvg-id="OndaTV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/gbjdiLW.jpeg" tvg-status="live" group-title="General",Onda TV
 https://live-evg5.tv360.bitel.com.pe/bitel/onda/playlist.m3u8
-#EXTINF:-1 tvg-id="famelack-w0BuuYkb1LM5NS" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/6HxLUQd.png" tvg-status="live" group-title="Music",Onda Valencia TV
+#EXTINF:-1 tvg-id="famelack-w0BuuYkb1LM5NS" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/6HxLUQd.png" tvg-status="live" group-title="News",Onda Valencia TV
 https://cloudvideo.servers10.com:8081/8116/index.m3u8
 #EXTINF:-1 tvg-id="OndambientalTV.co" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/u5804Au.jpg" tvg-status="down" group-title="Music",Ondambiental TV
 https://stmv4.voxtvhd.com.br/ondastereo/ondastereo/playlist.m3u8
@@ -2947,7 +2947,7 @@ https://v2.tustreaming.cl/armoniamovil/index.m3u8
 http://185.81.77.4/BocairentTV/index.m3u8
 #EXTINF:-1 tvg-id="famelack-zXlX9cxqgTkhd2" tvg-country="EC" tvg-language="Spanish" tvg-logo="https://i.imgur.com/IvZtqyz.png" tvg-status="live" group-title="Music",Radio Bonita 106.7
 https://cloudvideo.servers10.com:8081/8154/index.m3u8
-#EXTINF:-1 tvg-id="famelack-79RGODupZW3p8n" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/cdpbkSo.png" tvg-status="live" group-title="Music",Radio Carnaval TV
+#EXTINF:-1 tvg-id="famelack-79RGODupZW3p8n" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/cdpbkSo.png" tvg-status="live" group-title="Entertainment",Radio Carnaval TV
 https://eu1.servers10.com:8081/8116/index.m3u8
 #EXTINF:-1 tvg-id="famelack-pYqhwxhr9gjeaq" tvg-country="BO" tvg-language="Spanish" tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/574/radio-centro-fm.e939fb1e.png" tvg-status="live" group-title="General",Radio Centro
 https://streamlov.alsolnet.com/grupocentrobo/live/playlist.m3u8
@@ -3129,7 +3129,7 @@ https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
 https://live-evg10.tv360.bitel.com.pe/bitel/realtv/playlist.m3u8
 #EXTINF:-1 tvg-id="famelack-jesOsAnSntYFJW" tvg-country="BO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/qYNmeDe.png" tvg-status="live" group-title="General",Red America TV
 https://edge.enhdtv.com/redamerica/index.m3u8
-#EXTINF:-1 tvg-id="famelack-MGZU6AQGCifgRA" tvg-country="ES" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="Sports",Red Bull TV ES
+#EXTINF:-1 tvg-id="famelack-MGZU6AQGCifgRA" tvg-country="ES" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="Outdoor",Red Bull TV ES
 https://886bd3fbc782459f8de7555d32d7e9ce.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-957-WORBLATAMESFAST-WHALETVPLUS/957/whaletvplus/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="famelack-ERBtwPcBChyLTj" tvg-country="PY" tvg-language="Spanish" tvg-logo="https://i.imgur.com/3jj0MQP.jpg" tvg-status="live" group-title="General",Red Digital
 https://video.hostingcaaguazu.com:19360/reddigitalsanpedro/reddigitalsanpedro.m3u8
@@ -3204,7 +3204,7 @@ https://live.obslivestream.com/selvatv/index.m3u8
 #EXTINF:-1 tvg-id="famelack-iXL9fS6dPWm1hC" tvg-country="HN" tvg-language="Spanish" tvg-logo="https://i.imgur.com/yr7Ellh.jpg" tvg-status="live" group-title="Entertainment",RSV Honduras
 https://stmv2.srvif.com/rsvhonduras/rsvhonduras/playlist.m3u8
 #EXTINF:-1 tvg-id="RTenEspanol.ru" tvg-country="RU" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/960px-Russia-today-logo.svg.png" tvg-status="live" group-title="News",RT en Espanol
-https://live-evg10.tv360.bitel.com.pe/bitel/rt/playlist.m3u8
+https://streaming.thestream.cyou/live/46.m3u8
 #EXTINF:-1 tvg-id="famelack-7RmFyrjQEfTQLH" tvg-country="CL" tvg-language="Spanish" tvg-logo="https://i.imgur.com/w91IBj7.png" tvg-status="live" group-title="General",RTC Television
 https://scl.edge.grupoz.cl/rtcstreaming/live/playlist.m3u8
 #EXTINF:-1 tvg-id="famelack-hsjdwZKuRgc1SI" tvg-country="AR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/8xqYg4C.png" tvg-status="live" group-title="General",RTN
@@ -3410,7 +3410,7 @@ http://190.61.47.54:8000/play/a035/index.m3u8
 #EXTINF:-1 tvg-id="StarChannelLatinAmerica.us" tvg-country="US" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/960px-Star_Channel_2020.svg.png" tvg-status="live" group-title="Movies",Star Channel Latin America
 http://15.204.246.24:8080/STARCHANNELHD/index.m3u8
 #EXTINF:-1 tvg-id="StarTrekVoyager.de" tvg-country="DE" tvg-language="Spanish" tvg-logo="https://images.pluto.tv/channels/65787f2eb228b7000843fa5c/colorLogoSVG.svg" tvg-status="live" group-title="Movies",Star Trek: Voyager
-https://jmp2.uk/plu-65cb73d33ba51e00084cabad.m3u8
+https://jmp2.uk/plu-65787f2eb228b7000843fa5c.m3u8
 #EXTINF:-1 tvg-id="StreamForce360.co" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://streamforce360.com/wp-content/uploads/2026/06/logo-streamforce-30-20026-e1782248482848.png" tvg-status="live" group-title="General",StreamForce 360
 https://sistemastr.tropicalmoonmedia.com:443/live/9E495C5FDA503D7F71037F2D2C5D3FA3/16.m3u8
 #EXTINF:-1 tvg-id="famelack-JBY0vsG9zLUttk" tvg-country="CO" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="Entertainment",StreamForce 360 Main
@@ -3819,9 +3819,9 @@ https://5e85d90130e77.streamlock.net/6028/6028/playlist.m3u8
 https://5e85d90130e77.streamlock.net/6014/6014/playlist.m3u8
 #EXTINF:-1 tvg-id="famelack-yH1S0lEj15Dojl" tvg-country="HN" tvg-language="Spanish" tvg-logo="https://i.imgur.com/8LnLEQz.png" tvg-status="live" group-title="General",Television Olanchana
 https://viewhn.com/canal30/live/playlist.m3u8
-#EXTINF:-1 tvg-id="TelevisionPublica.ar" tvg-country="AR" tvg-language="Spanish" tvg-logo="https://i.postimg.cc/QCZcYJSX/TVP-Television-Publica-(2021)-svg.png" tvg-status="down" group-title="General",Television Publica
+#EXTINF:-1 tvg-id="TelevisionPublica.ar" tvg-country="AR" tvg-language="Spanish" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3b/Canal_7_Argentina_2026.svg/revision/latest/scale-to-width-down/150?cb=20260925154358&path-prefix=es" tvg-status="down" group-title="General",Television Publica
 http://190.128.214.97:64333/play/a008/index.m3u8
-#EXTINF:-1 tvg-id="famelack-C4INN3f93tsfyG" tvg-country="AR" tvg-language="Spanish" tvg-logo="https://i.postimg.cc/QCZcYJSX/TVP-Television-Publica-(2021)-svg.png" tvg-status="live" group-title="General",Televisión Pública
+#EXTINF:-1 tvg-id="famelack-C4INN3f93tsfyG" tvg-country="AR" tvg-language="Spanish" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3b/Canal_7_Argentina_2026.svg/revision/latest/scale-to-width-down/150?cb=20260925154358&path-prefix=es" tvg-status="live" group-title="General",Televisión Pública
 https://www.youtube-nocookie.com/embed/4tZgSlB7p2U
 #EXTINF:-1 tvg-id="famelack-StOVmvLhNdQ5uq" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/Dzen7sh.png" tvg-status="live" group-title="General",Television Tarapoto
 https://live-evg11.tv360.bitel.com.pe/bitel/tvtarapotoSRT/playlist.m3u8
@@ -4501,7 +4501,7 @@ https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master.m
 https://183.bozztv.com/giatv/giatv-worldtvgt/worldtvgt/playlist.m3u8
 #EXTINF:-1 tvg-id="WOWTV.sv" tvg-country="SV" tvg-language="Spanish" tvg-logo="https://i.imgur.com/dHxaWyp.png" tvg-status="down" group-title="General",WOW TV
 https://cdn-edge1.cef-technology.com/wow/wow_tv/playlist.m3u8
-#EXTINF:-1 tvg-id="famelack-NhTCqVJfwNwg9R" tvg-country="US" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="Music",WOX TV
+#EXTINF:-1 tvg-id="famelack-NhTCqVJfwNwg9R" tvg-country="US" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="Entertainment",WOX TV
 https://tuvideoonline.com.ar:3332/live/xlevelmedialive.m3u8
 #EXTINF:-1 tvg-id="famelack-CV1HFy4ju0AqkI" tvg-country="US" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="General",WTMO-CD 31.1
 https://d368vp0qqzvkid.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_nbc-direct/adcee832-5511-4ed1-bcef-58616c0f530f/4.m3u8
@@ -4551,7 +4551,7 @@ https://stmv6.voxtvhd.com.br/cineclasico/cineclasico/playlist.m3u8
 https://stmv6.voxtvhd.com.br/cineterror/cineterror/playlist.m3u8
 #EXTINF:-1 tvg-id="XtremoChannel.do" tvg-country="DO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/bvPh0Uq.png" tvg-status="live" group-title="General",Xtremo Channel
 https://ss2.tvrdomi.com:1936/xtremochannel/xtremochannel/playlist.m3u8
-#EXTINF:-1 tvg-id="Yunavision.do" tvg-country="DO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/YjceEv5.png" tvg-status="down" group-title="Entertainment",Yunavision
+#EXTINF:-1 tvg-id="Yunavision.do" tvg-country="DO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/YjceEv5.png" tvg-status="live" group-title="Entertainment",Yunavision
 https://tele-stream.telecasa.net/live/st1/yunavision-hd/index.m3u8
 #EXTINF:-1 tvg-id="YurimaguasTV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/VWC6Pt1.png" tvg-status="live" group-title="General",Yurimaguas TV
 https://live-evg7.tv360.bitel.com.pe/bitel/yurimaguastvSRT/playlist.m3u8

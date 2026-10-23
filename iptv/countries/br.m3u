@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="famelack-aKKZkEC54PsysO" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.ibb.co/ZRDvqJcf/Logo-Mais-Um-original-sem-fundo.png" tvg-status="live" group-title="Music",+MaisUm
+#EXTINF:-1 tvg-id="famelack-aKKZkEC54PsysO" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.ibb.co/ZRDvqJcf/Logo-Mais-Um-original-sem-fundo.png" tvg-status="live" group-title="Entertainment",+MaisUm
 https://stream.ichibansys.com:3230/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="1001Noites.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/dWA9y2J.png" tvg-status="down" group-title="Shop",1001 Noites
 https://cdn.jmvstream.com/w/LVW-8155/ngrp:LVW8155_41E1ciuCvO_all/playlist.m3u8
@@ -91,11 +91,11 @@ http://play.canalsete.com.br:1935/canalsete/xpl-c7_source/playlist.m3u8
 https://cdn-tiva-srv5-zcast-com-br.smartbit.co/canalstart/canalstart/playlist.m3u8
 #EXTINF:-1 tvg-id="CanalUOL.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://conteudo.imguol.com.br/c/play/logo_canaluol_2024.svg" tvg-status="live" group-title="General",Canal UOL
 https://video24.mais.uol.com.br/live/6146.m3u8
-#EXTINF:-1 tvg-id="CatveFM.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/w89yw36.png" tvg-status="live" group-title="General",Catve FM
+#EXTINF:-1 tvg-id="CatveFM.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/w89yw36.png" tvg-status="down" group-title="General",Catve FM
 https://5b33b873179a2.streamlock.net:1443/radiocamera/livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="CatveMasterTV.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/4m7Iazm.png" tvg-status="live" group-title="General",Catve Master TV
+#EXTINF:-1 tvg-id="CatveMasterTV.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/4m7Iazm.png" tvg-status="down" group-title="General",Catve Master TV
 https://5b33b873179a2.streamlock.net:1443/mastertv/livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="Catve2.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/qiVfsfB.png" tvg-status="live" group-title="General",Catve2
+#EXTINF:-1 tvg-id="Catve2.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/qiVfsfB.png" tvg-status="down" group-title="General",Catve2
 https://5b33b873179a2.streamlock.net:1443/catve2/catve2/playlist.m3u8
 #EXTINF:-1 tvg-id="CazeTV.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/64/Caz%C3%A9TV_logo.svg/1280px-Caz%C3%A9TV_logo.svg.png" tvg-status="live" group-title="Sports",CazeTV
 http://138.204.86.4:8080/CAZE_TV/playlist.m3u8
@@ -269,7 +269,7 @@ https://playplussdr-lh.akamaihd.net/i/pp_sdr@377858/index_720_av-b.m3u8
 https://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/index_720_av-p.m3u8
 #EXTINF:-1 tvg-id="RecordTVSaoPaulo.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/1/10/Logotipo_da_Record.png/960px-Logotipo_da_Record.png" tvg-status="down" group-title="General",RecordTV Sao Paulo
 https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8
-#EXTINF:-1 tvg-id="famelack-Uk3TstZNoN0RvI" tvg-country="BR" tvg-language="Portuguese" tvg-logo="" tvg-status="live" group-title="Sports",Red Bull TV BR
+#EXTINF:-1 tvg-id="famelack-Uk3TstZNoN0RvI" tvg-country="BR" tvg-language="Portuguese" tvg-logo="" tvg-status="live" group-title="Outdoor",Red Bull TV BR
 https://d03ae6b5c6724c24867e97a3dc04934a.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-1026-WORBBRPTFAST-WHALETVPLUS/1026/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="famelack-OKRKy0KkktDnXu" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/TXJKwzZ.png" tvg-status="live" group-title="General",Rede Brasil
 https://redebrasil.nuvemplay.live/hls/stream.m3u8
@@ -299,7 +299,7 @@ https://cdn-tiva-stmv2-samcast-com-br.smartbit.co/leonardo9878/leonardo9878/play
 http://tv02.logicahost.com.br:1935/rederc/rederc/live.m3u8
 #EXTINF:-1 tvg-id="RedeSeculo21.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="" tvg-status="live" group-title="Religious",Rede Seculo 21
 http://45.162.64.114/REDE_SECULO_21/index.m3u8
-#EXTINF:-1 tvg-id="famelack-zcoCA9mHfb19F8" tvg-country="BR" tvg-language="Portuguese" tvg-logo="" tvg-status="live" group-title="Culture",REDE SPi
+#EXTINF:-1 tvg-id="famelack-zcoCA9mHfb19F8" tvg-country="BR" tvg-language="Portuguese" tvg-logo="" tvg-status="live" group-title="Entertainment",REDE SPi
 https://video11.logicahost.com.br/redespi/redespi/playlist.m3u8
 #EXTINF:-1 tvg-id="famelack-trGjHBEHG2rfsL" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/kh3LGAP.png" tvg-status="live" group-title="General",Rede SPTV
 https://video01.logicahost.com.br/websptv/websptv/playlist.m3u8
