@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="famelack-aKKZkEC54PsysO" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.ibb.co/ZRDvqJcf/Logo-Mais-Um-original-sem-fundo.png" tvg-status="live" group-title="Movies",+MaisUm
-https://stream.ichibansys.com:3230/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="00sReplay.us" tvg-country="US" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/62ba60f059624e000781c436/colorLogoSVG.svg" tvg-status="live" group-title="Movies",00s Replay
 https://jmp2.uk/plu-62ba60f059624e000781c436.m3u8
 #EXTINF:-1 tvg-id="famelack-lcQDr83GGlzSBu" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/iSVnzR1.png" tvg-status="live" group-title="Movies",24 Hour Free Movies
@@ -80,7 +78,7 @@ http://125.227.210.55:4050/VideoInput/play.ts
 #EXTINF:-1 tvg-id="AXNBlack.us" tvg-country="US" tvg-language="Bulgarian" tvg-logo="https://i.imgur.com/Peo1QiZ.png" tvg-status="live" group-title="Movies",AXN Black
 http://85.14.32.26:8800/udp/239.100.10.17:5000
 #EXTINF:-1 tvg-id="AXNCEE.es" tvg-country="ES" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png" tvg-status="live" group-title="Movies",AXN CEE
-http://88.212.15.17/live/axn_hun/index.m3u8
+https://cronos.mangora1.cfd/axy/usergend3h5jkc9rnd.m3u8
 #EXTINF:-1 tvg-id="AXNCrime.us" tvg-country="US" tvg-language="English" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/13/AXNCRIME_2026_V_WHITE_VIOLET_RGB_HERO_01.svg/revision/latest?cb=20260808120407" tvg-status="live" group-title="Movies",AXN Crime
 http://88.212.15.17/live/viasat_film/index.m3u8
 #EXTINF:-1 tvg-id="AXNLatinAmerica.us" tvg-country="US" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png" tvg-status="live" group-title="Movies",AXN Latin America
@@ -133,6 +131,8 @@ https://jmp2.uk/stvp-IN4000600Q
 http://176.118.197.101/Bollywood_HD/index.m3u8
 #EXTINF:-1 tvg-id="BollywoodClassic.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/ugPo6ca.png" tvg-status="live" group-title="Movies",Bollywood Classic
 https://flash1.bogulus1.cfd/boly/usergenr9j8s2t.m3u8
+#EXTINF:-1 tvg-id="famelack-TZNdjDVfVrlQUD" tvg-country="RO" tvg-language="Hindi" tvg-logo="" tvg-status="live" group-title="Movies",Bollywood Classic Romania
+https://hls02ns.antenaplay.ro/hls/bollywood-sd/index.m3u8
 #EXTINF:-1 tvg-id="BollywoodFilm.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/bEMUpHZ.png" tvg-status="down" group-title="Movies",Bollywood Film
 https://tvextra-hls.b-cdn.net/bollywoodfilm/bollywoodfilm.m3u8
 #EXTINF:-1 tvg-id="BollywoodHD.ro" tvg-country="RO" tvg-language="Hindi" tvg-logo="https://i.imgur.com/scDKOLS.png" tvg-status="live" group-title="Movies",Bollywood HD
@@ -159,7 +159,7 @@ http://213.91.179.28:8000/play/a05i
 https://cafefhls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="famelack-btEJDr7vMTEkmk" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/S4xqZgV.png" tvg-status="live" group-title="Movies",Canal Cine Dios
 https://canal.mediaserver.com.co/live/cinedios.m3u8
-#EXTINF:-1 tvg-id="CanalPlusActionEurope.nl" tvg-country="NL" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Canal%2B_Action_2024.svg/1920px-Canal%2B_Action_2024.svg.png" tvg-status="live" group-title="Movies",Canal+ Action Europe
+#EXTINF:-1 tvg-id="CanalPlusActionEurope.nl" tvg-country="NL" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Canal%2B_Action_2024.svg/1920px-Canal%2B_Action_2024.svg.png" tvg-status="down" group-title="Movies",Canal+ Action Europe
 http://46.149.191.219:9106/play/a01g
 #EXTINF:-1 tvg-id="CanalPlusCinemas.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/fvPoNEa.jpeg" tvg-status="down" group-title="Movies",Canal+ Cinemas
 http://151.80.18.177:86/Canal+_cinema_HD/index.m3u8
@@ -294,7 +294,7 @@ https://cityeden.catcast.tv/content/40783/index.m3u8
 #EXTINF:-1 tvg-id="CityEdenKinoSemya.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/YoWOZMx.png" tvg-native-name="Сити Эдем КиноСемья" tvg-status="down" group-title="Movies",City Eden KinoSemya
 https://v2.catcast.tv/content/38128/index.m3u8
 #EXTINF:-1 tvg-id="ClaroCinema.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/SOLGQxQ.jpg" tvg-status="live" group-title="Movies",Claro Cinema
-http://158.172.217.18:8000/play/a00d/index.m3u8
+http://45.171.64.30:6060/play/a039/index.m3u8
 #EXTINF:-1 tvg-id="famelack-hkyMh1FkUqryxv" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/FJoPnTb.png" tvg-status="live" group-title="Movies",Classic Cinema
 https://rpn.bozztv.com/gusa/gusa-classiccinema/index.m3u8
 #EXTINF:-1 tvg-id="ClassicMovieWesterns.us" tvg-country="US" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/61f33318210549000806a530/colorLogoSVG.svg" tvg-status="live" group-title="Movies",Classic Movie Westerns
@@ -384,7 +384,7 @@ http://103.250.28.74:8000/play/a02k/index.m3u8
 #EXTINF:-1 tvg-id="FILMBOXPlusAction.pl" tvg-country="PL" tvg-language="English" tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Baction.png" tvg-status="live" group-title="Movies",FILMBOX+ Action
 http://92.114.85.87:8008/play/a007/index.m3u8
 #EXTINF:-1 tvg-id="FILMBOXPlusComedy.pl" tvg-country="PL" tvg-language="Polish" tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bcomedy.png" tvg-status="live" group-title="Movies",FILMBOX+ Comedy
-http://88.212.15.17/live/test_filmbox_family_atk_1200/playlist.m3u8
+http://92.114.85.87:8008/play/a009/index.m3u8
 #EXTINF:-1 tvg-id="famelack-8feoh5OZEln1eG" tvg-country="RO" tvg-language="English" tvg-logo="" tvg-status="live" group-title="Movies",FILMBOX+ Comedy Romania
 https://nosignal1.antenaplay.ro/hls/fb-comedy-hd/index.m3u8
 #EXTINF:-1 tvg-id="FILMBOXPlusEmotion.pl" tvg-country="PL" tvg-language="Polish" tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bemotion.png" tvg-status="live" group-title="Movies",FILMBOX+ Emotion
@@ -406,7 +406,7 @@ https://webtvstream.bhtelecom.ba/filmbox_stars.m3u8
 #EXTINF:-1 tvg-id="famelack-XCVvRUc8GvgACD" tvg-country="RO" tvg-language="English" tvg-logo="" tvg-status="live" group-title="Movies",FILMBOX+ Love & Crime Romania
 https://nosignal1.antenaplay.ro/hls/fb-love-and-crime-sd/index.m3u8
 #EXTINF:-1 tvg-id="FILMBOXPlusOne.pl" tvg-country="PL" tvg-language="Polish" tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bone.png" tvg-status="live" group-title="Movies",FILMBOX+ One
-http://88.212.15.17/live/test_filmbox/playlist.m3u8
+https://nosignal1.antenaplay.ro/hls/fb-one-sd/index.m3u8
 #EXTINF:-1 tvg-id="famelack-BjZVMVKPbgDPNQ" tvg-country="RO" tvg-language="Romanian" tvg-logo="" tvg-status="live" group-title="Movies",FILMBOX+ One Romania
 https://nosignal1.antenaplay.ro/hls/fb-one-sd/index.m3u8
 #EXTINF:-1 tvg-id="FilmesSuspense.us" tvg-country="US" tvg-language="Portuguese" tvg-logo="https://images.pluto.tv/channels/5f171d3442a0500007362f22/colorLogoSVG.svg" tvg-status="live" group-title="Movies",Filmes Suspense
@@ -645,6 +645,8 @@ https://live20.bozztv.com/giatvplayout7/giatv-209909/playlist.m3u8
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-bollywood/546eb40d7dcf9a209255dd2496903764/index.m3u8
 #EXTINF:-1 tvg-id="MBCPlusDrama.sa" tvg-country="SA" tvg-language="Arabic" tvg-logo="https://i.imgur.com/lxWdjXG.png" tvg-status="live" group-title="Movies",MBC+ Drama
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-plus-drama/e37251ec2aac8f6c98f75cd0fa37cd28/index.m3u8
+#EXTINF:-1 tvg-id="famelack-Lzh8NoZwGUGsG2" tvg-country="CO" tvg-language="English" tvg-logo="https://pbs.twimg.com/profile_images/1836009952420274177/FfYonU6r_400x400.jpg" tvg-status="live" group-title="Movies",MCI Television
+https://video.ejeserver.com/live/mcitelevision.m3u8
 #EXTINF:-1 tvg-id="Medium.de" tvg-country="DE" tvg-language="Spanish" tvg-logo="https://images.pluto.tv/channels/6578808014fbe400086e21bc/colorLogoSVG.svg" tvg-status="live" group-title="Movies",Medium
 https://jmp2.uk/plu-6578808014fbe400086e21bc.m3u8
 #EXTINF:-1 tvg-id="famelack-CH0OBldtzqtjEK" tvg-country="DO" tvg-language="Spanish" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2893-294x165-FFFFFF.jpg" tvg-status="live" group-title="Movies",Mega Cine TV
@@ -779,7 +781,7 @@ https://live21.bozztv.com/akamaissh101/ssh101/pantallaclasics/playlist.m3u8
 https://jmp2.uk/plu-5cb0cae7a461406ffe3f5213.m3u8
 #EXTINF:-1 tvg-id="ParamountPlusPicks.us" tvg-country="US" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/5ff8c708653d080007361b14/featuredImage.jpg" tvg-status="live" group-title="Movies",Paramount+ Picks
 https://jmp2.uk/plu-5ff8c708653d080007361b14.m3u8
-#EXTINF:-1 tvg-id="Patriot.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://patriotkanal.ru/assets/cached/2025/02/resize/264_112_q100_patriot-only-logo.png" tvg-native-name="Патриот" tvg-status="live" group-title="Movies",Patriot
+#EXTINF:-1 tvg-id="Patriot.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://patriotkanal.ru/assets/cached/2025/02/resize/264_112_q100_patriot-only-logo.png" tvg-native-name="Патриот" tvg-status="down" group-title="Movies",Patriot
 https://stream.smotrim.ru/hls2/static/playlist_4.m3u8
 #EXTINF:-1 tvg-id="PersianaCinema.fr" tvg-country="FR" tvg-language="Persian" tvg-logo="https://i.imgur.com/hgIro9r.png" tvg-status="live" group-title="Movies",Persiana Cinema
 https://cinehls.persiana.live/hls/stream.m3u8
@@ -1116,7 +1118,7 @@ https://samitaorigin.tangotv.in/SONERICINEMA/SAMITAORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="SonyCanalNovelas.us" tvg-country="US" tvg-language="Spanish" tvg-logo="" tvg-status="down" group-title="Movies",Sony Canal Novelas
 https://a89829b8dca2471ab52ea9a57bc28a35.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_SonyCanalNovelas/playlist.m3u8
 #EXTINF:-1 tvg-id="SonyMax.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://dtil.tmsimg.com/assets/s159098_ld_h15_aa.png?lock=720x540" tvg-status="live" group-title="Movies",Sony Max
-http://103.185.24.134:3001/SonyMAX/index.m3u8
+http://103.151.60.162:2122/play/a014/index.m3u8?hls
 #EXTINF:-1 tvg-id="SonyMax1.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://dtil.tmsimg.com/assets/s179440_ld_h15_aa.png?lock=720x540" tvg-status="down" group-title="Movies",Sony Max 1
 http://27.116.22.53:5001/live/3418.m3u8
 #EXTINF:-1 tvg-id="SonyMovies.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/500px-Sony_Movies_Logo.svg.png" tvg-status="live" group-title="Movies",Sony Movies
@@ -1295,6 +1297,8 @@ https://cdn.whiplash.cc/whiplash-cinema/index.m3u8
 https://dbrb49pjoymg4.cloudfront.net/10001/99991745/hls/master.m3u8?ads.xumo_channelId=99991745
 #EXTINF:-1 tvg-id="famelack-HFLT2PMog36fFQ" tvg-country="AR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/z5NwizH.png" tvg-status="live" group-title="Movies",Xtrema Accion
 https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8
+#EXTINF:-1 tvg-id="famelack-5N50bnTr2ohfWL" tvg-country="AR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/j91M4Yf.png" tvg-status="live" group-title="Movies",Xtrema Cine Clasico
+https://stmv6.voxtvhd.com.br/cineclasico/cineclasico/playlist.m3u8
 #EXTINF:-1 tvg-id="famelack-tLsh4FQYcu5iT0" tvg-country="AR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/FcaTUym.png" tvg-status="live" group-title="Movies",Xtrema Terror
 https://stmv6.voxtvhd.com.br/cineterror/cineterror/playlist.m3u8
 #EXTINF:-1 tvg-id="YesMoviesAction.il" tvg-country="IL" tvg-language="Hebrew" tvg-logo="https://i.imgur.com/Bgz7p5F.png" tvg-status="live" group-title="Movies",Yes Movies Action
