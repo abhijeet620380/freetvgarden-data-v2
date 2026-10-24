@@ -1,10 +1,14 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="2TV.lt" tvg-country="LT" tvg-language="Lithuanian" tvg-logo="https://i.imgur.com/sZUIhGc.png" tvg-status="live" group-title="Music",2TV
+https://lnk5511.bstrm.net/live/687e3ff1679c8d4d68fab6c5/hd/manifest.mpd
 #EXTINF:-1 tvg-id="BalticumTV.lt" tvg-country="LT" tvg-language="Lithuanian" tvg-logo="https://i.imgur.com/35tm57M.png" tvg-status="live" group-title="General",Balticum TV
 http://stream.mcquack.net/376/index.m3u8
 #EXTINF:-1 tvg-id="BTV.lt" tvg-country="LT" tvg-language="Lithuanian" tvg-logo="https://i.imgur.com/AeplGsP.png" tvg-status="live" group-title="General",BTV
 http://stream.mcquack.net/35/index.m3u8
 #EXTINF:-1 tvg-id="DelfiTV.lt" tvg-country="LT" tvg-language="Estonian" tvg-logo="https://i.imgur.com/IFoHP5M.png" tvg-status="live" group-title="General",Delfi TV
 https://s1.dcdn.lt/live/televizija/playlist.m3u8
+#EXTINF:-1 tvg-id="InfoTV.lt" tvg-country="LT" tvg-language="Lithuanian" tvg-logo="https://i.imgur.com/EjQtIpM.png" tvg-status="live" group-title="News",Info TV
+https://lnk5511.bstrm.net/live/687e3fd2679c8d4d68fab65b/hd/manifest.mpd
 #EXTINF:-1 tvg-id="famelack-C7oEv16dfu5JbY" tvg-country="LT" tvg-language="Lithuanian" tvg-logo="https://i.imgur.com/5wpxVI0.png" tvg-status="live" group-title="Entertainment",Lietuvos Rytas TV
 https://live.lietuvosryto.tv/live/hls/eteris.m3u8
 #EXTINF:-1 tvg-id="LNK.lt" tvg-country="LT" tvg-language="Lithuanian" tvg-logo="https://i.imgur.com/arCZ56g.png" tvg-status="live" group-title="General",LNK
@@ -29,7 +33,7 @@ https://cdnlb.tvplayhome.lt/live/eds/PWR_LTU_Live/GO3_LIVE_HLS/PWR_LTU_Live.m3u8
 https://lnk5511.bstrm.net/live/687e3fa8679c8d4d68fab5dd/hd/manifest.mpd
 #EXTINF:-1 tvg-id="TV3.lt" tvg-country="LT" tvg-language="Lithuanian" tvg-logo="https://i.imgur.com/7nipq0y.png" tvg-status="live" group-title="General",TV3
 http://stream.mcquack.net/29/index.m3u8
-#EXTINF:-1 tvg-id="TV6.lt" tvg-country="LT" tvg-language="Lithuanian" tvg-logo="https://i.imgur.com/oC0jiFW.png" tvg-status="live" group-title="General",TV6
+#EXTINF:-1 tvg-id="TV6.lt" tvg-country="LT" tvg-language="Lithuanian" tvg-logo="https://i.imgur.com/oC0jiFW.png" tvg-status="down" group-title="General",TV6
 http://stream.mcquack.net/375/index.m3u8
 #EXTINF:-1 tvg-id="TV8.lt" tvg-country="LT" tvg-language="Lithuanian" tvg-logo="https://i.imgur.com/9g3wknl.png" tvg-status="live" group-title="General",TV8
 http://stream.mcquack.net/374/index.m3u8
