@@ -34,7 +34,7 @@ https://9e754fa707344ccca6d84955c8fcaf36.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-id="Backstage.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/qcTNvNU.png" tvg-status="live" group-title="Documentary",Backstage
 https://d2ah48mnofquik.cloudfront.net/Backstage.m3u8
 #EXTINF:-1 tvg-id="BBCEarth.uk" tvg-country="UK" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/BBC_Earth_2023.svg" tvg-status="live" group-title="Documentary",BBC Earth
-https://amg00793-amg00793c6-firetv-us-4067.playouts.now.amagi.tv/playlist.m3u8
+http://88.212.7.14/live/test_bbc_eartch_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id="BBCFour.uk" tvg-country="UK" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/BBC_Four_logo_2021.svg/960px-BBC_Four_logo_2021.svg.png" tvg-status="down" group-title="Documentary",BBC Four
 https://cdn.stmify.com/bbc/stream/BBC_FOUR/hevc_iptv_mse_v0.mpd
 #EXTINF:-1 tvg-id="BloombergOriginals.us" tvg-country="US" tvg-language="English" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a69341a2-fce3-4a05-af2e-469540b25d73/BBOriginals_2023_Plex_Stacked_WHTrdx.png" tvg-status="live" group-title="Documentary",Bloomberg Originals
@@ -73,8 +73,8 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-courttv-tablo
 https://jmp2.uk/plu-657880c46e4f6a00087404d0.m3u8
 #EXTINF:-1 tvg-id="CrimenHistoria.es" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://images.pluto.tv/channels/64ddcbb14c5ed80008fad416/colorLogoPNG.png" tvg-status="live" group-title="Documentary",Crimen & Historia
 https://jmp2.uk/plu-64ddcbb14c5ed80008fad416.m3u8
-#EXTINF:-1 tvg-id="CT2.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/%C4%8CT2_logo_2012.svg/960px-%C4%8CT2_logo_2012.svg.png" tvg-status="down" group-title="Documentary",CT2
-http://88.212.15.17/live/test_ct2_25p/playlist.m3u8
+#EXTINF:-1 tvg-id="CT2.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/%C4%8CT2_logo_2012.svg/960px-%C4%8CT2_logo_2012.svg.png" tvg-status="live" group-title="Documentary",CT2
+http://88.212.15.50/live/test_ct2_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="CuriosityNOW.de" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/gJ9eMaG.png" tvg-status="live" group-title="Documentary",Curiosity NOW
 https://amg00170-amg00170c4-samsung-gb-4232.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="famelack-e5yFtaZLgEF4ai" tvg-country="US" tvg-language="English" tvg-logo="" tvg-status="live" group-title="Documentary",Curiosity NOW US
@@ -137,10 +137,10 @@ https://jmp2.uk/plu-67517f923a61d40008c451f0.m3u8
 http://213.91.179.28:8000/play/a0c1
 #EXTINF:-1 tvg-id="History.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png" tvg-status="live" group-title="Documentary",History
 http://45.177.114.114/HISTORY/index.m3u8
-#EXTINF:-1 tvg-id="History.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png" tvg-status="down" group-title="Documentary",History
-http://88.212.15.17/live/test_history/playlist.m3u8
-#EXTINF:-1 tvg-id="History.hu" tvg-country="HU" tvg-language="Hungarian" tvg-logo="https://i.imgur.com/OWIK7FJ.png" tvg-status="down" group-title="Documentary",History
-http://88.212.15.17/live/history_hun/index.m3u8
+#EXTINF:-1 tvg-id="History.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png" tvg-status="live" group-title="Documentary",History
+http://88.212.15.50/live/test_history/playlist.m3u8
+#EXTINF:-1 tvg-id="History.hu" tvg-country="HU" tvg-language="Hungarian" tvg-logo="https://i.imgur.com/OWIK7FJ.png" tvg-status="live" group-title="Documentary",History
+http://88.212.7.14/live/history_hun/index.m3u8
 #EXTINF:-1 tvg-id="History.nl" tvg-country="NL" tvg-language="Dutch" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png" tvg-status="down" group-title="Documentary",History
 https://lb.iptvnetwork.net/ls28/10022/playlist.m3u8
 #EXTINF:-1 tvg-id="History.pl" tvg-country="PL" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png" tvg-status="live" group-title="Documentary",History
@@ -175,8 +175,8 @@ https://amg01550-amg01550c6-samsung-in-4679.playouts.now.amagi.tv/playlist/amg01
 https://jmp2.uk/plu-655f2d713944b60008bc7e90.m3u8
 #EXTINF:-1 tvg-id="famelack-slEajb8UgnTx3L" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/43at4M2.png" tvg-status="live" group-title="Documentary",Into Crime
 https://amg00711-zylo-amg00711c10-rakuten-fr-6731.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="InvestigationDiscovery.hu" tvg-country="HU" tvg-language="Czech" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/960px-InvestigationDiscoveryLogo2020.svg.png" tvg-status="down" group-title="Documentary",Investigation Discovery
-http://88.212.15.17/live/id_hun/index.m3u8
+#EXTINF:-1 tvg-id="InvestigationDiscovery.hu" tvg-country="HU" tvg-language="Czech" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/960px-InvestigationDiscoveryLogo2020.svg.png" tvg-status="live" group-title="Documentary",Investigation Discovery
+http://88.212.7.14/live/id_hun/index.m3u8
 #EXTINF:-1 tvg-id="famelack-3JfxiMIqhgZ6Ng" tvg-country="IN" tvg-language="English" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_INVESTIGATION_DISCOVERY_HD/images/LOGO_HD/image.png" tvg-status="live" group-title="Documentary",Investigation Discovery
 https://drk6xq0vhn.gpcdn.net/live/id_hd_abr/index.m3u8
 #EXTINF:-1 tvg-id="InvestigationDiscovery.us" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/960px-InvestigationDiscoveryLogo2020.svg.png" tvg-status="live" group-title="Documentary",Investigation Discovery
@@ -193,6 +193,8 @@ https://d3k8wzt41aflvx.cloudfront.net/RAIScuola/Live.m3u8
 https://e85541db4ae943d9b5a09477d6b1d8ab.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_Jail/playlist.m3u8
 #EXTINF:-1 tvg-id="famelack-RefcIuSWqtTcds" tvg-country="DE" tvg-language="German" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Kabel_eins_Doku_Logo_2016.svg/960px-Kabel_eins_Doku_Logo_2016.svg.png" tvg-status="live" group-title="Documentary",kabel eins Doku
 https://s6.hopslan.com/dokuX/index.m3u8
+#EXTINF:-1 tvg-id="famelack-ydI9RzI56VdmqS" tvg-country="IQ" tvg-language="Arabic" tvg-logo="https://www.karbala-tv.iq/documentary/static/img/logo.png" tvg-status="live" group-title="Documentary",Karbala Documentary
+https://ktvlive.online/stream/hls/ch3.m3u8
 #EXTINF:-1 tvg-id="famelack-feuZPyWhX6la0P" tvg-country="US" tvg-language="English" tvg-logo="https://yt3.googleusercontent.com/CRP3YudPa55QypbDnIvuh3erLZTsn2HK8ESR-2fJFFiLJVf7US2CKQELCKK_UowmHA3wCjAdxg=s512-c-k-c0x00ffffff-no-rj" tvg-status="live" group-title="Documentary",Law & Crime
 https://cdn.lawandcrime.net/rewind/playlist.m3u8
 #EXTINF:-1 tvg-id="LovePets.ca" tvg-country="CA" tvg-language="English" tvg-logo="https://lovepetstv.com/wp-content/uploads/2022/12/LovePets_Logo_SecondaryColor.png" tvg-status="live" group-title="Documentary",Love Pets
@@ -219,14 +221,14 @@ https://s1.tv-nano.com/Nano_rec/index.m3u8
 https://www.youtube-nocookie.com/embed/MiQe9ob9aDc
 #EXTINF:-1 tvg-id="NationalGeographic.bg" tvg-country="BG" tvg-language="Bulgarian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png" tvg-status="down" group-title="Documentary",National Geographic
 http://213.91.179.28:8000/play/a0ct
-#EXTINF:-1 tvg-id="NationalGeographic.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png" tvg-status="down" group-title="Documentary",National Geographic
-http://88.212.15.17/live/test_ngc/playlist.m3u8
+#EXTINF:-1 tvg-id="NationalGeographic.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png" tvg-status="live" group-title="Documentary",National Geographic
+http://88.212.15.50/live/test_ngc/playlist.m3u8
 #EXTINF:-1 tvg-id="NationalGeographic.fi" tvg-country="FI" tvg-language="Finnish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png" tvg-status="down" group-title="Documentary",National Geographic
 https://live-fi.tvkaista.net/national-geographic/live.m3u8?hd=true
 #EXTINF:-1 tvg-id="NationalGeographic.hr" tvg-country="HR" tvg-language="Croatian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png" tvg-status="live" group-title="Documentary",National Geographic
 http://176.61.157.250/NationalGeographic/index.m3u8
-#EXTINF:-1 tvg-id="NationalGeographic.hu" tvg-country="HU" tvg-language="Hungarian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png" tvg-status="down" group-title="Documentary",National Geographic
-http://88.212.15.17/live/ngc_hun/index.m3u8
+#EXTINF:-1 tvg-id="NationalGeographic.hu" tvg-country="HU" tvg-language="Hungarian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png" tvg-status="live" group-title="Documentary",National Geographic
+http://88.212.7.14/live/ngc_hun/index.m3u8
 #EXTINF:-1 tvg-id="NationalGeographic.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png" tvg-status="live" group-title="Documentary",National Geographic
 http://138.121.15.230:9002/NAT-GEO/index.m3u8
 #EXTINF:-1 tvg-id="NationalGeographic.nl" tvg-country="NL" tvg-language="Dutch" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png" tvg-status="down" group-title="Documentary",National Geographic
@@ -245,10 +247,10 @@ http://15.204.246.24:8080/NatGeoHD/index.m3u8
 https://barinaslive1.boldmss.com/NATGEO/NATGEO.isml/NATGEO.m3u8
 #EXTINF:-1 tvg-id="NationalGeographicWild.bg" tvg-country="BG" tvg-language="Bulgarian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/960px-National_Geographic_Wild_logo.svg.png" tvg-status="down" group-title="Documentary",National Geographic Wild
 http://213.91.179.28:8000/play/a0cu
-#EXTINF:-1 tvg-id="NationalGeographicWild.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/960px-National_Geographic_Wild_logo.svg.png" tvg-status="down" group-title="Documentary",National Geographic Wild
-http://88.212.15.17/live/test_ngw/playlist.m3u8
-#EXTINF:-1 tvg-id="NationalGeographicWild.hu" tvg-country="HU" tvg-language="Hungarian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/960px-National_Geographic_Wild_logo.svg.png" tvg-status="down" group-title="Documentary",National Geographic Wild
-http://88.212.15.17/live/ngw_hun/index.m3u8
+#EXTINF:-1 tvg-id="NationalGeographicWild.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/960px-National_Geographic_Wild_logo.svg.png" tvg-status="live" group-title="Documentary",National Geographic Wild
+http://88.212.15.50/live/test_ngw/playlist.m3u8
+#EXTINF:-1 tvg-id="NationalGeographicWild.hu" tvg-country="HU" tvg-language="Hungarian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/960px-National_Geographic_Wild_logo.svg.png" tvg-status="live" group-title="Documentary",National Geographic Wild
+http://88.212.7.14/live/ngw_hun/index.m3u8
 #EXTINF:-1 tvg-id="NationalGeographicWild.pl" tvg-country="PL" tvg-language="Polish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/960px-National_Geographic_Wild_logo.svg.png" tvg-status="live" group-title="Documentary",National Geographic Wild
 http://92.114.85.87:8010/play/a005/index.m3u8
 #EXTINF:-1 tvg-id="NationalGeographicWild.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/960px-National_Geographic_Wild_logo.svg.png" tvg-status="live" group-title="Documentary",National Geographic Wild
@@ -391,10 +393,10 @@ https://jmp2.uk/plu-61fb988e032c0100077d5252.m3u8
 https://stream.smotrim.ru/hls/fasttv06/playlist_3.m3u8
 #EXTINF:-1 tvg-id="SonyBBCEarth.in" tvg-country="IN" tvg-language="English" tvg-logo="https://dtil.tmsimg.com/assets/s143799_ld_h15_aa.png?lock=720x540" tvg-status="down" group-title="Documentary",Sony BBC Earth
 http://103.185.24.134:3001/SONY-BBC/index.m3u8
-#EXTINF:-1 tvg-id="Spektrum.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.imgur.com/F5Uosum.png" tvg-status="down" group-title="Documentary",Spektrum
-http://88.212.15.17/live/test_spektrum/playlist.m3u8
-#EXTINF:-1 tvg-id="Spektrum.hu" tvg-country="HU" tvg-language="Hungarian" tvg-logo="https://i.imgur.com/GmFRQ82.png" tvg-status="down" group-title="Documentary",Spektrum
-http://88.212.15.17/live/spektrum_hun/index.m3u8
+#EXTINF:-1 tvg-id="Spektrum.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.imgur.com/F5Uosum.png" tvg-status="live" group-title="Documentary",Spektrum
+http://88.212.15.50/live/test_spektrum/playlist.m3u8
+#EXTINF:-1 tvg-id="Spektrum.hu" tvg-country="HU" tvg-language="Hungarian" tvg-logo="https://i.imgur.com/GmFRQ82.png" tvg-status="live" group-title="Documentary",Spektrum
+http://88.212.7.14/live/spektrum_hun/index.m3u8
 #EXTINF:-1 tvg-id="SpikePlutoTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/woY8Ecb.png" tvg-status="live" group-title="Documentary",Spike Pluto TV
 https://jmp2.uk/plu-5812bcc8237a6ff45d16c407.m3u8
 #EXTINF:-1 tvg-id="StorieCriminali.es" tvg-country="ES" tvg-language="Italian" tvg-logo="https://images.pluto.tv/channels/66177d18c8311c0008d077d0/colorLogoPNG.png" tvg-status="live" group-title="Documentary",Storie Criminali
@@ -421,16 +423,16 @@ https://edge.enhdtv.com/8026/index.m3u8
 https://d3ify425qsio2d.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-id="famelack-ELDNWWv9rjJl60" tvg-country="BG" tvg-language="Bulgarian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Viasat_Explore_2026.svg" tvg-status="live" group-title="Documentary",Viasat Explore
 https://shift03.isp.bg/ViasatExplorer_HD/index.m3u8
-#EXTINF:-1 tvg-id="ViasatExplore.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.imgur.com/DyT5pKB.png" tvg-status="down" group-title="Documentary",Viasat Explore
-http://88.212.15.17/live/test_viasat_explore_atk_tv/playlist.m3u8
+#EXTINF:-1 tvg-id="ViasatExplore.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.imgur.com/DyT5pKB.png" tvg-status="live" group-title="Documentary",Viasat Explore
+http://88.212.15.50/live/test_viasat_explore_atk_tv/playlist.m3u8
 #EXTINF:-1 tvg-id="ViasatExplore.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Viasat_Explore_2026.svg" tvg-status="down" group-title="Documentary",Viasat Explore
 https://arwen1.panaka1.cfd/vexplr/usergenrnd7ke5lgt.m3u8
 #EXTINF:-1 tvg-id="ViasatExplore.si" tvg-country="SI" tvg-language="Slovenian" tvg-logo="https://i.imgur.com/jboGcoY.png" tvg-status="down" group-title="Documentary",Viasat Explore
 https://lb.dstvmultimedia.com/ViasatExplore/index.m3u8
 #EXTINF:-1 tvg-id="famelack-9qxiwyypjNrlXI" tvg-country="BG" tvg-language="Bulgarian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/Viasat_History_2026.svg" tvg-status="live" group-title="Documentary",Viasat History
 https://shift03.isp.bg/ViasatHistory_HD/index.m3u8
-#EXTINF:-1 tvg-id="ViasatHistory.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.imgur.com/wRP9XA7.png" tvg-status="down" group-title="Documentary",Viasat History
-http://88.212.15.17/live/test_viasat_history_atk_tv/playlist.m3u8
+#EXTINF:-1 tvg-id="ViasatHistory.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.imgur.com/wRP9XA7.png" tvg-status="live" group-title="Documentary",Viasat History
+http://88.212.15.50/live/test_viasat_history_atk_tv/playlist.m3u8
 #EXTINF:-1 tvg-id="ViasatHistory.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/Viasat_History_2026.svg" tvg-status="down" group-title="Documentary",Viasat History
 https://arwen1.panaka1.cfd/vhis/usergenrnd4v6g8eigt.m3u8
 #EXTINF:-1 tvg-id="ViasatHistory.si" tvg-country="SI" tvg-language="Slovenian" tvg-logo="https://i.imgur.com/qCkCGqa.png" tvg-status="down" group-title="Documentary",Viasat History
@@ -441,8 +443,8 @@ https://nord.ayakkabiparti.lol/viasathistory/index.m3u8
 https://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoODYvdHJhY2tzLXYxYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA3NTM0ODYmc3Q9MVprUlhpb2xfODRPc2RMR2R0VDNzQQ%3D%3D&master=78
 #EXTINF:-1 tvg-id="famelack-grL6LmvbHNpgqD" tvg-country="BG" tvg-language="Bulgarian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/Cropped-viasat-nature.png" tvg-status="live" group-title="Documentary",Viasat Nature
 https://shift03.isp.bg/ViasatNature_HD/index.m3u8
-#EXTINF:-1 tvg-id="ViasatNature.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.imgur.com/ousRqqD.png" tvg-status="down" group-title="Documentary",Viasat Nature
-http://88.212.15.17/live/test_viasat_nature_atk_tv/playlist.m3u8
+#EXTINF:-1 tvg-id="ViasatNature.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.imgur.com/ousRqqD.png" tvg-status="live" group-title="Documentary",Viasat Nature
+http://88.212.15.50/live/test_viasat_nature_atk_tv/playlist.m3u8
 #EXTINF:-1 tvg-id="ViasatNature.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/Cropped-viasat-nature.png" tvg-status="down" group-title="Documentary",Viasat Nature
 https://arwen1.panaka1.cfd/vnature/usergenrnd2g9eqk.m3u8
 #EXTINF:-1 tvg-id="ViasatNature.si" tvg-country="SI" tvg-language="Slovenian" tvg-logo="https://i.imgur.com/gxlZZ91.png" tvg-status="down" group-title="Documentary",Viasat Nature
