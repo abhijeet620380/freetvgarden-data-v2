@@ -9,7 +9,7 @@ https://live-tv.waytv.pt/adbtv/adbtv/playlist.m3u8
 https://cdn.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/playlist.m3u8
 #EXTINF:-1 tvg-id="AgroBrasilTV.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/aNkP7Zd.png" tvg-status="down" group-title="Outdoor",AgroBrasil TV
 http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
-#EXTINF:-1 tvg-id="famelack-CtdqbL5wtTjnvo" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/5XyopHf.png" tvg-status="live" group-title="Outdoor",AgroCanal
+#EXTINF:-1 tvg-id="famelack-CtdqbL5wtTjnvo" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/5XyopHf.png" tvg-status="live" group-title="Education",AgroCanal
 https://aovivo.equipea.com.br:5443/aovivort/streams/pshRLrnv6isXq7RG4747567774043229.m3u8
 #EXTINF:-1 tvg-id="AgroMais.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/sFcOZeo.png" tvg-status="live" group-title="News",AgroMais
 http://45.162.64.114/AGROMAIS/index.m3u8
@@ -145,6 +145,10 @@ https://5a57bda70564a.streamlock.net/conexaotv/conexaotv.sdp/playlist.m3u8
 https://fpa-gateway.tvcultura.com.br:8181/memfs/606caef0-a290-413d-9f1f-8fcdb3a73831.m3u8
 #EXTINF:-1 tvg-id="CulturaPara.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/5jPEI5c.png" tvg-status="down" group-title="General",Cultura Para
 http://170.84.165.204/CANAL_21_HD/index.m3u8
+#EXTINF:-1 tvg-id="DAZN4.uk" tvg-country="UK" tvg-language="Portuguese" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/DAZN_4_2024.svg/960px-DAZN_4_2024.svg.png" tvg-status="live" group-title="Sports",DAZN 4
+http://23.237.104.106:8080/DAZN_4/index.m3u8
+#EXTINF:-1 tvg-id="DAZN5.uk" tvg-country="UK" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/HD2XaeS.png" tvg-status="live" group-title="Sports",DAZN 5
+http://23.237.104.106:8080/DAZN_5/index.m3u8
 #EXTINF:-1 tvg-id="famelack-2nMTmYzlgyLzZn" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/Md3xibE.png" tvg-status="live" group-title="General",Demais TV
 https://stmv1.samcast.com.br/demaistv6503/demaistv6503/playlist.m3u8
 #EXTINF:-1 tvg-id="famelack-x5mwCmjYC8lT9Y" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://res.cloudinary.com/dpkehkbpv/image/upload/v1721839192/logo/mixtv/despertar_tv_ieb2l3.png" tvg-status="live" group-title="Religious",Despertar TV
@@ -157,7 +161,7 @@ https://www.youtube-nocookie.com/embed/Df3g76Y25gs
 https://jmp2.uk/plu-61f1d27a189ed10007b7393e.m3u8
 #EXTINF:-1 tvg-id="DisneyChannel.pt" tvg-country="PT" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg" tvg-status="down" group-title="Kids",Disney Channel
 http://151.80.18.177:86/Disney_Channel_HD/index.m3u8
-#EXTINF:-1 tvg-id="famelack-WyQIvG6nRolbpZ" tvg-country="AR" tvg-language="Portuguese" tvg-logo="" tvg-status="live" group-title="Kids",Disney Channel Latin America Panregional HD
+#EXTINF:-1 tvg-id="famelack-WyQIvG6nRolbpZ" tvg-country="AR" tvg-language="Portuguese" tvg-logo="" tvg-status="live" group-title="Animation",Disney Channel Latin America Panregional HD
 https://barinaslive1.boldmss.com/DISNEY/DISNEY.isml/DISNEY.m3u8
 #EXTINF:-1 tvg-id="famelack-nPDIsm1p9jTzDO" tvg-country="BR" tvg-language="Portuguese" tvg-logo="" tvg-status="live" group-title="Entertainment",Diva Depressão
 https://www.youtube-nocookie.com/embed/OLi4qsraIRQ
@@ -233,7 +237,7 @@ http://170.83.49.66:8083/JOVEMPANNEWSHD/index.m3u8
 https://w1.manasat.com/ktv-angola/smil:ktv-angola.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="famelack-b7x9FsdKa3CXRR" tvg-country="PT" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/CZViCwB.jpg" tvg-status="live" group-title="Movies",Kuriakos Cine
 https://w2.manasat.com/kcine/smil:kcine.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="famelack-Mi17BkbSFMtULi" tvg-country="PT" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/SRX6EPY.png" tvg-status="live" group-title="Kids",Kuriakos Kids
+#EXTINF:-1 tvg-id="famelack-Mi17BkbSFMtULi" tvg-country="PT" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/SRX6EPY.png" tvg-status="live" group-title="Animation",Kuriakos Kids
 https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="KuriakosMusic.pt" tvg-country="PT" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/Zl40NYi.jpg" tvg-status="live" group-title="Music",Kuriakos Music
 http://195.23.211.179:1935/kmusic/smil:kmusic.smil/playlist.m3u8
@@ -268,13 +272,13 @@ https://jmp2.uk/plu-61a528267e1b8b0007357920.m3u8
 #EXTINF:-1 tvg-id="MTVDating.us" tvg-country="US" tvg-language="Portuguese" tvg-logo="https://images.pluto.tv/channels/6851bb3426beced4f2f67ee6/colorLogoPNG_1750686926779.png" tvg-status="live" group-title="Series",MTV Dating
 https://jmp2.uk/plu-6851bb3426beced4f2f67ee6.m3u8
 #EXTINF:-1 tvg-id="MTVDrag.us" tvg-country="US" tvg-language="Portuguese" tvg-logo="https://images.pluto.tv/channels/645111f1d8436e00081bb2bd/colorLogoSVG.svg" tvg-status="live" group-title="Entertainment",MTV Drag
-https://jmp2.uk/plu-645111f1d8436e00081bb2bd.m3u8
+https://jmp2.uk/plu-64510d3ad3fdde00080951f2.m3u8
 #EXTINF:-1 tvg-id="MTVJovenseMaes.us" tvg-country="US" tvg-language="Portuguese" tvg-logo="https://images.pluto.tv/channels/620fdc7d8a36fc000710e3ba/colorLogoSVG.svg" tvg-status="live" group-title="Entertainment",MTV Jovens e Maes
 https://jmp2.uk/plu-620fdc7d8a36fc000710e3ba.m3u8
 #EXTINF:-1 tvg-id="MTVReality.us" tvg-country="US" tvg-language="Portuguese" tvg-logo="https://images.pluto.tv/channels/6493f4f566e485000853d640/colorLogoSVG.svg" tvg-status="live" group-title="Entertainment",MTV Reality
-https://jmp2.uk/plu-6851bdfc9ac48fde5e07f5ae.m3u8
+https://jmp2.uk/plu-64f89fcfd661bb00081ba45c.m3u8
 #EXTINF:-1 tvg-id="MTVRidiculousness.us" tvg-country="US" tvg-language="Portuguese" tvg-logo="https://images.pluto.tv/channels/68641eb4852dfe78698c3390/colorLogoSVG_1751392300787.svg" tvg-status="live" group-title="Entertainment",MTV Ridiculousness
-https://jmp2.uk/plu-64f9cccf110545000837912e.m3u8
+https://jmp2.uk/plu-5e98a911c881310007d7aae2.m3u8
 #EXTINF:-1 tvg-id="MTVRocks.us" tvg-country="US" tvg-language="Portuguese" tvg-logo="https://images.pluto.tv/channels/66a01e07d2d50d0008100d6a/colorLogoSVG.svg" tvg-status="live" group-title="Entertainment",MTV Rocks
 https://jmp2.uk/plu-66a01e07d2d50d0008100d6a.m3u8
 #EXTINF:-1 tvg-id="MTVShore.us" tvg-country="US" tvg-language="Portuguese" tvg-logo="https://images.pluto.tv/channels/625463563b8ddc0007134aeb/colorLogoSVG.svg" tvg-status="live" group-title="Entertainment",MTV Shore
@@ -290,7 +294,7 @@ https://ogc-nsprt-tcl-roku-syndication.otteravision.com/ogc/nsprt/nsprt.m3u8
 #EXTINF:-1 tvg-id="NCIS.us" tvg-country="US" tvg-language="Portuguese" tvg-logo="https://images.pluto.tv/channels/63eb9fdda995710008991c54/colorLogoSVG.svg" tvg-status="live" group-title="Series",NCIS
 https://jmp2.uk/plu-63eb9fdda995710008991c54.m3u8
 #EXTINF:-1 tvg-id="NickJrClub.us" tvg-country="US" tvg-language="Portuguese" tvg-logo="https://images.pluto.tv/channels/5f121460b73ac6000719fbaf/colorLogoSVG_1748351854967.svg" tvg-status="live" group-title="Kids",Nick Jr. Club
-https://jmp2.uk/plu-6824ce95f09106f4b18f4114.m3u8
+https://jmp2.uk/plu-5ddd7cb2cbb9010009b4fe32.m3u8
 #EXTINF:-1 tvg-id="famelack-iTYbfotwsIv7iD" tvg-country="BR" tvg-language="Portuguese" tvg-logo="" tvg-status="live" group-title="Kids",Nickelodeon
 https://stmv2.srvif.com/nicktoons/nicktoons/playlist.m3u8
 #EXTINF:-1 tvg-id="NickelodeonClassico.us" tvg-country="US" tvg-language="Portuguese" tvg-logo="https://images.pluto.tv/channels/5f12151794c1800007a8ae63/colorLogoSVG_1750157165454.svg" tvg-status="live" group-title="Kids",Nickelodeon Classico
@@ -298,8 +302,8 @@ https://jmp2.uk/plu-6824ce10c5d53e1351ceb8d1.m3u8
 #EXTINF:-1 tvg-id="NickelodeonTeen.us" tvg-country="US" tvg-language="Portuguese" tvg-logo="https://images.pluto.tv/channels/60f5fabf0721880007cd50e3/colorLogoSVG_1767888207915.svg" tvg-status="live" group-title="Kids",Nickelodeon Teen
 https://jmp2.uk/plu-60f5fabf0721880007cd50e3.m3u8
 #EXTINF:-1 tvg-id="NickelodeonToons.us" tvg-country="US" tvg-language="Portuguese" tvg-logo="https://images.pluto.tv/channels/645951c0e94c38000802d2cb/colorLogoSVG_1767888119852.svg" tvg-status="live" group-title="Kids",Nickelodeon Toons
-https://jmp2.uk/plu-645951c0e94c38000802d2cb.m3u8
-#EXTINF:-1 tvg-id="famelack-1JYYpqQgnjcE3u" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://x1colegal.com/logo.png" tvg-status="live" group-title="Kids",NickOnline
+https://jmp2.uk/plu-645952687cb4b100084ed52e.m3u8
+#EXTINF:-1 tvg-id="famelack-1JYYpqQgnjcE3u" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://x1colegal.com/logo.png" tvg-status="live" group-title="Animation",NickOnline
 https://x1colegal.com/hls/stream.m3u8
 #EXTINF:-1 tvg-id="NovaEraTV.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/IK3F9Uq.png" tvg-status="live" group-title="General",Nova Era TV
 http://wz3.dnip.com.br:1935/novaeratv/novaeratv.sdp/live.m3u8
@@ -463,7 +467,7 @@ https://playplussdr-lh.akamaihd.net/i/pp_sdr@377858/index_720_av-b.m3u8
 https://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/index_720_av-p.m3u8
 #EXTINF:-1 tvg-id="RecordTVSaoPaulo.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/1/10/Logotipo_da_Record.png/960px-Logotipo_da_Record.png" tvg-status="down" group-title="General",RecordTV Sao Paulo
 https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8
-#EXTINF:-1 tvg-id="famelack-Uk3TstZNoN0RvI" tvg-country="BR" tvg-language="Portuguese" tvg-logo="" tvg-status="live" group-title="Outdoor",Red Bull TV BR
+#EXTINF:-1 tvg-id="famelack-Uk3TstZNoN0RvI" tvg-country="BR" tvg-language="Portuguese" tvg-logo="" tvg-status="live" group-title="Sports",Red Bull TV BR
 https://d03ae6b5c6724c24867e97a3dc04934a.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-1026-WORBBRPTFAST-WHALETVPLUS/1026/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="famelack-OKRKy0KkktDnXu" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/TXJKwzZ.png" tvg-status="live" group-title="General",Rede Brasil
 https://redebrasil.nuvemplay.live/hls/stream.m3u8
@@ -574,7 +578,7 @@ https://production-fast-sic.content.okast.tv/fa2e8c4385712f9a7dce4ff2dcebac2e/ch
 #EXTINF:-1 tvg-id="famelack-wQwzJWldq22ymG" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/mHxQyB2.png" tvg-status="live" group-title="General",SIC TV
 https://parecisfmlive.brasilstream.com.br/hls/parecisfmlive/index.m3u8
 #EXTINF:-1 tvg-id="SmithsonianChannelPlutoTV.us" tvg-country="US" tvg-language="Portuguese" tvg-logo="https://images.pluto.tv/channels/6298bd10d88ef000073f16b7/colorLogoSVG.svg" tvg-status="live" group-title="Documentary",Smithsonian Channel Pluto TV
-https://jmp2.uk/plu-6298bd10d88ef000073f16b7.m3u8
+https://jmp2.uk/plu-63a084934734f30007457b2c.m3u8
 #EXTINF:-1 tvg-id="SonyChannel.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Sony_Channel_Logo.png/960px-Sony_Channel_Logo.png" tvg-status="live" group-title="General",Sony Channel
 http://170.83.16.50/SONY_CHANNEL/index.m3u8
 #EXTINF:-1 tvg-id="SonyMovies.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/500px-Sony_Movies_Logo.svg.png" tvg-status="live" group-title="Movies",Sony Movies
@@ -787,7 +791,7 @@ https://www.youtube-nocookie.com/embed/d_8xwJLbBTA
 https://video01.logicahost.com.br/tvpadrecicero/tvpadrecicero/playlist.m3u8
 #EXTINF:-1 tvg-id="famelack-krIsXMJD9xFHF6" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/0FOmktl.png" tvg-status="live" group-title="General",TV Pantanal MS
 https://5a2b083e9f360.streamlock.net/tvpantanal/tvpantanal.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="famelack-HZWd4go9om2ldn" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://duckduckgo.com/i/e408ea02.png" tvg-status="live" group-title="Entertainment",TV Paraense
+#EXTINF:-1 tvg-id="famelack-HZWd4go9om2ldn" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://duckduckgo.com/i/e408ea02.png" tvg-status="live" group-title="Family",TV Paraense
 https://video09.logicahost.com.br/tvparaense/tvparaense/playlist.m3u
 #EXTINF:-1 tvg-id="TVParanaTurismo.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/I6pKoBd.png" tvg-status="live" group-title="Travel",TV Parana Turismo
 http://200.189.113.201/hls/tve.m3u8
