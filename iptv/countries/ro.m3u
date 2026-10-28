@@ -203,7 +203,7 @@ http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-procinema/live_fullhd?offsetSec
 http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-protv/live_fullhd?offsetSeconds=0
 #EXTINF:-1 tvg-id="PROTVInternational.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4f/PRO_TV_Interna%C8%9Bional_%282017%29.svg/revision/latest/scale-to-width-down/1000?cb=20220821114700" tvg-status="live" group-title="General",PRO TV International
 http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-protv-international/live_fullhd?offsetSeconds=0
-#EXTINF:-1 tvg-id="famelack-R7k8oMS31tDfb7" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://profi24.ro/wp-content/uploads/2025/03/Logo_Profi24_Nou_Logo_Profi24_Landscape_Logo_Profi24_Landscape-e1742981714264.png" tvg-status="live" group-title="General",PROFI 24 TV
+#EXTINF:-1 tvg-id="famelack-R7k8oMS31tDfb7" tvg-country="RO" tvg-language="Romanian" tvg-logo="" tvg-status="live" group-title="General",PROFI 24 TV
 https://live.ro24tv.ro/hls/stream.m3u8
 #EXTINF:-1 tvg-id="famelack-4h6cMZ9oIjvfDv" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/85/Pro_TV_News_%282017%29.png/revision/latest?cb=20171005155753" tvg-status="live" group-title="News",PROTV News
 https://cmero-ott-live.ssl.cdn.cra.cz/channels/cme-ro-voyo-news/playlist.m3u8?offsetSeconds=0&url=0
@@ -217,11 +217,11 @@ https://streamlov.alsolnet.com/radiofxnet/live/playlist.m3u8
 https://media.3netmedia.ro/hls/stream.m3u8
 #EXTINF:-1 tvg-id="RadioRomaniaIasi.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://www.radioiasi.ro/wp-content/themes/radioiasi/images/custom/logo-iasi.svg" tvg-status="live" group-title="General",Radio Romania Iasi
 https://stream3.srr.ro/live/radio-iasi/chunklist_w1565024915.m3u8
-#EXTINF:-1 tvg-id="famelack-okDHJ83ZlAyFOY" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://www.rador.ro/wp-content/uploads/2017/06/logo-radio-oltenia-craiova.png" tvg-status="live" group-title="Music",Radio Romania Oltenia-Craiova
+#EXTINF:-1 tvg-id="famelack-okDHJ83ZlAyFOY" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://www.rador.ro/wp-content/uploads/2017/06/logo-radio-oltenia-craiova.png" tvg-status="live" group-title="General",Radio Romania Oltenia-Craiova
 https://stream3.srr.ro/live/Radio-Oltenia/chunklist_w1200239883.m3u8
 #EXTINF:-1 tvg-id="RadioRomaniaResita.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://www.radioresita.ro/wp-content/themes/radioresita/images/custom/logo-main.svg" tvg-status="down" group-title="General",Radio Romania Resita
 https://stream3.srr.ro/RadioResita/live/playlist.m3u8
-#EXTINF:-1 tvg-id="famelack-lu21lJ2ydo0AAT" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://myradioonline.ro/public/uploads/radio_img/radio-romania-targu-mures/fb_cover.jpg" tvg-status="live" group-title="Music",Radio Romania Targu Mures
+#EXTINF:-1 tvg-id="famelack-lu21lJ2ydo0AAT" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://myradioonline.ro/public/uploads/radio_img/radio-romania-targu-mures/fb_cover.jpg" tvg-status="live" group-title="General",Radio Romania Targu Mures
 https://stream3.srr.ro/live/radio-muresr/chunklist_w1731505049.m3u8
 #EXTINF:-1 tvg-id="RealitateaPlus.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://mailx.realitatea.net/skins/elastic/rtv.svg?s=1769106830" tvg-status="live" group-title="General",Realitatea Plus
 https://stream.realitatea.net/realitatea/plus_md/ts:playlist.m3u8
@@ -242,7 +242,7 @@ https://jstre.am/live/jsl:2gNjpghXRLE.m3u8
 #EXTINF:-1 tvg-id="SportExtra.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fa/Sport_Extra_horizontal.svg/revision/latest/scale-to-width-down/1000?cb=20220425110755" tvg-status="down" group-title="Sports",Sport Extra
 https://tvextra-hls.b-cdn.net/sportextra/sportextra.m3u8
 #EXTINF:-1 tvg-id="SuperTV.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/pzxUE0O.png" tvg-status="live" group-title="Music",Super TV
-http://iptv.supertv.ro:8000/play/a001/index.m3u8
+https://live.supertv.ro/live/supertv/playlist.m3u8
 #EXTINF:-1 tvg-id="famelack-Uvcll90KSqDPmB" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/0iuwjbK.png" tvg-status="live" group-title="General",Taraf TV
 https://hls02ns.antenaplay.ro/hls/taraf-tv-sd/index.m3u8
 #EXTINF:-1 tvg-id="famelack-o5xFTwZ5XqqWJt" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/CheqyWH.png" tvg-status="live" group-title="General",Tele7ABC HD
@@ -297,7 +297,7 @@ https://tvr-cluj.lg.mncdn.com/tvrcluj/smil:tvrcluj.smil/playlist.m3u8
 https://tvr-craiova.lg.mncdn.com/tvrcraiova/smil:tvrcraiova.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="famelack-AgdBh1G6zjQQ1P" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/U9i70C9.png" tvg-status="live" group-title="Culture",TVR Cultural
 https://tvr-cultural.lg.mncdn.com/tvrcultural/smil:tvrcultural.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="famelack-pZ7DVIEngrRQGF" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/TVR_Folclor_Logo_2023.svg/960px-TVR_Folclor_Logo_2023.svg.png" tvg-status="live" group-title="Music",TVR Folclor
+#EXTINF:-1 tvg-id="famelack-pZ7DVIEngrRQGF" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/TVR_Folclor_Logo_2023.svg/960px-TVR_Folclor_Logo_2023.svg.png" tvg-status="live" group-title="General",TVR Folclor
 https://tvr-folclor.lg.mncdn.com/tvrfolclor/smil:tvrfolclor.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TVRIasi.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/Kxkihds.png" tvg-status="live" group-title="General",TVR Iasi
 https://tvr-iasi.lg.mncdn.com/tvriasi/smil:tvriasi.smil/playlist.m3u8
