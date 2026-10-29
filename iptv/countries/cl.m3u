@@ -99,7 +99,7 @@ https://oracle.streaminghd.cl/ciudadanoradiotv/ciudadanoradiotv/playlist.m3u8
 https://v2.tustreaming.cl/clicktv/playlist.m3u8
 #EXTINF:-1 tvg-id="famelack-nUHfguC1PdMTM1" tvg-country="CL" tvg-language="Spanish" tvg-logo="https://i.imgur.com/6fmQLF8.png" tvg-status="live" group-title="General",Club TV
 https://tv.arkeo.cl:1936/clubtv/clubtv/playlist.m3u8
-#EXTINF:-1 tvg-id="CNNChile.cl" tvg-country="CL" tvg-language="Spanish" tvg-logo="https://i.imgur.com/t4EXijz.png" tvg-status="live" group-title="News",CNN Chile
+#EXTINF:-1 tvg-id="CNNChile.cl" tvg-country="CL" tvg-language="Spanish" tvg-logo="https://i.imgur.com/t4EXijz.png" tvg-status="down" group-title="News",CNN Chile
 http://190.110.96.238:8000/play/a0f5/index.m3u8
 #EXTINF:-1 tvg-id="famelack-T4JDABjUy1IxuI" tvg-country="CL" tvg-language="Spanish" tvg-logo="https://i.imgur.com/9k0yAxj.jpeg" tvg-status="live" group-title="General",Concepcion TV
 https://stream.blserver.cl/hls/ctv/index.m3u8
@@ -220,7 +220,7 @@ https://v1.tustreaming.cl/margamargatv/index.m3u8
 #EXTINF:-1 tvg-id="famelack-vsS3ztEW0nu61J" tvg-country="CL" tvg-language="Spanish" tvg-logo="https://i.imgur.com/RlZfR84.png" tvg-status="live" group-title="General",Mega
 https://tr.live.clarovtrcdn.vtrplay.com/megahdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 #EXTINF:-1 tvg-id="Mega2.cl" tvg-country="CL" tvg-language="Spanish" tvg-logo="https://i.imgur.com/c1ME00r.png" tvg-status="live" group-title="Culture",Mega 2
-http://15.204.246.24:8080/Mega2HD/index.m3u8
+http://15.204.196.147:22880/MEGA2-MEGAMEDIA-EE.UU-PROVEEDOR/index.m3u8
 #EXTINF:-1 tvg-id="MegaFiccion.cl" tvg-country="CL" tvg-language="Spanish" tvg-logo="https://i.imgur.com/aQdhJie.png" tvg-status="live" group-title="Series",Mega Ficcion
 http://15.204.196.147:22880/MEGAFICCION-MEGAMEDIA-EE.UU-PROVEEDOR/index.m3u8
 #EXTINF:-1 tvg-id="famelack-iZxXMNes989ufi" tvg-country="CL" tvg-language="" tvg-logo="" tvg-status="live" group-title="General",Meganoticias
@@ -311,7 +311,7 @@ https://unlimited2-cl-isp.dps.live/pudahueltv/pudahueltv.smil/playlist.m3u8
 https://tv.arkeo.cl:1936/radiorancagua/radiorancagua/playlist.m3u8
 #EXTINF:-1 tvg-id="famelack-iH1Ht1rUhcBhVb" tvg-country="CL" tvg-language="Spanish" tvg-logo="https://i.imgur.com/qU3E0kX.png" tvg-status="live" group-title="General",Radio Ritmo FM
 https://panel.tvstream.cl:1936/8046/8046/playlist.m3u8
-#EXTINF:-1 tvg-id="famelack-wqtEMGQtkW2vmM" tvg-country="CL" tvg-language="Spanish" tvg-logo="https://stream-tools.zenomedia.com/content/stations/883465cc-a2ee-418a-972d-2c937707687d/image/?keep=w&lu=1775615385000&resize=350x350" tvg-status="live" group-title="Culture",Radio Suyai TV
+#EXTINF:-1 tvg-id="famelack-wqtEMGQtkW2vmM" tvg-country="CL" tvg-language="Spanish" tvg-logo="https://stream-tools.zenomedia.com/content/stations/883465cc-a2ee-418a-972d-2c937707687d/image/?keep=w&lu=1775615385000&resize=350x350" tvg-status="live" group-title="Music",Radio Suyai TV
 https://cl-2.backend.energeek.cl/RadioSuyai-Neo/index.m3u8
 #EXTINF:-1 tvg-id="famelack-x3MegkwECTjfLb" tvg-country="CL" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="Religious",Radio TV Fortaleza
 https://live.tvcontrolcp.com:1936/fortalezatv/fortalezatv/playlist.m3u8
@@ -329,11 +329,11 @@ https://live20.bozztv.com/akamaissh101/ssh101/vialibretv/playlist.m3u8
 https://v2.tustreaming.cl/radiovidacurico/index.m3u8
 #EXTINF:-1 tvg-id="famelack-h5PiEg4Vy3H6ik" tvg-country="CL" tvg-language="Spanish" tvg-logo="https://cdn.m3u.cl/logo/1629_Radio_Zona_90_3.png" tvg-status="live" group-title="Music",Radio Zona 90.3
 https://live.tvcontrolcp.com:8081/radiozona/index.m3u8
-#EXTINF:-1 tvg-id="RetroPlus.cl" tvg-country="CL" tvg-language="English" tvg-logo="https://i.imgur.com/fkCasXI.png" tvg-status="live" group-title="Music",Retro Plus
+#EXTINF:-1 tvg-id="RetroPlus.cl" tvg-country="CL" tvg-language="English" tvg-logo="https://i.imgur.com/fkCasXI.png" tvg-status="down" group-title="Music",Retro Plus
 http://181.119.97.124:8080/play/a00t/index.m3u8
-#EXTINF:-1 tvg-id="RetroPlus2.cl" tvg-country="CL" tvg-language="Spanish" tvg-logo="https://i.imgur.com/5G5kian.png" tvg-status="live" group-title="Music",Retro Plus 2
+#EXTINF:-1 tvg-id="RetroPlus2.cl" tvg-country="CL" tvg-language="Spanish" tvg-logo="https://i.imgur.com/5G5kian.png" tvg-status="down" group-title="Music",Retro Plus 2
 https://tls-cl.cdnz.cl/retroplustvuno/live/playlist.m3u8
-#EXTINF:-1 tvg-id="RetroPlus3.cl" tvg-country="CL" tvg-language="Spanish" tvg-logo="https://i.imgur.com/i0rZsgG.png" tvg-status="live" group-title="Movies",Retro Plus 3
+#EXTINF:-1 tvg-id="RetroPlus3.cl" tvg-country="CL" tvg-language="Spanish" tvg-logo="https://i.imgur.com/i0rZsgG.png" tvg-status="down" group-title="Movies",Retro Plus 3
 http://181.119.97.124:8080/play/retroplus_3/index.m3u8
 #EXTINF:-1 tvg-id="famelack-lruIH54uz7MA5B" tvg-country="CL" tvg-language="Spanish" tvg-logo="https://cdn.m3u.cl/logo/1765_Retromusica_Television.png" tvg-status="live" group-title="Music",Retromusica Television
 https://vdochile.com:3864/stream/play.m3u8
@@ -426,7 +426,7 @@ https://v1.tustreaming.cl/tv5linares/index.m3u8
 #EXTINF:-1 tvg-id="TVM.cl" tvg-country="CL" tvg-language="Spanish" tvg-logo="https://i.imgur.com/9dwZoxz.png" tvg-status="down" group-title="General",TVM
 https://streams.kanade.cl/canaltvm/index.m3u8
 #EXTINF:-1 tvg-id="TVN.cl" tvg-country="CL" tvg-language="Spanish" tvg-logo="https://i.imgur.com/3FKZHL4.png" tvg-status="live" group-title="General",TVN
-http://15.204.246.24:8080/TVNHD/index.m3u8
+http://138.121.15.230:9002/TVN/index.m3u8
 #EXTINF:-1 tvg-id="TVN3.cl" tvg-country="CL" tvg-language="Spanish" tvg-logo="https://i.imgur.com/9LEiQPJ.png" tvg-status="live" group-title="Classic",TVN3
 https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8
 #EXTINF:-1 tvg-id="famelack-xTf3bbxqRJQgMl" tvg-country="CL" tvg-language="Spanish" tvg-logo="https://i.imgur.com/PCVWtHd.png" tvg-status="live" group-title="General",TVO San Vicente
