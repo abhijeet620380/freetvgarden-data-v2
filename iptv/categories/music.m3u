@@ -181,8 +181,6 @@ http://stream.mcquack.net/320/index.m3u8
 http://178.134.1.158:8081/BRIDGEROCK/index.m3u8
 #EXTINF:-1 tvg-id="famelack-YWNPX9f8P0Trxq" tvg-country="VE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/vygOosC.png" tvg-status="live" group-title="Music",BTA TV
 https://cloud.fastchannel.es/manifiest/hls/prog9/btatv.m3u8
-#EXTINF:-1 tvg-id="BTBMusic.pl" tvg-country="PL" tvg-language="Polish" tvg-logo="https://btb.j00r.us/images/logo_BTBMusic.webp" tvg-status="down" group-title="Music",BTB Music
-https://panel.btb.j00r.us/memfs/ebaffae6-0086-49d7-843d-57f2c561de86.m3u8
 #EXTINF:-1 tvg-id="famelack-96eR5wTMfDjbi2" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/URKDlOZ.png" tvg-status="live" group-title="Music",Buenisima Radio TV
 https://canal.mediaserver.com.co/live/buenisimatv.m3u8
 #EXTINF:-1 tvg-id="famelack-nZxdZLBQ6KuYOb" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/3yeGDTP.png" tvg-status="live" group-title="Music",Cadena Elite
@@ -1037,10 +1035,16 @@ https://1888165924.rsc.cdn77.org/live/RadioRAM/playlist.m3u8
 https://vivo.solumedia.com:19360/realpolitik/realpolitik.m3u8
 #EXTINF:-1 tvg-id="RadioRomania3Net.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://www.radio3net.ro/img/logos/logo_3.png" tvg-status="down" group-title="Music",Radio Romania 3Net
 https://media.3netmedia.ro/hls/stream.m3u8
+#EXTINF:-1 tvg-id="RadioRomaniaAntenaSatelor.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://www.antenasatelor.ro/templates/default/images/custom/logo-main.svg" tvg-status="live" group-title="Music",Radio Romania Antena Satelor
+https://stream3.srr.ro/live/antenasatelor/chunklist_w1642210843.m3u8
 #EXTINF:-1 tvg-id="RadioRomaniaIasi.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://www.radioiasi.ro/wp-content/themes/radioiasi/images/custom/logo-iasi.svg" tvg-status="live" group-title="General",Radio Romania Iasi
 https://stream3.srr.ro/live/radio-iasi/chunklist_w1565024915.m3u8
+#EXTINF:-1 tvg-id="famelack-okDHJ83ZlAyFOY" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://www.rador.ro/wp-content/uploads/2017/06/logo-radio-oltenia-craiova.png" tvg-status="live" group-title="Music",Radio Romania Oltenia-Craiova
+https://stream3.srr.ro/live/Radio-Oltenia/chunklist_w1200239883.m3u8
 #EXTINF:-1 tvg-id="RadioRomaniaResita.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://www.radioresita.ro/wp-content/themes/radioresita/images/custom/logo-main.svg" tvg-status="down" group-title="General",Radio Romania Resita
 https://stream3.srr.ro/RadioResita/live/playlist.m3u8
+#EXTINF:-1 tvg-id="famelack-lu21lJ2ydo0AAT" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://myradioonline.ro/public/uploads/radio_img/radio-romania-targu-mures/fb_cover.jpg" tvg-status="live" group-title="Music",Radio Romania Targu Mures
+https://stream3.srr.ro/live/radio-muresr/chunklist_w1731505049.m3u8
 #EXTINF:-1 tvg-id="famelack-lyKMcAtKzoxbWQ" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/BYcxI03.png" tvg-status="live" group-title="Music",Radio Rumba TV
 https://tv.sistemasandinos.org/rumbatv/video.m3u8
 #EXTINF:-1 tvg-id="RadioSanBorjaTV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/75dJBtH.png" tvg-status="down" group-title="Music",Radio San Borja TV
@@ -1400,7 +1404,7 @@ https://channels.trace.plus/Traceprod/JAMA_hd/index.m3u8
 #EXTINF:-1 tvg-id="famelack-GOL0LeAC5fNTzD" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/q6vkMrU.png" tvg-status="live" group-title="Music",Trace Kitoko
 https://channels.trace.plus/Traceprod/KITOKO_hd/index.m3u8
 #EXTINF:-1 tvg-id="TraceLatina.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/CUVAi4u.png" tvg-status="live" group-title="Music",Trace Latina
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracelatinait-samsungit/playlist.m3u8
+https://channels.trace.plus/Traceprod/LATINA_hd/index.m3u8
 #EXTINF:-1 tvg-id="famelack-0fWZLIAvkDVD4z" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/cYwkCj2.png" tvg-status="live" group-title="Music",Trace Mboa
 https://channels.trace.plus/Traceprod/MBOA_hd/index.m3u8
 #EXTINF:-1 tvg-id="famelack-IQN10ZdvEALsRy" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/xsEGIXO.png" tvg-status="live" group-title="Music",Trace Muzika
@@ -1469,6 +1473,8 @@ https://www.youtube-nocookie.com/embed/OlJu3BzXjXY
 https://cloud.tvomix.com/TVOMIX/index.m3u8
 #EXTINF:-1 tvg-id="TVONENicaragua.ni" tvg-country="NI" tvg-language="Spanish" tvg-logo="https://i.imgur.com/FNk6rdz.png" tvg-status="down" group-title="Music",TVONE Nicaragua
 https://hdbox.chunklistv.com/live?stream=tvone
+#EXTINF:-1 tvg-id="famelack-pZ7DVIEngrRQGF" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/TVR_Folclor_Logo_2023.svg/960px-TVR_Folclor_Logo_2023.svg.png" tvg-status="live" group-title="Music",TVR Folclor
+https://tvr-folclor.lg.mncdn.com/tvrfolclor/smil:tvrfolclor.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="famelack-FzUnMv3h7JFnnS" tvg-country="US" tvg-language="English" tvg-logo="" tvg-status="live" group-title="Music",TVS Music Network
 https://rpn.bozztv.com/gusa/gusa-tvsmusic/index.m3u8
 #EXTINF:-1 tvg-id="famelack-ghJvcjvVzHFJJM" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/dht94P4.png" tvg-status="live" group-title="Music",TVUNO
@@ -1494,11 +1500,11 @@ https://59a564764e2b6.streamlock.net/vallenato/vallenatom/playlist.m3u8
 #EXTINF:-1 tvg-id="famelack-tPLF3mRJvdIAUq" tvg-country="CW" tvg-language="English" tvg-logo="https://i.imgur.com/CD1PffA.png" tvg-status="live" group-title="Music",VAM TV
 https://sincerecloud.stream/loadbalancer/public/J9EmQQGf.m3u8
 #EXTINF:-1 tvg-id="VantageClassic.ee" tvg-country="EE" tvg-language="English" tvg-logo="https://vantagetv.ee/vantage_classic.png" tvg-status="live" group-title="Music",Vantage Classic
-https://cdn-backup.lulzy.eu/vclassic_stream/index.m3u8
+https://hls.vantagetv.ee/vclassic_stream/index.m3u8
 #EXTINF:-1 tvg-id="VantageDance.ee" tvg-country="EE" tvg-language="English" tvg-logo="https://vantagetv.ee/vantage_dance.png" tvg-status="live" group-title="Music",Vantage Dance
 https://hls.vantagetv.ee/vdance_stream/main_stream.m3u8
 #EXTINF:-1 tvg-id="VantageMusic.ee" tvg-country="EE" tvg-language="English" tvg-logo="https://vantagetv.ee/vantage_music.png" tvg-status="live" group-title="Music",Vantage Music
-https://cdn-backup.lulzy.eu/vmusic_stream/index.m3u8
+https://hls.vantagetv.ee/vmusic_stream/main_stream.m3u8
 #EXTINF:-1 tvg-id="VantageRock.ee" tvg-country="EE" tvg-language="English" tvg-logo="https://vantagetv.ee/vantage_rock.png" tvg-status="down" group-title="Music",Vantage Rock
 https://hls.vantagetv.ee/vrock_stream/index.m3u8
 #EXTINF:-1 tvg-id="famelack-9KkStjSrl7VxIY" tvg-country="PY" tvg-language="Spanish" tvg-logo="https://i.imgur.com/XwmUbfp.png" tvg-status="live" group-title="Music",Venus Media
