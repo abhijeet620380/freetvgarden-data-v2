@@ -17,7 +17,7 @@ https://ztnr.rtve.es/ztnr/5473142.m3u8
 https://ztnr.rtve.es/ztnr/4952053.m3u8
 #EXTINF:-1 tvg-id="famelack-0ql8ScPnCzsSJo" tvg-country="ES" tvg-language="Basque" tvg-logo="https://i.imgur.com/DyvK28q.png" tvg-status="live" group-title="General",28 kanala
 https://streaming.28kanala.eus/hls/z.m3u8
-#EXTINF:-1 tvg-id="famelack-JVUe7nnKCNgESR" tvg-country="ES" tvg-language="Catalan" tvg-logo="https://i.imgur.com/zXy2kbe.png" tvg-status="live" group-title="Public",3Cat Cameres del temps
+#EXTINF:-1 tvg-id="famelack-JVUe7nnKCNgESR" tvg-country="ES" tvg-language="Catalan" tvg-logo="https://i.imgur.com/zXy2kbe.png" tvg-status="live" group-title="Weather",3Cat Cameres del temps
 https://directes-tv-int.3catdirectes.cat/live-content/beauties-hls/master.m3u8
 #EXTINF:-1 tvg-id="3CatExclusiu1.es" tvg-country="ES" tvg-language="Catalan" tvg-logo="https://i.imgur.com/YQvLPT1.png" tvg-status="down" group-title="News",3Cat Exclusiu 1
 https://directes-tv-cat.3catdirectes.cat/live-content/oca1-hls/master.m3u8
@@ -125,7 +125,7 @@ https://nlb2-live.emitstream.com/hls/5i3pxfuz4az356yu22ij/master.m3u8
 https://secure5.todostreaming.es/live/division-alm.m3u8
 #EXTINF:-1 tvg-id="CanalExtremadura.es" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/CEXMA_new.png/500px-CEXMA_new.png" tvg-status="down" group-title="General",Canal Extremadura
 https://cdnlive.codev8.net/canalextremaduralive/smil:channel1DVR.smil/playlist.m3u8?DVR=
-#EXTINF:-1 tvg-id="famelack-wr9NlZQAm85FIF" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/H3JzQ1G.jpg" tvg-status="live" group-title="General",Canal Luz Television
+#EXTINF:-1 tvg-id="CanalLuzTelevision.es" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/H3JzQ1G.jpg" tvg-status="live" group-title="General",Canal Luz Television
 https://5f71743aa95e4.streamlock.net:1936/CanalLuz/enDirecto/playlist.m3u8
 #EXTINF:-1 tvg-id="famelack-CTZYBRtAYF88Ky" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/QSUOxtM.png" tvg-status="live" group-title="General",Canal Malaga RTV
 https://canalmalaga-tv-live.flumotion.com/playlist.m3u8
@@ -221,8 +221,6 @@ https://directes-tv-int.3catdirectes.cat/live-content/esport3-hls/master.m3u8
 http://synclosdragos1.syncsolutions.es:8008/live3/emision/index.m3u8
 #EXTINF:-1 tvg-id="famelack-vBQYI4XuRuNh2P" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/rMAB720.png" tvg-status="live" group-title="General",Estepona Television
 https://cloudvideo.servers10.com:8081/8022/index.m3u8
-#EXTINF:-1 tvg-id="famelack-awUBqlQNui5V6X" tvg-country="ES" tvg-language="" tvg-logo="" tvg-status="live" group-title="General",Estilo y Vida
-https://4a7284f0c8334835adb8f223c36fbc37.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6232/master.m3u8
 #EXTINF:-1 tvg-id="famelack-mCiVfIGYDaqE2r" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/bsAbcmC.png" tvg-status="live" group-title="General",EsTuTele
 https://cloud.streamingconnect.tv/hls/estutele/estutele.m3u8
 #EXTINF:-1 tvg-id="ETB1.es" tvg-country="ES" tvg-language="Basque" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/ETB1_2022_logo.svg/960px-ETB1_2022_logo.svg.png" tvg-status="live" group-title="General",ETB 1
@@ -295,7 +293,7 @@ https://liveingesta318.cdnmedia.tv/lleidatvlive/smil:live.smil/playlist.m3u8?DVR
 https://streamer1.streamhost.org/salive/logosH/master.m3u8
 #EXTINF:-1 tvg-id="LogosTVEstudio.es" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/qkHrttj.png" tvg-status="down" group-title="Religious",Logos TV Estudio
 https://streamer1.streamhost.org/salive/logosdirectaH/playlist.m3u8
-#EXTINF:-1 tvg-id="famelack-aWUdvngHDj9fCb" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/Kr3U3Ub.png" tvg-status="live" group-title="Religious",Logos TV Kids
+#EXTINF:-1 tvg-id="famelack-aWUdvngHDj9fCb" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/Kr3U3Ub.png" tvg-status="live" group-title="Kids",Logos TV Kids
 https://streamer1.streamhost.org/salive/logoskidsH/playlist.m3u8
 #EXTINF:-1 tvg-id="LogosTVSalud.es" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/qkHrttj.png" tvg-status="down" group-title="Lifestyle",Logos TV Salud
 https://streamer1.streamhost.org/salive/logossaludH/playlist.m3u8
@@ -333,17 +331,17 @@ http://amaru.dyndns.org:8870/0.m3u8
 https://liveingesta118.cdnmedia.tv/olottvlive/smil:live.smil/playlist.m3u8?DVR=
 #EXTINF:-1 tvg-id="OlympicChannel.es" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/wPQVVtj.png" tvg-status="down" group-title="Sports",Olympic Channel
 https://ocshls-2-olympicchannel.akamaized.net/ocshls/OCTV_32.m3u8
-#EXTINF:-1 tvg-id="famelack-q7nooMvVTTe0YZ" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/mUrZz9O.png" tvg-status="live" group-title="News",Onda 15 TV
+#EXTINF:-1 tvg-id="famelack-q7nooMvVTTe0YZ" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/mUrZz9O.png" tvg-status="live" group-title="Music",Onda 15 TV
 https://cloudvideo.servers10.com:8081/8034/index.m3u8
 #EXTINF:-1 tvg-id="famelack-9dhga7gK9KijdY" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/kUhFkVF.png" tvg-status="live" group-title="General",Onda Algeciras
 https://cloudtv.provideo.es/live/algecirastv-livestream.m3u8
 #EXTINF:-1 tvg-id="famelack-zLbwRa4421PyhS" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/sOBMnby.png" tvg-status="live" group-title="General",Onda Cadiz
 https://ondacadiztv.es:30443/octv/24h/playlist.m3u8
-#EXTINF:-1 tvg-id="famelack-w0BuuYkb1LM5NS" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/6HxLUQd.png" tvg-status="live" group-title="News",Onda Valencia TV
+#EXTINF:-1 tvg-id="famelack-w0BuuYkb1LM5NS" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/6HxLUQd.png" tvg-status="live" group-title="Music",Onda Valencia TV
 https://cloudvideo.servers10.com:8081/8116/index.m3u8
 #EXTINF:-1 tvg-id="ParlamentodeAndalucia.es" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/J6h5IQS.png" tvg-status="down" group-title="Legislative",Parlamento de Andalucia
 http://193.147.254.64:1935/realizacion1/realizacion1/playlist.m3u8
-#EXTINF:-1 tvg-id="ParlamentodeNavarra.es" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/JnhWxKv.png" tvg-status="live" group-title="Legislative",Parlamento de Navarra
+#EXTINF:-1 tvg-id="famelack-jtokavrUrj69rD" tvg-country="ES" tvg-language="Basque" tvg-logo="https://i.imgur.com/JnhWxKv.png" tvg-status="live" group-title="Legislative",Parlamento de Navarra
 https://broadcasting.parlamentodenavarra.es/live/canal1/master.m3u8
 #EXTINF:-1 tvg-id="PenedesTelevisio.es" tvg-country="ES" tvg-language="Catalan" tvg-logo="https://i.imgur.com/mNuv3OL.png" tvg-status="live" group-title="General",Penedes Televisio
 https://liveingesta318.cdnmedia.tv/rtvvilafrancalive/smil:live.smil/playlist.m3u8?DVR=
@@ -393,8 +391,14 @@ https://71db867f03ce4d71a29e92155f07ab87.mediatailor.eu-west-1.amazonaws.com/v1/
 https://968754c2483045c1a9a7f677caec35b6.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6096/master.m3u8
 #EXTINF:-1 tvg-id="RakutenTVFamilyMovies.es" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/Meew6eX.png" tvg-status="live" group-title="Family",Rakuten TV Family Movies
 https://af230031eeac45f3b78d4f8a13265105.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6209/master.m3u8
+#EXTINF:-1 tvg-id="famelack-duHgjkhG7rfbm4" tvg-country="ES" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="Movies",Rakuten TV Family Movies Spain
+https://b0d59c8c98974e708e5ccb9a27cdfdfc.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6205/master.m3u8
 #EXTINF:-1 tvg-id="RakutenTVNordicFilms.es" tvg-country="ES" tvg-language="Finnish" tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/ff79e878-3eea-45fc-b0cd-55d6acce9b18-width200-quality90.jpeg" tvg-status="down" group-title="Movies",Rakuten TV Nordic Films
 https://4aa9ef08b70d4b0c8f3519c5950b1930.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6303/master.m3u8
+#EXTINF:-1 tvg-id="famelack-6Fk85FNF4cdSWr" tvg-country="ES" tvg-language="" tvg-logo="" tvg-status="live" group-title="General",Rakuten TV Sci-Fi Spain
+https://sci-fi-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6740/master.m3u8
+#EXTINF:-1 tvg-id="famelack-yoWnDlFSJLbaIM" tvg-country="ES" tvg-language="" tvg-logo="" tvg-status="live" group-title="General",Rakuten TV Thrillers Spain
+https://thriller-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6480/master.m3u8
 #EXTINF:-1 tvg-id="RakutenTVTopMovies.es" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/Meew6eX.png" tvg-status="live" group-title="Movies",Rakuten TV Top Movies
 https://cbb622b29f5d43b598991f3fa19de291.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5985/master.m3u8
 #EXTINF:-1 tvg-id="famelack-0LyDCyOi0Q8ryz" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/5pMo7dL.png" tvg-status="live" group-title="Sports",Real Madrid TV
@@ -517,7 +521,7 @@ https://crtvg-tvg2.flumotion.cloud/playlist.m3u8
 http://teledifusion.tv/cordoba/cordobalive/playlist.m3u8
 #EXTINF:-1 tvg-id="famelack-ofMevJFkJJi256" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://tvomix.com/Logos/Tvojesus.png" tvg-status="live" group-title="General",TVO Jesus
 https://cloud.tvomix.com/TVOJESUS/index.m3u8
-#EXTINF:-1 tvg-id="TVOMIX.es" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://ugc.production.linktr.ee/7ef61237-c46d-456b-afe3-a42ef49a979e_Mejorado2.png" tvg-status="live" group-title="Music",TVOMIX
+#EXTINF:-1 tvg-id="famelack-gyVcJ1bLnu4kuk" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://ugc.production.linktr.ee/7ef61237-c46d-456b-afe3-a42ef49a979e_Mejorado2.png" tvg-status="live" group-title="Music",TVOMIX
 https://cloud.tvomix.com/TVOMIX/index.m3u8
 #EXTINF:-1 tvg-id="TVR.es" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.ibb.co/nRq3YfT/Logo-Rioja-Televisi-n-S-A.png" tvg-status="live" group-title="General",TVR
 https://5924d3ad0efcf.streamlock.net/riojatv/riojatvlive/playlist.m3u8
