@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="famelack-eJjlISOoTDWS4E" tvg-country="LB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/o6HSfNg.png" tvg-native-name="أغاني أغاني" tvg-status="live" group-title="Music",Aghani Aghani TV
 https://cdn.streamlane.tv/hls/aghanitv/index.m3u8
-#EXTINF:-1 tvg-id="famelack-tJW0Zmlfbe64by" tvg-country="LB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/QMUjPXx.png" tvg-native-name="قناة الاتحاد" tvg-status="live" group-title="General",Al Ittihad TV
-https://live.alittihad.tv:444/ittihad/index.m3u8
+#EXTINF:-1 tvg-id="AlIttihadTV.lb" tvg-country="LB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/QMUjPXx.png" tvg-native-name="قناة الاتحاد" tvg-status="live" group-title="General",Al Ittihad TV
+http://185.105.4.151:8080/_defapp_/ittihad/index.m3u8
 #EXTINF:-1 tvg-id="AlJadeed.lb" tvg-country="LB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/CfxR8o3.png" tvg-native-name="الجديد" tvg-status="live" group-title="General",Al Jadeed
 http://185.9.2.18/chid_391/mono.m3u8
 #EXTINF:-1 tvg-id="AlMayadeenTV.lb" tvg-country="LB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/GtQOKeW.png" tvg-native-name="الميادين" tvg-status="live" group-title="News",Al Mayadeen TV
@@ -59,7 +59,7 @@ http://31.14.41.69:8080/hls/sensesonline/index.m3u8
 https://stream.starmenajo.com/hls/app/live/ts:fhd.m3u8
 #EXTINF:-1 tvg-id="TeleLiban.lb" tvg-country="LB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/5VPYxJi.png" tvg-status="down" group-title="General",Tele Liban
 https://cdn.catiacast.video/abr/ed8f807e2548db4507d2a6f4ba0c4a06/playlist.m3u8
-#EXTINF:-1 tvg-id="UNews.lb" tvg-country="LB" tvg-language="Arabic" tvg-logo="" tvg-status="live" group-title="News",UNews
+#EXTINF:-1 tvg-id="UNews.lb" tvg-country="LB" tvg-language="Arabic" tvg-logo="" tvg-status="down" group-title="News",UNews
 https://cdn.catiacast.video/abr/9436b5ab3c1171ab04a59af11951292f/playlist.m3u8
 #EXTINF:-1 tvg-id="famelack-fWdgIuiyR31OcO" tvg-country="LB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/f8WcqRY.png" tvg-native-name="صوت لبنان" tvg-status="live" group-title="News",Voice of Lebanon
 https://svs.itworkscdn.net/vdltvlive/vdltv.smil/playlist.m3u8
