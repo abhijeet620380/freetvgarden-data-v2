@@ -49,13 +49,15 @@ http://88.212.7.14/live/test_orf_zwei_tizen/playlist.m3u8
 https://orf3.mdn.ors.at/orf/orf3/qxa/manifest.m3u8
 #EXTINF:-1 tvg-id="ORFKids.at" tvg-country="AT" tvg-language="German" tvg-logo="https://i.imgur.com/Zxuah2b.png" tvg-status="live" group-title="Kids",ORF Kids
 https://web12.mdn.ors.at/orf/web12/qxa/manifest.mpd
+#EXTINF:-1 tvg-id="ORFSportPlus.at" tvg-country="AT" tvg-language="German" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/ORF_Sport%2B.svg/960px-ORF_Sport%2B.svg.png" tvg-status="live" group-title="Sports",ORF Sport+
+https://test02.mdn.ors.at/orf/orfs/qxa/manifest.m3u8
 #EXTINF:-1 tvg-id="P3tv.at" tvg-country="AT" tvg-language="German" tvg-logo="https://i.imgur.com/qUOFiEe.png" tvg-status="down" group-title="General",P3tv
 http://p3-6.mov.at:1935/live/weekstream/master.m3u8
 #EXTINF:-1 tvg-id="famelack-5xY9cw7ypbOud1" tvg-country="AT" tvg-language="German" tvg-logo="https://i.imgur.com/SVJiXxh.png" tvg-status="live" group-title="General",R9
 https://ms01.w24.at/R9/smil:liveeventR9.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="famelack-znLSEaZWfm2KZE" tvg-country="AT" tvg-language="German" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Red_Bull_TV.png" tvg-status="live" group-title="Sports",Red Bull TV
+#EXTINF:-1 tvg-id="famelack-znLSEaZWfm2KZE" tvg-country="AT" tvg-language="German" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Red_Bull_TV.png" tvg-status="live" group-title="Outdoor",Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
-#EXTINF:-1 tvg-id="famelack-jHe1OEHTcksowX" tvg-country="AT" tvg-language="English" tvg-logo="" tvg-status="live" group-title="Sports",Red Bull TV AU
+#EXTINF:-1 tvg-id="famelack-jHe1OEHTcksowX" tvg-country="AT" tvg-language="English" tvg-logo="" tvg-status="live" group-title="Outdoor",Red Bull TV AU
 https://db34cc6127ac459db55cab5f97cd66b9.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-680-WORBAUENFAST-WHALETVPLUS/680/whaletvplus/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="famelack-L5wf5IamZyqkNz" tvg-country="AT" tvg-language="German" tvg-logo="https://i.imgur.com/Er2Wqrm.png" tvg-status="live" group-title="General",Regional TV Salzburg
 https://ms02.w24.at/R9Partner/rts.smil/playlist.m3u8
