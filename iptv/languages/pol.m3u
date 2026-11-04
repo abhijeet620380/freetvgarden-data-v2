@@ -27,7 +27,7 @@ https://103f01c3ff79408e83c9212f8a374ecc.mediatailor.us-east-1.amazonaws.com/v1/
 https://emisja.btb.j00r.us/iptv/session/1/live.m3u8
 #EXTINF:-1 tvg-id="famelack-NHCXMxoKr3soBB" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/C5g0ejM.png" tvg-status="live" group-title="General",BTB 2
 https://emisja.btb.j00r.us/iptv/session/2/live.m3u8
-#EXTINF:-1 tvg-id="BTB3.pl" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/Z193940.png" tvg-status="down" group-title="General",BTB 3
+#EXTINF:-1 tvg-id="BTB3.pl" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/Z193940.png" tvg-status="live" group-title="General",BTB 3
 https://emisja3.btb.j00r.us/iptv/session/3/hls.m3u8
 #EXTINF:-1 tvg-id="CANALPlus360.pl" tvg-country="PL" tvg-language="Polish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Canal360_1920x1080.png/960px-Canal360_1920x1080.png" tvg-status="live" group-title="Family",CANAL+ 360
 http://92.114.85.87:8019/play/a003/index.m3u8
@@ -115,8 +115,8 @@ http://92.114.85.87:8001/play/a013/index.m3u8
 http://92.114.85.87:8010/play/a00i/index.m3u8
 #EXTINF:-1 tvg-id="Polonia1.pl" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/4TVDMGD.png" tvg-status="live" group-title="General",Polonia 1
 http://92.114.85.87:8012/play/a006/index.m3u8
-#EXTINF:-1 tvg-id="Polsat.pl" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/xff6zGN.png" tvg-status="down" group-title="General",Polsat
-https://cdn-s-playnow-live.pluscdn.pl/ch/1502600/308/dash/20a18c30/live.mpd
+#EXTINF:-1 tvg-id="Polsat.pl" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/xff6zGN.png" tvg-status="live" group-title="General",Polsat
+https://srv7.flussonic111.com/PL_POLSAT_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Polsat2.pl" tvg-country="PL" tvg-language="Polish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Polsat_2_2021_gradient.svg/960px-Polsat_2_2021_gradient.svg.png" tvg-status="down" group-title="General",Polsat 2
 http://57.128.210.196:8080/208/index.m3u8
 #EXTINF:-1 tvg-id="PolsatFilm.pl" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/wGH6shZ.png" tvg-status="down" group-title="Movies",Polsat Film
@@ -270,9 +270,9 @@ http://57.128.210.196:8080/134/index.m3u8
 #EXTINF:-1 tvg-id="TVPWilno.pl" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/8oORLGF.png" tvg-status="down" group-title="News",TVP Wilno
 http://78.62.9.23:55555/TVP%20Wilno%20HD
 #EXTINF:-1 tvg-id="TVP1.pl" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/ewpSjBs.png" tvg-status="live" group-title="General",TVP1
-http://92.114.85.87:8009/play/a009/index.m3u8
-#EXTINF:-1 tvg-id="TVP2.pl" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/XxCc32B.png" tvg-status="down" group-title="General",TVP2
-http://57.128.210.196:8080/143/index.m3u8
+https://srv7.flussonic111.com/PL_TVP1_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="TVP2.pl" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/XxCc32B.png" tvg-status="live" group-title="General",TVP2
+https://srv7.flussonic111.com/PL_TVP2_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="TVS.pl" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/RHwlp35.png" tvg-status="live" group-title="General",TVS
 http://92.114.85.87:8010/play/a00e/index.m3u8
 #EXTINF:-1 tvg-id="famelack-8fkva1GfM7tM4w" tvg-country="PL" tvg-language="Polish" tvg-logo="" tvg-status="live" group-title="News",TVSUDECKA PL
