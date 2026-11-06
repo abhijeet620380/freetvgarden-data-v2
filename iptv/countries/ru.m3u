@@ -112,7 +112,7 @@ https://12channel.bonus-tv.ru/cdn/12channel/playlist.m3u8
 #EXTINF:-1 tvg-id="Channel5.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/5-tv_logo_%282023%29.svg/960px-5-tv_logo_%282023%29.svg.png" tvg-native-name="Пятый канал" tvg-status="live" group-title="General",Channel 5
 http://31.148.5.241/kanal_5/index.m3u8
 #EXTINF:-1 tvg-id="Channel5International.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/8VKc2Ya.png" tvg-native-name="Пятый International" tvg-status="live" group-title="General",Channel 5 International
-https://cdn4.skygo.mn/live/disk1/Channel_5/HLSv3-FTA/Channel_5.m3u8
+http://178.134.1.158:8081/5channel/index.m3u8
 #EXTINF:-1 tvg-id="famelack-KbWB9VVRnnT7UN" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/nUSx1jF.png" tvg-native-name="8 канал" tvg-status="live" group-title="Entertainment",Channel 8
 https://tshift-1.telecoma.tv/8channel/index.m3u8
 #EXTINF:-1 tvg-id="Channel8International.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/I8OU9oa.png" tvg-native-name="8 канал International" tvg-status="live" group-title="General",Channel 8 International
@@ -171,7 +171,7 @@ https://cityeden.catcast.tv/content/47516/index.m3u8
 https://cityeden.catcast.tv/content/46421/index.m3u8
 #EXTINF:-1 tvg-id="famelack-CZ0c6ZasjBnZ4w" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/mT5liTh.png" tvg-native-name="Сити Эдем ТелеНовелла" tvg-status="live" group-title="Series",City Eden TeleNovella
 https://cityeden.catcast.tv/content/46209/index.m3u8
-#EXTINF:-1 tvg-id="famelack-JIOxlnAu1GPh23" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/X9kACKi.png" tvg-native-name="Сити Эдем TV" tvg-status="live" group-title="Religious",City Eden TV
+#EXTINF:-1 tvg-id="famelack-JIOxlnAu1GPh23" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/X9kACKi.png" tvg-native-name="Сити Эдем TV" tvg-status="live" group-title="General",City Eden TV
 https://cityeden.catcast.tv/content/34246/index.m3u8
 #EXTINF:-1 tvg-id="ClassicMusic.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/TpXs1qA.png" tvg-status="live" group-title="Music",Classic Music
 http://stream.mcquack.net/312/index.m3u8
@@ -421,7 +421,7 @@ https://flussonic.linkintel.ru/Mult/index.m3u8
 http://stream.mcquack.net/82/index.m3u8
 #EXTINF:-1 tvg-id="famelack-Pl9PpHSjGV5iKN" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/ccwijY0.png" tvg-native-name="Мультиландия" tvg-status="live" group-title="Kids",Multilandia
 https://stream8.cinerama.uz/1440/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="famelack-CD6tJOVgDMcaFw" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/Puk1Bhx.png" tvg-native-name="Муз Союз" tvg-status="live" group-title="Religious",Muz Soyuz
+#EXTINF:-1 tvg-id="famelack-CD6tJOVgDMcaFw" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/Puk1Bhx.png" tvg-native-name="Муз Союз" tvg-status="live" group-title="Music",Muz Soyuz
 https://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3u8
 #EXTINF:-1 tvg-id="MuzTV.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/BtqrHmz.png" tvg-native-name="Муз-ТВ" tvg-status="live" group-title="Music",Muz-TV
 http://31.148.5.241/kanal_20/index.m3u8
@@ -627,7 +627,7 @@ https://sitv.ru/hls/stv.m3u8
 https://bsttv.bonus-tv.ru/cdn/salyam/playlist.m3u8
 #EXTINF:-1 tvg-id="Samara24.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/YUe3Dwd.png" tvg-native-name="Самара 24" tvg-status="down" group-title="General",Samara 24
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/samara/samara24-hd/index.m3u8
-#EXTINF:-1 tvg-id="SamaraGIS.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://samaragis.ru/wp-includes/images/logo.png" tvg-native-name="Самара-ГИС" tvg-status="down" group-title="General",Samara-GIS
+#EXTINF:-1 tvg-id="SamaraGIS.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://samaragis.ru/wp-includes/images/logo.png" tvg-native-name="Самара-ГИС" tvg-status="live" group-title="General",Samara-GIS
 https://tv.samaragis.ru/new/new/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="famelack-hQgDaeyJfdzNfx" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/9At4oG7.png" tvg-native-name="Санкт-Петербург" tvg-status="live" group-title="General",Sankt-Peterburg
 https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R02_SPBREGIONALHD/variant.m3u8
@@ -663,7 +663,7 @@ https://5d23269b3ec0c.streamlock.net/WEB_Smilik/ngrp:Smilik.stream-adaptive/play
 https://stream.smotrim.ru/hls/fasttv05/playlist_3.m3u8
 #EXTINF:-1 tvg-id="famelack-orDXxZRC4vUyeM" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/dB3cJzO.png" tvg-native-name="Смотрим 100% Факты" tvg-status="live" group-title="Documentary",Smotrim 100% Fakty
 https://stream.smotrim.ru/hls/fasttv06/playlist_3.m3u8
-#EXTINF:-1 tvg-id="famelack-6UMqfCWAL6fJyw" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/aASNpKq.png" tvg-native-name="Смотрим 100% Классика" tvg-status="live" group-title="Movies",Smotrim 100% Klassika
+#EXTINF:-1 tvg-id="famelack-6UMqfCWAL6fJyw" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/aASNpKq.png" tvg-native-name="Смотрим 100% Классика" tvg-status="live" group-title="Classic",Smotrim 100% Klassika
 https://stream.smotrim.ru/hls/fasttv03/playlist_3.m3u8
 #EXTINF:-1 tvg-id="famelack-AEW5rUSukyBObX" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/4EFh0nu.png" tvg-native-name="Смотрим 100% Любовь" tvg-status="live" group-title="Series",Smotrim 100% Lyubov
 https://stream.smotrim.ru/hls/fasttv01/playlist_2.m3u8
@@ -731,7 +731,7 @@ https://streaming.televizor-24-tochka.ru/live/24.m3u8
 http://31.148.48.15/Sochi_HD/index.m3u8
 #EXTINF:-1 tvg-id="famelack-n24WKhfbAy2vvs" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/1H3h1HL.png" tvg-native-name="Телекафе" tvg-status="live" group-title="Cooking",Telecafe
 https://stream8.cinerama.uz/1035/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="TeleDom.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/071JRrb.png" tvg-native-name="ТелеДом" tvg-status="live" group-title="General",TeleDom
+#EXTINF:-1 tvg-id="TeleDom.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/071JRrb.png" tvg-native-name="ТелеДом" tvg-status="down" group-title="General",TeleDom
 https://iam-profi.ru/hls-live/livepkgr/_definst_/liveevent/td720.m3u8
 #EXTINF:-1 tvg-id="famelack-IjfaeT61g4IFJ9" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/YVtutzp.png" tvg-native-name="Телеканал Краснодар" tvg-status="live" group-title="General",Telekanal Krasnodar
 https://live-tvkrasnodar.cdnvideo.ru/tvkrasnodar/tvkrasnodar.sdp/playlist.m3u8
@@ -765,7 +765,7 @@ http://31.148.48.15/Tochka_TV/index.m3u8
 https://live-tolknews.cdnvideo.ru/tolknews/stream/playlist.m3u8
 #EXTINF:-1 tvg-id="Tonus.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://tonustv.ru/img/logos/8806.svg" tvg-native-name="Тонус" tvg-status="live" group-title="General",Tonus
 http://194.143.148.28:8080/Mir24/index.m3u8
-#EXTINF:-1 tvg-id="famelack-rOQGdTPomjbnWK" tvg-country="RU" tvg-language="Russian" tvg-logo="https://tooku.ru/wp-content/uploads/2024/11/tooku-kanal-logo.png" tvg-native-name="Тооку" tvg-status="live" group-title="Kids",Tooku
+#EXTINF:-1 tvg-id="famelack-rOQGdTPomjbnWK" tvg-country="RU" tvg-language="Russian" tvg-logo="https://tooku.ru/wp-content/uploads/2024/11/tooku-kanal-logo.png" tvg-native-name="Тооку" tvg-status="live" group-title="Animation",Tooku
 https://live-saha.cdnvideo.ru/saha/tooky/playlist.m3u8
 #EXTINF:-1 tvg-id="famelack-CliuBv6wjZdpBP" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-status="live" group-title="Sports",Trace Sport Stars Russia
 https://stream8.cinerama.uz/1274/tracks-v1a1/mono.m3u8
