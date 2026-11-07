@@ -20,7 +20,7 @@ https://livestream.telvue.com/billerica3/f7b44cfafd5c52223d5498196c8a2e7b.sdp/pl
 #EXTINF:-1 tvg-id="BATVGovernmentTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/VPGIfVh.png" tvg-status="down" group-title="Legislative",BATV Government TV
 https://reflect-batv.cablecast.tv/live-3/live/live.m3u8
 #EXTINF:-1 tvg-id="BBCParliament.uk" tvg-country="UK" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/BBC_Parliament_Logo.svg/960px-BBC_Parliament_Logo.svg.png" tvg-status="down" group-title="Legislative",BBC Parliament
-https://cdn.stmify.com/bbc/stream/BBC_PARLIAMENT/hevc_iptv_mse_v0.mpd
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_parliament/iptv_hd_abr_v1.mpd
 #EXTINF:-1 tvg-id="famelack-2s87sxYLm0FfDz" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/ObNBL7L.png" tvg-status="live" group-title="Legislative",BPTV
 https://buenapark.cablecast.tv/live/stream-1/live.m3u8
 #EXTINF:-1 tvg-id="famelack-LHPz1aKU2GRHnH" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/eUTDIQ2.png" tvg-status="live" group-title="Legislative",Brevard Government Access TV
@@ -165,6 +165,8 @@ https://brightonco.cablecast.tv/live-4/live/live.m3u8
 https://cdn3.wowza.com/5/dk84U1p2UUdoMGxT/kern/G0169_003/playlist.m3u8
 #EXTINF:-1 tvg-id="KnessetChannel.il" tvg-country="IL" tvg-language="Hebrew" tvg-logo="https://i.imgur.com/QXB1jv8.png" tvg-native-name="ערוץ כנסת" tvg-status="live" group-title="Legislative",Knesset Channel
 http://stream.mcquack.net/48/index.m3u8
+#EXTINF:-1 tvg-id="famelack-lvIrwQpUaM4Bib" tvg-country="KR" tvg-language="Korean" tvg-logo="https://i.ibb.co/WkrLDJW/Screenshot-20230714-135036-removebg-preview.png" tvg-native-name="國民放送" tvg-status="live" group-title="Legislative",KTV
+https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="LACityView35.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/3PnD83G.png" tvg-status="down" group-title="Legislative",LA CityView 35
 https://reflect-losangeles.cablecast.tv/live-3/live/live.m3u8
 #EXTINF:-1 tvg-id="famelack-QCanIPPvtrIdKY" tvg-country="US" tvg-language="English" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lQ_vy6By43AoSdSQbFUzQePU0NWWIM-uzsAqnbbQXAql4=s512" tvg-status="live" group-title="Legislative",Lake Havasu City 4
@@ -234,7 +236,7 @@ https://origin-http-delivery.isilive.ca/live/_definst_/ontla/house-en/playlist.m
 #EXTINF:-1 tvg-id="famelack-VZPY6lzCUebW62" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/hyPTfxA.png" tvg-status="live" group-title="Legislative",Orange Government Access TV
 https://livestream.telvue.com/ogat1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="OrszaggyulesOGYplenaris.hu" tvg-country="HU" tvg-language="Hungarian" tvg-logo="https://i.imgur.com/hbblRpZ.png" tvg-status="live" group-title="Legislative",Orszaggyules: OGY plenaris
-https://plenaris.parlament.hu:446/edgelive/smil:mkogyplen.smil/playlist.m3u8
+http://plenaris.parlament.hu:1935/edgelive/smil:mkogyplen.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="OrszaggyulesOGYTAB.hu" tvg-country="HU" tvg-language="Hungarian" tvg-logo="https://i.imgur.com/hbblRpZ.png" tvg-status="live" group-title="Legislative",Orszaggyules: OGY TAB
 https://tab.parlament.hu:446/edgelive/smil:mkogytab.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ParlamentodeAndalucia.es" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/J6h5IQS.png" tvg-status="down" group-title="Legislative",Parlamento de Andalucia
@@ -285,6 +287,8 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:rakyat/playlist.m3u8?id=7
 https://d2lk5u59tns74c.cloudfront.net/out/v1/fff8f20221d5456e8922e689d71dedc3/index.m3u8
 #EXTINF:-1 tvg-id="famelack-7uZQEY7iiyput2" tvg-country="IN" tvg-language="English" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/SANSAD2_HINDI_2000_X_1125_Transpharent.png" tvg-status="live" group-title="Legislative",Sansad TV 2
 https://d2lk5u59tns74c.cloudfront.net/out/v1/e4182054dce340da9e0ff38b6b3658a4/index.m3u8
+#EXTINF:-1 tvg-id="SenadoTV.py" tvg-country="PY" tvg-language="Spanish" tvg-logo="https://i.imgur.com/LzgODUS.png" tvg-status="live" group-title="Legislative",Senado TV
+https://vid.hls.protv.ro/liveibu6/liveibu6_highw/index.m3u8?1
 #EXTINF:-1 tvg-id="famelack-ZLv6M8x6GdOHFN" tvg-country="IT" tvg-language="Italian" tvg-logo="https://i.imgur.com/h4NyN5d.png" tvg-status="live" group-title="Legislative",Senato TV
 https://senato-live.morescreens.com/SENATO_1_001/playlist.m3u8
 #EXTINF:-1 tvg-id="famelack-QvfZ45T9wvpbFD" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/uYXuwmV.png" tvg-status="live" group-title="Legislative",SFGovTV

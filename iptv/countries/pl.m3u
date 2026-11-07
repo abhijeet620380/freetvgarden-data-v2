@@ -36,8 +36,8 @@ https://emisja.btb.j00r.us/iptv/session/1/live.m3u8
 #EXTINF:-1 tvg-id="famelack-NHCXMxoKr3soBB" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/C5g0ejM.png" tvg-status="live" group-title="General",BTB 2
 https://emisja.btb.j00r.us/iptv/session/2/live.m3u8
 #EXTINF:-1 tvg-id="BTB3.pl" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/Z193940.png" tvg-status="live" group-title="General",BTB 3
-https://emisja3.btb.j00r.us/iptv/session/3/hls.m3u8
-#EXTINF:-1 tvg-id="famelack-vifXiIDfcyAksy" tvg-country="PL" tvg-language="English" tvg-logo="https://btb.j00r.us/img.php?id=87fa06e1418604cb096a0bb3f24e4371&type=Primary&w=400&t=BTB+Info" tvg-status="live" group-title="News",BTB Info
+https://emisja3.btb.j00r.us/iptv/session/3/live.m3u8
+#EXTINF:-1 tvg-id="famelack-vifXiIDfcyAksy" tvg-country="PL" tvg-language="English" tvg-logo="https://btb.j00r.us/img.php?id=87fa06e1418604cb096a0bb3f24e4371&type=Primary&w=400&t=BTB+Info" tvg-status="live" group-title="Documentary",BTB Info
 https://panel.btb.j00r.us/memfs/928cfb64-fed7-4c27-9937-f5ad72d9d73c.m3u8
 #EXTINF:-1 tvg-id="BuzzfeedUnsolved.pl" tvg-country="PL" tvg-language="English" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/e16cfcc7-2040-4bd5-8339-16d499f8799e-width200-quality90.png" tvg-status="live" group-title="General",Buzzfeed Unsolved
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883099
@@ -149,8 +149,6 @@ http://92.114.85.87:8014/play/a006/index.m3u8
 https://1409502578.rsc.cdn77.org/live/stream-1/playlist.m3u8
 #EXTINF:-1 tvg-id="NickJr.pl" tvg-country="PL" tvg-language="Polish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_(outline).svg/960px-Nick_Jr._logo_2023_(outline).svg.png" tvg-status="live" group-title="Kids",Nick Jr.
 http://92.114.85.87:8013/play/a004/index.m3u8
-#EXTINF:-1 tvg-id="Nickelodeon.pl" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/E84jnP8.png" tvg-status="live" group-title="Kids",Nickelodeon
-http://92.114.85.87:8013/play/a005/index.m3u8
 #EXTINF:-1 tvg-id="Nicktoons.pl" tvg-country="PL" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/Nicktoons_Logo_2023.svg" tvg-status="live" group-title="Kids",Nicktoons
 http://92.114.85.87:8013/play/a008/index.m3u8
 #EXTINF:-1 tvg-id="famelack-XZczg4azCqaOYB" tvg-country="PL" tvg-language="" tvg-logo="" tvg-status="live" group-title="Music",NOW 70s
@@ -166,7 +164,7 @@ http://92.114.85.87:8010/play/a00i/index.m3u8
 #EXTINF:-1 tvg-id="Polonia1.pl" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/4TVDMGD.png" tvg-status="live" group-title="General",Polonia 1
 http://92.114.85.87:8012/play/a006/index.m3u8
 #EXTINF:-1 tvg-id="Polsat.pl" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/xff6zGN.png" tvg-status="live" group-title="General",Polsat
-https://srv7.flussonic111.com/PL_POLSAT_HD/tracks-v1a1/mono.m3u8
+https://cdn-s-playnow-live.pluscdn.pl/ch/1502600/308/dash/20a18c30/live.mpd
 #EXTINF:-1 tvg-id="Polsat2.pl" tvg-country="PL" tvg-language="Polish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Polsat_2_2021_gradient.svg/960px-Polsat_2_2021_gradient.svg.png" tvg-status="down" group-title="General",Polsat 2
 http://57.128.210.196:8080/208/index.m3u8
 #EXTINF:-1 tvg-id="PolsatFilm.pl" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/wGH6shZ.png" tvg-status="down" group-title="Movies",Polsat Film
@@ -323,34 +321,16 @@ http://92.114.85.87:8010/play/a00m/index.m3u8
 http://92.114.85.87:8010/play/a00n/index.m3u8
 #EXTINF:-1 tvg-id="famelack-aY6u7qwNMI1Wgm" tvg-country="PL" tvg-language="Polish" tvg-logo="https://www.tvkstella.pl/img/poster.png" tvg-status="live" group-title="News",TVK Stella
 https://stream.tvkstella.pl/stella/stella.m3u8
-#EXTINF:-1 tvg-id="TVP3Warszawa.pl" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/AfZOO8U.jpg" tvg-status="live" group-title="General",TVP 3 Warszawa
-http://92.114.85.87:8010/play/a006/index.m3u8
-#EXTINF:-1 tvg-id="TVPABC.pl" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/wP2mpfM.png" tvg-status="live" group-title="Kids",TVP ABC
-http://92.114.85.87:8002/play/a00b/index.m3u8
-#EXTINF:-1 tvg-id="TVPHD.pl" tvg-country="PL" tvg-language="Polish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/TVP_HD_logo.svg/960px-TVP_HD_logo.svg.png" tvg-status="down" group-title="General",TVP HD
-http://57.128.210.196:8080/141/index.m3u8
-#EXTINF:-1 tvg-id="TVPHistoria.pl" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/Bc4QZiy.png" tvg-status="live" group-title="General",TVP Historia
-http://92.114.85.87:8002/play/a00d/index.m3u8
 #EXTINF:-1 tvg-id="famelack-Se7x9HGaZbNY8X" tvg-country="PL" tvg-language="Polish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/28/TVP_info_%282024%29.png" tvg-status="live" group-title="General",TVP Info
 https://dash4.antik.sk/live/test_tvp_info/playlist.m3u8
-#EXTINF:-1 tvg-id="TVPKultura.pl" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/JU858Es.png" tvg-status="live" group-title="General",TVP Kultura
-http://92.114.85.87:8006/play/a007/index.m3u8
 #EXTINF:-1 tvg-id="famelack-fzamcn1eHJ76Mf" tvg-country="PL" tvg-language="Polish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/TVP_Polonia_Logo_2020.svg/960px-TVP_Polonia_Logo_2020.svg.png" tvg-status="live" group-title="General",TVP Polonia
 https://dash2.antik.sk/live/test_tvp_polonia/playlist.m3u8
 #EXTINF:-1 tvg-id="TVPRozrywka.pl" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/05Vx5px.png" tvg-status="live" group-title="General",TVP Rozrywka
 http://185.227.34.179:8080/tvp-rozrywka/index.m3u8
-#EXTINF:-1 tvg-id="TVPSeriale.pl" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/MuRtvXk.png" tvg-status="live" group-title="Series",TVP Seriale
-http://92.114.85.87:8019/play/a00a/index.m3u8
-#EXTINF:-1 tvg-id="TVPSport.pl" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/JUZDOCO.png" tvg-status="down" group-title="Sports",TVP Sport
-http://57.128.210.196:8080/134/index.m3u8
-#EXTINF:-1 tvg-id="TVPWilno.pl" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/8oORLGF.png" tvg-status="down" group-title="News",TVP Wilno
-http://78.62.9.23:55555/TVP%20Wilno%20HD
 #EXTINF:-1 tvg-id="famelack-2NOHQqe5XXGwtZ" tvg-country="PL" tvg-language="English" tvg-logo="https://i.imgur.com/lB4MgRI.png" tvg-status="live" group-title="News",TVP World
 https://dash2.antik.sk/live/test_tvp_world/playlist.m3u8
 #EXTINF:-1 tvg-id="TVP1.pl" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/ewpSjBs.png" tvg-status="live" group-title="General",TVP1
 http://92.114.85.87:8009/play/a009/index.m3u8
-#EXTINF:-1 tvg-id="TVP2.pl" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/XxCc32B.png" tvg-status="live" group-title="General",TVP2
-https://srv7.flussonic111.com/PL_TVP2_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="TVS.pl" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/RHwlp35.png" tvg-status="live" group-title="General",TVS
 http://92.114.85.87:8010/play/a00e/index.m3u8
 #EXTINF:-1 tvg-id="TVT.pl" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/oZyeUzG.png" tvg-status="down" group-title="General",TVT
@@ -389,7 +369,3 @@ https://mainstreammedia-worldoffreesportsintl-rakuten.amagi.tv/hls/amagi_hls_dat
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/playlist.m3u8?ads.xumo_channelId=88883102
 #EXTINF:-1 tvg-id="WPTV.pl" tvg-country="PL" tvg-language="Polish" tvg-logo="https://ocdn.eu/ptv2-images-transforms/1/NIbkrRsb2dvLW1pZ3JhdGVkL3dwLnBuZ5KVAmQAwsOVAgAowsM" tvg-status="down" group-title="General",WP TV
 http://92.114.85.87:8002/play/a008/index.m3u8
-#EXTINF:-1 tvg-id="Wydarzenia24.pl" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/uYpUnHP.png" tvg-status="live" group-title="News",Wydarzenia 24
-http://92.114.85.87:8016/play/a007/index.m3u8
-#EXTINF:-1 tvg-id="ZoomTV.pl" tvg-country="PL" tvg-language="Polish" tvg-logo="https://zoomtv.pl/wp-content/themes/zoomtv2026/assets/img/zoom-logo.svg" tvg-status="live" group-title="General",Zoom TV
-http://92.114.85.87:8001/play/a00y/index.m3u8

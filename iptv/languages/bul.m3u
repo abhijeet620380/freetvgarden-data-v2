@@ -47,8 +47,10 @@ https://cdn2.invivo.bg/codehealth_test/index.m3u8
 http://213.91.179.28:8000/play/a045
 #EXTINF:-1 tvg-id="DiemaFamily.bg" tvg-country="BG" tvg-language="Bulgarian" tvg-logo="https://i.imgur.com/SgNVY4d.png" tvg-status="live" group-title="Family",Diema Family
 http://213.91.179.28:8000/play/a047
+#EXTINF:-1 tvg-id="DiscoveryChannel.bg" tvg-country="BG" tvg-language="Bulgarian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/960px-2019_Discovery_logo.svg.png" tvg-native-name="Discovery Channel България" tvg-status="live" group-title="Entertainment",Discovery Channel
+http://213.91.179.28:8000/play/a044
 #EXTINF:-1 tvg-id="DisneyChannel.bg" tvg-country="BG" tvg-language="Bulgarian" tvg-logo="https://i.imgur.com/UxrAiAe.png" tvg-status="live" group-title="Kids",Disney Channel
-http://213.91.179.28:8000/play/a059
+http://87.120.179.187:8000/play/a010
 #EXTINF:-1 tvg-id="DSTV.bg" tvg-country="BG" tvg-language="Bulgarian" tvg-logo="https://i.imgur.com/YMgzzkf.png" tvg-status="live" group-title="Music",DSTV
 http://46.249.95.140:8081/hls/data.m3u8
 #EXTINF:-1 tvg-id="famelack-xdokYBHmV0ZqHz" tvg-country="BE" tvg-language="Bulgarian" tvg-logo="https://i.imgur.com/DIIRPNN.png" tvg-status="live" group-title="Legislative",EbS
@@ -107,6 +109,8 @@ http://213.91.179.28:8000/play/a0c9
 http://213.91.179.28:8000/play/a0cs
 #EXTINF:-1 tvg-id="StarLife.bg" tvg-country="BG" tvg-language="Bulgarian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Star_Life_2021.svg/960px-Star_Life_2021.svg.png" tvg-status="live" group-title="Series",Star Life
 http://213.91.179.28:8000/play/a0cr
+#EXTINF:-1 tvg-id="SuperToons.bg" tvg-country="BG" tvg-language="Bulgarian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/SuperToons.png" tvg-status="live" group-title="Kids",Super Toons
+https://d3bxvshzgfq6in.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-8a0c583l9gryw/feed/samsung/streams/SUPERTOONS_EN/master.m3u8?token=737aa2c3f17862a448f403cd2ac2b5ef1a0c413e1cf080a13a19cea99119221f
 #EXTINF:-1 tvg-id="famelack-rCOmwF4pnlWlvg" tvg-country="BG" tvg-language="Bulgarian" tvg-logo="https://i.imgur.com/OoJSmoj.png" tvg-status="live" group-title="Music",The Voice
 https://bss1.neterra.tv/thevoice/thevoice.m3u8
 #EXTINF:-1 tvg-id="famelack-GEk43COrT9omtb" tvg-country="BG" tvg-language="Bulgarian" tvg-logo="https://i.imgur.com/062jkXw.png" tvg-status="live" group-title="Entertainment",This is Bulgaria HD
@@ -124,7 +128,7 @@ https://tv.tvsb.bg/112.m3u8
 #EXTINF:-1 tvg-id="TVZagora.bg" tvg-country="BG" tvg-language="Bulgarian" tvg-logo="https://i.imgur.com/DvBboqe.png" tvg-native-name="ТВ Загора" tvg-status="live" group-title="General",TV Zagora
 http://zagoratv.ddns.net:8080/tvzagora.m3u8
 #EXTINF:-1 tvg-id="TV1000.bg" tvg-country="BG" tvg-language="Bulgarian" tvg-logo="https://i.imgur.com/GHNsctR.png" tvg-status="live" group-title="Movies",TV1000
-http://85.14.32.26:8800/udp/239.100.10.100:5000
+http://stream.mcquack.net/100/tracks-v1a1/mono.ts.m3u8?ads=1&filter.tracks=v1a1
 #EXTINF:-1 tvg-id="famelack-ELDNWWv9rjJl60" tvg-country="BG" tvg-language="Bulgarian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Viasat_Explore_2026.svg" tvg-status="live" group-title="Documentary",Viasat Explore
 https://shift03.isp.bg/ViasatExplorer_HD/index.m3u8
 #EXTINF:-1 tvg-id="famelack-9qxiwyypjNrlXI" tvg-country="BG" tvg-language="Bulgarian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/Viasat_History_2026.svg" tvg-status="live" group-title="Documentary",Viasat History

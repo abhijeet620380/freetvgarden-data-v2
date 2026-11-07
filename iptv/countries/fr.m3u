@@ -27,7 +27,7 @@ https://cdn-euronews.akamaized.net/live/eds/africanews-fr/25050/index.m3u8
 https://edge13.vedge.infomaniak.com/livecast/ik:adhtv/manifest.m3u8
 #EXTINF:-1 tvg-id="AntenneReunion.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/EPIMMaB.png" tvg-status="down" group-title="General",Antenne Reunion
 https://live-antenne-reunion.zeop.tv/live/c3eds/antreunihd/hls_fta/antreunihd.m3u8?location=ZEOP01
-#EXTINF:-1 tvg-id="arte.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/ecXMjNl.png" tvg-status="live" group-title="Entertainment",arte
+#EXTINF:-1 tvg-id="arte.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/ecXMjNl.png" tvg-status="down" group-title="Entertainment",arte
 http://5.180.164.197:8080/ARTEFR/index.m3u8
 #EXTINF:-1 tvg-id="famelack-SFsrKozwjoLj8R" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/RyVEFcG.png" tvg-status="live" group-title="News",B SMART
 https://www.youtube-nocookie.com/embed/dPftmDuvMWU
@@ -59,7 +59,7 @@ https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_LYON/index.m3u8?end=END&start=LI
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_MARSEILLEPROV/index.m3u8?end=END&start=LIVE
 #EXTINF:-1 tvg-id="famelack-cUhHOnv9aj6JeQ" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/WWWQ44G.png" tvg-status="live" group-title="News",BFM Normandie
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_NORMANDIE/index.m3u8?end=END&start=LIVE
-#EXTINF:-1 tvg-id="famelack-oMWoXuzyayZcUr" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/FQ0FpXV.png" tvg-status="live" group-title="News",BFM Tech & Co
+#EXTINF:-1 tvg-id="famelack-oMWoXuzyayZcUr" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/FQ0FpXV.png" tvg-status="live" group-title="Science",BFM Tech & Co
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TECHANDCO/index.m3u8?end=END&start=LIVE
 #EXTINF:-1 tvg-id="famelack-su9d0YBQVTBx5Z" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/YJCcczD.png" tvg-status="live" group-title="News",BFM TV
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8?end=END&start=LIVE
@@ -247,10 +247,6 @@ https://mytimemoviefrance-rakuten.amagi.tv/playlist.m3u8
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-en-plex/playlist.m3u8
 #EXTINF:-1 tvg-id="famelack-SbCVyIRCGshv9Z" tvg-country="FR" tvg-language="French" tvg-logo="" tvg-status="live" group-title="Documentary",Nature Time
 https://bamusa-naturetime-emea-fra-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="Nickelodeon.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/E84jnP8.png" tvg-status="down" group-title="Kids",Nickelodeon
-http://151.80.18.177:86/Nickelodeon_FR/index.m3u8
-#EXTINF:-1 tvg-id="NickelodeonJunior.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Nickelodeon_Junior.png/960px-Nickelodeon_Junior.png" tvg-status="down" group-title="Kids",Nickelodeon Junior
-http://151.80.18.177:86/Nickelodeon_Junior/index.m3u8
 #EXTINF:-1 tvg-id="NOVO19.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Logo_NOVO19_-_2025.svg/960px-Logo_NOVO19_-_2025.svg.png" tvg-status="live" group-title="General",NOVO19
 http://149.62.177.107:9999/NOVO19/index.m3u8
 #EXTINF:-1 tvg-id="NRJHits.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/2xDVwOh.png" tvg-status="down" group-title="Music",NRJ Hits
@@ -437,8 +433,8 @@ https://tvf-tv5ch.otteravision.com/tvf/tv5ch/tv5ch.m3u8
 https://ert-ucdn.broadpeak-aas.com/bpk-tv/TV5/default/index.m3u8
 #EXTINF:-1 tvg-id="TV5MondeFranceBelgiumSwitzerlandMonaco.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/WmRbudc.png" tvg-status="down" group-title="General",TV5Monde France Belgium Switzerland Monaco
 https://ott.tv5monde.com/Content/HLS/Live/channel(fbs)/variant.m3u8
-#EXTINF:-1 tvg-id="TV5MondeInfo.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/AJx5Fy2.png" tvg-status="down" group-title="News",TV5Monde Info
-https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
+#EXTINF:-1 tvg-id="TV5MondeInfo.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/AJx5Fy2.png" tvg-status="live" group-title="News",TV5Monde Info
+https://tvf-tvfm.otteravision.com/tvf/tvfm/tvfm_720.m3u8
 #EXTINF:-1 tvg-id="TV5MondeLatinAmerica.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/x8rjGhp.png" tvg-status="down" group-title="General",TV5Monde Latin America
 http://45.162.231.38:7779/TV5_Monde/index.m3u8
 #EXTINF:-1 tvg-id="TV5MondePacific.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/mfZOYZI.png" tvg-status="down" group-title="General",TV5Monde Pacific
@@ -463,7 +459,7 @@ https://streamer01.myvideoplace.tv/streamer02/hls/MDS_VIA_PAD_301117.m3u8
 https://srv.webtvmanager.fr:3970/live/viatelepaeselive.m3u8
 #EXTINF:-1 tvg-id="famelack-SbiWPbW9abVIyM" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/7y7ancc.png" tvg-status="live" group-title="General",Vosges TV
 https://vosgestv.live-kd.com/live/vosgestv/vosgestv/playlist.m3u8
-#EXTINF:-1 tvg-id="W9.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/reYeMuE.png" tvg-status="live" group-title="Entertainment",W9
+#EXTINF:-1 tvg-id="W9.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/reYeMuE.png" tvg-status="down" group-title="Entertainment",W9
 http://5.180.164.197:8080/W9/index.m3u8
 #EXTINF:-1 tvg-id="famelack-8MY8QweXbIf30Y" tvg-country="FR" tvg-language="" tvg-logo="" tvg-status="live" group-title="General",Wasabi la chaîne anime
 https://amg01796-amg01796c3-rakuten-uk-2555.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-wasabii-rakutenuk/playlist.m3u8
