@@ -17,7 +17,7 @@ https://d3b73b34o7cvkq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://africa24.vedge.infomaniak.com/livecast/ik:africa24/manifest.m3u8
 #EXTINF:-1 tvg-id="famelack-QzSkQCeFOqXwg8" tvg-country="FR" tvg-language="English" tvg-logo="https://africa24tv.com/wp-content/uploads/2023/12/logo-Africa24TVEnglish.png" tvg-status="live" group-title="News",Africa 24 English
 https://edge20.vedge.infomaniak.com/livecast/ik:africa24english/manifest.m3u8
-#EXTINF:-1 tvg-id="famelack-FsR4OMNuaQ7RDi" tvg-country="FR" tvg-language="French" tvg-logo="https://i0.wp.com/africa24tv.com/wp-content/uploads/2023/12/LOGO-AFRICASPORT-4-HD-sans-fond.png?fit=512%2C107&ssl=1" tvg-status="live" group-title="News",Africa 24 Sport
+#EXTINF:-1 tvg-id="famelack-FsR4OMNuaQ7RDi" tvg-country="FR" tvg-language="French" tvg-logo="https://i0.wp.com/africa24tv.com/wp-content/uploads/2023/12/LOGO-AFRICASPORT-4-HD-sans-fond.png?fit=512%2C107&ssl=1" tvg-status="live" group-title="Sports",Africa 24 Sport
 https://africa24.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3u8
 #EXTINF:-1 tvg-id="famelack-Gmuy6SpwOogHJz" tvg-country="FR" tvg-language="English" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/DISTROTV/LIVECHANNEL/6669892cbac4421ebc533679/images/logo_20231218_175639_70.png" tvg-status="live" group-title="News",Africanews English
 https://cdn-euronews.akamaized.net/live/eds/africanews-en/25049/index.m3u8
@@ -237,8 +237,6 @@ https://www.youtube-nocookie.com/embed/5ARTNKq49WY
 http://185.228.163.146:8000/play/a00g/index.m3u8
 #EXTINF:-1 tvg-id="MDL.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/REN30bx.png" tvg-status="live" group-title="General",MDL
 http://tv.mondeduloisir.fr:1935/tixtv/smil:web.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Mezzo.fr" tvg-country="FR" tvg-language="English" tvg-logo="https://i.imgur.com/auNdGeW.png" tvg-status="down" group-title="Music",Mezzo
-http://91.228.35.249:8001/1:0:1:422B:2F44:13E:820000:0:0:0:
 #EXTINF:-1 tvg-id="MezzoLive.fr" tvg-country="FR" tvg-language="English" tvg-logo="https://i.imgur.com/H9ytKPN.png" tvg-status="live" group-title="Music",Mezzo Live
 http://stream.mcquack.net/276/index.m3u8
 #EXTINF:-1 tvg-id="famelack-5oNNwRbeufUj8K" tvg-country="FR" tvg-language="English" tvg-logo="https://i.imgur.com/99h8F1y.jpeg" tvg-status="live" group-title="Lifestyle",Monte Carlo Digital Television
@@ -367,8 +365,6 @@ https://tebeo.streamakaci.tv/tebeo/tebeo-multi/playlist.m3u8
 https://www.youtube-nocookie.com/embed/j9uQt53dmNY
 #EXTINF:-1 tvg-id="TeleGohelle.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/Oa3Pwbf.png" tvg-status="down" group-title="General",TeleGohelle
 https://videas.agglo-lenslievin.fr/index.m3u8
-#EXTINF:-1 tvg-id="TF1.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/QxHt9NC.png" tvg-status="live" group-title="Entertainment",TF1
-http://149.62.177.107:9999/TF1/index.m3u8
 #EXTINF:-1 tvg-id="TF1SeriesFilms.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/4CJIDKQ.png" tvg-status="live" group-title="Movies",TF1 Series Films
 http://149.62.177.107:9999/TF1_Series_Films/index.m3u8
 #EXTINF:-1 tvg-id="TFX.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/d91GcVf.png" tvg-status="live" group-title="General",TFX
@@ -391,11 +387,11 @@ https://channels.trace.plus/Traceprod/AYITI_hd/index.m3u8
 https://amg01131-tracetv-amg01131c4-stirr-us-4390.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="famelack-yLCxHzKZ8frJd2" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/ZHD7Vxy.png" tvg-status="live" group-title="Music",Trace Caribbean
 https://channels.trace.plus/Traceprod/CARIBBEAN_hd/index.m3u8
-#EXTINF:-1 tvg-id="famelack-70sX04jX14d4dB" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/X0UmU3K.png" tvg-status="live" group-title="Music",Trace Gospel
+#EXTINF:-1 tvg-id="famelack-70sX04jX14d4dB" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/X0UmU3K.png" tvg-status="live" group-title="Religious",Trace Gospel
 https://channels.trace.plus/Traceprod/GOSPEL_FR_hd/index.m3u8
-#EXTINF:-1 tvg-id="famelack-Y4qPq23OdBqrZm" tvg-country="FR" tvg-language="English" tvg-logo="" tvg-status="live" group-title="Music",Trace Gospel Nigeria and East Africa
+#EXTINF:-1 tvg-id="famelack-Y4qPq23OdBqrZm" tvg-country="FR" tvg-language="English" tvg-logo="" tvg-status="live" group-title="Religious",Trace Gospel Nigeria and East Africa
 https://channels.trace.plus/Traceprod/GOSPEL_ROA_hd/index.m3u8
-#EXTINF:-1 tvg-id="famelack-qlnlzIINox50mW" tvg-country="FR" tvg-language="French" tvg-logo="" tvg-status="live" group-title="Music",Trace Gospel Southern Africa
+#EXTINF:-1 tvg-id="famelack-qlnlzIINox50mW" tvg-country="FR" tvg-language="French" tvg-logo="" tvg-status="live" group-title="Religious",Trace Gospel Southern Africa
 https://channels.trace.plus/Traceprod/GOSPEL_SA_hd/index.m3u8
 #EXTINF:-1 tvg-id="TraceIvoire.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/W2l3rVx.png" tvg-status="live" group-title="Music",Trace Ivoire
 https://channels.trace.plus/Traceprod/TRACE_IVOIRE_hd/index.m3u8
@@ -440,8 +436,8 @@ https://tv3v.live-kd.com/live/tv3v/livestream/index.m3u8
 #EXTINF:-1 tvg-id="TV5MondeAfrica.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/0N64Ddn.png" tvg-status="live" group-title="General",TV5Monde Africa
 http://5.9.121.178/tv5monde/index.m3u8
 #EXTINF:-1 tvg-id="TV5MondeAsia.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/2f/TV5Monde_2025.png/revision/latest?cb=20251019134025&path-prefix=vi" tvg-status="live" group-title="General",TV5Monde Asia
-https://freem3u.xyz/api/live/play.m3u8?vid=9852
-#EXTINF:-1 tvg-id="famelack-2gvbHx7OrU70G2" tvg-country="FR" tvg-language="French" tvg-logo="https://psi.tv5monde.com/media/static/default/lives/tv5monde-chef.png" tvg-status="live" group-title="Lifestyle",TV5MONDE Chefs
+http://202.150.165.66:8088/play/304-TV5Monde/index.m3u8
+#EXTINF:-1 tvg-id="famelack-2gvbHx7OrU70G2" tvg-country="FR" tvg-language="French" tvg-logo="https://psi.tv5monde.com/media/static/default/lives/tv5monde-chef.png" tvg-status="live" group-title="Cooking",TV5MONDE Chefs
 https://tvf-tv5ch.otteravision.com/tvf/tv5ch/tv5ch.m3u8
 #EXTINF:-1 tvg-id="TV5MondeEurope.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/rPAbMSu.png" tvg-status="live" group-title="General",TV5Monde Europe
 https://ert-ucdn.broadpeak-aas.com/bpk-tv/TV5/default/index.m3u8

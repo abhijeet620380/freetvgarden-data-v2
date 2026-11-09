@@ -37,6 +37,14 @@ http://92.114.85.87:8019/play/a008/index.m3u8
 http://92.114.85.87:8019/play/a009/index.m3u8
 #EXTINF:-1 tvg-id="CanalPlusNow.pl" tvg-country="PL" tvg-language="Polish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/C%2BNow.png/960px-C%2BNow.png" tvg-status="down" group-title="General",Canal+ Now
 http://92.114.85.87:8006/play/a005/index.m3u8
+#EXTINF:-1 tvg-id="CanalPlusSport.pl" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/E0WTMa2.png" tvg-status="live" group-title="Sports",Canal+ Sport
+http://57.129.96.133:888/stream/92/index.m3u8
+#EXTINF:-1 tvg-id="CanalPlusSport2.pl" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/Aq2hnUj.png" tvg-status="live" group-title="Sports",Canal+ Sport 2
+http://57.129.96.133:888/stream/94/index.m3u8
+#EXTINF:-1 tvg-id="CanalPlusSport3.pl" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/QZwPFa8.png" tvg-status="live" group-title="Sports",Canal+ Sport 3
+http://57.129.96.133:888/stream/93/index.m3u8
+#EXTINF:-1 tvg-id="CanalPlusSport4.pl" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/BNAPYAx.png" tvg-status="live" group-title="Sports",Canal+ Sport 4
+http://57.129.96.133:888/stream/95/index.m3u8
 #EXTINF:-1 tvg-id="famelack-w778NNhzUPLcZH" tvg-country="PL" tvg-language="Polish" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/bd356b80-79d9-46ff-9674-e69aaf10022f-width200-quality90.jpeg" tvg-status="live" group-title="General",Car City Adventures
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883095
 #EXTINF:-1 tvg-id="CBeebies.pl" tvg-country="PL" tvg-language="Polish" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/16/CBeebies.svg/960px-CBeebies.svg.png" tvg-status="live" group-title="Kids",CBeebies
@@ -241,7 +249,7 @@ http://57.128.210.196:8080/160/index.m3u8
 http://92.114.85.87:8010/play/a00m/index.m3u8
 #EXTINF:-1 tvg-id="TVCSuper.pl" tvg-country="PL" tvg-language="Polish" tvg-logo="https://radiopolska.pl/files/thumb/32049b3594ccdd5/300" tvg-status="down" group-title="General",TVC Super
 http://92.114.85.87:8010/play/a00n/index.m3u8
-#EXTINF:-1 tvg-id="famelack-aY6u7qwNMI1Wgm" tvg-country="PL" tvg-language="Polish" tvg-logo="https://www.tvkstella.pl/img/poster.png" tvg-status="live" group-title="News",TVK Stella
+#EXTINF:-1 tvg-id="famelack-aY6u7qwNMI1Wgm" tvg-country="PL" tvg-language="Polish" tvg-logo="https://www.tvkstella.pl/img/poster.png" tvg-status="live" group-title="General",TVK Stella
 https://stream.tvkstella.pl/stella/stella.m3u8
 #EXTINF:-1 tvg-id="famelack-Se7x9HGaZbNY8X" tvg-country="PL" tvg-language="Polish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/28/TVP_info_%282024%29.png" tvg-status="live" group-title="General",TVP Info
 https://dash4.antik.sk/live/test_tvp_info/playlist.m3u8
