@@ -1,128 +1,959 @@
-{
-  "footer": "Sponsored content: FreeTV Garden may be paid for these placements. Advertisers are responsible for their own websites, products and services.",
-  "offer": {
-    "text": "Anyone can book a slot",
-    "button": "Show more",
-    "more": "**Promote your website, app, product, YouTube channel or social media page** to FreeTV Garden visitors.\n\n• Prices start at **₹9** for 24 hours in India (from **$1 USD** worldwide).\n• 5 positions, each in Small, Medium or Large size. The top 3 positions get premium cards.\n• Pick any free slot, choose how many days you want, and send your request on Telegram or Email.\n• No payment now — we confirm availability and the final price first.\n• If a slot is booked, you can book it for the next free date.",
-    "price": "₹9",
-    "priceNote": "for 24 hr",
-    "priceUSD": "$1"
-  },
-  "items": [],
-  "rateCard": {
-    "label": "Advertise",
-    "title": "Ad slots & prices — 15 slots",
-    "button": "View all 15 slots & availability",
-    "open": false,
-    "bookText": "Book this position",
-    "reserved": [],
-    "legend": "Prices are per 24 hours. Shown in ₹ for India and $ (USD, $1 – $4) for other countries; use the ₹/$ button at the top to switch. Green = available to book now. If a position is booked you can book it for the next free date. Tap the button below to preview the real size of Small, Medium and Large.",
-    "positions": [
-      {
-        "n": 1,
-        "tag": "#1 TOP",
-        "name": "Position 1 — Top",
-        "small": "₹59",
-        "medium": "₹79",
-        "large": "₹99",
-        "usd": {
-          "small": 3,
-          "medium": 4,
-          "large": 4
-        }
-      },
-      {
-        "n": 2,
-        "tag": "#2",
-        "name": "Position 2 — Featured",
-        "small": "₹39",
-        "medium": "₹59",
-        "large": "₹79",
-        "usd": {
-          "small": 2,
-          "medium": 3,
-          "large": 4
-        }
-      },
-      {
-        "n": 3,
-        "tag": "#3",
-        "name": "Position 3 — Featured",
-        "small": "₹29",
-        "medium": "₹39",
-        "large": "₹59",
-        "usd": {
-          "small": 2,
-          "medium": 2,
-          "large": 3
-        }
-      },
-      {
-        "n": 4,
-        "tag": "#4",
-        "name": "Position 4 — Sponsored",
-        "small": "₹19",
-        "medium": "₹29",
-        "large": "₹39",
-        "usd": {
-          "small": 1,
-          "medium": 2,
-          "large": 2
-        }
-      },
-      {
-        "n": 5,
-        "tag": "#5",
-        "name": "Position 5 — Sponsored",
-        "small": "₹9",
-        "medium": "₹19",
-        "large": "₹29",
-        "usd": {
-          "small": 1,
-          "medium": 1,
-          "large": 2
-        }
-      }
-    ],
-    "note": "International advertising starts at $1 USD per 24 hours. Contact contact.freetool@gmail.com or @abhijeet620380 on Telegram to confirm availability and final pricing.",
-    "bookTelegram": "https://t.me/abhijeet620380",
-    "bookEmail": "contact.freetool@gmail.com",
-    "priceSuffix": " / 24h",
-    "headButton": "Advertise",
-    "vacant": {
-      "_help": "Your ad (tag Ad) is always shown below all paid slots, then an Advertise card for every vacant position.",
-      "html": "<script>atOptions = {'key':'f9eeeab3829a4be1e3b5e2ce1d161795','format':'iframe','height':250,'width':300,'params':{}};</script><script src='https://bauval.org/22/f9eeeab3829a4be1e3b5e2ce1d161795'></script>",
-      "height": 250,
-      "sameOrigin": true,
-      "maxAds": 1,
-      "label": "Ad",
-      "messageLabel": "Advertise",
-      "title": "Advertise here",
-      "text": "This slot is free. Promote your website, app or channel here.",
-      "button": "Book this slot",
-      "size": "small"
-    },
-    "telegramHandle": "@abhijeet620380",
-    "durations": [
-      {
-        "days": 1
-      },
-      {
-        "days": 3,
-        "off": 5
-      },
-      {
-        "days": 7,
-        "off": 10
-      },
-      {
-        "days": 30,
-        "off": 20
-      }
-    ],
-    "sheetNote": "International advertising starts at $1 USD per 24 hours.",
-    "usd": {
-      "symbol": "$"
-    }
-  }
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>Advertise on FreeTV Garden – Sponsored Slots from $1 / ₹9 per 24 hours</title>
+<meta name="description" content="Promote your website, app, YouTube channel or social page to FreeTV Garden visitors. 5 sponsored positions in Small, Medium or Large size. Prices start at just ₹9 / $1 for 24 hours.">
+<!-- SEO: this page is separate from the TV player pages and has its own title/description/canonical.
+     To keep it OUT of Google completely, change "index,follow" to "noindex,follow". -->
+<meta name="robots" content="index,follow,max-image-preview:large">
+<link rel="canonical" href="https://freetvgarden.com/sponsored.html">
+<meta name="theme-color" content="#1c1c1e">
+<meta name="color-scheme" content="dark">
+<meta property="og:type" content="website">
+<meta property="og:title" content="Advertise on FreeTV Garden – Sponsored Slots">
+<meta property="og:description" content="Promote your website, app or channel to FreeTV Garden visitors. From ₹9 / $1 for 24 hours.">
+<meta property="og:url" content="https://freetvgarden.com/sponsored.html">
+<link rel="icon" href="/favicon.ico">
+<style id="ft-sp-css">
+/* NOTE: "#ft-tv-app " prefix is needed: the site has "#ft-tv-app button{all:unset}" which would otherwise wipe these rules */
+/* the pill itself reuses the existing .ft-rf-tab look; we only add the unread dot */
+#ft-tv-app #ft-sp-tab{position:relative;white-space:nowrap}
+#ft-tv-app #ft-sp-tab .ft-sp-dot{position:absolute;top:-2px;right:-2px;width:9px;height:9px;border-radius:50%;background:#ff453a;border:2px solid #1c1c1e;display:none}
+#ft-tv-app #ft-sp-tab.ft-sp-new .ft-sp-dot{display:block}
+/* icon-only Sponsored button in the player's "now playing" bar: megaphone + $ coin, sits right after the favourite star */
+#ft-tv-app #ft-sp-bar{position:relative;display:inline-flex;align-items:center;justify-content:center;flex-shrink:0;width:32px;height:32px;padding:0;margin:0 2px;border-radius:8px;cursor:pointer;color:#32d74b;background:none;border:0;line-height:0;-webkit-tap-highlight-color:transparent;transition:transform .15s,background .15s}
+#ft-tv-app #ft-sp-bar svg{width:24px;height:24px;fill:none;stroke:currentColor;stroke-width:1.7;stroke-linecap:round;stroke-linejoin:round}
+#ft-tv-app #ft-sp-bar:hover{background:rgba(50,215,75,.16)}
+#ft-tv-app #ft-sp-bar:active{transform:scale(.9)}
+#ft-tv-app #ft-sp-bar.active{background:rgba(50,215,75,.25)}
+#ft-tv-app #ft-sp-bar .ft-sp-dot{position:absolute;top:1px;right:1px;width:9px;height:9px;border-radius:50%;background:#ff453a;border:2px solid #3a3a3c;display:none}
+#ft-tv-app #ft-sp-bar.ft-sp-new .ft-sp-dot{display:block}
+
+/* the panel: phone = full screen */
+#ft-sp-panel{position:fixed;inset:0;z-index:4300;background:#1c1c1e;color:#f2f2f7;display:none;flex-direction:column;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif}
+#ft-sp-panel.open{display:flex}
+#ft-sp-panel .ft-sp-head{display:flex;align-items:center;gap:10px;padding:12px 14px;border-bottom:1px solid #3a3a3c;flex-shrink:0}
+#ft-sp-panel .ft-sp-title{flex:1;font-size:1.05rem;font-weight:700}
+#ft-sp-panel .ft-sp-x{width:34px;height:34px;border-radius:50%;border:0;background:#3a3a3c;color:#fff;font-size:1rem;cursor:pointer;line-height:34px;text-align:center;padding:0}
+#ft-sp-panel .ft-sp-x:hover{background:#4a4a4d}
+#ft-sp-panel .ft-sp-body{flex:1;overflow-y:auto;padding:14px;-webkit-overflow-scrolling:touch}
+#ft-sp-panel .ft-sp-empty{color:#8e8e93;text-align:center;padding:40px 10px}
+
+/* PC: right-hand side panel under the header, same place/size as the Notices panel */
+@media (min-width:769px){
+  #ft-sp-panel{inset:auto;top:var(--global-header-height,56px);right:0;bottom:0;left:auto;width:min(480px,40vw);border-left:1px solid #3a3a3c;box-shadow:-8px 0 24px rgba(0,0,0,.45)}
 }
+
+/* one entry */
+#ft-sp-panel .ft-sp-item{background:#2c2c2e;border:1px solid #3a3a3c;border-radius:14px;margin:0 0 14px;overflow:hidden}
+/* the row of badges at the top of every entry: label badge (Ad / Sponsored / Partner ...), optional Pinned badge, small info chips */
+#ft-sp-panel .ft-sp-badges{display:flex;flex-wrap:wrap;align-items:center;gap:6px;margin:10px 14px 0}
+#ft-sp-panel .ft-sp-tag{display:inline-block;font-size:.62rem;font-weight:800;letter-spacing:.07em;text-transform:uppercase;padding:3px 8px;border-radius:6px;color:#d1d1d6;background:rgba(142,142,147,.22);border:1px solid rgba(142,142,147,.45)}
+#ft-sp-panel .ft-sp-chip{display:inline-block;font-size:.66rem;font-weight:600;padding:2px 8px;border-radius:10px;color:#aeaeb2;background:#1c1c1e;border:1px solid #3a3a3c}
+/* ready-made label colours (use "labelColor": "green" ... or any hex like "#ff6600") */
+#ft-sp-panel .ft-sp-c-green{color:#32d74b;background:rgba(50,215,75,.15);border-color:rgba(50,215,75,.5)}
+#ft-sp-panel .ft-sp-c-gold{color:#ffd60a;background:rgba(255,214,10,.15);border-color:rgba(255,214,10,.5)}
+#ft-sp-panel .ft-sp-c-red{color:#ff6961;background:rgba(255,69,58,.16);border-color:rgba(255,69,58,.5)}
+#ft-sp-panel .ft-sp-c-blue{color:#64b5ff;background:rgba(10,132,255,.16);border-color:rgba(10,132,255,.5)}
+#ft-sp-panel .ft-sp-c-purple{color:#d9a6ff;background:rgba(191,90,242,.16);border-color:rgba(191,90,242,.5)}
+#ft-sp-panel .ft-sp-c-orange{color:#ffb340;background:rgba(255,159,10,.16);border-color:rgba(255,159,10,.5)}
+#ft-sp-panel .ft-sp-c-gray{color:#d1d1d6;background:rgba(142,142,147,.22);border-color:rgba(142,142,147,.45)}
+/* pinned / large entries: bigger heading and text, accent border */
+#ft-sp-panel .ft-sp-item.ft-sp-pinned{border-color:#ffd60a;box-shadow:0 0 0 1px rgba(255,214,10,.25)}
+#ft-sp-panel .ft-sp-cd{color:#ffb340;border-color:rgba(255,159,10,.5);background:rgba(255,159,10,.12);font-weight:700}
+/* price tag on an entry, and the "slot prices" rate-card */
+#ft-sp-panel .ft-sp-price{color:#0b0b0c;background:#ffd60a;border:0;font-weight:800;border-radius:6px;padding:3px 9px}
+#ft-sp-panel .ft-sp-rates{background:#2c2c2e;border:1px dashed #5a5a5e;border-radius:14px;margin:0 0 14px;overflow:hidden}
+#ft-sp-panel .ft-sp-rates .ft-sp-inner{padding-top:12px}
+#ft-sp-panel .ft-sp-rate{display:flex;align-items:center;gap:10px;padding:9px 0;border-top:1px solid #3a3a3c}
+#ft-sp-panel .ft-sp-rate:first-of-type{border-top:0}
+#ft-sp-panel .ft-sp-rn{flex:1;min-width:0}
+#ft-sp-panel .ft-sp-rn b{display:block;font-size:.9rem;color:#fff}
+#ft-sp-panel .ft-sp-rn span{display:block;font-size:.72rem;color:#8e8e93;margin-top:2px}
+#ft-sp-panel .ft-sp-rp{flex-shrink:0;font-weight:800;font-size:.9rem;color:#ffd60a;text-align:right}
+#ft-sp-panel .ft-sp-rates-body{display:none}
+#ft-sp-panel .ft-sp-rates.open .ft-sp-rates-body{display:block}
+/* ===== FIXED SLOT SIZES (only for entries with a "position"). A slot can NEVER grow past its size: extra text is cut with "..." =====
+   SMALL  = compact list row, exactly 88px high: 64px thumbnail, 1-line title, 2-line text, no big image
+   MEDIUM = card exactly 196px high: 112px-wide image on the left, title (2 lines), text (3 lines), small button
+   LARGE  = biggest card, never taller than 440px: 160px image on top, title (2 lines), text (4 lines), button */
+#ft-sp-panel .ft-sp-pk{overflow:hidden;box-sizing:border-box}
+#ft-sp-panel .ft-sp-sz-s{height:96px;margin-bottom:10px;position:relative}
+#ft-sp-panel .ft-sp-sz-m{height:196px;display:flex;flex-direction:column}
+#ft-sp-panel .ft-sp-sz-l{max-height:440px}
+#ft-sp-panel .ft-sp-tx{line-height:1.4}
+#ft-sp-panel .ft-sp-pk .ft-sp-tx,#ft-sp-panel .ft-sp-pk .ft-sp-h{display:-webkit-box;-webkit-box-orient:vertical;overflow:hidden}
+#ft-sp-panel .ft-sp-pk .ft-sp-h{-webkit-line-clamp:2}
+/* small = list row */
+#ft-sp-panel .ft-sp-rowlink{display:flex;align-items:center;gap:10px;height:100%;box-sizing:border-box;padding:8px 10px;color:inherit;text-decoration:none}
+#ft-sp-panel .ft-sp-th{flex:0 0 64px;width:64px;height:64px;border-radius:10px;object-fit:cover;background:#111}
+#ft-sp-panel .ft-sp-th.ph{display:flex;align-items:center;justify-content:center;font-size:1.6rem;background:#1c1c1e}
+#ft-sp-panel .ft-sp-rmain{flex:1;min-width:0}
+#ft-sp-panel .ft-sp-sz-s .ft-sp-badges{margin:0 0 3px;flex-wrap:wrap;max-height:36px;overflow:hidden;gap:3px}
+#ft-sp-panel .ft-sp-sz-s .ft-sp-tag{font-size:.54rem;padding:1px 6px}
+#ft-sp-panel .ft-sp-sz-s .ft-sp-chip{font-size:.56rem;padding:1px 6px;white-space:nowrap}
+#ft-sp-panel .ft-sp-sz-s .ft-sp-h{font-size:.92rem;margin:0;-webkit-line-clamp:1;line-height:1.25}
+#ft-sp-panel .ft-sp-sz-s .ft-sp-tx{font-size:.74rem;-webkit-line-clamp:1;line-height:1.3}
+#ft-sp-panel .ft-sp-meta{font-size:.64rem;font-weight:700;color:#ffd60a;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;margin-top:2px}
+#ft-sp-panel .ft-sp-vac{border-style:dashed}
+#ft-sp-panel .ft-sp-vac .ft-sp-meta{color:#32d74b}
+#ft-sp-panel .ft-sp-chip.ft-sp-ok{color:#32d74b;border-color:rgba(50,215,75,.5)}
+#ft-sp-panel .ft-sp-chev{flex:0 0 auto;font-size:1.5rem;line-height:1;color:#8e8e93;padding-left:2px}
+/* medium = image left, text right */
+#ft-sp-panel .ft-sp-sz-m .ft-sp-badges{flex:0 0 auto;max-height:46px;overflow:hidden;margin-bottom:8px}
+#ft-sp-panel .ft-sp-mbody{display:flex;flex:1;min-height:0}
+#ft-sp-panel .ft-sp-mlink{display:block;flex:0 0 112px;width:112px}
+#ft-sp-panel .ft-sp-mlink .ft-sp-img,#ft-sp-panel .ft-sp-mbody .ft-sp-img{width:112px;height:100%;object-fit:cover}
+#ft-sp-panel .ft-sp-sz-m .ft-sp-inner{flex:1;min-width:0;padding:0 12px 10px;overflow:hidden;display:flex;flex-direction:column}
+#ft-sp-panel .ft-sp-sz-m .ft-sp-h{font-size:1.02rem;margin-bottom:4px}
+#ft-sp-panel .ft-sp-sz-m .ft-sp-tx{font-size:.86rem;-webkit-line-clamp:3}
+#ft-sp-panel .ft-sp-sz-m .ft-sp-btn{margin-top:auto;align-self:flex-start;padding:6px 14px;font-size:.78rem}
+/* large */
+#ft-sp-panel .ft-sp-sz-l .ft-sp-img{height:160px;object-fit:cover}
+#ft-sp-panel .ft-sp-sz-l .ft-sp-h{font-size:1.2rem}
+#ft-sp-panel .ft-sp-sz-l .ft-sp-tx{font-size:1rem;-webkit-line-clamp:4}
+/* placeholder picture used in the size previews */
+#ft-sp-panel .ft-sp-img.ph{display:flex;align-items:center;justify-content:center;background:#1c1c1e;color:#5a5a5e;font-weight:800;letter-spacing:.1em;font-size:.7rem}
+#ft-sp-panel .ft-sp-sample{pointer-events:none;margin-bottom:6px}
+/* ===== TOP 3 POSITIONS: special cards, bigger heading (#1 biggest) ===== */
+/* ===== PREMIUM TOP 3: thin metallic gradient border, dark glass body, soft glow, small tier badge =====
+   #1 = champagne GOLD (most premium, with a slow light sweep), #2 = PLATINUM, #3 = copper BRONZE */
+#ft-sp-panel .ft-sp-p1,#ft-sp-panel .ft-sp-p2,#ft-sp-panel .ft-sp-p3{border:1.5px solid transparent;position:relative}
+#ft-sp-panel .ft-sp-p1{background:linear-gradient(160deg,#2c2516,#1d1a13 70%) padding-box,linear-gradient(135deg,#fff3c4,#d4a017 35%,#8a6410 62%,#ffe08a) border-box;box-shadow:0 8px 26px rgba(212,160,23,.25),inset 0 1px 0 rgba(255,236,170,.12)}
+#ft-sp-panel .ft-sp-p2{background:linear-gradient(160deg,#262a33,#1a1d23 70%) padding-box,linear-gradient(135deg,#f6f9fd,#9aa6b8 40%,#566175 65%,#dde5f1) border-box;box-shadow:0 6px 20px rgba(160,175,200,.16),inset 0 1px 0 rgba(255,255,255,.07)}
+#ft-sp-panel .ft-sp-p3{background:linear-gradient(160deg,#2c211a,#1d1612 70%) padding-box,linear-gradient(135deg,#ffd7b5,#c27a45 40%,#774320 65%,#f2bb92) border-box;box-shadow:0 6px 20px rgba(194,122,69,.2),inset 0 1px 0 rgba(255,215,181,.08)}
+#ft-sp-panel .ft-sp-p4{border-color:#4a6d94}
+#ft-sp-panel .ft-sp-p5{border-color:#4a4a4e}
+#ft-sp-panel .ft-sp-p1::after{content:"";position:absolute;top:0;bottom:0;left:0;width:45%;pointer-events:none;background:linear-gradient(105deg,transparent,rgba(255,240,190,.13),transparent);transform:translateX(-130%) skewX(-18deg);animation:ftSpSheen 5.5s ease-in-out infinite}
+@keyframes ftSpSheen{0%,55%{transform:translateX(-130%) skewX(-18deg)}100%{transform:translateX(330%) skewX(-18deg)}}
+@media (prefers-reduced-motion:reduce){#ft-sp-panel .ft-sp-p1::after{animation:none;display:none}}
+/* metallic tier badges */
+#ft-sp-panel .ft-sp-tag.tier.ft-sp-c-gold{color:#2b1d00;background:linear-gradient(135deg,#fff0b0,#d4a017);border-color:#ffe28a}
+#ft-sp-panel .ft-sp-tag.tier.ft-sp-c-platinum{color:#151b26;background:linear-gradient(135deg,#f3f6fb,#9aa6b8);border-color:#dfe6f2}
+#ft-sp-panel .ft-sp-tag.tier.ft-sp-c-bronze{color:#2a1405;background:linear-gradient(135deg,#ffd9b8,#bd7440);border-color:#f2bb92}
+#ft-sp-panel .ft-sp-c-platinum{color:#dfe6f2;background:rgba(190,200,215,.16);border-color:rgba(190,200,215,.5)}
+/* top 3 get bigger heading text (#1 biggest) - the size of the CARD itself never changes */
+#ft-sp-panel .ft-sp-p1.ft-sp-sz-l .ft-sp-h{font-size:1.6rem;line-height:1.2;letter-spacing:.2px}
+#ft-sp-panel .ft-sp-p2.ft-sp-sz-l .ft-sp-h{font-size:1.4rem;line-height:1.2}
+#ft-sp-panel .ft-sp-p3.ft-sp-sz-l .ft-sp-h{font-size:1.25rem;line-height:1.2}
+#ft-sp-panel .ft-sp-p1.ft-sp-sz-m .ft-sp-h{font-size:1.2rem}
+#ft-sp-panel .ft-sp-p2.ft-sp-sz-m .ft-sp-h{font-size:1.12rem}
+#ft-sp-panel .ft-sp-p3.ft-sp-sz-m .ft-sp-h{font-size:1.08rem}
+#ft-sp-panel .ft-sp-p1.ft-sp-sz-s .ft-sp-h{font-size:1rem}
+#ft-sp-panel .ft-sp-p2.ft-sp-sz-s .ft-sp-h{font-size:.96rem}
+#ft-sp-panel .ft-sp-p3.ft-sp-sz-s .ft-sp-h{font-size:.94rem}
+#ft-sp-panel .ft-sp-p1.ft-sp-sz-l .ft-sp-tx{font-size:1.05rem}
+#ft-sp-panel .ft-sp-p2.ft-sp-sz-l .ft-sp-tx{font-size:1.02rem}
+#ft-sp-panel .ft-sp-p1 .ft-sp-tag.tier{font-size:.78rem;padding:4px 10px}
+#ft-sp-panel .ft-sp-c-silver{color:#e4e8f0;background:rgba(199,204,214,.18);border-color:rgba(199,204,214,.6)}
+#ft-sp-panel .ft-sp-c-bronze{color:#ffb27a;background:rgba(255,159,90,.16);border-color:rgba(255,159,90,.6)}
+/* ===== SLOT BOARD (rate card): 5 positions x S/M/L prices + live availability ===== */
+#ft-sp-panel .ft-sp-sum{display:inline-block;font-size:.7rem;font-weight:800;padding:3px 9px;border-radius:10px}
+#ft-sp-panel .ft-sp-sum.ok{color:#32d74b;background:rgba(50,215,75,.15);border:1px solid rgba(50,215,75,.5)}
+#ft-sp-panel .ft-sp-sum.full{color:#ff6961;background:rgba(255,69,58,.15);border:1px solid rgba(255,69,58,.5)}
+#ft-sp-panel .ft-sp-pos{border:1px solid #3a3a3c;border-radius:12px;padding:10px;margin:0 0 10px;background:#1c1c1e}
+#ft-sp-panel .ft-sp-pos.free{border-color:rgba(50,215,75,.55);background:rgba(50,215,75,.07)}
+#ft-sp-panel .ft-sp-pos.taken{opacity:.72}
+#ft-sp-panel .ft-sp-pos-top{display:flex;align-items:center;gap:8px;margin-bottom:8px}
+#ft-sp-panel .ft-sp-pos-name{flex:1;min-width:0;font-weight:800;font-size:.92rem;color:#fff}
+#ft-sp-panel .ft-sp-st{flex-shrink:0;font-size:.66rem;font-weight:800;letter-spacing:.06em;padding:3px 9px;border-radius:10px}
+#ft-sp-panel .ft-sp-st.free{color:#0b0b0c;background:#32d74b}
+#ft-sp-panel .ft-sp-st.taken{color:#ff6961;background:rgba(255,69,58,.16);border:1px solid rgba(255,69,58,.5)}
+#ft-sp-panel .ft-sp-st.hold{color:#ffb340;background:rgba(255,159,10,.16);border:1px solid rgba(255,159,10,.5)}
+#ft-sp-panel .ft-sp-prices{display:grid;grid-template-columns:repeat(3,1fr);gap:6px}
+#ft-sp-panel .ft-sp-pc{text-align:center;background:#2c2c2e;border:1px solid #3a3a3c;border-radius:8px;padding:6px 2px}
+#ft-sp-panel .ft-sp-pc.ok{border-color:rgba(50,215,75,.55)}
+#ft-sp-panel .ft-sp-pc.no{opacity:.6}
+#ft-sp-panel .ft-sp-pc em{display:block;font-style:normal;font-size:.58rem;font-weight:800;letter-spacing:.05em;margin-top:2px;color:#8e8e93}
+#ft-sp-panel .ft-sp-pc.ok em{color:#32d74b}
+#ft-sp-panel .ft-sp-pc.no em{color:#ff6961}
+#ft-sp-panel .ft-sp-booknow{display:block;width:100%;margin-top:10px;padding:11px;border:0;border-radius:20px;background:#32d74b;color:#0b0b0c;font:inherit;font-weight:800;font-size:.88rem;cursor:pointer}
+#ft-sp-panel .ft-sp-bkopts{display:none;margin-top:8px}
+#ft-sp-panel .ft-sp-bkopts.open{display:block}
+#ft-sp-panel .ft-sp-bkrow{display:flex;align-items:center;gap:10px;margin-top:8px;padding:10px 12px;border-radius:12px;text-decoration:none;color:#fff!important;background:#2c2c2e;border:1px solid #5a5a5e}
+#ft-sp-panel .ft-sp-bkrow.em{border-color:#32d74b}
+#ft-sp-panel .ft-sp-bkrow.tg{border-color:#2aabee}
+#ft-sp-panel .ft-sp-bkrow .ico{font-size:1.3rem;width:28px;text-align:center}
+#ft-sp-panel .ft-sp-bkrow .bt{flex:1;min-width:0}
+#ft-sp-panel .ft-sp-bkrow .bt b{display:block;font-size:.84rem}
+#ft-sp-panel .ft-sp-bkrow .bt i{display:block;font-style:normal;font-size:.9rem;font-weight:700;overflow-wrap:anywhere}
+#ft-sp-panel .ft-sp-bkrow.em .bt i{color:#32d74b}
+#ft-sp-panel .ft-sp-bkrow.tg .bt i{color:#5bc0f8}
+#ft-sp-panel .ft-sp-bkrow .go{font-size:.75rem;font-weight:700;color:#8e8e93}
+#ft-sp-panel .ft-sp-pc i{display:block;font-style:normal;font-size:.58rem;font-weight:800;letter-spacing:.06em;color:#8e8e93}
+#ft-sp-panel .ft-sp-pc b{display:block;font-size:.86rem;color:#fff;margin-top:1px}
+#ft-sp-panel .ft-sp-until{font-size:.7rem;color:#8e8e93;margin-top:6px}
+#ft-sp-panel a.ft-sp-book{display:block;margin-top:8px;text-align:center;padding:9px;border-radius:18px;background:#32d74b;color:#0b0b0c!important;font-weight:800;font-size:.82rem;text-decoration:none}
+#ft-sp-panel .ft-sp-legend{font-size:.72rem;color:#8e8e93;margin:2px 0 10px;line-height:1.5}
+/* "Advertise" button in the panel heading */
+#ft-sp-panel .ft-sp-adv{display:none;flex-shrink:0;font:inherit;font-size:.78rem;font-weight:800;padding:7px 13px;border-radius:16px;border:0;background:#0a84ff;color:#fff;cursor:pointer}
+#ft-sp-panel .ft-sp-adv:hover{background:#2b95ff}
+#ft-sp-panel .ft-sp-adv.show{display:inline-block}
+/* booking buttons (Telegram + Email) and next-free-date text */
+#ft-sp-panel .ft-sp-bk{display:flex;gap:8px;margin-top:8px}
+#ft-sp-panel .ft-sp-bk a{flex:1;text-align:center;padding:9px 4px;border-radius:18px;font-weight:800;font-size:.78rem;text-decoration:none;color:#0b0b0c!important}
+#ft-sp-panel .ft-sp-bk a.tg{background:#2aabee}
+#ft-sp-panel .ft-sp-bk a.em{background:#32d74b}
+#ft-sp-panel .ft-sp-bkcap{font-size:.74rem;color:#d1d1d6;margin-top:2px}
+#ft-sp-panel .ft-sp-next{font-size:.74rem;font-weight:700;color:#ffb340;margin-top:6px}
+#ft-sp-panel .ft-sp-gtog{display:block;width:100%;margin:4px 0 10px;padding:8px;font:inherit;font-size:.78rem;font-weight:700;color:#ffd60a;background:transparent;border:1px dashed #5a5a5e;border-radius:10px;cursor:pointer}
+#ft-sp-panel .ft-sp-guide{display:none;margin-bottom:10px}
+#ft-sp-panel .ft-sp-guide.open{display:block}
+#ft-sp-panel .ft-sp-gcap{font-size:.72rem;color:#8e8e93;margin:8px 0 4px;line-height:1.4}
+/* ===== HERO: offer + slot status in ONE compact block (big price, status dots, Show more) ===== */
+#ft-sp-panel .ft-sp-cur{margin-left:auto;font:inherit;font-size:.7rem;font-weight:800;color:#fff;background:rgba(255,255,255,.12);border:1px solid rgba(255,255,255,.28);border-radius:999px;padding:5px 9px;cursor:pointer;white-space:nowrap}
+#ft-sp-panel .ft-sp-cur + .ft-sp-adv{margin-left:6px}
+#ft-sp-panel .ft-sp-hero{margin:0 0 12px;border-radius:14px;border:1px solid rgba(10,132,255,.65);background:linear-gradient(100deg,#0e3f80,#0a2447 60%,#0b1a30);overflow:hidden;position:relative;box-shadow:0 4px 18px rgba(10,132,255,.28)}
+#ft-sp-panel .ft-sp-hero-top{display:flex;align-items:center;gap:10px;padding:9px 10px}
+#ft-sp-panel .ft-sp-bigp{flex:0 0 auto;text-align:center;line-height:1;padding-right:11px;border-right:1px solid rgba(255,255,255,.22)}
+#ft-sp-panel .ft-sp-bigp span{display:block;font-size:2.1rem;font-weight:900;letter-spacing:-.5px;background:linear-gradient(180deg,#fff7cf,#ffc12e);-webkit-background-clip:text;background-clip:text;color:transparent;animation:ftSpPulse 2.4s ease-in-out infinite}
+#ft-sp-panel .ft-sp-bigp small{display:block;margin-top:4px;font-size:.58rem;font-weight:800;letter-spacing:.1em;color:#cfe3ff;text-transform:uppercase}
+@keyframes ftSpPulse{0%,100%{filter:drop-shadow(0 0 0 rgba(255,193,46,0))}50%{filter:drop-shadow(0 0 9px rgba(255,193,46,.75))}}
+@media (prefers-reduced-motion:reduce){#ft-sp-panel .ft-sp-bigp span{animation:none}}
+#ft-sp-panel .ft-sp-hero-mid{flex:1;min-width:0}
+#ft-sp-panel .ft-sp-hero-t{font-size:.8rem;font-weight:800;color:#fff;line-height:1.25;margin-bottom:6px}
+#ft-sp-panel .ft-sp-hero-t b{color:#ffd60a}
+#ft-sp-panel .ft-sp-dots{display:flex;align-items:center;gap:5px}
+#ft-sp-panel .ft-sp-dot2{width:23px;height:23px;border-radius:50%;font:inherit;font-size:.66rem;font-weight:800;border:1.5px solid;cursor:pointer;padding:0;line-height:1}
+#ft-sp-panel .ft-sp-dot2.free{color:#32d74b;border-color:#32d74b;background:rgba(50,215,75,.16)}
+#ft-sp-panel .ft-sp-dot2.busy{color:#ff7b73;border-color:#ff6961;background:rgba(255,69,58,.14)}
+#ft-sp-panel .ft-sp-dots em{font-style:normal;font-size:.58rem;font-weight:700;color:#9fc4f5;margin-left:3px}
+#ft-sp-panel .ft-sp-hero.open .ft-sp-offer-more{display:block}
+#ft-sp-panel .ft-sp-hero .ft-sp-offer-more{padding:0 12px 10px;font-size:.78rem;color:#dbe9ff}
+/* VACANT slot: green dashed "empty slot" look with a plus sign */
+#ft-sp-panel .ft-sp-vac{border:1.5px dashed rgba(50,215,75,.7)!important;background:repeating-linear-gradient(135deg,rgba(50,215,75,.07) 0 8px,rgba(50,215,75,.02) 8px 16px),#1c1c1e!important;box-shadow:none!important}
+#ft-sp-panel .ft-sp-vac::after{display:none!important}
+#ft-sp-panel .ft-sp-vac .ft-sp-th.ph{background:transparent;border:2px dashed rgba(50,215,75,.7);color:#32d74b;font-size:2rem;font-weight:300}
+#ft-sp-panel .ft-sp-vac .ft-sp-h{color:#32d74b!important}
+/* AD (ad network): neutral grey "ADVERTISEMENT" frame */
+#ft-sp-panel .ft-sp-ad{background:#101012!important;border:1px solid #4a4a4e!important;border-radius:6px;box-shadow:none!important}
+#ft-sp-panel .ft-sp-ad .ft-sp-badges{justify-content:center}
+#ft-sp-panel .ft-sp-ad .ft-sp-tag{background:none!important;border:0!important;color:#8e8e93!important;letter-spacing:.18em;font-size:.58rem}
+/* BOOKING board + sheet: navy-blue panel */
+#ft-sp-panel .ft-sp-rates,#ft-sp-panel .ft-sp-sheet{background:linear-gradient(180deg,#10233f,#0b1626)!important;border-color:rgba(10,132,255,.5)!important}
+#ft-sp-panel .ft-sp-rates .ft-sp-pos,#ft-sp-panel .ft-sp-sheet .ft-sp-ch,#ft-sp-panel .ft-sp-sheet .ft-sp-in{background:rgba(255,255,255,.05);border-color:rgba(120,170,235,.3)}
+#ft-sp-panel .ft-sp-sheet .ft-sp-ch.sel{border-color:#0a84ff;background:rgba(10,132,255,.25)}
+/* thin OFFER bar at the very top: one line + "Show more" */
+#ft-sp-panel .ft-sp-offer{margin:0 0 12px;border-radius:12px;border:1px solid rgba(10,132,255,.55);background:linear-gradient(100deg,rgba(10,132,255,.20),rgba(10,132,255,.06));overflow:hidden}
+#ft-sp-panel .ft-sp-offer-top{display:flex;align-items:center;gap:8px;padding:8px 10px}
+#ft-sp-panel .ft-sp-offer-t{flex:1;min-width:0;font-size:.78rem;font-weight:700;line-height:1.3;color:#fff}
+#ft-sp-panel .ft-sp-offer-t b{color:#ffd60a}
+#ft-sp-panel .ft-sp-offer-b{flex-shrink:0;font:inherit;font-size:.7rem;font-weight:800;padding:5px 10px;border-radius:12px;border:1px solid rgba(255,255,255,.35);background:rgba(255,255,255,.1);color:#fff;cursor:pointer;white-space:nowrap}
+#ft-sp-panel .ft-sp-offer-more{display:none;padding:2px 12px 12px;font-size:.82rem;line-height:1.5;color:#d1d1d6}
+#ft-sp-panel .ft-sp-offer.open .ft-sp-offer-more{display:block}
+#ft-sp-panel .ft-sp-offer-cta{display:flex;gap:8px;margin-top:10px}
+#ft-sp-panel .ft-sp-offer-cta button{flex:1;font:inherit;font-size:.78rem;font-weight:800;padding:9px 4px;border-radius:16px;border:0;cursor:pointer}
+#ft-sp-panel .ft-sp-offer-cta .a{background:#32d74b;color:#0b0b0c}
+#ft-sp-panel .ft-sp-offer-cta .b{background:rgba(255,255,255,.12);color:#fff}
+/* availability strip under the heading: 5 pills, green = free, red = booked */
+#ft-sp-panel .ft-sp-strip{display:flex;align-items:center;gap:6px;margin:0 0 12px}
+#ft-sp-panel .ft-sp-strip .lbl{font-size:.68rem;font-weight:800;letter-spacing:.05em;color:#8e8e93;margin-right:2px}
+#ft-sp-panel .ft-sp-sp{flex:1;font:inherit;font-size:.72rem;font-weight:800;padding:6px 0;border-radius:14px;border:1px solid;cursor:pointer;background:transparent}
+#ft-sp-panel .ft-sp-sp.free{color:#32d74b;border-color:rgba(50,215,75,.6);background:rgba(50,215,75,.1)}
+#ft-sp-panel .ft-sp-sp.busy{color:#ff6961;border-color:rgba(255,69,58,.5);background:rgba(255,69,58,.08)}
+/* BOOKING SHEET (slides over the panel) */
+#ft-sp-panel .ft-sp-sheet{display:none;position:absolute;left:0;right:0;bottom:0;top:0;background:#1c1c1e;z-index:5;flex-direction:column}
+#ft-sp-panel .ft-sp-sheet.open{display:flex}
+#ft-sp-panel .ft-sp-sh-head{display:flex;align-items:center;gap:10px;padding:12px 14px;border-bottom:1px solid #3a3a3c;flex-shrink:0}
+#ft-sp-panel .ft-sp-sh-head b{flex:1;font-size:1.02rem}
+#ft-sp-panel .ft-sp-sh-body{flex:1;overflow-y:auto;padding:14px;-webkit-overflow-scrolling:touch}
+#ft-sp-panel .ft-sp-sh-l{font-size:.72rem;font-weight:800;letter-spacing:.05em;text-transform:uppercase;color:#8e8e93;margin:14px 0 6px}
+#ft-sp-panel .ft-sp-sh-l:first-child{margin-top:0}
+#ft-sp-panel .ft-sp-chs{display:flex;flex-wrap:wrap;gap:6px}
+#ft-sp-panel .ft-sp-ch{font:inherit;flex:1 1 0;min-width:64px;padding:8px 6px;border-radius:12px;border:1px solid #3a3a3c;background:#2c2c2e;color:#fff;cursor:pointer;text-align:center;line-height:1.25}
+#ft-sp-panel .ft-sp-ch b{display:block;font-size:.9rem}
+#ft-sp-panel .ft-sp-ch i{display:block;font-style:normal;font-size:.62rem;color:#8e8e93;margin-top:2px}
+#ft-sp-panel .ft-sp-ch.sel{border-color:#32d74b;background:rgba(50,215,75,.16)}
+#ft-sp-panel .ft-sp-ch.sel i{color:#32d74b}
+#ft-sp-panel .ft-sp-ch.dis{opacity:.4;cursor:not-allowed}
+#ft-sp-panel .ft-sp-in{width:100%;box-sizing:border-box;font:inherit;font-size:.9rem;padding:10px 12px;border-radius:10px;border:1px solid #3a3a3c;background:#2c2c2e;color:#fff;margin-bottom:6px;color-scheme:dark}
+#ft-sp-panel textarea.ft-sp-in{min-height:64px;resize:vertical}
+#ft-sp-panel .ft-sp-sum2{margin:14px 0 8px;padding:12px;border-radius:12px;background:rgba(50,215,75,.08);border:1px solid rgba(50,215,75,.4);font-size:.86rem;line-height:1.55}
+#ft-sp-panel .ft-sp-sum2 .tot{font-size:1.15rem;font-weight:800;color:#32d74b}
+#ft-sp-panel .ft-sp-copy2{display:block;width:100%;margin-top:8px;padding:9px;font:inherit;font-size:.8rem;font-weight:700;color:#d1d1d6;background:transparent;border:1px dashed #5a5a5e;border-radius:12px;cursor:pointer}
+#ft-sp-panel .ft-sp-small-note{font-size:.72rem;color:#8e8e93;margin-top:8px;line-height:1.5}
+#ft-sp-panel .ft-sp-startbook{display:block;width:100%;margin:0 0 10px;padding:11px;border:0;border-radius:20px;background:#0a84ff;color:#fff;font:inherit;font-weight:800;font-size:.88rem;cursor:pointer}
+#ft-sp-panel .ft-sp-foot a{color:#8e8e93;text-decoration:underline}
+#ft-sp-panel .ft-sp-foot{margin:4px 2px 16px;font-size:.7rem;line-height:1.45;color:#8e8e93;text-align:center}
+#ft-sp-panel .ft-sp-img{display:block;width:100%;height:auto;background:#111}
+#ft-sp-panel .ft-sp-inner{padding:10px 14px 14px}
+#ft-sp-panel .ft-sp-h{font-size:1rem;font-weight:700;margin:0 0 6px;color:#fff}
+#ft-sp-panel .ft-sp-t{font-size:.9rem;line-height:1.5;color:#d1d1d6;word-wrap:break-word;overflow-wrap:anywhere}
+#ft-sp-panel .ft-sp-t a{color:#32d74b}
+#ft-sp-panel .ft-sp-btn{display:inline-block;margin-top:12px;padding:9px 18px;border-radius:20px;background:#32d74b;color:#0b0b0c!important;font-weight:700;font-size:.85rem;text-decoration:none}
+#ft-sp-panel .ft-sp-btn:hover{filter:brightness(1.1)}
+#ft-sp-panel a.ft-sp-imglink{display:block}
+/* contact rows (email / Telegram ...) with a Copy button */
+#ft-sp-panel .ft-sp-contacts{margin-top:10px;display:flex;flex-direction:column;gap:8px}
+#ft-sp-panel .ft-sp-contact{display:flex;align-items:center;gap:10px;background:#1c1c1e;border:1px solid #3a3a3c;border-radius:10px;padding:8px 10px}
+#ft-sp-panel .ft-sp-ct{flex:1;min-width:0}
+#ft-sp-panel .ft-sp-cl{font-size:.6rem;font-weight:700;letter-spacing:.06em;text-transform:uppercase;color:#8e8e93}
+#ft-sp-panel .ft-sp-cv{font-size:.8rem;font-weight:600;color:#fff;overflow-wrap:anywhere}
+#ft-sp-panel .ft-sp-cb{flex-shrink:0;font:inherit;font-size:.75rem;font-weight:700;padding:7px 12px;border-radius:16px;border:1px solid #32d74b;background:transparent;color:#32d74b!important;text-decoration:none;cursor:pointer;line-height:1.2}
+#ft-sp-panel .ft-sp-cb.fill{background:#32d74b;color:#0b0b0c!important}
+/* "Show more" section: hidden until the visitor asks */
+#ft-sp-panel .ft-sp-more{display:none;margin-top:10px;padding-top:10px;border-top:1px dashed #3a3a3c}
+#ft-sp-panel .ft-sp-item.open .ft-sp-more{display:block}
+#ft-sp-panel .ft-sp-tog{display:block;width:100%;margin-top:10px;padding:8px;font:inherit;font-size:.8rem;font-weight:600;color:#32d74b;background:transparent;border:0;border-top:1px solid #3a3a3c;cursor:pointer}
+/* raw-HTML ads live in a sandboxed iframe with a TRANSPARENT background (the dark card shows through); set "background" on an entry to force a colour */
+#ft-sp-panel .ft-sp-frame{display:block;width:100%;border:0;background:transparent;color-scheme:normal}
+
+/* ===== STANDALONE PAGE MODE: panel is a normal block in the page (not a fixed overlay) ===== */
+html,body{margin:0;background:#000;color:#f2f2f7;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif}
+.sp-top{position:sticky;top:0;z-index:50;display:flex;align-items:center;gap:10px;height:56px;padding:0 14px;background:#1c1c1e;border-bottom:1px solid #3a3a3c}
+.sp-top a{color:#fff;text-decoration:none}
+.sp-logo{display:flex;align-items:center;gap:8px;font-weight:800;font-size:1.05rem}
+.sp-logo{font-size:1.2rem;letter-spacing:-.02em}
+.sp-logo .logo-tv-box{background:var(--brand-accent-color,#32d74b);width:28px;height:28px;border-radius:8px;display:inline-flex;align-items:center;justify-content:center;flex-shrink:0}
+.sp-logo .logo-tv-box svg{width:17px;height:17px}
+.sp-back{margin-left:auto;font-size:.82rem;font-weight:700;background:#0a84ff;border-radius:999px;padding:8px 14px}
+#sp-root{max-width:760px;margin:0 auto;min-height:calc(100vh - 56px)}
+#ft-sp-panel{position:relative!important;inset:auto!important;display:flex!important;width:auto!important;max-width:none!important;height:auto!important;border:0!important;box-shadow:none!important;background:#1c1c1e;min-height:calc(100vh - 56px)}
+/* FIX: hide ONLY the panel header close button on this standalone page. The old rule hid every .ft-sp-x, so the booking popup had no close button */
+#ft-sp-panel .ft-sp-head .ft-sp-x{display:none!important}
+#ft-sp-panel .ft-sp-head{position:static}
+#ft-sp-panel .ft-sp-body{overflow:visible!important;flex:1 1 auto;height:auto!important}
+/* booking sheet = centred modal over the page (it was an in-panel overlay) */
+#ft-sp-panel .ft-sp-sheet{position:fixed!important;inset:0!important;max-width:560px;margin:0 auto;z-index:4400;overflow:auto}
+ /* ===== PC / wide screens: two columns. Left = hero + ads, right = sticky slot board + prices ===== */
+@media (min-width:900px){
+  #sp-root{max-width:1140px;padding:0 24px;box-sizing:border-box}
+  #ft-sp-panel{background:transparent!important}
+  #ft-sp-panel .ft-sp-head{padding:18px 0 6px;background:transparent;border:0}
+  #ft-sp-panel .ft-sp-title{font-size:1.5rem}
+  #ft-sp-panel .ft-sp-body{display:grid;grid-template-columns:minmax(0,1fr) 390px;column-gap:22px;align-items:start;padding:10px 0 24px}
+  #ft-sp-panel .ft-sp-body>.ft-sp-hero{grid-column:1/-1}
+  #ft-sp-panel .ft-sp-body>.ft-sp-item{grid-column:1}
+  #ft-sp-panel .ft-sp-body>.ft-sp-rates{grid-column:2;grid-row:2/span 40;position:sticky;top:72px;max-height:calc(100vh - 90px);overflow:auto;margin:0}
+  #ft-sp-panel .ft-sp-body>.ft-sp-foot{grid-column:1/-1}
+  #ft-sp-panel .ft-sp-bigp span{font-size:2.8rem}
+  #ft-sp-panel .ft-sp-hero-t{font-size:1.05rem}
+  #ft-sp-panel .ft-sp-hero-top{padding:14px 18px;gap:18px}
+  #ft-sp-panel .ft-sp-dot2{width:30px;height:30px;font-size:.8rem}
+  #ft-sp-panel .ft-sp-sheet{inset:5vh 0 auto 0!important;bottom:auto!important;max-height:90vh;border-radius:16px;border:1px solid rgba(10,132,255,.5);box-shadow:0 20px 60px rgba(0,0,0,.7)}
+  .sp-top{padding:0 max(24px,calc((100vw - 1092px)/2))}
+}
+/* FIX (booking popup): dark backdrop so it reads as a popup, close button never squashed, page behind does not scroll */
+#ft-sp-panel .ft-sp-sheet{box-shadow:0 20px 60px rgba(0,0,0,.7),0 0 0 100vmax rgba(0,0,0,.72)!important}
+#ft-sp-panel .ft-sp-sheet .ft-sp-sh-head .ft-sp-x{flex-shrink:0;display:inline-block!important}
+html.ft-sp-lock,html.ft-sp-lock body{overflow:hidden}
+.sp-note{max-width:760px;margin:0 auto;padding:14px;font-size:.72rem;color:#8e8e93;text-align:center}
+</style>
+</head>
+<body>
+<header class="sp-top">
+  <a class="sp-logo" href="/" aria-label="FreeTV Garden home"><span class="logo-tv-box" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M8 2.8L12 6.2L16 2.8" stroke="#1c1c1e" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/><rect x="2" y="6.2" width="20" height="14.4" rx="2.6" stroke="#1c1c1e" stroke-width="2"/><path d="M10.2 10L15.2 13.2L10.2 16.4Z" fill="#1c1c1e"/></svg></span><span>FreeTV<span class="logo-suffix"> Garden</span></span></a>
+  <a class="sp-back" href="/">&larr; Watch TV</a>
+</header>
+<!-- the sponsored panel is built here by the script below -->
+<main id="sp-root"></main>
+<p class="sp-note">Sponsored placements are paid. FreeTV Garden does not control advertisers' websites. Questions: contact.freetool@gmail.com</p>
+<noscript><p style="padding:20px;text-align:center">Please enable JavaScript to see sponsored slots and prices. To advertise, email contact.freetool@gmail.com or message @abhijeet620380 on Telegram.</p></noscript>
+<!-- Google Analytics 4 (same property as the main site). The sponsored script pushes its events (open / view / click / currency) to dataLayer. -->
+<script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}gtag("js",new Date());gtag("config","G-F6S21CCQTW");</script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-F6S21CCQTW"></script>
+<script id="ft-sp-js">
+(function(){try{
+  /* ---------------- SETTINGS (edit here if you ever move the file) ---------------- */
+  var LIVE = "https://raw.githubusercontent.com/abhijeet620380/freetvgarden-data-v2/main/sponsored.json"; // live copy from your data repo
+  var LOCAL = "/sponsored.json";      // fallback: a copy deployed with the site (optional - ignored if missing)
+  var SEEN_KEY = "ft_sp_seen";        // localStorage key for the red "new" dot (per visitor, harmless if blocked)
+  var MAX_ITEMS = 20;                 // never show more than this many entries
+  var STALE_MS = 10*60*1000;          // re-fetch when the panel is opened and data is older than this
+
+  var DEFAULT_FOOTER = "Sponsored content: FreeTV Garden may be paid for these placements. Links open the advertiser's own site, which we do not control.";
+  var footer = DEFAULT_FOOTER, rateCard = null, offer = null;
+  var PAGE = !!document.getElementById("sp-root");   // standalone page mode (panel is part of the page, always open)
+  var items = null, loadedAt = 0, btn = null, barBtn = null, panel = null;
+
+  /* ---------------- small helpers ---------------- */
+  function esc(s){return String(s==null?"":s).replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;").replace(/"/g,"&quot;")}
+  // only http(s) links and same-site paths are allowed (blocks javascript: / data: URLs)
+  function safeUrl(u){u=String(u||"").trim();return(u==="#board"||/^https?:\/\//i.test(u)||/^mailto:[^\s]+$/i.test(u)||/^\/(?!\/)/.test(u))?u:""}
+  function lsGet(k){try{return localStorage.getItem(k)}catch(e){return null}}
+  function lsSet(k,v){try{localStorage.setItem(k,v)}catch(e){}}
+  /* ANALYTICS (GA4). Events are pushed to the same dataLayer your site's GA4 tag (G-F6S21CCQTW) already reads.
+     Must push the "arguments" object (that is what gtag.js expects), so we use a tiny gtag-style function. */
+  function ga(){try{window.dataLayer=window.dataLayer||[];window.dataLayer.push(arguments)}catch(e){}}
+  function itemById(id){for(var i=0;i<(items||[]).length;i++){if(String(items[i].id||("i"+items[i].__i))===String(id))return items[i]}return null}
+  function itemType(it){return it.html?"html_ad":(it.image&&!it.title&&!it.text?"image_banner":(it.image?"image_card":"text_card"))}
+  function domainOf(u){try{return new URL(u,location.href).hostname}catch(e){return""}}
+  // send one event. Always carries which entry it was about (id, title, type, position in the list).
+  function track(name,id,extra){try{
+    var it=itemById(id)||{},p={sponsor_id:String(id||""),sponsor_title:String(it.title||it.id||"").slice(0,80),
+      sponsor_type:it.__i==null?"":itemType(it),sponsor_position:it.__i==null?0:(items.indexOf(it)+1),
+      device:wide()?"pc":"phone"};
+    for(var k in (extra||{}))p[k]=extra[k];
+    ga("event",name,p)}catch(e){}}
+  function wide(){return window.innerWidth>=769}
+
+  // tiny safe "markdown": **bold**, *italic*, [text](https://link), blank line = new paragraph, single newline = <br>.
+  // Everything is HTML-escaped FIRST, so text in the JSON can never inject HTML (use type "html" for that on purpose).
+  function md(src){
+    var s=esc(src);
+    s=s.replace(/\[([^\]]+)\]\(([^)\s]+)\)/g,function(m,t,u){
+      u=u.replace(/&amp;/g,"&");var ok=safeUrl(u);
+      return ok?'<a href="'+esc(ok)+'" target="_blank" rel="sponsored nofollow noopener noreferrer">'+t+'</a>':t});
+    s=s.replace(/\*\*([^*]+)\*\*/g,"<b>$1</b>").replace(/(^|[^*])\*([^*\n]+)\*/g,"$1<i>$2</i>");
+    return s.split(/\n{2,}/).map(function(p){return"<p style='margin:0 0 8px'>"+p.replace(/\n/g,"<br>")+"</p>"}).join("");
+  }
+
+  /* ---------------- which entries are active right now ---------------- */
+  // "start"/"end" accept "2026-11-01" or full ISO. An end DATE (no time) lasts the whole day.
+  function parseDate(v,isEnd){if(!v)return null;var s=String(v).trim();
+    if(/^\d{4}-\d{2}-\d{2}$/.test(s))s+=isEnd?"T23:59:59":"T00:00:00";
+    var d=new Date(s);return isNaN(d)?null:d.getTime()}
+  function active(it){
+    if(!it||typeof it!=="object"||it.active===false)return false;
+    var now=Date.now(),a=parseDate(it.start,false),b=parseDate(it.end,true);
+    if(a!==null&&now<a)return false;
+    if(b!==null&&now>b)return false;
+    return !!(it.title||it.text||it.image||it.html);        // must have something to show
+  }
+  // SHORTHAND: "slot": "2S" / "1-large" / "3 medium" = position 2 small / position 1 large / ... (position, size, price are filled in for you)
+  function applySlot(it){
+    // price comes from the rateCard for ANY entry that has a position + size (so you never write prices in slots)
+    if(!(typeof it.slot==="string"&&/^\s*[1-5]\s*[-_ ]?\s*(s|m|l|small|medium|large)\s*$/i.test(it.slot))){
+      var pn=parseInt(it.position,10),ps=String(it.size||"").toLowerCase().charAt(0);
+      if(pn>=1&&pn<=5&&ps&&"sml".indexOf(ps)>=0)it.price=priceFor(pn,ps==="s"?"small":ps==="m"?"medium":"large")||it.price;
+      return it}
+    var m=typeof it.slot==="string"&&it.slot.match(/^\s*([1-5])\s*[-_ ]?\s*(s|m|l|small|medium|large)\s*$/i);
+    if(!m)return it;
+    var n=+m[1],sz=m[2].toLowerCase().charAt(0),name=sz==="s"?"small":sz==="m"?"medium":"large";
+    if(!it.position)it.position=n;
+    if(!it.size)it.size=name;
+    it.price=priceFor(n,name)||it.price;
+    it.slot="Position "+n+" · "+name.charAt(0).toUpperCase()+name.slice(1);
+    return it;
+  }
+  // price of a slot from the rateCard table ("₹59" + " / 24h")
+  function priceFor(n,name){
+    if(!rateCard||!Array.isArray(rateCard.positions))return"";
+    for(var i=0;i<rateCard.positions.length;i++){var x=rateCard.positions[i]||{};
+      if((parseInt(x.n,10)||i+1)===n&&x[name])return x[name]+(rateCard.priceSuffix!==undefined?rateCard.priceSuffix:" / 24h")}
+    return"";
+  }
+  var windows=[];     // every booking window (also future ones): used by the slot board for "next available date"
+  function normalise(json){
+    var list=Array.isArray(json)?json:(json&&Array.isArray(json.items)?json.items:[]);
+    list=list.map(function(it,i){it=applySlot(it||{});it.__i=i;return it});
+    windows=list.filter(function(it){return it.active!==false&&parseInt(it.position,10)>=1&&parseInt(it.position,10)<=5})
+      .map(function(it){return{n:parseInt(it.position,10),s:parseDate(it.start,false),e:parseDate(it.end,true),size:String(it.size||"").toLowerCase()}});
+    return list.filter(active)
+      .sort(function(a,b){return(+a.position||99)-(+b.position||99)||(b.pinned?1:0)-(a.pinned?1:0)||(+b.priority||0)-(+a.priority||0)||a.__i-b.__i})
+      .slice(0,MAX_ITEMS);
+  }
+
+  /* ---------------- fetch (live GitHub copy first, then the deployed copy) ---------------- */
+  function getJson(){
+    return fetch(LIVE,{cache:"no-cache",signal:AbortSignal.timeout(8000)})
+      .then(function(r){if(!r.ok)throw 0;return r.json()})
+      .catch(function(){return fetch(LOCAL,{cache:"no-cache",signal:AbortSignal.timeout(8000)})
+        .then(function(r){if(!r.ok)throw 0;return r.json()})});
+  }
+  // ---- CURRENCY: prices in sponsored.json are written in INR (e.g. "₹79"). Visitors outside India see USD automatically
+  // (can switch with the ₹/$ button in the panel header). USD price = INR x factor, rounded up, never below "min".
+  // Override in rateCard: "usd":{"symbol":"$","factor":0.05,"min":2}  and per position "usd":{"small":2,"medium":3,"large":4}
+  var lastJson=null,curMode="INR";
+  try{curMode=localStorage.getItem("ft-sp-cur")||""}catch(e){}
+  if(curMode!=="INR"&&curMode!=="USD"){var tz="";try{tz=Intl.DateTimeFormat().resolvedOptions().timeZone||""}catch(e){}
+    curMode=/^Asia\/(Kolkata|Calcutta)$/.test(tz)?"INR":"USD"}
+  function toUsdRC(rc){   // returns a converted copy of the rate card (original is untouched)
+    var c=JSON.parse(JSON.stringify(rc)),u=c.usd||{},sym=u.symbol||"$",f=parseFloat(u.factor)||0,mn=parseFloat(u.min);if(!(mn>=0))mn=0;var mx=parseFloat(u.max);if(!(mx>0))mx=1e9;
+    (c.positions||[]).forEach(function(x){["small","medium","large"].forEach(function(k){
+      if(x.usd&&x.usd[k]!==undefined){x[k]=sym+x.usd[k];return}
+      if(!f)return;   // no factor in JSON = keep the written price; USD comes only from the explicit per-slot "usd" values
+      var m=String(x[k]||"").match(/(\d[\d.,]*)/);if(!m)return;
+      x[k]=sym+Math.min(mx,Math.max(mn,Math.ceil(parseFloat(m[1].replace(/,/g,""))*f)))})});
+    return c}
+  function applyJson(j){
+    if(j&&!Array.isArray(j)&&j.enabled===false)j={items:[]};
+    var rc=(j&&!Array.isArray(j)&&j.rateCard&&typeof j.rateCard==="object")?j.rateCard:null;
+    rateCard=(rc&&curMode==="USD")?toUsdRC(rc):rc;
+    offer=(j&&!Array.isArray(j)&&j.offer!==undefined)?j.offer:null;
+    if(curMode==="USD"&&offer&&typeof offer==="object"){offer=Object.assign({},offer);if(offer.priceUSD)offer.price=offer.priceUSD;else delete offer.price}   // price auto = lowest USD price
+    if(PAGE&&window.innerWidth>=900){if(offer&&typeof offer==="object"&&offer.open===undefined)offer=Object.assign({},offer,{open:true});if(rateCard)rateCard=Object.assign({},rateCard,{open:true})}
+    items=normalise(j);footer=(j&&!Array.isArray(j)&&typeof j.footer==="string")?j.footer:DEFAULT_FOOTER;loadedAt=Date.now();return items}
+  function load(){
+    return getJson().then(function(j){lastJson=j;return applyJson(j)})
+      .catch(function(){items=items||[];return items});
+  }
+
+  /* ---------------- render ---------------- */
+  // contact rows: [{label:"EMAIL TO BOOK", value:"you@mail.com", link:"mailto:you@mail.com", button:"Email", copy:true}]
+  function renderContacts(list){
+    if(!Array.isArray(list)||!list.length)return"";
+    return'<div class="ft-sp-contacts">'+list.slice(0,6).map(function(c){
+      c=c||{};var l=safeUrl(c.link),v=String(c.value||"");
+      return'<div class="ft-sp-contact"><div class="ft-sp-ct"><div class="ft-sp-cl">'+esc(c.label||"")+'</div><div class="ft-sp-cv">'+esc(v)+'</div></div>'+
+        (c.copy&&v?'<button type="button" class="ft-sp-cb ft-sp-copy" data-copy="'+esc(v)+'">Copy</button>':"")+
+        (l?'<a class="ft-sp-cb fill ft-sp-contact-link" href="'+esc(l)+'" target="_blank" rel="noopener noreferrer">'+esc(c.button||"Open")+'</a>':"")+'</div>'}).join("")+'</div>'}
+  // "2d 5h" / "5h 12m" / "12m" / "less than a minute"
+  function leftText(ms){
+    if(ms<60000)return"Ends in under a minute";
+    var m=Math.floor(ms/60000),d=Math.floor(m/1440),h=Math.floor(m%1440/60),mm=m%60;
+    return"Ends in "+(d?d+"d "+h+"h":h?h+"h "+mm+"m":mm+"m");
+  }
+  // position 1-5 -> look. 1 = gold TOP, 2 = silver, 3 = bronze (these three get the special big cards), 4-5 = standard
+  var TIERS={1:{icon:"👑",name:"#1 PREMIUM",cls:"gold",hex:"#d4a017"},2:{icon:"💎",name:"#2 PLATINUM",cls:"platinum",hex:"#b8c2d3"},3:{icon:"✨",name:"#3 PREMIUM",cls:"bronze",hex:"#c27a45"},4:{icon:"",name:"#4",cls:"blue",hex:"#64b5ff"},5:{icon:"",name:"#5",cls:"gray",hex:"#c7c7cc"}};
+  var cdTimer=null;
+  function tickCountdowns(){
+    try{if(!panel)return;
+      Array.prototype.forEach.call(panel.querySelectorAll(".ft-sp-cd"),function(c){
+        var left=(+c.getAttribute("data-end"))-Date.now();
+        if(left<=0){var box=c.closest(".ft-sp-item");if(box)box.parentNode.removeChild(box)}   // campaign finished: remove the card
+        else c.textContent="⏳ "+leftText(left)})}catch(e){}
+  }
+  // ---- helpers for the slot board ----
+  function fmtDT(ms){return new Date(ms).toLocaleString(undefined,{day:"numeric",month:"short",hour:"numeric",minute:"2-digit"})}
+  // status of one position: booked now? on hold? when is it next free? (booked as a whole - all three sizes)
+  function slotInfo(n){
+    var now=Date.now(),hold={};((rateCard&&Array.isArray(rateCard.reserved))?rateCard.reserved:[]).forEach(function(k){hold[k]=1});
+    var ws=windows.filter(function(w){return w.n===n}),cur=null;
+    ws.forEach(function(w){if(!cur&&(w.s===null||w.s<=now)&&(w.e===null||w.e>=now))cur=w});
+    var hd=!cur&&!!hold[n],free=!cur&&!hd,nextFree=null,openEnded=false;
+    if(cur){if(cur.e===null)openEnded=true;else{nextFree=cur.e;for(var k=0;k<12;k++){var nx=null;
+        ws.forEach(function(w){if(w!==cur&&w.s!==null&&w.s<=nextFree+120000&&(w.e===null||w.e>nextFree)&&(!nx||(w.e===null||(nx.e!==null&&w.e>nx.e))))nx=w});
+        if(!nx)break;if(nx.e===null){openEnded=true;nextFree=null;break}nextFree=nx.e}}}
+    var upcoming=null;if(free)ws.forEach(function(w){if(w.s!==null&&w.s>now&&(!upcoming||w.s<upcoming))upcoming=w.s});
+    return{cur:cur,hd:hd,free:free,nextFree:nextFree,openEnded:openEnded,upcoming:upcoming};
+  }
+  function bookBtn(n,label){return'<button type="button" class="ft-sp-booknow" data-sheet="'+n+'">'+esc(label)+'</button>'}
+  // contacts: email address + telegram link/@id from the rateCard
+  function contactInfo(){
+    var r=rateCard||{},tg=safeUrl(r.bookTelegram||""),em=String(r.bookEmail||"").replace(/^mailto:/i,"").trim(),bl=safeUrl(r.bookLink||"");
+    if(!tg&&!em&&bl){if(/^mailto:/i.test(bl))em=bl.replace(/^mailto:/i,"").split("?")[0];else tg=bl}
+    if(!/^[^\s@<>"]+@[^\s@<>"]+$/.test(em))em="";
+    return{em:em,tg:tg,handle:r.telegramHandle||(tg?"@"+tg.replace(/[?#].*$/,"").replace(/\/+$/,"").split("/").pop():"")};
+  }
+  // "₹59" -> {pre:"₹",n:59}; used to work out totals
+  function money(str){var m=String(str||"").match(/^([^\d]*)(\d[\d.,]*)/);return m?{pre:m[1],n:parseFloat(m[2].replace(/,/g,""))}:null}
+  function fmtMoney(mo,v){v=Math.round(v*100)/100;return mo.pre+(v%1?v.toFixed(2):String(v))}
+  function isoDate(ms){var d=new Date(ms);return d.getFullYear()+"-"+("0"+(d.getMonth()+1)).slice(-2)+"-"+("0"+d.getDate()).slice(-2)}
+  var sh={pos:1,size:"medium",days:1,custom:false,start:"",link:"",note:""};
+  function durations(){var d=rateCard&&Array.isArray(rateCard.durations)&&rateCard.durations.length?rateCard.durations:[{days:1},{days:3},{days:7},{days:30}];
+    return d.slice(0,6).map(function(x){x=x||{};var n=Math.max(1,parseInt(x.days,10)||1);return{days:n,off:Math.max(0,Math.min(90,+x.off||0)),label:x.label||(n+(n===1?" day":" days"))}})}
+  function minStart(n){var si=slotInfo(n);return si.nextFree?isoDate(si.nextFree):isoDate(Date.now())}
+  function posRow(n){var P=rateCard&&rateCard.positions||[];for(var i=0;i<P.length;i++){if((parseInt(P[i].n,10)||i+1)===n)return P[i]}return{}}
+  function bookingMsg(){
+    var x=posRow(sh.pos),mo=money(x[sh.size]),du=sh.custom?{days:sh.days,off:durations().filter(function(d){return d.days<=sh.days}).reduce(function(m,d){return Math.max(m,d.off||0)},0)}:(durations().filter(function(d){return d.days===sh.days})[0]||{days:sh.days,off:0}),
+        start=new Date(sh.start+"T00:00:00"),end=new Date(start.getTime()+sh.days*864e5),
+        dd=function(d){return d.toLocaleDateString(undefined,{day:"numeric",month:"short",year:"numeric"})},
+        price=mo?fmtMoney(mo,mo.n)+" / day":"",tot=mo?fmtMoney(mo,mo.n*sh.days*(1-du.off/100)):"";
+    var szN=sh.size.charAt(0).toUpperCase()+sh.size.slice(1);
+    var lines=["Hi FreeTV Garden, I would like to book an ad slot:","• Position: #"+sh.pos+(x.name?" ("+String(x.name).replace(/^Position\s*\d+\s*[—-]\s*/i,"")+")":""),"• Card size: "+szN,
+      "• Duration: "+sh.days+(sh.days===1?" day":" days")+" ("+dd(start)+" to "+dd(end)+")"];
+    if(mo)lines.push("• Price: "+price+" × "+sh.days+(du.off?" − "+du.off+"%":"")+" = "+tot);
+    if(sh.link)lines.push("• My website / channel: "+sh.link);
+    if(sh.note)lines.push("• Notes: "+sh.note);
+    lines.push("Please confirm availability and payment details.");
+    return{text:lines.join("\n"),subject:"Ad booking: Position "+sh.pos+" · "+szN+" · "+sh.days+(sh.days===1?" day":" days"),total:tot,price:price,start:dd(start),end:dd(end),off:du.off};
+  }
+  function updateSheetSummary(){
+    var el=panel&&panel.querySelector("#ft-sh-out");if(!el)return;
+    var m=bookingMsg(),c=contactInfo(),h='<div class="ft-sp-sum2"><div><b>Position #'+sh.pos+'</b> · '+esc(sh.size.charAt(0).toUpperCase()+sh.size.slice(1))+' card</div><div>'+sh.days+(sh.days===1?' day':' days')+': '+esc(m.start)+' → '+esc(m.end)+'</div>'+
+      (m.total?'<div>'+esc(m.price)+' × '+sh.days+(m.off?' − '+m.off+'%':'')+'</div><div class="tot">Total: '+esc(m.total)+'</div>':'')+'</div>';
+    h+='<div class="ft-sp-bkcap">Send your request – tap one:</div>';
+    if(c.em)h+='<a class="ft-sp-bkrow em" data-pos="'+sh.pos+'" data-via="email" href="mailto:'+esc(c.em)+'?subject='+esc(encodeURIComponent(m.subject))+'&body='+esc(encodeURIComponent(m.text))+'"><span class="ico">✉</span><span class="bt"><b>Email</b><i>'+esc(c.em)+'</i></span><span class="go">Send ›</span></a>';
+    if(c.tg)h+='<a class="ft-sp-bkrow tg" data-pos="'+sh.pos+'" data-via="telegram" href="'+esc(c.tg+(c.tg.indexOf("?")<0?"?":"&")+"text="+encodeURIComponent(m.text))+'" target="_blank" rel="noopener noreferrer"><span class="ico">✈</span><span class="bt"><b>Telegram</b><i>'+esc(c.handle)+'</i></span><span class="go">Send ›</span></a>';
+    h+='<button type="button" class="ft-sp-copy2" data-copymsg="1">📋 Copy the message (to send anywhere)</button><div class="ft-sp-small-note">No payment now. We confirm availability and the final price first, then you pay.'+(rateCard&&rateCard.sheetNote?" "+esc(rateCard.sheetNote):"")+'</div>';
+    el.innerHTML=h;
+  }
+  function renderSheet(){
+    var el=panel&&panel.querySelector("#ft-sp-sheet");if(!el)return;
+    var P=(rateCard&&rateCard.positions||[]).slice(0,5),h='<div class="ft-sp-sh-head"><b>📝 Book an ad slot</b><button class="ft-sp-x" type="button" data-shclose="1" aria-label="Close">✕</button></div><div class="ft-sp-sh-body">';
+    h+='<div class="ft-sp-sh-l">1 · Choose a position</div><div class="ft-sp-chs">'+P.map(function(x,i){var n=parseInt(x.n,10)||i+1,si=slotInfo(n),dis=si.hd||(si.openEnded),t=TIERS[n]||TIERS[5];
+      return'<button type="button" class="ft-sp-ch'+(sh.pos===n?' sel':'')+(dis?' dis':'')+'" data-sh="pos" data-v="'+n+'"'+(dis?' disabled':'')+'><b>'+(t.icon||"")+' #'+n+'</b><i>'+(si.free?'Vacant':si.hd?'On hold':si.openEnded?'Booked':'From '+esc(new Date(si.nextFree).toLocaleDateString(undefined,{day:"numeric",month:"short"})))+'</i></button>'}).join("")+'</div>';
+    var x=posRow(sh.pos);
+    h+='<div class="ft-sp-sh-l">2 · Choose a card size</div><div class="ft-sp-chs">'+[["small","Small","list row"],["medium","Medium","picture + text"],["large","Large","biggest"]].map(function(c){
+      return'<button type="button" class="ft-sp-ch'+(sh.size===c[0]?' sel':'')+'" data-sh="size" data-v="'+c[0]+'"><b>'+c[1]+'</b><i>'+esc((x[c[0]]||"—")+" / day · "+c[2])+'</i></button>'}).join("")+'</div>';
+    h+='<div class="ft-sp-sh-l">3 · How long?</div><div class="ft-sp-chs">'+durations().map(function(d){
+      return'<button type="button" class="ft-sp-ch'+(!sh.custom&&sh.days===d.days?' sel':'')+'" data-sh="days" data-v="'+d.days+'"><b>'+esc(d.label)+'</b>'+(d.off?'<i>'+d.off+'% off</i>':'')+'</button>'}).join("")+
+      '<button type="button" class="ft-sp-ch'+(sh.custom?' sel':'')+'" data-sh="custom" data-v="1"><b>✏️ Custom</b><i>any days</i></button></div>'+
+      (sh.custom?'<div style="font-size:.72rem;color:#9fc4f5;margin:8px 0 4px">Number of days (1 – 365):</div><input class="ft-sp-in" type="number" id="ft-sh-days" min="1" max="365" step="1" inputmode="numeric" value="'+sh.days+'">':'');
+    var mn=minStart(sh.pos);if(!sh.start||sh.start<mn)sh.start=mn;
+    h+='<div class="ft-sp-sh-l">4 · Start date</div><input class="ft-sp-in" type="date" id="ft-sh-start" min="'+mn+'" value="'+esc(sh.start)+'">'+(slotInfo(sh.pos).free?'':'<div class="ft-sp-small-note" style="margin:0 0 6px">This position is booked until '+esc(fmtDT(slotInfo(sh.pos).nextFree))+' – earliest start shown.</div>');
+    h+='<div class="ft-sp-sh-l">5 · Your website / channel (optional)</div><input class="ft-sp-in" type="text" id="ft-sh-link" maxlength="200" placeholder="https://…  or  @yourchannel" value="'+esc(sh.link)+'"><textarea class="ft-sp-in" id="ft-sh-note" maxlength="300" placeholder="Anything we should know? (optional)">'+esc(sh.note)+'</textarea>';
+    h+='<div id="ft-sh-out"></div></div>';
+    el.innerHTML=h;updateSheetSummary();
+  }
+  function openSheet(n){
+    var P=(rateCard&&rateCard.positions)||[];if(!P.length)return;
+    if(!n){for(var i=1;i<=5;i++){var si=slotInfo(i);if(si.free){n=i;break}}if(!n){for(i=1;i<=5;i++){if(slotInfo(i).nextFree){n=i;break}}}n=n||1}
+    sh.pos=n;sh.start="";var sz=["small","medium","large"];if(sz.indexOf(sh.size)<0)sh.size="medium";
+    renderSheet();panel.querySelector("#ft-sp-sheet").classList.add("open");panel.querySelector("#ft-sp-sheet .ft-sp-sh-body").scrollTop=0;
+    document.documentElement.classList.add("ft-sp-lock");try{panel.querySelector("#ft-sp-sheet .ft-sp-x").focus({preventScroll:true})}catch(e){}   // FIX: stop page scrolling behind the popup + keyboard focus on Close
+   
+    track("sponsored_sheet_open","",{position:String(n)});
+  }
+  function closeSheet(){var el=panel&&panel.querySelector("#ft-sp-sheet");if(el)el.classList.remove("open");document.documentElement.classList.remove("ft-sp-lock")}
+  function sheetOpen(){var el=panel&&panel.querySelector("#ft-sp-sheet");return !!(el&&el.classList.contains("open"))}
+  // SLOT BOARD (top-level "rateCard" in sponsored.json). 5 positions x 3 sizes = 15 slots, each with its price.
+  // A position is "BOOKED" automatically while an entry with that "position" is running (and FREE again when it ends).
+  // Booked positions show "Next available from <date>" (end of the last booking in a row) with Telegram + Email booking buttons.
+  // "reserved":[4] marks a position ON HOLD by hand. Old style rateCard with a plain "slots" list still works.
+  function renderRates(r,list){
+    if(!r||typeof r!=="object")return"";
+    var open=r.open===true,title=esc(r.title||"Ad slots & prices"),bodyH="",sumH="",now=Date.now();
+    if(Array.isArray(r.positions)&&r.positions.length){
+      var hold={},freeN=0,total=Math.min(5,r.positions.length);
+      (Array.isArray(r.reserved)?r.reserved:[]).forEach(function(n){hold[n]=1});
+      var rows=r.positions.slice(0,5).map(function(x,i){x=x||{};var n=parseInt(x.n,10)||i+1,t=TIERS[n]||TIERS[5];
+        var si=slotInfo(n),cur=si.cur,hd=si.hd,free=si.free,nextFree=si.nextFree,openEnded=si.openEnded,upcoming=si.upcoming;
+        if(free)freeN++;
+        var cells=[["small","S","SMALL"],["medium","M","MEDIUM"],["large","L","LARGE"]].map(function(c){
+          return'<div class="ft-sp-pc '+(free?'ok':'no')+'"><i>'+c[1]+' · '+c[2]+'</i><b>'+esc(x[c[0]]||"—")+'</b><em>'+(free?'Vacant':(hd?'On hold':'Booked'))+'</em></div>'}).join("");
+        var st=free?'<span class="ft-sp-st free">● AVAILABLE</span>':(hd?'<span class="ft-sp-st hold">ON HOLD</span>':'<span class="ft-sp-st taken">BOOKED</span>');
+        var info="",bk="";
+        if(free){bk=bookBtn(n,"Book now");if(upcoming)info='<div class="ft-sp-until">Free now · next booking starts '+esc(fmtDT(upcoming))+'</div>'}
+        else if(cur){
+          var runSz=/^l/.test(cur.size)?"Large":/^s/.test(cur.size)?"Small":cur.size?"Medium":"";
+          info='<div class="ft-sp-until">'+(cur.e?'Booked until '+esc(fmtDT(cur.e)):'Booked (no end date)')+(runSz?' · running as a '+runSz+' card':'')+'</div>';
+          if(nextFree){info+='<div class="ft-sp-next">📅 Next available from '+esc(fmtDT(nextFree))+'</div>';bk=bookBtn(n,"Book now for "+fmtDT(nextFree))}
+          else if(openEnded){info+='<div class="ft-sp-next">Contact us for the next date</div>';bk=""}}
+        else bk="";
+        return'<div class="ft-sp-pos '+(free?'free':'taken')+'"><div class="ft-sp-pos-top"><span class="ft-sp-tag ft-sp-c-'+t.cls+'">'+(t.icon?t.icon+" ":"")+esc(x.tag||t.name)+'</span><span class="ft-sp-pos-name">'+esc(x.name||("Position "+n))+'</span>'+st+'</div><div class="ft-sp-prices">'+cells+'</div>'+info+bk+'</div>'}).join("");
+      sumH=freeN?'<span class="ft-sp-sum ok">🟢 '+freeN+' of '+total+' positions available</span>':'<span class="ft-sp-sum full">🔴 All '+total+' positions booked</span>';
+      // ACTUAL-SIZE PREVIEW of the three card sizes
+      var sm=function(sz,extra){return renderItem(Object.assign({__i:-1,__sample:true,__pk:true,id:"sample-"+sz,label:"Promoted",size:sz,title:"Your title goes here",text:"A short line about your website, app, product or channel. Keep it clear and simple.",link:"/",button:"Visit",__ph:true,price:"₹59 / 24h",end:new Date(Date.now()+864e5).toISOString()},extra||{}))};
+      var guide='<button type="button" class="ft-sp-gtog" data-show="📐 See the actual size of Small / Medium / Large" data-hide="Hide size preview">📐 See the actual size of Small / Medium / Large</button><div class="ft-sp-guide">'+
+        '<div class="ft-sp-gcap"><b>SMALL</b> — compact list row, 96 px high: 64 px picture, all tags on top, 1-line title, 1 line of text, tap anywhere to open.</div>'+sm("small")+
+        '<div class="ft-sp-gcap"><b>MEDIUM</b> — card 196 px high: picture on the left, title (2 lines), text (3 lines), small button.</div>'+sm("medium")+
+        '<div class="ft-sp-gcap"><b>LARGE</b> — biggest card (max 440 px): wide picture on top, bigger title (2 lines), text (4 lines), button.</div>'+sm("large")+
+        '<div class="ft-sp-gcap">Every slot shows its price, size and end date. Top 3 positions get special cards (#1 red, #2 purple, #3 orange) with bigger heading text. A slot never grows bigger than its size.</div></div>';
+      bodyH='<button type="button" class="ft-sp-startbook" data-sheet="0">📝 Book an ad slot</button><div class="ft-sp-legend">'+esc(r.legend||"Prices are per 24 hours. Green = available to book. Booked positions show the next available date.")+'</div>'+guide+rows;
+    }else if(Array.isArray(r.slots)&&r.slots.length){
+      bodyH=r.slots.slice(0,15).map(function(x){x=x||{};var sub=[x.size,x.position,x.note].filter(Boolean).map(esc).join(" · ");
+        return'<div class="ft-sp-rate"><div class="ft-sp-rn"><b>'+esc(x.name||"")+'</b>'+(sub?'<span>'+sub+'</span>':"")+'</div><div class="ft-sp-rp">'+esc(x.price||"")+'</div></div>'}).join("");
+    }else return"";
+    return'<div class="ft-sp-rates'+(open?' open':'')+'" id="ft-sp-rates"><span class="ft-sp-badges"><span class="ft-sp-tag ft-sp-c-gold">'+esc(r.label||"Advertise")+'</span>'+sumH+'</span><div class="ft-sp-inner"><div class="ft-sp-h">'+title+'</div>'+
+      '<div class="ft-sp-rates-body">'+bodyH+(r.note?'<div class="ft-sp-t" style="margin-top:8px;font-size:.78rem;color:#8e8e93">'+esc(r.note)+'</div>':"")+'</div></div>'+
+      '<button type="button" class="ft-sp-tog" data-rates="1" data-show="'+esc(r.button||"View all 15 slots & availability")+'" data-hide="Hide slots">'+esc(open?"Hide slots":(r.button||"View all 15 slots & availability"))+'</button></div>'}
+  function renderItem(it){
+    var id=it.id||("i"+it.__i), tag=esc(it.label||(it.html?"Ad":"Sponsored")),
+        link=safeUrl(it.link), h="";
+    var sz=String(it.size||(it.pinned?"large":"medium")).toLowerCase();
+    var szc=sz==="large"||sz==="l"?"l":(sz==="small"||sz==="s"?"s":"m");            // fixed card size: s / m / l
+    var pos=Math.max(0,Math.min(5,parseInt(it.position,10)||0)),tier=TIERS[pos]||null;   // position 1-5 (1 = top)
+    var pk=!!(pos||it.__pk)&&!it.html;       // paid slot (has a position): gets a FIXED size layout. Entries without a position keep the normal flexible card.
+    // label colour: a preset name (green gold red blue purple orange gray silver bronze) or any hex colour
+    var lc=String(it.labelColor||""),lcls="",lsty="";
+    if(!lc&&tier)lc=tier.cls;                      // no labelColor given: use the position's colour (gold / silver / bronze ...)
+    if(/^(green|gold|red|blue|purple|orange|gray|silver|bronze|platinum)$/i.test(lc))lcls=" ft-sp-c-"+lc.toLowerCase();
+    else if(/^#[0-9a-f]{3,8}$/i.test(lc))lsty=' style="color:'+lc+';border-color:'+lc+';background:'+lc+'26"';
+    // accent colour for the heading + card border (preset or hex)
+    var ac=String(it.color||""),acHex={green:"#32d74b",gold:"#ffd60a",red:"#ff6961",blue:"#64b5ff",purple:"#c9a0ff",orange:"#ffb340",gray:"#d1d1d6",silver:"#c7ccd6",platinum:"#cfd6e4",bronze:"#ff9f5a"};
+    ac=acHex[ac.toLowerCase()]||(/^#[0-9a-f]{3,8}$/i.test(ac)?ac:"");
+    var small=pk&&szc==="s";                       // small slots are a compact list row: label + tier in the badges, details in ONE line under the text
+    var sizeName=szc==="s"?"Small":szc==="m"?"Medium":"Large";
+    var chips=small?"":(Array.isArray(it.tags)?it.tags.slice(0,4):[]).map(function(t){return'<span class="ft-sp-chip">'+esc(t)+'</span>'}).join("");
+    // EVERY SLOT SHOWS: price, size and end date.  (price comes from the rateCard table; vacant slots say "Available")
+    var endMs=parseDate(it.end,true),endTxt=it.__vac?"🟢 Available now":(endMs?"Ends "+fmtDT(endMs):"");
+    var cdLive=it.countdown&&endMs&&!it.__vac;
+    var priceTxt=it.price?"🏷️ "+it.price:"";
+    var metaParts=[priceTxt,pk?"📐 "+sizeName:"",cdLive?"":endTxt].filter(Boolean);
+    var cdSpan=cdLive?'<span class="ft-sp-cd" data-end="'+endMs+'">⏳ '+esc(leftText(endMs-Date.now()))+'</span>':"";
+    if(!pk&&endMs&&!it.__vac)metaParts=[priceTxt,cdLive?"":endTxt].filter(Boolean);
+    var metaLine=esc(metaParts.join("  ·  "))+(cdSpan?(metaParts.length?"  ·  ":"")+cdSpan:"");
+    var priceTag="";
+    // all details go in the TAG ROW at the top of the card: price, size, end date (or live countdown)
+    if(it.price)chips+='<span class="ft-sp-chip ft-sp-price">'+esc(priceTxt)+'</span>';
+    if(pk)chips+='<span class="ft-sp-chip">📐 '+sizeName+'</span>';
+    if(cdLive)chips+='<span class="ft-sp-chip ft-sp-cd" data-end="'+endMs+'">⏳ '+esc(leftText(endMs-Date.now()))+'</span>';
+    else if(endTxt)chips+='<span class="ft-sp-chip'+(it.__vac?' ft-sp-ok':'')+'">'+esc(endTxt)+'</span>';
+    var badges='<div class="ft-sp-badges"><span class="ft-sp-tag'+lcls+'"'+lsty+'>'+tag+'</span>'+
+      (tier&&!it.__vac?'<span class="ft-sp-tag tier ft-sp-c-'+tier.cls+'">'+tier.icon+' '+tier.name+'</span>':'')+(it.pinned&&!tier?'<span class="ft-sp-tag ft-sp-c-gold">📌 Pinned</span>':'')+chips+'</div>';
+    var cls='ft-sp-item'+(it.pinned?' ft-sp-pinned':'')+(pk?' ft-sp-pk ft-sp-sz-'+szc:'')+(pos&&!it.__vac?' ft-sp-p'+pos:'')+(it.__sample?' ft-sp-sample':'')+(it.__vac?' ft-sp-vac':'')+(it.html?' ft-sp-ad':'');
+    var open='<div class="'+cls+'" data-id="'+esc(id)+'"'+(pos&&!it.__vac&&!it.__sample?' data-slot="'+pos+'"':'')+(ac?' style="border-color:'+ac+'"':'')+'>';
+    // heading colour: white by default. "titleColor" = any colour (preset name or hex), independent of the card border colour.
+    var tc=String(it.titleColor||"").toLowerCase(),tcv=acHex[tc]||(/^#[0-9a-f]{3,8}$/i.test(tc)?tc:"");
+    var hStyle=tcv?' style="color:'+tcv+'"':'';
+    var imgUrl=safeUrl(it.image);
+
+    if(it.html){
+      /* RAW AD CODE. Runs inside a sandboxed iframe, so it cannot read or change FreeTV Garden itself.
+         allow-scripts  : ad scripts can run;  allow-popups : ad clicks can open the advertiser's page.
+         Default = NO allow-same-origin (safest). Ad networks that refuse to render in that mode can be
+         switched on per entry with "sameOrigin": true  (only do that for code you trust). */
+      var sb="allow-scripts allow-popups allow-popups-to-escape-sandbox allow-forms"+(it.sameOrigin===true?" allow-same-origin":"");
+      var hgt=Math.max(40,Math.min(1200,parseInt(it.height,10)||250));
+      var doc='<!doctype html><html><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">'+
+        '<style>html,body{margin:0;padding:0;background:transparent;text-align:center}body{display:flex;justify-content:center;align-items:flex-start}img,iframe{max-width:100%}</style></head><body>'+it.html+'</body></html>';
+      var bg=/^(#[0-9a-f]{3,8}|rgba?\([\d\s.,%]+\)|[a-z]+)$/i.test(String(it.background||""))?it.background:"transparent";   // optional per-ad background colour
+      return open+badges+'<iframe class="ft-sp-frame" style="height:'+hgt+'px;background:'+bg+'" sandbox="'+sb+'" loading="lazy" srcdoc="'+esc(doc)+'"></iframe></div>';
+    }
+
+    // ---------- SMALL SLOT: compact list row (the whole row is the link) ----------
+    if(small){
+      var th=it.__vac?'<div class="ft-sp-th ph">+</div>':it.__ph?'<div class="ft-sp-th ph">'+(tier&&tier.icon?tier.icon:"📢")+'</div>':(imgUrl?'<img class="ft-sp-th" loading="lazy" src="'+esc(imgUrl)+'" alt="" onerror="this.style.display=\'none\'">':'<div class="ft-sp-th ph">'+(tier&&tier.icon?tier.icon:"📢")+'</div>');
+      var rowIn=th+'<div class="ft-sp-rmain">'+badges+(it.title?'<div class="ft-sp-h"'+hStyle+'>'+esc(it.title)+'</div>':'')+(it.text?'<div class="ft-sp-t ft-sp-tx">'+md(it.text)+'</div>':'')+'</div>'+(link?'<span class="ft-sp-chev">›</span>':'');
+      return open+(link?'<a class="ft-sp-rowlink" data-sp="'+esc(id)+'" href="'+esc(link)+'" target="_blank" rel="sponsored nofollow noopener noreferrer">'+rowIn+'</a>':'<div class="ft-sp-rowlink">'+rowIn+'</div>')+'</div>';
+    }
+
+    // ---------- picture ----------
+    var im="";
+    if(it.__ph)im='<div class="ft-sp-img ph">IMAGE</div>';
+    else if(imgUrl)im='<img class="ft-sp-img" loading="lazy" src="'+esc(imgUrl)+'" alt="'+esc(it.imageAlt||it.title||"")+'" onerror="this.style.display=\'none\'">';
+    var imLinked=im&&link&&!it.__ph?'<a class="ft-sp-imglink'+(pk&&szc==="m"?' ft-sp-mlink':'')+'" data-sp="'+esc(id)+'" href="'+esc(link)+'" target="_blank" rel="sponsored nofollow noopener noreferrer">'+im+'</a>':(im&&pk&&szc==="m"?'<div class="ft-sp-mlink">'+im+'</div>':im);
+
+    // ---------- text part ----------
+    var inner="";
+    if(it.title||it.text||(link&&it.button)||it.contacts||it.more){
+      inner='<div class="ft-sp-inner">';
+      if(it.title)inner+='<div class="ft-sp-h"'+hStyle+'>'+esc(it.title)+'</div>';
+      if(it.text)inner+='<div class="ft-sp-t ft-sp-tx">'+md(it.text)+'</div>';
+      inner+=renderContacts(it.contacts);
+      if(it.more)inner+='<div class="ft-sp-more ft-sp-t">'+md(it.more)+'</div>';
+      if(link&&it.button)inner+='<a class="ft-sp-btn" data-sp="'+esc(id)+'" href="'+esc(link)+'" target="_blank" rel="sponsored nofollow noopener noreferrer">'+esc(it.button)+'</a>';
+      inner+='</div>';
+    }
+    var tog=it.more?'<button type="button" class="ft-sp-tog" data-show="'+esc(it.moreLabel||"Show more pricing & details")+'" data-hide="'+esc(it.lessLabel||"Show less")+'">'+esc(it.moreLabel||"Show more pricing & details")+'</button>':'';
+
+    // MEDIUM SLOT: picture on the left, text on the right (fixed height)
+    if(pk&&szc==="m")return open+badges+'<div class="ft-sp-mbody">'+imLinked+inner+'</div></div>';
+    // LARGE slot / normal card: picture on top, then text
+    return open+badges+imLinked+inner+tog+'</div>';
+  }
+  // VACANT SLOTS: your own ad ("rateCard.vacant.html", tag "Ad") and "Advertise here" messages (tag "Advertise").
+  // They are ALWAYS shown AFTER all paid slots - never above a paid slot or between two paid slots.
+  function vacantMsg(n){
+    var v=(rateCard&&rateCard.vacant)||{},sz=String(v.size||"small").toLowerCase();
+    return renderItem({__i:-1,__vac:true,id:"vacant-"+n,position:n,size:sz,label:v.messageLabel||"Advertise",
+      title:v.title||"Advertise here",text:v.text||"This slot is free. Promote your website, app or channel here.",
+      link:"#board",button:v.button||"Book this slot",price:priceFor(n,sz==="large"||sz==="l"?"large":sz==="medium"||sz==="m"?"medium":"small")});
+  }
+  // minimum price in the rateCard table (e.g. "₹9"), used by the default offer text
+  function minPrice(){var best=null,P=(rateCard&&rateCard.positions)||[];
+    P.forEach(function(x){["small","medium","large"].forEach(function(k){var m=money(x&&x[k]);if(m&&(best===null||m.n<best.n))best=m})});
+    return best?fmtMoney(best,best.n):""}
+  // HERO = offer + slot status in one block. top-level "offer": {"price":"₹9","priceNote":"for 24 hr","text":"...","more":"...","button":"Show more","open":false,"enabled":false}
+  // price defaults to the lowest price in the table.
+  function offerHtml(){
+    var o=offer;if(o===false)return"";
+    if(!o||typeof o!=="object")o={};
+    if(o.enabled===false)return"";
+    var price=o.price||(slotMode()?minPrice():""),note=o.priceNote||"for 24 hr",text=o.text||(slotMode()?"Anyone can book a slot":"");
+    if(!price&&!text)return"";
+    var tx=text?md(text).replace(/^<p[^>]*>|<\/p>$/g,"").replace(/<\/p><p[^>]*>/g,"<br>"):"";
+    var dots="";
+    if(slotMode()){var n5=Math.min(5,rateCard.positions.length),fr=0;dots='<div class="ft-sp-dots">';
+      for(var q=1;q<=n5;q++){var qi=slotInfo(q);if(qi.free)fr++;dots+='<button type="button" class="ft-sp-dot2 '+(qi.free?'free':'busy')+'" data-strip="'+q+'" title="Slot #'+q+(qi.free?' vacant':' booked')+'">'+q+'</button>'}
+      dots+='<em>'+fr+' free</em></div>'}
+    var more=o.more?'<div class="ft-sp-offer-more">'+md(o.more)+(slotMode()?'<div class="ft-sp-offer-cta"><button type="button" class="a" data-sheet="0">📝 Book a slot</button><button type="button" class="b" data-offerboard="1">View prices</button></div>':'')+'</div>':'';
+    return'<div class="ft-sp-hero'+(o.open===true?' open':'')+'" id="ft-sp-offer"><div class="ft-sp-hero-top">'+
+      (price?'<div class="ft-sp-bigp"><span>'+esc(price)+'</span><small>'+esc(note)+'</small></div>':'')+
+      '<div class="ft-sp-hero-mid">'+(tx?'<div class="ft-sp-hero-t">'+tx+'</div>':'')+dots+'</div>'+
+      (more?'<button type="button" class="ft-sp-offer-b" data-offer="1" data-show="'+esc(o.button||"Show more")+'" data-hide="Show less">'+esc(o.open===true?"Show less":(o.button||"Show more"))+'</button>':'')+'</div>'+more+'</div>';
+  }
+  function slotMode(){return !!(rateCard&&Array.isArray(rateCard.positions)&&rateCard.positions.length)}
+  // order in the panel (slot mode): 1) booked slots by position  2) your ad (always)  3) "Advertise here" cards for the vacant positions
+  function cardsHtml(){
+    if(!slotMode())return offerHtml()+items.map(renderItem).join("");
+    var v=rateCard.vacant||{},paid="",vac=[],adH="",msgH="";
+    for(var n=1;n<=Math.min(5,rateCard.positions.length);n++){
+      var it=null;for(var i=0;i<items.length;i++){if(parseInt(items[i].position,10)===n){it=items[i];break}}
+      if(it)paid+=renderItem(it);else vac.push(n)}
+    if(v.html)for(var k=0;k<(parseInt(v.maxAds,10)||1);k++)
+      adH+=renderItem({__i:-1,id:"vacant-ad-"+k,label:v.label||"Ad",html:v.html,height:v.height,sameOrigin:v.sameOrigin===true,background:v.background});
+    msgH=vac.map(vacantMsg).join("");
+    var extra="";items.forEach(function(x){if(!(parseInt(x.position,10)>=1)&&x.extra===true)extra+=renderItem(x)});   // "extra":true = also show a non-slot entry
+    return offerHtml()+paid+adH+msgH+extra;
+  }
+  function render(){
+    var body=panel.querySelector(".ft-sp-body");
+    body.innerHTML=((items&&items.length)||slotMode())?cardsHtml()+renderRates(rateCard,items)+(footer?'<div class="ft-sp-foot">'+esc(footer)+(contactInfo().em?' <a href="mailto:'+esc(contactInfo().em)+'?subject='+esc(encodeURIComponent("Report an ad on FreeTV Garden"))+'">Report an ad</a>':'')+'</div>':""):'<div class="ft-sp-empty">No sponsored content right now.</div>';
+    if(!PAGE)body.scrollTop=0;
+    var ab=panel.querySelector("#ft-sp-adv");if(ab){var has=!!(rateCard&&((rateCard.positions&&rateCard.positions.length)||(rateCard.slots&&rateCard.slots.length)));ab.classList.toggle("show",has);ab.textContent="📣 "+((rateCard&&rateCard.headButton)||"Advertise")}
+  }
+
+  /* ---------------- unread dot ---------------- */
+  function signature(){return(items||[]).map(function(i){return i.id||i.__i}).join("|")+(slotMode()?"|slots":"")}
+  function updateDot(){var n=!!((items&&items.length)||slotMode())&&lsGet(SEEN_KEY)!==signature();
+    if(btn)btn.classList.toggle("ft-sp-new",n);if(barBtn)barBtn.classList.toggle("ft-sp-new",n)}
+
+  /* ---------------- open / close ---------------- */
+  function build(){
+    panel=document.createElement("div");panel.id="ft-sp-panel";
+    panel.setAttribute("role","dialog");panel.setAttribute("aria-label","Sponsored");
+    panel.innerHTML='<div class="ft-sp-head"><div class="ft-sp-title">📢 Sponsored</div><button type="button" class="ft-sp-cur" id="ft-sp-cur" title="Change currency"></button><button type="button" class="ft-sp-adv" id="ft-sp-adv">📣 Advertise</button><button class="ft-sp-x" id="ft-sp-close" aria-label="Close">✕</button></div><div class="ft-sp-body"></div><div class="ft-sp-sheet" id="ft-sp-sheet" role="dialog" aria-modal="true" aria-label="Book an ad slot"></div>';
+    (PAGE?document.getElementById("sp-root"):document.body).appendChild(panel);
+    panel.querySelector("#ft-sp-close").onclick=close;
+    var curB=panel.querySelector("#ft-sp-cur");
+    function curLabel(){curB.textContent=curMode==="USD"?"$ USD":"₹ INR"}
+    curLabel();
+    curB.onclick=function(){curMode=curMode==="USD"?"INR":"USD";try{localStorage.setItem("ft-sp-cur",curMode)}catch(e){}
+      curLabel();if(lastJson)applyJson(lastJson);render();if(sheetOpen())renderSheet();track("sponsored_currency",curMode)};   // FIX: popup prices refresh too
+    // count clicks on links, buttons and banners (GA4 event sponsored_click)
+    panel.addEventListener("input",function(e){var t=e.target;
+      if(t.id==="ft-sh-start"){var mn=minStart(sh.pos);sh.start=(t.value&&t.value>=mn)?t.value:mn}
+      else if(t.id==="ft-sh-days"){var dv=parseInt(t.value,10);sh.days=dv>=1?Math.min(365,dv):1}else if(t.id==="ft-sh-link")sh.link=t.value.trim();else if(t.id==="ft-sh-note")sh.note=t.value.trim();else return;
+      updateSheetSummary()});
+    panel.addEventListener("click",function(e){
+      var ofB=e.target.closest&&e.target.closest("[data-offer]");
+      if(ofB){var ob=ofB.closest(".ft-sp-hero"),oo=ob.classList.toggle("open");ofB.textContent=oo?ofB.getAttribute("data-hide"):ofB.getAttribute("data-show");if(oo)track("sponsored_offer_expand","");return}
+      var ofV=e.target.closest&&e.target.closest("[data-offerboard]");
+      if(ofV){var rc3=panel.querySelector("#ft-sp-rates");if(rc3){rc3.classList.add("open");var rt3=rc3.querySelector("[data-rates]");if(rt3)rt3.textContent=rt3.getAttribute("data-hide");rc3.scrollIntoView({behavior:"smooth",block:"start"})}return}
+      var shX=e.target.closest&&e.target.closest("[data-shclose]");
+      if(shX){closeSheet();return}
+      var chB=e.target.closest&&e.target.closest("[data-sh]");
+      if(chB&&!chB.disabled){var k=chB.getAttribute("data-sh"),v=chB.getAttribute("data-v");
+        if(k==="pos"){sh.pos=parseInt(v,10);sh.start=""}else if(k==="size")sh.size=v;else if(k==="days"){sh.days=parseInt(v,10);sh.custom=false}else if(k==="custom"){sh.custom=true;if(!(sh.days>=1))sh.days=1}
+        renderSheet();return}
+      var cpm=e.target.closest&&e.target.closest("[data-copymsg]");
+      if(cpm){var tx=bookingMsg().text,dn=function(){var t0=cpm.textContent;cpm.textContent="Copied ✓";setTimeout(function(){cpm.textContent=t0},1500)};
+        try{navigator.clipboard.writeText(tx).then(dn,dn)}catch(x){try{var ta=document.createElement("textarea");ta.value=tx;ta.style.cssText="position:fixed;opacity:0";document.body.appendChild(ta);ta.select();document.execCommand("copy");document.body.removeChild(ta);dn()}catch(y){}}
+        track("sponsored_copy_request","",{position:String(sh.pos)});return}
+      var shB=e.target.closest&&e.target.closest("[data-sheet]");
+      if(shB){openSheet(parseInt(shB.getAttribute("data-sheet"),10)||0);return}
+      var stB=e.target.closest&&e.target.closest("[data-strip]");
+      if(stB){var sn=parseInt(stB.getAttribute("data-strip"),10);
+        if(slotInfo(sn).free){openSheet(sn)}else{var cardEl=panel.querySelector('[data-slot="'+sn+'"]');if(cardEl)cardEl.scrollIntoView({behavior:"smooth",block:"center"});else openSheet(sn)}
+        return}
+      var bdA=e.target.closest&&e.target.closest('a[href="#board"]');
+      if(bdA){e.preventDefault();var vid=bdA.closest(".ft-sp-item")?bdA.closest(".ft-sp-item").getAttribute("data-id"):"",vm=String(vid).match(/vacant-(\d)/);track("sponsored_vacant_click",vid);openSheet(vm?parseInt(vm[1],10):0);return}
+      var advB=e.target.closest&&e.target.closest("#ft-sp-adv");
+      if(advB){var rc=panel.querySelector("#ft-sp-rates");if(rc){rc.classList.add("open");var rt=rc.querySelector("[data-rates]");if(rt)rt.textContent=rt.getAttribute("data-hide");rc.scrollIntoView({behavior:"smooth",block:"start"})}track("sponsored_advertise_click","");return}
+      var gt=e.target.closest&&e.target.closest(".ft-sp-gtog");
+      if(gt){var gd=gt.nextElementSibling,go=gd.classList.toggle("open");gt.textContent=go?gt.getAttribute("data-hide"):gt.getAttribute("data-show");return}
+      var bn=e.target.closest&&e.target.closest(".ft-sp-booknow");
+      if(bn){var bo=bn.nextElementSibling;bo.classList.toggle("open");track("sponsored_booknow_click","",{position:bn.getAttribute("data-pos")});return}
+      var bkA=e.target.closest&&e.target.closest("a.ft-sp-bkrow");
+      if(bkA){track("sponsored_book_click","",{position:bkA.getAttribute("data-pos"),via:bkA.getAttribute("data-via")});return}
+      var tg=e.target.closest&&e.target.closest(".ft-sp-tog,.ft-sp-copy");
+      if(tg){var bx=tg.closest(".ft-sp-item,.ft-sp-rates"),id=bx&&bx.getAttribute("data-id");
+        if(tg.getAttribute("data-rates")){var ro=bx.classList.toggle("open");tg.textContent=ro?tg.getAttribute("data-hide"):tg.getAttribute("data-show");if(ro)track("sponsored_rates_open","");return}
+        if(tg.classList.contains("ft-sp-tog")){var o=bx.classList.toggle("open");tg.textContent=o?tg.getAttribute("data-hide"):tg.getAttribute("data-show");if(o)track("sponsored_expand",id)}
+        else{var v=tg.getAttribute("data-copy"),done=function(){var t=tg.textContent;tg.textContent="Copied ✓";setTimeout(function(){tg.textContent=t},1400)};
+          try{navigator.clipboard.writeText(v).then(done,done)}catch(x){try{var ta=document.createElement("textarea");ta.value=v;ta.style.cssText="position:fixed;opacity:0";document.body.appendChild(ta);ta.select();document.execCommand("copy");document.body.removeChild(ta);done()}catch(y){}}
+          track("sponsored_copy",id)}
+        return}
+      var a=e.target.closest&&e.target.closest("a[href]"),box=a&&a.closest(".ft-sp-item");
+      if(!box)return;
+      var kind=a.classList.contains("ft-sp-rowlink")?"row":a.classList.contains("ft-sp-contact-link")?"contact":a.classList.contains("ft-sp-btn")?"button":(a.classList.contains("ft-sp-imglink")?"image":"text_link");
+      track("sponsored_click",box.getAttribute("data-id"),{click_type:kind,link_domain:domainOf(a.getAttribute("href"))});
+    });
+  }
+  function open(){
+    if(!panel)build();
+    // make sure the Recent/Favourites list and the notices/language panels are not open underneath
+    try{var rf=document.getElementById("ft-rf-overlay");if(rf&&rf.classList.contains("open"))document.getElementById("ft-rf-close").click()}catch(e){}
+    try{var n=document.getElementById("ft-notif-panel");if(n&&n.classList.contains("open"))document.getElementById("ft-notif-close").click()}catch(e){}
+    try{var l=document.getElementById("ft-lang-panel");if(l&&l.classList.contains("open"))document.getElementById("ft-lang-close").click()}catch(e){}
+    ["ft-rf-tab-recent","ft-rf-tab-fav"].forEach(function(id){var b=document.getElementById(id);if(b)b.classList.remove("active")});
+    render();panel.classList.add("open");if(btn)btn.classList.add("active");if(barBtn)barBtn.classList.add("active");
+    lsSet(SEEN_KEY,signature());updateDot();
+    track("sponsored_open","",{item_count:(items||[]).length});          // GA4: how many times the panel was opened
+    clearInterval(cdTimer);cdTimer=setInterval(function(){tickCountdowns();expireCheck()},20000);   // refresh countdown chips every 20s while open
+    watchViews();                                                          // GA4: sponsored_view per entry, when scrolled into sight
+    // quietly refresh if the data is old (a new ad you just committed shows without a page reload)
+    if(Date.now()-loadedAt>STALE_MS)load().then(function(){if(panel.classList.contains("open"))render()});
+  }
+  /* sponsored_view = an entry was actually visible (>=50%) in the panel. Counted once per entry per opening. */
+  var viewObs=null;
+  function watchViews(){
+    try{
+      if(viewObs)viewObs.disconnect();
+      var els=panel.querySelectorAll(".ft-sp-item");
+      if(!("IntersectionObserver" in window)){Array.prototype.forEach.call(els,function(el){track("sponsored_view",el.getAttribute("data-id"))});return}
+      viewObs=new IntersectionObserver(function(es){es.forEach(function(en){
+        if(en.isIntersecting){track("sponsored_view",en.target.getAttribute("data-id"));viewObs.unobserve(en.target)}})},{root:PAGE?null:panel.querySelector(".ft-sp-body"),threshold:.5});
+      Array.prototype.forEach.call(els,function(el){viewObs.observe(el)});
+    }catch(e){}
+  }
+  /* CLICKS INSIDE AN HTML AD: the browser hides what happens inside an ad iframe, but when someone taps/clicks it,
+     the page loses focus and the iframe becomes the "active element". We count that as a click on that ad. */
+  window.addEventListener("blur",function(){setTimeout(function(){
+    try{var a=document.activeElement;
+      if(a&&a.classList&&a.classList.contains("ft-sp-frame")){
+        var box=a.closest(".ft-sp-item");if(box)track("sponsored_click",box.getAttribute("data-id"),{click_type:"html_ad"});
+        setTimeout(function(){try{window.focus()}catch(e){}},0)}   // take focus back so the NEXT click is counted too
+    }catch(e){}},0)});
+  function close(){if(PAGE){closeSheet();return}clearInterval(cdTimer);closeSheet();if(viewObs){viewObs.disconnect()}if(panel){panel.classList.remove("open");
+    // empty the panel so ad iframes stop running while it is hidden
+    var b=panel.querySelector(".ft-sp-body");if(b)b.innerHTML=""}
+    if(btn)btn.classList.remove("active");if(barBtn)barBtn.classList.remove("active")}
+  function expireCheck(){try{
+    if(!lastJson||!panel||!panel.classList.contains("open"))return;
+    var n=Date.now();
+    if((items||[]).some(function(it){var e=parseDate(it.end,true);return e!==null&&e<n})){applyJson(lastJson);render();watchViews()}   // something expired: rebuild without it
+  }catch(e){}}
+  document.addEventListener("visibilitychange",function(){if(!document.hidden)expireCheck()});
+  function isOpen(){return !!(panel&&panel.classList.contains("open"))}
+
+  /* ---------------- create the pill (only when there is something to show) ---------------- */
+  function addButton(){
+    if(btn||!items||!(items.length||slotMode()))return;
+    var recent=document.getElementById("ft-rf-tab-recent");
+    if(!recent||!recent.parentNode)return;
+    btn=document.createElement("button");
+    btn.className="ft-rf-tab";btn.id="ft-sp-tab";btn.type="button";
+    btn.innerHTML='📢 Sponsored<span class="ft-sp-dot"></span>';
+    recent.parentNode.insertBefore(btn,recent);          // <- placed BEFORE Recent
+    btn.addEventListener("click",function(){isOpen()?close():open()});
+    updateDot();
+  }
+  /* icon-only button in the player bar: placed right after the favourite star (found by id/class/text/label containing
+     epg / guide / schedule). If no EPG button is found it goes just before the report-flag icon, or at the end. */
+  function placeBarBtn(){
+    try{
+      var bar=document.querySelector(".now-playing-bar");
+      if(!bar||!items||!(items.length||slotMode()))return;
+      if(!barBtn){
+        barBtn=document.createElement("button");barBtn.id="ft-sp-bar";barBtn.type="button";
+        barBtn.title="Sponsored";barBtn.setAttribute("aria-label","Sponsored");
+        // megaphone + $ coin icon, no text (own drawing)
+        barBtn.innerHTML='<svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="7.5" cy="12" r="6"/><path d="M7.5 8.2v7.6M9.6 9.7c-.4-.8-1.1-1.1-2.1-1.1-1.2 0-2 .6-2 1.5s.8 1.3 2 1.5 2 .6 2 1.6-.8 1.5-2 1.5c-1 0-1.8-.4-2.2-1.2"/><path d="M14.2 9l5.8-3.4v12.8L14.2 15"/><path d="M22.3 10v4"/></svg><span class="ft-sp-dot"></span>';
+        barBtn.addEventListener("click",function(e){e.stopPropagation();isOpen()?close():open()});   // stopPropagation: the bar is draggable
+        updateDot();
+      }
+      /* put the icon right AFTER the favourite star (#np-fav-star). If the star is not there yet, fall back to
+         "after the EPG button", then "before the report flag", then the end of the bar. */
+      var anchor=document.getElementById("np-fav-star");
+      if(!anchor||!bar.contains(anchor)){
+        [].some.call(bar.querySelectorAll("button,a,div,span"),function(n){
+          if(n===barBtn||barBtn.contains(n))return false;
+          var t=((n.id||"")+" "+(n.getAttribute("aria-label")||"")+" "+(n.title||"")+" "+((n.children.length?"":n.textContent)||"")).toLowerCase();
+          if(/epg|guide|schedule/.test(t)){anchor=n;return true}return false})}
+      while(anchor&&anchor.parentNode!==bar)anchor=anchor.parentNode;   // climb to the bar's direct child
+      if(anchor){if(anchor.nextSibling!==barBtn)bar.insertBefore(barBtn,anchor.nextSibling)}
+      else{var rp=document.getElementById("ft-report-btn");
+        if(rp&&rp.parentNode===bar){if(barBtn.nextSibling!==rp)bar.insertBefore(barBtn,rp)}
+        else if(barBtn.parentNode!==bar)bar.appendChild(barBtn)}
+    }catch(e){}
+  }
+  function watchBar(){
+    placeBarBtn();
+    try{var bar=document.querySelector(".now-playing-bar");
+      if(bar&&window.MutationObserver){var busy=false;new MutationObserver(function(){   // the EPG button can appear later / be rebuilt: keep us next to it
+        if(busy)return;busy=true;setTimeout(function(){busy=false;placeBarBtn()},150)}).observe(bar,{childList:true})}}catch(e){}
+  }
+
+  // opening Recent / Favourites closes the sponsored panel
+  document.addEventListener("click",function(e){
+    var t=e.target&&e.target.closest&&e.target.closest("#ft-rf-tab-recent,#ft-rf-tab-fav");
+    if(t&&isOpen())close();
+  },true);
+  document.addEventListener("keydown",function(e){if(e.key==="Escape"&&isOpen()){if(sheetOpen())closeSheet();else close()}});
+  // FIX: click / tap OUTSIDE the booking popup closes it (buttons that open the popup are ignored)
+  document.addEventListener("click",function(e){
+    if(!sheetOpen())return;var t=e.target;if(!t||!t.closest)return;
+    if(t.closest("#ft-sp-sheet")||t.closest("[data-sheet],[data-strip],a[href='#board']"))return;
+    closeSheet();
+  },true);
+  // on a phone the notices bell / language picker open full-screen panels: close ours first
+  document.addEventListener("click",function(e){
+    if(isOpen()&&e.target.closest&&e.target.closest("#notif-btn,#btn-select-lang"))close();
+  },true);
+
+  /* ---------------- start AFTER the page has loaded and the browser is idle (no effect on load speed) ---------------- */
+  function start(){load().then(function(){if(PAGE){open();return}addButton();watchBar()})}
+  function whenIdle(){("requestIdleCallback"in window)?requestIdleCallback(start,{timeout:4000}):setTimeout(start,3000)}
+  if(PAGE)start();   // standalone page: start right away
+  else if(document.readyState==="complete")setTimeout(whenIdle,2500);
+  else window.addEventListener("load",function(){setTimeout(whenIdle,2500)});
+}catch(err){}})();
+</script>
+</body>
+</html>
