@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="AfroMagicChannel.ci" tvg-country="CI" tvg-language="French" tvg-logo="https://i.imgur.com/yQzXErU.png" tvg-status="down" group-title="Culture",Afro Magic Channel
 https://video1.getstreamhosting.com:1936/8306/8306/playlist.m3u8
-#EXTINF:-1 tvg-id="AfrocultureTV.ci" tvg-country="CI" tvg-language="French" tvg-logo="https://i.imgur.com/bjaZ3kO.png" tvg-status="down" group-title="Culture",Afroculture TV
+#EXTINF:-1 tvg-id="AfrocultureTV.ci" tvg-country="CI" tvg-language="French" tvg-logo="https://i.imgur.com/bjaZ3kO.png" tvg-status="live" group-title="Culture",Afroculture TV
 https://streamtv.cmediahosthosting.net:3836/live/myafroculturelive.m3u8
 #EXTINF:-1 tvg-id="AlternaTV.ar" tvg-country="AR" tvg-language="Spanish" tvg-logo="https://tv.alterna.ar/alternatv.png" tvg-status="live" group-title="Music",AlternaTV
 https://tv.alterna.ar/stream/hls/live.m3u8
@@ -27,7 +27,7 @@ https://belafrikamediatv.vedge.infomaniak.com/livecast/ik:belafrikamediatv/manif
 https://cdn.stmify.com/bbc/stream/BBC_FOUR/hevc_iptv_mse_v0.mpd
 #EXTINF:-1 tvg-id="CCTV8.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://i.imgur.com/GyHaZ8X.png" tvg-native-name="CCTV-8 电视剧" tvg-status="live" group-title="Culture",CCTV-8
 http://74.91.26.218:82/live/cctv8hd.m3u8
-#EXTINF:-1 tvg-id="ChannelOne.us" tvg-country="US" tvg-language="Persian" tvg-logo="https://i.imgur.com/igskUo0.png" tvg-status="live" group-title="News",Channel One
+#EXTINF:-1 tvg-id="ChannelOne.us" tvg-country="US" tvg-language="Persian" tvg-logo="https://i.imgur.com/igskUo0.png" tvg-status="down" group-title="News",Channel One
 https://pemirateshls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="Condavision.es" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/dlrazec.png" tvg-status="down" group-title="Culture",Condavision
 https://5d8d85cf2c308.streamlock.net:1936/Condavision/endirecto/playlist.m3u8
@@ -51,7 +51,7 @@ https://foxsoul-vizio.amagi.tv/playlist.m3u8
 https://og2qd3aal7an-hls-live.5centscdn.com/garshomtv/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="GikTVMX.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/Gwz78jZ.png" tvg-status="down" group-title="Culture",GikTVMX
 https://pistream.ddns.net/hls/stream.m3u8
-#EXTINF:-1 tvg-id="GuaymateTV.do" tvg-country="DO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/PBgQi9a.png" tvg-status="live" group-title="Culture",Guaymate TV
+#EXTINF:-1 tvg-id="GuaymateTV.do" tvg-country="DO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/PBgQi9a.png" tvg-status="down" group-title="Culture",Guaymate TV
 https://live20.bozztv.com/akamaissh101/ssh101/guaymatetv/playlist.m3u8
 #EXTINF:-1 tvg-id="HakkaTV.tw" tvg-country="TW" tvg-language="Chinese" tvg-logo="https://i.imgur.com/1CdGSbU.png" tvg-native-name="客家電視台" tvg-status="live" group-title="Culture",Hakka TV
 https://h5cul1yar48um3t.wcetv.com/hls/hakkatv.m3u8
@@ -135,11 +135,11 @@ http://200.122.223.13:55000/play/raizal-tv-ses-6/index.m3u8
 https://live.smotrim.ru/vgtrk/0/kultura-hd/index.m3u8
 #EXTINF:-1 tvg-id="SaudiThaqafiyaTV.sa" tvg-country="SA" tvg-language="Arabic" tvg-logo="https://shahid.mbc.net/mediaObject/55f69983-5b4b-47c7-9c25-06ed5ad860a4?height=auto&width=512&croppingPoint=&version=1&type=jpeg" tvg-native-name="الثقافية السعودية" tvg-status="live" group-title="Culture",Saudi Thaqafiya TV
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-thaqafeyyah/28c0d2a20dbf1dc049ce15d3973f494b/index.m3u8
-#EXTINF:-1 tvg-id="SenalU.ar" tvg-country="AR" tvg-language="Spanish" tvg-logo="https://i.ibb.co/yBYcKTj/Senal-U-Uncuyo-en-vivo-Online.png" tvg-status="live" group-title="Culture",Senal U
+#EXTINF:-1 tvg-id="SenalU.ar" tvg-country="AR" tvg-language="Spanish" tvg-logo="https://i.ibb.co/yBYcKTj/Senal-U-Uncuyo-en-vivo-Online.png" tvg-status="down" group-title="Culture",Senal U
 https://live20.bozztv.com/giatv/giatv-canal30tda/canal30tda/chunks.m3u8
 #EXTINF:-1 tvg-id="ShikshaTV.in" tvg-country="IN" tvg-language="Bengali" tvg-logo="https://play-lh.googleusercontent.com/1ibQhkMCsnXaI9LOiZH-Iyw8rM8CMVJEZAlbFphWuZApSPIp-eZsjltDlN6rqJzIonQ" tvg-status="live" group-title="Culture",Shiksha TV
 http://103.89.46.106:8080/hls/shikshatvhd/index.m3u8
-#EXTINF:-1 tvg-id="SomosEntreRios.ar" tvg-country="AR" tvg-language="Spanish" tvg-logo="https://files.catbox.moe/ufv5z0.png" tvg-status="live" group-title="General",Somos Entre Rios
+#EXTINF:-1 tvg-id="SomosEntreRios.ar" tvg-country="AR" tvg-language="Spanish" tvg-logo="https://files.catbox.moe/ufv5z0.png" tvg-status="down" group-title="General",Somos Entre Rios
 https://live20.bozztv.com/akamaissh101/ssh101/somosentrerios/playlist.m3u8
 #EXTINF:-1 tvg-id="SuperscreenTV.ng" tvg-country="NG" tvg-language="English" tvg-logo="https://i.imgur.com/uTNmSWE.png" tvg-status="down" group-title="Culture",Superscreen TV
 https://video1.getstreamhosting.com:1936/8398/8398/playlist.m3u8
