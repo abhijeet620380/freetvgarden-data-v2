@@ -19,8 +19,6 @@ http://nue01-edge01.itdc.ge/euronewsgeorgia/mpegts
 https://c4635.cdn.xsg.ge/c4635/TVFormula/index.m3u8
 #EXTINF:-1 tvg-id="GDSTV.ge" tvg-country="GE" tvg-language="Georgian" tvg-logo="https://i.imgur.com/gv61tFf.png" tvg-status="down" group-title="General",GDS TV
 http://31.146.5.178:8087/play/a00a/index.m3u8
-#EXTINF:-1 tvg-id="GMSTV.ge" tvg-country="GE" tvg-language="Georgian" tvg-logo="" tvg-native-name="პირდაპირი ეთერი" tvg-status="down" group-title="General",GMS TV
-http://158.101.222.193:88/georgia_play.php?id=gms
 #EXTINF:-1 tvg-id="famelack-Hgbu5O46qteEA9" tvg-country="GE" tvg-language="Georgian" tvg-logo="https://i.imgur.com/94hNyxZ.png" tvg-status="live" group-title="General",Imedi TV
 https://tv.cdn.xsg.ge/imedihd/index.m3u8
 #EXTINF:-1 tvg-id="MtavariArkhi.ge" tvg-country="GE" tvg-language="Georgian" tvg-logo="https://i.imgur.com/tLtGnJW.png" tvg-native-name="მთავარი არხი" tvg-status="down" group-title="General",Mtavari Arkhi
@@ -33,8 +31,10 @@ https://live.palitranews.ge/hls/palitratv/index.m3u8
 http://video.rionitv.com:9090/hls/live/rioni.m3u8
 #EXTINF:-1 tvg-id="Rustavi2.ge" tvg-country="GE" tvg-language="Georgian" tvg-logo="https://i.imgur.com/rPqd1Cx.png" tvg-status="live" group-title="General",Rustavi 2
 http://nue01-edge01.itdc.ge/rustavi2hqnew/mpegts
-#EXTINF:-1 tvg-id="SetantaSports3.ge" tvg-country="GE" tvg-language="Georgian" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bc/Setanta_Sports_3_2023.svg/revision/latest?cb=20230804060013" tvg-status="down" group-title="Sports",Setanta Sports 3
-http://158.101.222.193:88/georgia_play.php?id=setanta_sports_3
+#EXTINF:-1 tvg-id="SetantaSports3.ge" tvg-country="GE" tvg-language="Georgian" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bc/Setanta_Sports_3_2023.svg/revision/latest?cb=20230804060013" tvg-status="live" group-title="Sports",Setanta Sports 3
+http://85.117.61.84/setanta3/index.m3u8
+#EXTINF:-1 tvg-id="SetantaSportsPlusGeorgia.ge" tvg-country="GE" tvg-language="English" tvg-logo="https://i.imgur.com/ZtoZQUV.png" tvg-status="live" group-title="Sports",Setanta Sports+ Georgia
+http://85.117.61.84/setanta2/index.m3u8
 #EXTINF:-1 tvg-id="TVPirveli.ge" tvg-country="GE" tvg-language="Georgian" tvg-logo="https://i.imgur.com/cGHsM1x.png" tvg-status="live" group-title="General",TV Pirveli
 http://nue01-edge01.itdc.ge/pirvelitv/mpegts
 #EXTINF:-1 tvg-id="TVC.ge" tvg-country="GE" tvg-language="Georgian" tvg-logo="https://sul.ge/images/televizia/tvc.png" tvg-status="down" group-title="General",TVC

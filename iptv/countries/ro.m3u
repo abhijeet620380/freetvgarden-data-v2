@@ -107,6 +107,8 @@ https://nosignal1.antenaplay.ro/hls/fb-hits-sd/index.m3u8
 https://nosignal1.antenaplay.ro/hls/fb-love-and-crime-sd/index.m3u8
 #EXTINF:-1 tvg-id="famelack-BjZVMVKPbgDPNQ" tvg-country="RO" tvg-language="Romanian" tvg-logo="" tvg-status="live" group-title="General",FILMBOX+ One Romania
 https://nosignal1.antenaplay.ro/hls/fb-one-sd/index.m3u8
+#EXTINF:-1 tvg-id="Formula1AntenaPlay.ro" tvg-country="RO" tvg-language="English" tvg-logo="https://assets.antenaplay.ro/2024/02/23/XUKfJwir4MxNeP4nHtG7.png" tvg-status="live" group-title="Sports",Formula 1 AntenaPlay
+https://stream1.antenaplay.ro/promo/formula-1-las-vegas-20-2211/chunklist.m3u8
 #EXTINF:-1 tvg-id="HappyChannel.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/kpFaiku.png" tvg-status="live" group-title="Entertainment",Happy Channel
 https://live77cdn2.antenaplay.ro/live2_aws4_sdi12/live2_aws4_sdi12_5000k.m3u8
 #EXTINF:-1 tvg-id="famelack-lhCxqE1AXbE8qH" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/2cLx4ja.png" tvg-status="live" group-title="General",HD365 TV
@@ -285,8 +287,8 @@ https://vdo.ssl-stream.com:3247/stream/play.m3u8
 https://dvb.tennet.ro/mobile_tv/telestar.m3u8
 #EXTINF:-1 tvg-id="famelack-jEPGXGbsLAf0No" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://tequilamusic.net/imagini/tv-logo.png" tvg-status="live" group-title="General",Tequila Music TV
 https://stream.tequilamusic.net/hls/tequila_tv.m3u8
-#EXTINF:-1 tvg-id="TimelessDiziChannel.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/s3Sqd4L.png" tvg-status="down" group-title="General",Timeless Dizi Channel
-https://atlantida1.aquax1.cfd/dizy/usergendlk0tas9c.m3u8
+#EXTINF:-1 tvg-id="TimelessDiziChannel.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/s3Sqd4L.png" tvg-status="live" group-title="General",Timeless Dizi Channel
+https://nosignal1.antenaplay.ro/hls/dzi-int-hd/index.m3u8
 #EXTINF:-1 tvg-id="TraditionalTV.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.ibb.co/G5bNH48/Traditional-TV-HD.png" tvg-status="live" group-title="Music",Traditional TV
 http://83.103.149.75:8085/udp/239.30.0.9:4000
 #EXTINF:-1 tvg-id="famelack-wnXZGbTAyHEypM" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://tralaladsn.ro/assets/identity/logo.svg" tvg-status="live" group-title="General",TraLaLa DSN
@@ -351,3 +353,5 @@ http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-protv-plus5/live_fullhd?offsetS
 https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/16677.m3u8
 #EXTINF:-1 tvg-id="famelack-wEoUUNJpcYsZs6" tvg-country="RO" tvg-language="Romanian" tvg-logo="" tvg-status="live" group-title="General",Z-TV
 https://www.youtube-nocookie.com/embed/35UbhLWpyZ0
+#EXTINF:-1 tvg-id="ZeceTV.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://zece.tv/wp-content/uploads/2024/06/mic.jpg.webp" tvg-status="live" group-title="General",Zece TV
+https://zecetv.ilink.ro:8088/hls/live.m3u8
