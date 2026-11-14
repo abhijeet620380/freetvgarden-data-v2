@@ -274,7 +274,7 @@ http://212.5.144.156:8080/discovery/index.m3u8
 #EXTINF:-1 tvg-id="DiscoveryChannelLatinAmerica.us" tvg-country="US" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/960px-2019_Discovery_logo.svg.png" tvg-status="live" group-title="Entertainment",Discovery Channel Latin America
 http://45.171.64.30:6060/play/a032/index.m3u8
 #EXTINF:-1 tvg-id="DiscoveryWorld.us" tvg-country="US" tvg-language="Spanish" tvg-logo="https://i.imgur.com/yNFmUkE.png" tvg-status="live" group-title="Entertainment",Discovery World
-http://15.204.246.24:8080/DiscoveryWorldHD/index.m3u8
+http://168.196.127.137:6001/play/a097/index.m3u8
 #EXTINF:-1 tvg-id="DreamTV.mn" tvg-country="MN" tvg-language="Mongolian" tvg-logo="https://www.mongolsat.mn/assets/img/channel/701.png" tvg-status="live" group-title="Entertainment",DreamTV
 https://cdn4.skygo.mn/live/disk1/Dreambox/DASH-FTA/Dreambox.mpd
 #EXTINF:-1 tvg-id="E.us" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/E%21_Logo_Flat_2012.svg/960px-E%21_Logo_Flat_2012.svg.png" tvg-status="live" group-title="Entertainment",E!
@@ -342,7 +342,7 @@ http://23.237.104.106:8080/USA_FUSE/index.m3u8
 #EXTINF:-1 tvg-id="FX.us" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/960px-FX_International_logo.svg.png" tvg-status="down" group-title="Entertainment",FX
 https://tvsen7.aynascope.net/fx/index.m3u8
 #EXTINF:-1 tvg-id="FXLatinAmerica.us" tvg-country="US" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/960px-FX_International_logo.svg.png" tvg-status="live" group-title="Entertainment",FX Latin America
-http://15.204.246.24:8080/FXHD/index.m3u8
+http://168.196.127.137:6001/play/a05u/index.m3u8
 #EXTINF:-1 tvg-id="GameShowCentral.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/Uuc5h1s.png" tvg-status="live" group-title="Entertainment",Game Show Central
 https://jmp2.uk/plu-62e90e8cb05d2b0007f10a61.m3u8
 #EXTINF:-1 tvg-id="GameShowNetwork.us" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Game_Show_Network_2018.svg/960px-Game_Show_Network_2018.svg.png" tvg-status="live" group-title="Entertainment",Game Show Network
@@ -384,7 +384,7 @@ https://jmp2.uk/plu-6537abf42cf1310008441686.m3u8
 #EXTINF:-1 tvg-id="HOLAPlay.es" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://m.media-amazon.com/images/I/5194tl8duqL.png" tvg-status="live" group-title="Entertainment",HOLA! Play
 https://hola-play-2108fd06-86d4-44e8-9867-c35b4895a1c1-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6433/master.m3u8
 #EXTINF:-1 tvg-id="HolaTVLatinAmerica.us" tvg-country="US" tvg-language="Spanish" tvg-logo="https://i.imgur.com/i0Qexxd.png" tvg-status="live" group-title="Entertainment",Hola! TV Latin America
-http://15.204.246.24:8080/HOLATVHD/index.m3u8
+http://168.196.127.137:6001/play/a03q/index.m3u8
 #EXTINF:-1 tvg-id="HotBench.us" tvg-country="US" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/6036e6e7ac69c400072afca2/colorLogoSVG_1731835812386.svg" tvg-status="live" group-title="Entertainment",Hot Bench
 https://jmp2.uk/plu-6036e6e7ac69c400072afca2.m3u8
 #EXTINF:-1 tvg-id="HTVLive.do" tvg-country="DO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/0WBsAin.png" tvg-status="down" group-title="Entertainment",HTV Live
@@ -451,6 +451,8 @@ https://fta.ektv.in/live/375/master.m3u8
 https://j78dp6reyq5r-hls-live.5centscdn.com/4896_push_1963_001/00cb1f2e4ff89048f2e77e26940c00e6.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="KRGVTV52.us" tvg-country="US" tvg-language="Spanish" tvg-logo="https://i.imgur.com/kTh2jgF.png" tvg-status="live" group-title="Entertainment",KRGV-TV 5.2
 https://d3svnrf3rmq619.cloudfront.net/krgv-live/smil:krgv-somos.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="LaSexta.es" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/aKV5voq.png" tvg-status="live" group-title="Entertainment",La Sexta
+https://cdn.jsdelivr.net/gh/Ignac16/voxel-tv@main/src/constants/channels/la6.mpd
 #EXTINF:-1 tvg-id="LaTele.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/LaTele_Per%C3%BA_2018_Logo.png/960px-LaTele_Per%C3%BA_2018_Logo.png" tvg-status="live" group-title="Entertainment",La Tele
 http://190.93.224.42/LA-TELE/index.m3u8
 #EXTINF:-1 tvg-id="LaTeleTuya.ve" tvg-country="VE" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Tele_Tuya_Logo_%282026%29.png" tvg-status="live" group-title="Entertainment",La Tele Tuya
@@ -515,6 +517,8 @@ http://mytv.dothome.co.kr/ch/catv/26.php
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-persia/818ee8e4b592dc497608f066d825bfb4/index.m3u8
 #EXTINF:-1 tvg-id="MCTV.de" tvg-country="DE" tvg-language="Turkish" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/c/ca/MC_TV_logosu.png" tvg-status="live" group-title="Entertainment",MC TV
 https://rrr.sz.xlcdn.com/?account=mceutv&file=mc2&output=playlist.m3u8&protocol=https&service=wowza&type=live
+#EXTINF:-1 tvg-id="Mega.es" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/Udrt2eK.png" tvg-status="live" group-title="Entertainment",Mega
+https://cdn.jsdelivr.net/gh/Ignac16/voxel-tv@main/src/constants/channels/mega.mpd
 #EXTINF:-1 tvg-id="MelRadioTV.ec" tvg-country="EC" tvg-language="Spanish" tvg-logo="https://i.imgur.com/uu8Clh2.png" tvg-status="down" group-title="Entertainment",Mel Radio TV
 https://eu1.servers10.com:8081/8334/index.m3u8
 #EXTINF:-1 tvg-id="MetroTV.ar" tvg-country="AR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/7f7M7zl.png" tvg-status="live" group-title="Entertainment",Metro TV
@@ -576,7 +580,7 @@ https://jmp2.uk/plu-62ac3d7dc23b400008ae5b5a.m3u8
 #EXTINF:-1 tvg-id="MTVJovenseMaes.us" tvg-country="US" tvg-language="Portuguese" tvg-logo="https://images.pluto.tv/channels/620fdc7d8a36fc000710e3ba/colorLogoSVG.svg" tvg-status="live" group-title="Entertainment",MTV Jovens e Maes
 https://jmp2.uk/plu-620fdc7d8a36fc000710e3ba.m3u8
 #EXTINF:-1 tvg-id="MTVLatinAmerica.us" tvg-country="US" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/960px-MTV_2021_%28brand_version%29.svg.png" tvg-status="live" group-title="Entertainment",MTV Latin America
-http://15.204.246.24:8080/MTVHD/index.m3u8
+https://streaming.onnethn.com/MTV/playlist.m3u8
 #EXTINF:-1 tvg-id="MTVOriginals.de" tvg-country="DE" tvg-language="Spanish" tvg-logo="https://images.pluto.tv/channels/5f1aadf373bed3000794d1d7/colorLogoSVG.svg" tvg-status="live" group-title="Entertainment",MTV Originals
 https://jmp2.uk/plu-5f1aadf373bed3000794d1d7.m3u8
 #EXTINF:-1 tvg-id="MTVPlutoTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/5f1212fb81e85c00077ae9ef/colorLogoSVG_1759263028928.svg" tvg-status="live" group-title="Entertainment",MTV Pluto TV
@@ -613,6 +617,8 @@ https://ncdn.telewebion.ir/nasim/live/playlist.m3u8
 https://g4wlkqqwl23a-hls-live.5centscdn.com/NDTVLANKA/1ff5fa54d14c3ff6c6bd3918bbb7db5d.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="NeoTV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/bS5JtYX.jpeg" tvg-status="live" group-title="Entertainment",Neo TV
 https://live-evg7.tv360.bitel.com.pe/bitel/neotvSRT/playlist.m3u8
+#EXTINF:-1 tvg-id="Neox.es" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Neox_2023_logo.svg/500px-Neox_2023_logo.svg.png" tvg-status="live" group-title="Entertainment",Neox
+https://cdn.jsdelivr.net/gh/Ignac16/voxel-tv@main/src/constants/channels/neox.mpd
 #EXTINF:-1 tvg-id="NHTV.kr" tvg-country="KR" tvg-language="Korean" tvg-logo="https://i.imgur.com/DfECkgB.png" tvg-native-name="NHTV 농협방송" tvg-status="live" group-title="Entertainment",NHTV
 http://nonghyup.flive.skcdn.com/nonghyup/_definst_/nhlive/playlist.m3u8
 #EXTINF:-1 tvg-id="NingxiaSatelliteChannel.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://i.imgur.com/nUQE4Ib.png" tvg-native-name="卫视频道" tvg-status="down" group-title="Entertainment",Ningxia Satellite Channel
@@ -648,7 +654,7 @@ https://jmp2.uk/plu-60804d85858bd00007c5d591.m3u8
 #EXTINF:-1 tvg-id="Pashto1.pk" tvg-country="PK" tvg-language="Pashto" tvg-logo="https://i.imgur.com/tUsLDRe.png" tvg-status="down" group-title="Entertainment",Pashto 1
 http://103.250.28.74:8000/play/a00t/index.m3u8
 #EXTINF:-1 tvg-id="PasionesLatinAmerica.us" tvg-country="US" tvg-language="Spanish" tvg-logo="https://i.imgur.com/VGnbWjO.png" tvg-status="live" group-title="Entertainment",Pasiones Latin America
-http://15.204.246.24:8080/PasionesHD/index.m3u8
+http://45.173.231.22:8000/play/a06n/index.m3u8
 #EXTINF:-1 tvg-id="PassioneLotto.it" tvg-country="IT" tvg-language="Italian" tvg-logo="https://i.imgur.com/jYmy4G5.png" tvg-status="down" group-title="Entertainment",Passione Lotto
 http://185.63.52.103:8080/hls/passionelotto/1_2/index.m3u8
 #EXTINF:-1 tvg-id="PeopleAreAwesome.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/MsIx7Ax.png" tvg-status="live" group-title="Entertainment",People Are Awesome
@@ -842,7 +848,7 @@ http://31.148.5.241/kanal_19/index.m3u8
 #EXTINF:-1 tvg-id="TNTInternational.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/l0RGbRI.png" tvg-native-name="ТНТ International" tvg-status="down" group-title="Entertainment",TNT International
 http://91.228.35.249:8001/1:0:1:6a7:3138:13e:820000:0:0:0:
 #EXTINF:-1 tvg-id="TNT4.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/gBokU5i.png" tvg-native-name="ТНТ4" tvg-status="live" group-title="Entertainment",TNT4
-https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8
+http://stream.mcquack.net/106/index.m3u8
 #EXTINF:-1 tvg-id="TNT4International.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/gBokU5i.png" tvg-native-name="ТНТ4 International" tvg-status="down" group-title="Entertainment",TNT4 International
 https://fs.uplink.kz/tnt4/mono.m3u8?token=onlinetv
 #EXTINF:-1 tvg-id="ToughJobs.us" tvg-country="US" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/65c69bf23ef47d0008583967/colorLogoSVG.svg" tvg-status="live" group-title="Entertainment",Tough Jobs
@@ -898,7 +904,7 @@ https://lb.iptvnetwork.net/ls28/10011/playlist.m3u8
 #EXTINF:-1 tvg-id="VH1QueensofReality.us" tvg-country="US" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/66abefe5d2d50d00082c7d12/colorLogoSVG.svg" tvg-status="live" group-title="Entertainment",VH1 Queens of Reality
 https://jmp2.uk/plu-66abefe5d2d50d00082c7d12.m3u8
 #EXTINF:-1 tvg-id="VinhLongTV2.vn" tvg-country="VN" tvg-language="Vietnamese" tvg-logo="https://i.imgur.com/iluoazf.png" tvg-status="live" group-title="Culture",Vinh Long TV 2
-https://1011154949.vnns.net/CDN-FPT02/THVL2-HD-1080p/playlist.m3u8
+https://dethich.pw/thvl2/index.m3u8
 #EXTINF:-1 tvg-id="VinhLongTV3.vn" tvg-country="VN" tvg-language="Vietnamese" tvg-logo="https://i.imgur.com/OQXEhqu.png" tvg-status="live" group-title="Movies",Vinh Long TV 3
 https://dethich.pw/thvl3/index.m3u8
 #EXTINF:-1 tvg-id="VinhLongTV4.vn" tvg-country="VN" tvg-language="Vietnamese" tvg-logo="https://i.imgur.com/ARhIkvR.png" tvg-status="live" group-title="Culture",Vinh Long TV 4
