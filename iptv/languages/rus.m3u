@@ -446,7 +446,7 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1 tvg-id="famelack-RBcipQTyHVOX0t" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/dj9c8Yd.png" tvg-native-name="Мир 24" tvg-status="live" group-title="General",Mir 24
 https://stream8.cinerama.uz/1219/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="MirBelogorya.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://mirbelogorya.ru/images/logo/Logo_Mir_Belogorya_purple_gradient.png" tvg-native-name="Мир Белогорья" tvg-status="live" group-title="General",Mir Belogorya
-http://mirbelogorya.ru:8080/mirbelogorya/index.m3u8
+http://stream.tvbelgorod.ru:8080/mirbelogorya/index.m3u8
 #EXTINF:-1 tvg-id="MirSeriala.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/uzj7wVp.png" tvg-native-name="Мир Сериала" tvg-status="live" group-title="Series",Mir Seriala
 http://176.118.197.101/MirSeriala/index.m3u8
 #EXTINF:-1 tvg-id="MMATVcom.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/QhdxNsB.png" tvg-status="live" group-title="Sports",MMA-TV.com
@@ -521,7 +521,7 @@ https://live-vestinn.cdnvideo.ru/vestinn/nn24-khl/playlist.m3u8
 http://176.118.197.101/Nostalgiya/index.m3u8
 #EXTINF:-1 tvg-id="NovgorOblTV.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/2JspHVY.png" tvg-native-name="Новгородское областное телевидение" tvg-status="live" group-title="General",NovgorOblTV
 https://rt-nw-novg-htlive.cdn.ngenix.net/hls/CH_R02_NOVGORODTV/variant.m3u8
-#EXTINF:-1 tvg-id="NovorossiyaTV.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/ijmf0bV.png" tvg-native-name="Новороссия ТВ" tvg-status="live" group-title="News",Novorossiya TV
+#EXTINF:-1 tvg-id="NovorossiyaTV.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/ijmf0bV.png" tvg-native-name="Новороссия ТВ" tvg-status="down" group-title="News",Novorossiya TV
 http://31.131.139.253:9002/novoros/index.m3u8
 #EXTINF:-1 tvg-id="famelack-nqorl9gKU461MK" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/uv2yxa5.png" tvg-native-name="НСТ" tvg-status="live" group-title="General",NST
 https://vod.tuva.ru/nst/index.m3u8
@@ -648,7 +648,7 @@ http://46.53.200.153:7777/play/a00u/index.m3u8
 #EXTINF:-1 tvg-id="RTN.us" tvg-country="US" tvg-language="Russian" tvg-logo="https://i.imgur.com/jjUzuLV.png" tvg-status="live" group-title="General",RTN
 http://4.59.210.197:8815/udp/127.0.0.1:6002
 #EXTINF:-1 tvg-id="RTRPlaneta.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/T42cuYx.png" tvg-native-name="РТР-Планета" tvg-status="live" group-title="General",RTR-Planeta
-https://stream.smotrim.ru/hls/planeta_rtr_sng/playlist.m3u8?entity=channel&id=512&sign=2abaa592de074d65809a10b6bacc4410
+https://stream.smotrim.ru/hls/planeta_rtr_asia/playlist.m3u8?entity=channel&id=511&sign=d1fe06cd922b67e412719536998fa43d
 #EXTINF:-1 tvg-id="RTVi.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/1AEhXyS.png" tvg-status="live" group-title="General",RTVi
 https://shift03.isp.bg/RTVi/index.m3u8
 #EXTINF:-1 tvg-id="famelack-umGNcTv4RDojAI" tvg-country="US" tvg-language="Russian" tvg-logo="https://www.einpresswire.com/image/large/960869/logo-rtvi-us.png#676x536" tvg-status="live" group-title="General",RTVi US
