@@ -316,7 +316,7 @@ https://hlspackager.akamaized.net/live/DB/AMAZING_FACTS/HLS/AMAZING_FACTS.m3u8
 #EXTINF:-1 tvg-id="AMC.us" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png" tvg-status="down" group-title="Movies",AMC
 http://41.205.93.154/AMC/index.m3u8
 #EXTINF:-1 tvg-id="AMCenEspanol.us" tvg-country="US" tvg-language="Spanish" tvg-logo="https://i.imgur.com/L1h6W5Q.png" tvg-status="live" group-title="Entertainment",AMC en Espanol
-https://pb-fmbyorn1d0n1n.akamaized.net/v1/amc_amcespanol_3/samsungheadend_us/latest/main/hls/playlist.m3u8
+https://amc-amcespanol-1-us.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="AMCLatinAmerica.us" tvg-country="US" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png" tvg-status="live" group-title="Movies",AMC Latin America
 http://170.83.49.66:8083/AMCHD/index.m3u8
 #EXTINF:-1 tvg-id="AMCSeriesLatinAmerica.us" tvg-country="US" tvg-language="Spanish" tvg-logo="https://amc-series.s3.amazonaws.com/menu/hbfen1Gom0_k1cyqi7rw4-amc-series-train-w.png" tvg-status="live" group-title="Series",AMC Series Latin America
@@ -961,8 +961,6 @@ https://jmp2.uk/plu-64f8a408bd341e000818fcda.m3u8
 https://jmp2.uk/plu-64f8a949f5b5e4000862467c.m3u8
 #EXTINF:-1 tvg-id="ComedyCentralenEspanol.us" tvg-country="US" tvg-language="Spanish" tvg-logo="https://i.imgur.com/6xTD3G8.png" tvg-status="live" group-title="Comedy",Comedy Central en Espanol
 https://jmp2.uk/plu-5cf96dad1652631e36d43320.m3u8
-#EXTINF:-1 tvg-id="ComedyCentralLatinAmerica.us" tvg-country="US" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/960px-Comedy_Central_2018.svg.png" tvg-status="live" group-title="Comedy",Comedy Central Latin America
-https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/Comedy_Central/playlist.m3u8
 #EXTINF:-1 tvg-id="famelack-AeoLjj7ANDoTy0" tvg-country="US" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="General",Comedy Central Latin America Panregional
 https://barinaslive1.boldmss.com/COMEDY/COMEDY.isml/COMEDY.m3u8
 #EXTINF:-1 tvg-id="ComedyCentralPlutoTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/5f357e91b18f0b00073583d2/colorLogoSVG.svg" tvg-status="live" group-title="Comedy",Comedy Central Pluto TV
@@ -1165,6 +1163,8 @@ https://d3jxyaglfha0h3.cloudfront.net/Dinos_247.m3u8
 http://212.5.144.156:8080/discovery/index.m3u8
 #EXTINF:-1 tvg-id="DiscoveryChannelLatinAmerica.us" tvg-country="US" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/960px-2019_Discovery_logo.svg.png" tvg-status="live" group-title="Entertainment",Discovery Channel Latin America
 http://45.171.64.30:6060/play/a032/index.m3u8
+#EXTINF:-1 tvg-id="DiscoveryChannelMiddleEastAfrica.us" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/960px-2019_Discovery_logo.svg.png" tvg-status="live" group-title="Entertainment",Discovery Channel Middle East & Africa
+http://85.237.89.159:3342/ar-s/Discovery-HD/index.m3u8
 #EXTINF:-1 tvg-id="famelack-GqeqAajjIHfMlp" tvg-country="US" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Discovery_Family_Logo_%282014%29.svg" tvg-status="live" group-title="General",Discovery Family
 https://tvsen5.aynaott.com/discoveryfamily/index.m3u8
 #EXTINF:-1 tvg-id="DiscoveryKidsLatinAmerica.us" tvg-country="US" tvg-language="Spanish" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Discovery_Kids_2021_2D_sin_wordmark.svg/960px-Discovery_Kids_2021_2D_sin_wordmark.svg.png" tvg-status="live" group-title="Kids",Discovery Kids Latin America
@@ -2191,16 +2191,16 @@ https://jmp2.uk/plu-63da365f60bc8f0008a50f44.m3u8
 https://dc6v647pwrp79.cloudfront.net/matjr.m3u8
 #EXTINF:-1 tvg-id="MaverickBlackCinema.us" tvg-country="US" tvg-language="English" tvg-logo="https://images.fubo.tv/station_logos/maverick_black_cinema_c.png" tvg-status="live" group-title="Movies",Maverick Black Cinema
 https://maverick-maverick-black-cinema-3-us.roku.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="Maxcine.us" tvg-country="US" tvg-language="Spanish" tvg-logo="https://gia.tv/streams/pptv/208138.png" tvg-status="down" group-title="Movies",Maxcine
-https://live20.bozztv.com/giatvplayout7/giatv-208138/playlist.m3u8
-#EXTINF:-1 tvg-id="Maxcine2.us" tvg-country="US" tvg-language="Spanish" tvg-logo="https://gia.tv/streams/pptv/209163.png" tvg-status="down" group-title="Movies",Maxcine 2
-https://live20.bozztv.com/giatvplayout7/giatv-209163/playlist.m3u8
-#EXTINF:-1 tvg-id="MaxcineComedy.us" tvg-country="US" tvg-language="Spanish" tvg-logo="https://gia.tv/streams/pptv/208730.png" tvg-status="down" group-title="Movies",Maxcine Comedy
-https://live20.bozztv.com/giatvplayout7/giatv-208730/playlist.m3u8
-#EXTINF:-1 tvg-id="MaxcineFamily.us" tvg-country="US" tvg-language="Spanish" tvg-logo="https://gia.tv/streams/pptv/208817.png" tvg-status="down" group-title="Movies",Maxcine Family
-https://live20.bozztv.com/giatvplayout7/giatv-208817/playlist.m3u8
-#EXTINF:-1 tvg-id="MaxcineKids.us" tvg-country="US" tvg-language="Spanish" tvg-logo="https://gia.tv/streams/pptv/209909.png" tvg-status="down" group-title="Movies",Maxcine Kids
-https://live20.bozztv.com/giatvplayout7/giatv-209909/playlist.m3u8
+#EXTINF:-1 tvg-id="Maxcine.us" tvg-country="US" tvg-language="Spanish" tvg-logo="https://gia.tv/streams/pptv/208138.png" tvg-status="live" group-title="Movies",Maxcine
+https://183.giatvcdn.com/giatvplayout7/giatv-208138/playlist.m3u8
+#EXTINF:-1 tvg-id="Maxcine2.us" tvg-country="US" tvg-language="Spanish" tvg-logo="https://gia.tv/streams/pptv/209163.png" tvg-status="live" group-title="Movies",Maxcine 2
+https://183.giatvcdn.com/giatvplayout7/giatv-209163/playlist.m3u8
+#EXTINF:-1 tvg-id="MaxcineComedy.us" tvg-country="US" tvg-language="Spanish" tvg-logo="https://gia.tv/streams/pptv/208730.png" tvg-status="live" group-title="Movies",Maxcine Comedy
+https://183.giatvcdn.com/giatvplayout7/giatv-208730/playlist.m3u8
+#EXTINF:-1 tvg-id="MaxcineFamily.us" tvg-country="US" tvg-language="Spanish" tvg-logo="https://gia.tv/streams/pptv/208817.png" tvg-status="live" group-title="Movies",Maxcine Family
+https://183.giatvcdn.com/giatvplayout7/giatv-208817/playlist.m3u8
+#EXTINF:-1 tvg-id="MaxcineKids.us" tvg-country="US" tvg-language="Spanish" tvg-logo="https://gia.tv/streams/pptv/209909.png" tvg-status="live" group-title="Movies",Maxcine Kids
+https://183.giatvcdn.com/giatvplayout7/giatv-209909/playlist.m3u8
 #EXTINF:-1 tvg-id="MBC1USA.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/CiA3plN.png" tvg-status="live" group-title="General",MBC 1 USA
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1-usa/fdac3a4fc0473f1f56e07ec1d63a4b7b/index.m3u8
 #EXTINF:-1 tvg-id="MBC3USA.us" tvg-country="US" tvg-language="Arabic" tvg-logo="https://i.imgur.com/PVt8OPN.png" tvg-status="live" group-title="Kids",MBC 3 USA
@@ -2248,7 +2248,7 @@ http://181.78.12.119:16123/play/ch53/index.m3u8
 #EXTINF:-1 tvg-id="MiMusicaRomantica.us" tvg-country="US" tvg-language="Spanish" tvg-logo="https://i.imgur.com/eIaRv0U.png" tvg-status="live" group-title="Music",Mi Musica Romantica
 http://181.78.12.119:16123/play/ch54/index.m3u8
 #EXTINF:-1 tvg-id="MiMusicaSalsa.us" tvg-country="US" tvg-language="Spanish" tvg-logo="https://i.imgur.com/sT91t83.png" tvg-status="live" group-title="Music",Mi Musica Salsa
-http://38.134.250.110:8000/play/a02m/index.m3u8
+http://181.78.12.119:16123/play/ch55/index.m3u8
 #EXTINF:-1 tvg-id="famelack-vzbETCfzbTdACv" tvg-country="US" tvg-language="English" tvg-logo="https://provider-static.plex.tv/a/epg/channels/logos/gracenote/a1a2cdc3d6f0714c586e9959732580c7.png" tvg-status="live" group-title="General",Midnight Pulp
 https://d18l78mi5ujmqr.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-id="famelack-2SAtPtBqBfc2UY" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/aX1GkCD.png" tvg-status="live" group-title="General",Midpen Media Center Channel 26
@@ -2585,6 +2585,8 @@ https://streaming.onnethn.com/NICK_JR/playlist.m3u8
 https://streaming.onnethn.com/NICK_JR/playlist.m3u8
 #EXTINF:-1 tvg-id="NickJrPlutoTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/62bdb75c3afd1200079146a6/colorLogoSVG.svg" tvg-status="live" group-title="Kids",Nick Jr. Pluto TV
 https://jmp2.uk/plu-62bdb75c3afd1200079146a6.m3u8
+#EXTINF:-1 tvg-id="Nickelodeon.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/E84jnP8.png" tvg-status="live" group-title="Kids",Nickelodeon
+https://tvnow.hostless.app/nickelodeon.m3u8
 #EXTINF:-1 tvg-id="NickelodeonClasico.us" tvg-country="US" tvg-language="Spanish" tvg-logo="https://images.pluto.tv/channels/5ddd7c348520b40009c347e2/colorLogoSVG_1750157292651.svg" tvg-status="live" group-title="Kids",Nickelodeon Clasico
 https://jmp2.uk/plu-6824cda00101510f9eeaa011.m3u8
 #EXTINF:-1 tvg-id="NickelodeonClassico.us" tvg-country="US" tvg-language="Portuguese" tvg-logo="https://images.pluto.tv/channels/5f12151794c1800007a8ae63/colorLogoSVG_1750157165454.svg" tvg-status="live" group-title="Kids",Nickelodeon Classico
@@ -3497,6 +3499,8 @@ https://cdn3.wowza.com/5/RXJNMFI3VlVkOEFP/stpete/G0187_003/playlist.m3u8
 https://reflect-stlucie-ps-fl.cablecast.tv/live-1/live/stream-1/WIFI-1896k-720p.m3u8
 #EXTINF:-1 tvg-id="famelack-SoJfGpE8xBZiUl" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/SnZOiER.png" tvg-status="live" group-title="General",Stadium
 https://aegis-cloudfront-1.tubi.video/74681dcc-e6d0-4add-ad67-a22ad9c152e6/playlist.m3u8
+#EXTINF:-1 tvg-id="StarAction.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/XD1Tpet.png" tvg-status="live" group-title="Movies",Star Action
+http://85.237.89.159:3342/ar-s/STAR-Action-HD/index.m3u8
 #EXTINF:-1 tvg-id="StarChannelLatinAmerica.us" tvg-country="US" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/960px-Star_Channel_2020.svg.png" tvg-status="live" group-title="Movies",Star Channel Latin America
 http://15.204.246.24:8080/STARCHANNELHD/index.m3u8
 #EXTINF:-1 tvg-id="StarTrek.us" tvg-country="US" tvg-language="Portuguese" tvg-logo="https://images.pluto.tv/channels/5f99ac4fded33000078f29ab/colorLogoSVG_1753988613576.svg" tvg-status="live" group-title="Series",Star Trek
@@ -4002,11 +4006,11 @@ https://streaming-live-fcdn.api.prd.univisionnow.com/unieast/unieast.isml/hls/un
 #EXTINF:-1 tvg-id="famelack-kBZLoHAnjfHT7v" tvg-country="US" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="General",Univision Noticias
 https://www.youtube-nocookie.com/embed/V4C7VNfRATA
 #EXTINF:-1 tvg-id="UnivisionTlnovelas.us" tvg-country="US" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Univision_tlnovelas_%282019%29.svg/960px-Univision_tlnovelas_%282019%29.svg.png" tvg-status="live" group-title="Series",Univision Tlnovelas
-http://200.115.120.1:8000/play/ca110/index.m3u8
+http://45.6.4.35/TELENOVELAS/index.m3u8
 #EXTINF:-1 tvg-id="famelack-6OYTcZ1upYAYd1" tvg-country="US" tvg-language="" tvg-logo="" tvg-status="live" group-title="General",Unleashed by DOGTV
 https://amg26269-dogtv-amg26269c2-stirr-us-8504.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="UnsolvedMysteries.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/De3khrX.png" tvg-status="live" group-title="Series",Unsolved Mysteries
-https://jmp2.uk/plu-62e924f2be69bc0007b7d53d.m3u8
+https://jmp2.uk/plu-5bd05b4694d45d266bc951f2.m3u8
 #EXTINF:-1 tvg-id="famelack-ik17w6Xk0lle9J" tvg-country="US" tvg-language="English" tvg-logo="" tvg-status="live" group-title="General",Unsolved Mysteries US
 https://d31z96rdrmwfsp.cloudfront.net/master.m3u8
 #EXTINF:-1 tvg-id="famelack-RGAPKbEXUKrvud" tvg-country="US" tvg-language="" tvg-logo="" tvg-status="live" group-title="General",Untold Stories of the E.R.

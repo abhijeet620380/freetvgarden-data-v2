@@ -134,7 +134,7 @@ https://12channel.bonus-tv.ru/cdn/12channel/playlist.m3u8
 #EXTINF:-1 tvg-id="Channel5.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/5-tv_logo_%282023%29.svg/960px-5-tv_logo_%282023%29.svg.png" tvg-native-name="Пятый канал" tvg-status="live" group-title="General",Channel 5
 http://31.148.5.241/kanal_5/index.m3u8
 #EXTINF:-1 tvg-id="Channel5International.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/8VKc2Ya.png" tvg-native-name="Пятый International" tvg-status="live" group-title="General",Channel 5 International
-http://178.134.1.158:8081/5channel/index.m3u8
+https://cdn4.skygo.mn/live/disk1/Channel_5/HLSv3-FTA/Channel_5.m3u8
 #EXTINF:-1 tvg-id="famelack-KbWB9VVRnnT7UN" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/nUSx1jF.png" tvg-native-name="8 канал" tvg-status="live" group-title="General",Channel 8
 https://tshift-1.telecoma.tv/8channel/index.m3u8
 #EXTINF:-1 tvg-id="Channel8International.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/I8OU9oa.png" tvg-native-name="8 канал International" tvg-status="live" group-title="General",Channel 8 International
@@ -152,7 +152,7 @@ https://streaming.thestream.cyou/live/210-req_offset_28000000-req_window_0-1k_v5
 #EXTINF:-1 tvg-id="Channel16.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/7tNDKHe.png" tvg-native-name="Канал-16" tvg-status="live" group-title="General",Channel-16
 http://serv25.vintera.tv:8081/test/k16/playlist.m3u8
 #EXTINF:-1 tvg-id="Che.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/ZOcDGpB.png" tvg-native-name="Че!" tvg-status="live" group-title="Entertainment",Che!
-http://176.118.197.101/Che/index.m3u8
+https://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/variant.m3u8
 #EXTINF:-1 tvg-id="famelack-HHYr8wd1E9ioQk" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/b5e9qUA.png" tvg-status="live" group-title="General",Cinema
 https://flussonic.linkintel.ru/cinema/index.m3u8
 #EXTINF:-1 tvg-id="famelack-Gq4mY3pzS19BJ0" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/qpe8L27.png" tvg-native-name="Сити Эдем АвтоГид" tvg-status="live" group-title="General",City Eden AutoGid
@@ -360,7 +360,7 @@ https://stream8.cinerama.uz/1055/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Kinokomedija.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/dVjtth0.png" tvg-native-name="Кинокомедия" tvg-status="live" group-title="Comedy",Kinokomedija
 http://stream.mcquack.net/265/index.m3u8
 #EXTINF:-1 tvg-id="Kinomix.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/D4q2XUT.png" tvg-native-name="Киномикс" tvg-status="live" group-title="Movies",Kinomix
-http://93.170.254.17/Kinomiks/index.m3u8
+http://stream.mcquack.net/133/index.m3u8
 #EXTINF:-1 tvg-id="famelack-4CPujDIaOFYuUc" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/nNjMyAq.png" tvg-native-name="Кинопоказ" tvg-status="live" group-title="General",Kinopokaz
 https://stream8.cinerama.uz/1057/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="famelack-Fw6W67VJmOC9sC" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/s0UYT8T.png" tvg-native-name="Кинопремьера" tvg-status="live" group-title="General",Kinopremyera
@@ -631,8 +631,6 @@ https://online-video.rbc.ru/online2/rbctv.m3u8
 https://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/index.m3u8
 #EXTINF:-1 tvg-id="RENTV.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/0Tu5lte.png" tvg-native-name="РЕН ТВ" tvg-status="live" group-title="General",REN TV
 http://31.148.5.241/kanal_11/index.m3u8
-#EXTINF:-1 tvg-id="RENTVInternational.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/gBjk9oF.png" tvg-native-name="РЕН ТВ International" tvg-status="live" group-title="General",REN TV International
-http://178.134.1.158:8081/RENTV/index.m3u8
 #EXTINF:-1 tvg-id="famelack-AG1c9dyu0hTbFo" tvg-country="RU" tvg-language="Russian" tvg-logo="https://xml-epgservice.cdnvideo.ru/EPGService/hs/xmldata/852f4b92-cae5-463e-aad6-cd8844c5a49/logo/69.png" tvg-native-name="Ретро" tvg-status="live" group-title="General",Retro
 https://stream8.cinerama.uz/1047/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="famelack-NbMXz6pGZwmQWb" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/H70LxoZ.png" tvg-native-name="Родное Кино" tvg-status="live" group-title="General",Rodnoe Kino
@@ -775,8 +773,6 @@ https://fs.uplink.kz/start_world/mono.m3u8?token=onlinetv
 https://live-stranafm.cdnvideo.ru/stranafm/smil:stranafm.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="STS.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/ilUzAeb.png" tvg-native-name="СТС" tvg-status="live" group-title="Family",STS
 http://stream.mcquack.net/138/index.m3u8
-#EXTINF:-1 tvg-id="STSInternational.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/mwiC0RG.png" tvg-status="live" group-title="General",STS International
-http://178.134.1.158:8081/CTC/index.m3u8
 #EXTINF:-1 tvg-id="STSkids.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/o9kLpAL.png" tvg-native-name="СТС kids" tvg-status="live" group-title="Kids",STS kids
 http://stream.mcquack.net/197/index.m3u8
 #EXTINF:-1 tvg-id="STSLove.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://upload.wikimedia.org/wikipedia/ru/thumb/3/35/%D0%A1%D0%A2%D0%A1_Love_%282023%29.svg/1920px-%D0%A1%D0%A2%D0%A1_Love_%282023%29.svg.png" tvg-native-name="СТС Love" tvg-status="live" group-title="Family",STS Love
@@ -1008,7 +1004,7 @@ http://31.148.48.15/Zoo_TV/index.m3u8
 #EXTINF:-1 tvg-id="famelack-1tGmbGgzdva6hK" tvg-country="RU" tvg-language="Russian" tvg-logo="https://tv-stream.ru/uploads/Zoopark_300h300_zelenyj_vert_0f85755619.svg" tvg-native-name="Zooпарк" tvg-status="live" group-title="General",Zoopark
 https://stream8.cinerama.uz/1417/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Zvezda.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/4PAcpfM.png" tvg-native-name="Звезда" tvg-status="live" group-title="General",Zvezda
-https://tvzvezda.bonus-tv.ru/cdn/tvzvezda/playlist.m3u8
+https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist.m3u8
 #EXTINF:-1 tvg-id="famelack-VXgZWR9GlvTCmv" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/NNmjD9Z.png" tvg-native-name="Звезда Плюс" tvg-status="live" group-title="General",Zvezda Plus
 https://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist.m3u8
 #EXTINF:-1 tvg-id="famelack-OPwNo7g1vlqU7d" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-status="live" group-title="General",Дембельский альбом: Солдаты
