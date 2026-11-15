@@ -43,7 +43,7 @@ https://mgv-awapa.akamaized.net/hls/live/2104282/MGV_CHANNEL15/master.m3u8
 http://168.196.127.137:6001/play/a06v/index.m3u8
 #EXTINF:-1 tvg-id="BandSports.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/EuPvzJe.png" tvg-status="live" group-title="Sports",Band Sports
 http://170.83.16.50/BAND_SPORTS/index.m3u8
-#EXTINF:-1 tvg-id="beINSports1.qa" tvg-country="QA" tvg-language="Arabic" tvg-logo="https://i.imgur.com/Vtk2cGI.png" tvg-status="live" group-title="Sports",beIN Sports 1
+#EXTINF:-1 tvg-id="beINSports1.qa" tvg-country="QA" tvg-language="Arabic" tvg-logo="https://i.imgur.com/Vtk2cGI.png" tvg-status="down" group-title="Sports",beIN Sports 1
 https://vg162.adcdsd123321.shop/7.m3u8
 #EXTINF:-1 tvg-id="beINSports1Turk.tr" tvg-country="TR" tvg-language="Turkish" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/27/BeinSports1.svg/revision/latest?cb=20230910184457" tvg-status="live" group-title="Sports",beIN Sports 1 Turk
 http://57.129.0.61:1990/stream/117/index.m3u8
@@ -77,17 +77,17 @@ https://jmp2.uk/plu-685029cda1e091e16ff57fc8.m3u8
 https://video01.soultv.com.br/internacional/internacional/playlist.m3u8
 #EXTINF:-1 tvg-id="CanalPlusSport.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/EOXnU15.png" tvg-status="live" group-title="Sports",Canal+ Sport
 http://tv.streambox.fr/live/testlivestream/testlivestream/31.m3u8
-#EXTINF:-1 tvg-id="CanalPlusSport.pl" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/E0WTMa2.png" tvg-status="live" group-title="Sports",Canal+ Sport
+#EXTINF:-1 tvg-id="CanalPlusSport.pl" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/E0WTMa2.png" tvg-status="down" group-title="Sports",Canal+ Sport
 http://57.129.96.133:888/stream/92/index.m3u8
-#EXTINF:-1 tvg-id="CanalPlusSport2.pl" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/Aq2hnUj.png" tvg-status="live" group-title="Sports",Canal+ Sport 2
+#EXTINF:-1 tvg-id="CanalPlusSport2.pl" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/Aq2hnUj.png" tvg-status="down" group-title="Sports",Canal+ Sport 2
 http://57.129.96.133:888/stream/94/index.m3u8
 #EXTINF:-1 tvg-id="CanalPlusSport2SK.sk" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ab/CANAL%2B_SPORT_2.svg/revision/latest?cb=20241028202739" tvg-status="live" group-title="Sports",Canal+ Sport 2 SK
 http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport2/live_fullhd?offsetSeconds=0
-#EXTINF:-1 tvg-id="CanalPlusSport3.pl" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/QZwPFa8.png" tvg-status="live" group-title="Sports",Canal+ Sport 3
+#EXTINF:-1 tvg-id="CanalPlusSport3.pl" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/QZwPFa8.png" tvg-status="down" group-title="Sports",Canal+ Sport 3
 http://57.129.96.133:888/stream/93/index.m3u8
 #EXTINF:-1 tvg-id="CanalPlusSport3SK.sk" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4c/CANAL%2B_SPORT_3.svg/revision/latest?cb=20241028202810" tvg-status="live" group-title="Sports",Canal+ Sport 3 SK
 http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport3/live_fullhd?offsetSeconds=0
-#EXTINF:-1 tvg-id="CanalPlusSport4.pl" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/BNAPYAx.png" tvg-status="live" group-title="Sports",Canal+ Sport 4
+#EXTINF:-1 tvg-id="CanalPlusSport4.pl" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/BNAPYAx.png" tvg-status="down" group-title="Sports",Canal+ Sport 4
 http://57.129.96.133:888/stream/95/index.m3u8
 #EXTINF:-1 tvg-id="CanalPlusSport4SK.sk" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/82/CANAL%2B_SPORT_4.svg/revision/latest?cb=20241028202820" tvg-status="live" group-title="Sports",Canal+ Sport 4 SK
 http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport4/live_fullhd?offsetSeconds=0
@@ -193,19 +193,19 @@ http://190.61.47.54:8000/play/a005/index.m3u8
 http://181.78.197.59:8000/play/a081/index.m3u8
 #EXTINF:-1 tvg-id="ESPN3.nl" tvg-country="NL" tvg-language="Dutch" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/ESPN3_Logo.png/960px-ESPN3_Logo.png" tvg-status="down" group-title="Sports",ESPN 3
 https://lb.iptvnetwork.net/ls28/10043/playlist.m3u8
-#EXTINF:-1 tvg-id="ESPN3LatinAmerica.us" tvg-country="US" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/ESPN3_Logo.png/960px-ESPN3_Logo.png" tvg-status="live" group-title="Sports",ESPN 3 Latin America
+#EXTINF:-1 tvg-id="ESPN3LatinAmerica.us" tvg-country="US" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/ESPN3_Logo.png/960px-ESPN3_Logo.png" tvg-status="down" group-title="Sports",ESPN 3 Latin America
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/espn3-mux/playlist.m3u8
 #EXTINF:-1 tvg-id="ESPN4.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/960px-ESPN_4_logo.svg.png" tvg-status="live" group-title="Sports",ESPN 4
 http://181.78.197.59:8000/play/a07n/index.m3u8
 #EXTINF:-1 tvg-id="ESPN4.nl" tvg-country="NL" tvg-language="Dutch" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/960px-ESPN_4_logo.svg.png" tvg-status="down" group-title="Sports",ESPN 4
 https://lb.iptvnetwork.net/ls28/10044/playlist.m3u8
-#EXTINF:-1 tvg-id="ESPN4LatinAmerica.us" tvg-country="US" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/960px-ESPN_4_logo.svg.png" tvg-status="live" group-title="Sports",ESPN 4 Latin America
+#EXTINF:-1 tvg-id="ESPN4LatinAmerica.us" tvg-country="US" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/960px-ESPN_4_logo.svg.png" tvg-status="down" group-title="Sports",ESPN 4 Latin America
 https://barinaslive1.boldmss.com/ESPN_4/ESPN_4.isml/ESPN_4.m3u8
-#EXTINF:-1 tvg-id="ESPN5LatinAmerica.us" tvg-country="US" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/ESPN_5_logo.svg/960px-ESPN_5_logo.svg.png" tvg-status="live" group-title="Sports",ESPN 5 Latin America
+#EXTINF:-1 tvg-id="ESPN5LatinAmerica.us" tvg-country="US" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/ESPN_5_logo.svg/960px-ESPN_5_logo.svg.png" tvg-status="down" group-title="Sports",ESPN 5 Latin America
 https://barinaslive1.boldmss.com/ESPN_5/ESPN_5.isml/ESPN_5.m3u8
 #EXTINF:-1 tvg-id="ESPNDeportes.us" tvg-country="US" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/ESPN_Deportes.svg/960px-ESPN_Deportes.svg.png" tvg-status="down" group-title="Sports",ESPN Deportes
 http://168.228.44.241:9998/play/a0dz/index.m3u8
-#EXTINF:-1 tvg-id="ESPNExtraLatinAmerica.us" tvg-country="US" tvg-language="Spanish" tvg-logo="https://i.imgur.com/8P8N2Ov.png" tvg-status="live" group-title="Sports",ESPN Extra Latin America
+#EXTINF:-1 tvg-id="ESPNExtraLatinAmerica.us" tvg-country="US" tvg-language="Spanish" tvg-logo="https://i.imgur.com/8P8N2Ov.png" tvg-status="down" group-title="Sports",ESPN Extra Latin America
 https://barinaslive1.boldmss.com/ESPN/ESPN.isml/ESPN.mpd
 #EXTINF:-1 tvg-id="ESPNLatinAmerica.us" tvg-country="US" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png" tvg-status="live" group-title="Sports",ESPN Latin America
 http://190.61.47.54:8000/play/a004/index.m3u8
@@ -662,7 +662,7 @@ http://45.170.130.224:8000/play/a020/index.m3u8
 #EXTINF:-1 tvg-id="UDAR.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://mt.media/upload/iblock/2b3/2b3cf99141bf7f99cda377eec62ec084.png" tvg-status="live" group-title="Sports",UDAR
 http://stream.mcquack.net/279/index.m3u8
 #EXTINF:-1 tvg-id="Unbeaten.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/LmkNt3v.png" tvg-status="live" group-title="Sports",Unbeaten
-https://d1t5afz6qed3xk.cloudfront.net/Unbeaten.m3u8
+https://unbeaten-tcl.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="UPLTV.ua" tvg-country="UA" tvg-language="Ukrainian" tvg-logo="https://s4.vcdn.biz/static/f/9219528031/image.jpg" tvg-status="down" group-title="Sports",UPL.TV
 http://dtv.vol.net.ua/UPL-TV/index.m3u8
 #EXTINF:-1 tvg-id="USANetwork.us" tvg-country="US" tvg-language="English" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/USA_Network_2025_logo.svg/960px-USA_Network_2025_logo.svg.png" tvg-status="down" group-title="Movies",USA Network

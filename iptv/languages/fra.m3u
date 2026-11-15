@@ -47,7 +47,7 @@ https://edge13.vedge.infomaniak.com/livecast/ik:adhtv/manifest.m3u8
 https://goccn.cloud/hls/amanitv/index.m3u8
 #EXTINF:-1 tvg-id="AntenneA.cd" tvg-country="CD" tvg-language="French" tvg-logo="https://i.imgur.com/tgxrcv7.png" tvg-status="down" group-title="General",Antenne A
 http://51.254.199.122:8080/antenne_a-plus/index.m3u8
-#EXTINF:-1 tvg-id="AntenneReunion.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/EPIMMaB.png" tvg-status="live" group-title="General",Antenne Reunion
+#EXTINF:-1 tvg-id="AntenneReunion.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/EPIMMaB.png" tvg-status="down" group-title="General",Antenne Reunion
 https://live-antenne-reunion.zeop.tv/live/c3eds/antreunihd/hls_fta/antreunihd.m3u8?location=ZEOP01
 #EXTINF:-1 tvg-id="famelack-MV7j6dHcEiwyvr" tvg-country="RE" tvg-language="French" tvg-logo="" tvg-status="live" group-title="General",Antenne Reunion
 https://live-antenne-reunion.zeop.tv/live/c3eds/antreunihd/hls_fta/antreunihd.m3u8?location=ZEOP01
@@ -270,7 +270,7 @@ https://d2iqjnqfr8pv3b.cloudfront.net/out/v1/d09d2fc718404cd8bccd3eba2444dd70/in
 #EXTINF:-1 tvg-id="France2.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/France_2_2018.svg/960px-France_2_2018.svg.png" tvg-status="live" group-title="General",France 2
 https://r.eu.cdn-redge.media/livehls/oeu/mt/live/france_2/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="France24.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Estrella_TV_Logo_2020.png/500px-Estrella_TV_Logo_2020.png" tvg-status="live" group-title="News",France 24
-https://live.france24.com/hls/live/2037222/F24_AR_HI_HLS/master_2300.m3u8
+https://live.france24.com/hls/live/2037222-b/F24_AR_HI_HLS/master_5000.m3u8
 #EXTINF:-1 tvg-id="famelack-4CWVkfpOd7mDjB" tvg-country="FR" tvg-language="French" tvg-logo="" tvg-status="live" group-title="General",France 24 French
 https://freem3u.xyz/api/live/play.m3u8?vid=10007
 #EXTINF:-1 tvg-id="France3.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/France_3_Rh%C3%B4ne-Alpes_-_Logo_2018.svg" tvg-status="live" group-title="General",France 3
@@ -625,7 +625,7 @@ https://7aa9671895264ec9a384dfed1b992171.mediatailor.us-west-2.amazonaws.com/v1/
 https://bild-und-ton.stream/sophiatv-fr/smil:sophia-tv-fr.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="SOSDocteurTV.tg" tvg-country="TG" tvg-language="French" tvg-logo="https://i.imgur.com/wQpooHw.png" tvg-status="down" group-title="Lifestyle",SOS Docteur TV
 https://wmoy82n4y2a7-hls-live.5centscdn.com/sostv/live.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="SpeedlineTV.bj" tvg-country="BJ" tvg-language="French" tvg-logo="https://i.imgur.com/1lXShsh.png" tvg-status="down" group-title="General",Speedline TV
+#EXTINF:-1 tvg-id="SpeedlineTV.bj" tvg-country="BJ" tvg-language="French" tvg-logo="https://i.imgur.com/1lXShsh.png" tvg-status="live" group-title="General",Speedline TV
 https://cdn-us-east-prod-ingest-infra-dacast-com.akamaized.net/dbe59037-07a0-4f1c-82a2-7de94b4b62d2/index.m3u8
 #EXTINF:-1 tvg-id="famelack-PNF9zodERQr3Zm" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/iujcGiI.png" tvg-status="live" group-title="General",SQOOL TV
 https://www.youtube-nocookie.com/embed/9KylB59Z4is
@@ -704,7 +704,7 @@ https://channels.trace.plus/Traceprod/TRACE_IVOIRE_hd/index.m3u8
 #EXTINF:-1 tvg-id="famelack-GOL0LeAC5fNTzD" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/q6vkMrU.png" tvg-status="live" group-title="General",Trace Kitoko
 https://channels.trace.plus/Traceprod/KITOKO_hd/index.m3u8
 #EXTINF:-1 tvg-id="TraceLatina.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/CUVAi4u.png" tvg-status="live" group-title="Music",Trace Latina
-https://amg01131-tracetv-tracelatina-glewed-vtnk7.amagi.tv/playlist.m3u8
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracelatinait-samsungit/playlist.m3u8
 #EXTINF:-1 tvg-id="famelack-0fWZLIAvkDVD4z" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/cYwkCj2.png" tvg-status="live" group-title="General",Trace Mboa
 https://channels.trace.plus/Traceprod/MBOA_hd/index.m3u8
 #EXTINF:-1 tvg-id="famelack-IQN10ZdvEALsRy" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/xsEGIXO.png" tvg-status="live" group-title="General",Trace Muzika
@@ -742,7 +742,7 @@ http://23.133.220.149/Unis_TV/index.m3u8
 #EXTINF:-1 tvg-id="TV5MondeAfrica.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/0N64Ddn.png" tvg-status="live" group-title="General",TV5Monde Africa
 http://5.9.121.178/tv5monde/index.m3u8
 #EXTINF:-1 tvg-id="TV5MondeAsia.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/2f/TV5Monde_2025.png/revision/latest?cb=20251019134025&path-prefix=vi" tvg-status="live" group-title="General",TV5Monde Asia
-http://54.37.19.157/TV5MONDE/index.m3u8
+https://freem3u.xyz/api/live/play.m3u8?vid=9852
 #EXTINF:-1 tvg-id="famelack-2gvbHx7OrU70G2" tvg-country="FR" tvg-language="French" tvg-logo="https://psi.tv5monde.com/media/static/default/lives/tv5monde-chef.png" tvg-status="live" group-title="General",TV5MONDE Chefs
 https://tvf-tv5ch.otteravision.com/tvf/tv5ch/tv5ch.m3u8
 #EXTINF:-1 tvg-id="TV5MondeEurope.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/rPAbMSu.png" tvg-status="live" group-title="General",TV5Monde Europe
