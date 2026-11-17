@@ -77,6 +77,8 @@ https://daiconnect.com/live/hls/tvup/rk-cartoonclassics/578f4b7eb725168349ec0af8
 http://88.218.242.237:8001/Cartoon_Classics
 #EXTINF:-1 tvg-id="CartoonNetwork.it" tvg-country="IT" tvg-language="Italian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png" tvg-status="live" group-title="Animation",Cartoon Network
 http://185.227.34.104/stream/122/index.m3u8
+#EXTINF:-1 tvg-id="CartoonNetwork.jp" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png" tvg-native-name="カートゥーン ネットワーク" tvg-status="live" group-title="Animation",Cartoon Network
+http://103.255.250.188:5002/cs25.m3u8?token=guoziyun&gid=cs25&channel=zhongying
 #EXTINF:-1 tvg-id="CartoonNetwork.tr" tvg-country="TR" tvg-language="Turkish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png" tvg-status="live" group-title="Animation",Cartoon Network
 http://176.65.153.40:6002/play/a013/index.m3u8
 #EXTINF:-1 tvg-id="CartoonNetwork.us" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png" tvg-status="live" group-title="Animation",Cartoon Network
@@ -90,7 +92,7 @@ http://213.91.179.28:8000/play/a08g
 #EXTINF:-1 tvg-id="CartoonNetworkHDPlus.in" tvg-country="IN" tvg-language="English" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_CARTOON_NETWORK_HDSYMPLUS/images/LOGO_HD/image.png" tvg-status="down" group-title="Animation",Cartoon Network HD+
 http://103.135.253.32:8080/CN-NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="CartoonNetworkLatinAmerica.us" tvg-country="US" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png" tvg-status="live" group-title="Animation",Cartoon Network Latin America
-http://45.173.12.70:8000/play/a0fj
+http://15.204.246.24:8080/CartoonNetworkHD/index.m3u8
 #EXTINF:-1 tvg-id="CartoonitoAsia.sg" tvg-country="SG" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/960px-Cartoonito_-_Logo_2021.svg.png" tvg-status="live" group-title="Animation",Cartoonito Asia
 http://cdn4.skygo.mn/live/disk1/Boomerang/HLSv3-FTA/Boomerang.m3u8
 #EXTINF:-1 tvg-id="CartoonitoCEE.uk" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/9MrzLb1.png" tvg-status="live" group-title="Kids",Cartoonito CEE
@@ -128,13 +130,15 @@ https://jmp2.uk/plu-62f3e8ad2a8e8000077b013d.m3u8
 #EXTINF:-1 tvg-id="DetvoraPlus.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://interra-cdn-europe1.b-cdn.net/logo-detvora.png" tvg-native-name="ДетвораПлюс" tvg-status="down" group-title="Animation",Detvora+
 https://cdn.rostelekom-tv.xyz/live/WAYU4PTJ_VVz4wAQ.m3u8
 #EXTINF:-1 tvg-id="DiscoveryKidsLatinAmerica.us" tvg-country="US" tvg-language="Spanish" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Discovery_Kids_2021_2D_sin_wordmark.svg/960px-Discovery_Kids_2021_2D_sin_wordmark.svg.png" tvg-status="live" group-title="Kids",Discovery Kids Latin America
-http://38.224.231.176:8000/play/a01j/index.m3u8
+http://15.204.246.24:8080/DiscoveryKidsHD/index.m3u8
 #EXTINF:-1 tvg-id="DisneyChannel.bg" tvg-country="BG" tvg-language="Bulgarian" tvg-logo="https://i.imgur.com/UxrAiAe.png" tvg-status="live" group-title="Kids",Disney Channel
 http://87.120.179.187:8000/play/a010
 #EXTINF:-1 tvg-id="DisneyChannel.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg" tvg-status="live" group-title="Kids",Disney Channel
 http://88.212.15.50/live/test_disney/playlist.m3u8
 #EXTINF:-1 tvg-id="DisneyChannel.hu" tvg-country="HU" tvg-language="Hungarian" tvg-logo="https://i.imgur.com/aOa73uT.png" tvg-status="live" group-title="Kids",Disney Channel
 http://88.212.7.14/live/disney_channel_hun/index.m3u8
+#EXTINF:-1 tvg-id="DisneyChannel.jp" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg" tvg-native-name="ディズニー・チャンネル" tvg-status="live" group-title="Kids",Disney Channel
+http://103.255.250.188:5002/bs24.m3u8?token=guoziyun&gid=bs24&channel=zhongying
 #EXTINF:-1 tvg-id="DisneyChannel.nl" tvg-country="NL" tvg-language="Dutch" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg" tvg-status="down" group-title="Kids",Disney Channel
 https://lb.iptvnetwork.net/ls28/10014/playlist.m3u8
 #EXTINF:-1 tvg-id="DisneyChannel.pl" tvg-country="PL" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg" tvg-status="live" group-title="Kids",Disney Channel
@@ -187,8 +191,6 @@ http://38.87.224.19:2220/play/a03u/index.m3u8
 https://jmp2.uk/plu-56171fafada51f8004c4b40f.m3u8
 #EXTINF:-1 tvg-id="France4.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/France_4_2018.svg/960px-France_4_2018.svg.png" tvg-status="live" group-title="Kids",France 4
 https://r.eu.cdn-redge.media/livehls/oeu/mt/live/france_4/live.livx/playlist.m3u8
-#EXTINF:-1 tvg-id="FunBox.cl" tvg-country="CL" tvg-language="Spanish" tvg-logo="https://i.imgur.com/9MXM6jD.png" tvg-status="live" group-title="Kids",FunBox
-http://186.148.196.100:8000/play/a00d
 #EXTINF:-1 tvg-id="GarfieldandFriends.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/evzfe9C.png" tvg-status="live" group-title="Kids",Garfield and Friends
 https://jmp2.uk/plu-677f927554f43dad4b3258aa.m3u8
 #EXTINF:-1 tvg-id="GEMJunior.tr" tvg-country="TR" tvg-language="Persian" tvg-logo="https://i.imgur.com/jK8yzj2.png" tvg-status="down" group-title="Kids",GEM Junior
@@ -224,7 +226,7 @@ https://play-live-hls.jxtvcn.com.cn/live-city/tv_jxtv6.m3u8
 #EXTINF:-1 tvg-id="JimJam.hu" tvg-country="HU" tvg-language="Hungarian" tvg-logo="https://i.imgur.com/ODhkYyx.png" tvg-status="live" group-title="Kids",JimJam
 http://88.212.7.14/live/jim_jam_hun/index.m3u8
 #EXTINF:-1 tvg-id="JimJamEurope.uk" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/ODhkYyx.png" tvg-status="live" group-title="Kids",JimJam Europe
-http://stream.mcquack.net/150/index.m3u8
+http://212.5.144.156:8080/jimjam/index.m3u8
 #EXTINF:-1 tvg-id="KetchupTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/XRGioQX.png" tvg-status="down" group-title="Kids",Ketchup TV
 https://d24p9tv2w5yorn.cloudfront.net/vod.m3u8
 #EXTINF:-1 tvg-id="KidOO.us" tvg-country="US" tvg-language="Spanish" tvg-logo="https://digitaltv.prensariozone.com/wp-content/uploads/2022/11/Logo-KidOO.png" tvg-status="down" group-title="Animation",KidOO
@@ -275,7 +277,7 @@ https://reflect-npa.cablecast.tv/live-9/live/live.m3u8
 http://88.212.15.50/live/test_nick_jr/playlist.m3u8
 #EXTINF:-1 tvg-id="NickJr.de" tvg-country="DE" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_(outline).svg/960px-Nick_Jr._logo_2023_(outline).svg.png" tvg-status="down" group-title="Kids",Nick Jr.
 http://94.130.48.67:8042/stream/111/index.m3u8
-#EXTINF:-1 tvg-id="NickJr.hr" tvg-country="HR" tvg-language="Croatian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_(outline).svg/960px-Nick_Jr._logo_2023_(outline).svg.png" tvg-status="live" group-title="Kids",Nick Jr.
+#EXTINF:-1 tvg-id="NickJr.hr" tvg-country="HR" tvg-language="Croatian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_(outline).svg/960px-Nick_Jr._logo_2023_(outline).svg.png" tvg-status="down" group-title="Kids",Nick Jr.
 http://176.61.157.250/NickJr/index.m3u8
 #EXTINF:-1 tvg-id="NickJr.hu" tvg-country="HU" tvg-language="Hungarian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_(outline).svg/960px-Nick_Jr._logo_2023_(outline).svg.png" tvg-status="live" group-title="Kids",Nick Jr.
 http://88.212.7.14/live/nick_junior_hun/index.m3u8
@@ -309,9 +311,11 @@ http://87.120.179.187:8000/play/a00x
 http://88.212.15.50/live/test_nickelodeon_hevc_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="Nickelodeon.de" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/E84jnP8.png" tvg-status="live" group-title="Kids",Nickelodeon
 https://ma.anixa.tv/clips/stream/nickelodeon/playlist.php
+#EXTINF:-1 tvg-id="Nickelodeon.es" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/E84jnP8.png" tvg-status="live" group-title="Kids",Nickelodeon
+http://90.170.214.40:9700/stream/avatel/nickelodeonhd/master.m3u8
 #EXTINF:-1 tvg-id="Nickelodeon.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/E84jnP8.png" tvg-status="live" group-title="Kids",Nickelodeon
 https://r.eu.cdn-redge.media/livehls/oeu/mt/live/nickelodeon/live.livx/playlist.m3u8
-#EXTINF:-1 tvg-id="Nickelodeon.hr" tvg-country="HR" tvg-language="Croatian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/960px-Nickelodeon_2009_logo.svg.png" tvg-status="live" group-title="Kids",Nickelodeon
+#EXTINF:-1 tvg-id="Nickelodeon.hr" tvg-country="HR" tvg-language="Croatian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/960px-Nickelodeon_2009_logo.svg.png" tvg-status="down" group-title="Kids",Nickelodeon
 http://5.175.174.49:1234/stream/maxtvhr/nickelodeonhr/master.m3u8
 #EXTINF:-1 tvg-id="Nickelodeon.hu" tvg-country="HU" tvg-language="Hungarian" tvg-logo="https://i.imgur.com/fXs8f6a.png" tvg-status="live" group-title="Kids",Nickelodeon
 http://88.212.7.14/live/test_nickelodeon_hu_1200_atk/playlist.m3u8
@@ -326,7 +330,7 @@ http://sultanios.alwaysdata.net/vavo.php?ID=181751695
 #EXTINF:-1 tvg-id="Nickelodeon.uk" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/E84jnP8.png" tvg-status="down" group-title="Kids",Nickelodeon
 http://93.186.201.93/stream/397/index.m3u8
 #EXTINF:-1 tvg-id="Nickelodeon.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/E84jnP8.png" tvg-status="live" group-title="Kids",Nickelodeon
-https://tvnow.hostless.app/nickelodeon.m3u8
+https://cache0.wonvt.st/live/1ewxgzu023dos60vlh62k/master.m3u8
 #EXTINF:-1 tvg-id="NickelodeonArabia.ae" tvg-country="AE" tvg-language="Arabic" tvg-logo="https://i.imgur.com/E84jnP8.png" tvg-status="live" group-title="Kids",Nickelodeon Arabia
 http://85.237.89.159:3342/ar-s/Nickelodeon/index.m3u8
 #EXTINF:-1 tvg-id="NickelodeonAsia.sg" tvg-country="SG" tvg-language="English" tvg-logo="https://i.imgur.com/E84jnP8.png" tvg-status="live" group-title="Kids",Nickelodeon Asia
@@ -506,7 +510,7 @@ https://restreamer1.tnt.ba/hls/tntkids.m3u8
 #EXTINF:-1 tvg-id="TomAndJerry.do" tvg-country="DO" tvg-language="English" tvg-logo="https://gia.tv/streams/pptv/208314.jpg?1750373428" tvg-status="live" group-title="Kids",Tom And Jerry
 https://183.giatvcdn.com/giatvplayout7/giatv-208314/playlist.m3u8
 #EXTINF:-1 tvg-id="TomSingsTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://videocdn.bamboo-cloud.com/p/11389/sp/1138900/thumbnail/entry_id/0_osv1x0bp/version/100002/width/1920" tvg-status="live" group-title="Kids",Tom Sings TV
-https://vodcdn.bamboo-cloud.com/livehls/6af043956f49ecefd30d7fd4/master.m3u8
+https://ia600505.us.archive.org/34/items/live_tstv/tomsingstv.m3u8
 #EXTINF:-1 tvg-id="Tooncast.us" tvg-country="US" tvg-language="Spanish" tvg-logo="https://i.imgur.com/3yXRbQy.png" tvg-status="live" group-title="Animation",Tooncast
 http://45.134.141.161:2200/ARG/Tooncast/index.m3u8
 #EXTINF:-1 tvg-id="ToonGoggles.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/JMnxswq.png" tvg-status="live" group-title="Kids",ToonGoggles

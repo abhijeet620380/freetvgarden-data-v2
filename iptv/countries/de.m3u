@@ -251,6 +251,8 @@ https://jmp2.uk/plu-639b558c73423d00071ce624.m3u8
 https://jmp2.uk/plu-645e00d5d3fdde000829463a.m3u8
 #EXTINF:-1 tvg-id="Motorvision.de" tvg-country="DE" tvg-language="English" tvg-logo="https://i.imgur.com/v4kj8pI.png" tvg-status="live" group-title="Auto",Motorvision
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
+#EXTINF:-1 tvg-id="MotorvisionPlus.de" tvg-country="DE" tvg-language="English" tvg-logo="https://i.imgur.com/5cs5GkJ.png" tvg-status="live" group-title="Auto",Motorvision+
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/motorvision_en/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="MTV.de" tvg-country="DE" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/960px-MTV_2021_%28brand_version%29.svg.png" tvg-status="live" group-title="Entertainment",MTV
 https://ma.anixa.tv/clips/stream/mtv/playlist.php
 #EXTINF:-1 tvg-id="MTVCLASSICS.de" tvg-country="DE" tvg-language="French" tvg-logo="https://images.pluto.tv/channels/5f92b56a367e170007cd43f4/colorLogoSVG.svg" tvg-status="live" group-title="Entertainment",MTV CLASSICS
@@ -733,6 +735,8 @@ https://jmp2.uk/plu-646b150a15939400089e2702.m3u8
 https://jmp2.uk/plu-646b1438e94c3800082a8cff.m3u8
 #EXTINF:-1 tvg-id="SpongeBobSchwammkopf.de" tvg-country="DE" tvg-language="German" tvg-logo="https://images.pluto.tv/channels/5d00e8adaab96b5635b2a005/colorLogoSVG.svg" tvg-status="live" group-title="Kids",SpongeBob Schwammkopf
 https://jmp2.uk/plu-5d00e8adaab96b5635b2a005.m3u8
+#EXTINF:-1 tvg-id="Sport1.de" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/Tsjt7v9.png" tvg-status="live" group-title="Sports",Sport1
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/sport1/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="famelack-7GzTauEieAnCzl" tvg-country="DE" tvg-language="German" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/SR_Fernsehen_Logo_2023.svg/960px-SR_Fernsehen_Logo_2023.svg.png" tvg-status="live" group-title="General",SR Fernsehen
 https://srfs.akamaized.net/hls/live/689649/srfsgeo/index.m3u8
 #EXTINF:-1 tvg-id="SRF.de" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/92XNBmr.png" tvg-status="down" group-title="General",SRF
@@ -836,10 +840,10 @@ https://d726x48n2pd5h.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 #EXTINF:-1 tvg-id="famelack-5lcQ9W17aucBov" tvg-country="DE" tvg-language="Turkish" tvg-logo="https://i.imgur.com/rTBX6lS.png" tvg-status="live" group-title="General",YOL TV
 https://live.yoltv.com/hls/stream.m3u8
 #EXTINF:-1 tvg-id="ZDF.de" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/rtLb6m9.png" tvg-status="live" group-title="General",ZDF
-https://dash4.antik.sk/live/test_zdf_avc_25p/playlist.m3u8
-#EXTINF:-1 tvg-id="ZDFinfo.de" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/vtq1IWp.png" tvg-status="down" group-title="General",ZDFinfo
-https://zdf-hls-17.akamaized.net/hls/live/2016500/de/high/master.m3u8
-#EXTINF:-1 tvg-id="ZDFneo.de" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/1JIIGgL.png" tvg-status="down" group-title="General",ZDFneo
-http://5.180.164.197:8080/ZDFNEO/index.m3u8
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/zdf/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="ZDFinfo.de" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/vtq1IWp.png" tvg-status="live" group-title="General",ZDFinfo
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/zdfinfo/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="ZDFneo.de" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/1JIIGgL.png" tvg-status="live" group-title="General",ZDFneo
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/zdfneo/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="ZweiMusicTelevision.de" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/RbdpCNf.png" tvg-status="live" group-title="Music",Zwei Music Television
 https://zweiapp.b-cdn.net/1080p/index.m3u8
