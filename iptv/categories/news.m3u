@@ -6,11 +6,11 @@ http://85.238.112.40:8810/hls_sec/239.33.16.32-.m3u8
 #EXTINF:-1 tvg-id="101tvMalaga.es" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/GzI3RC4.png" tvg-status="down" group-title="News",101tv Malaga
 https://liveingesta318.cdnmedia.tv/101weblive/smil:malaga.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="24Horas.es" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.ibb.co/21sXZ3GT/24h.png" tvg-status="live" group-title="News",24 Horas
-https://ztnr.rtve.es/ztnr/1694255.m3u8
+https://n-5-2.eu.cdn-redge.media/livehls/oeu/mt/live/24h/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="24HorasCanarias.es" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.ibb.co/21sXZ3GT/24h.png" tvg-status="live" group-title="News",24 Horas Canarias
-https://ztnr.rtve.es/ztnr/5473142.m3u8
+https://rtvelivestream.rtve.es/rtvesec/can/24h_can_main_dvr.m3u8
 #EXTINF:-1 tvg-id="24HorasCatalunya.es" tvg-country="ES" tvg-language="Catalan" tvg-logo="https://i.ibb.co/21sXZ3GT/24h.png" tvg-status="live" group-title="News",24 Horas Catalunya
-https://ztnr.rtve.es/ztnr/4952053.m3u8
+https://rtvelivestream.rtve.es/rtvesec/cat/24h_cat_main_dvr.m3u8
 #EXTINF:-1 tvg-id="24KZ.kz" tvg-country="KZ" tvg-language="Kazakh" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/24KZ_logo.svg/1280px-24KZ_logo.svg.png" tvg-status="live" group-title="News",24KZ
 https://fs.uplink.kz/24KZ/mono.m3u8?token=onlinetv
 #EXTINF:-1 tvg-id="2GB.au" tvg-country="AU" tvg-language="English" tvg-logo="https://i.ibb.co/jwM8DFG/2GB-1.png" tvg-status="live" group-title="News",2GB
@@ -38,7 +38,7 @@ https://stream.ottlive.co.in/9plusnews/index.m3u8
 #EXTINF:-1 tvg-id="A2CNN.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="https://i.imgur.com/TgO3Lzi.png" tvg-status="down" group-title="News",A2 CNN
 https://tv.a2news.com/live/smil:a2cnnweb.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="A24Paraguay.py" tvg-country="PY" tvg-language="Spanish" tvg-logo="https://i.imgur.com/XWBmjBk.png" tvg-status="live" group-title="News",A24 Paraguay
-https://tv.mitvparaguay.com/hls?type=hls&id=a24
+https://a24-live.argosworkspace.com/a24/index.m3u8
 #EXTINF:-1 tvg-id="AajNews.pk" tvg-country="PK" tvg-language="Urdu" tvg-logo="https://i.imgur.com/VNGnHYz.png" tvg-native-name="آج نیوز" tvg-status="down" group-title="News",Aaj News
 http://115.42.65.142:9981/stream/channelid/750987367
 #EXTINF:-1 tvg-id="AbbTakk.pk" tvg-country="PK" tvg-language="Urdu" tvg-logo="https://i.imgur.com/D6IHRrP.png" tvg-status="down" group-title="News",Abb Takk
@@ -530,7 +530,7 @@ rtmp://95.67.11.153/klive/stream
 #EXTINF:-1 tvg-id="NRTTV.iq" tvg-country="IQ" tvg-language="Kurdish" tvg-logo="https://i.imgur.com/uGKGtbW.png" tvg-status="down" group-title="News",NRT TV
 https://media.streambrothers.com:1936/8226/8226/playlist.m3u8
 #EXTINF:-1 tvg-id="NTDTVEnglish.us" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/NTD_Logo_with_symbol.svg/960px-NTD_Logo_with_symbol.svg.png" tvg-status="live" group-title="News",NTD TV English
-https://amg17596-ntdtv-amg17596c1-rakuten-gb-6741.playouts.now.amagi.tv/playlist/amg17596-newtangdynastytelevision-ntdtv-rakutengb/playlist.m3u8
+https://ntd02.akamaized.net/NTD-UK/index.m3u8
 #EXTINF:-1 tvg-id="NWInfo.tg" tvg-country="TG" tvg-language="French" tvg-logo="https://i.imgur.com/UDEY91v.png" tvg-status="live" group-title="News",NW Info
 https://hls.newworldtv.com/nw-info/video/live.m3u8
 #EXTINF:-1 tvg-id="NWInfo2.tg" tvg-country="TG" tvg-language="English" tvg-logo="https://i.imgur.com/0W4GqFD.png" tvg-status="live" group-title="News",NW Info 2
@@ -550,7 +550,7 @@ https://5bf7b725107e5.streamlock.net/onlinetvnusantara/onlinetvnusantara/playlis
 #EXTINF:-1 tvg-id="Opinionsur.cl" tvg-country="CL" tvg-language="Spanish" tvg-logo="https://i.imgur.com/4IjhXKm.png" tvg-status="down" group-title="News",Opinionsur
 https://183.bozztv.com/giatv/giatv-opinionsurc/opinionsurc/playlist.m3u8
 #EXTINF:-1 tvg-id="OplotTV.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/RvUkId2.png" tvg-native-name="Оплот ТВ" tvg-status="live" group-title="News",Oplot TV
-http://31.131.139.253:9002/oplot_hd/index.m3u8
+http://31.131.141.195:8000/play/a006/index.m3u8
 #EXTINF:-1 tvg-id="OstWest24.de" tvg-country="DE" tvg-language="Russian" tvg-logo="https://i.imgur.com/voeQ6x1.png" tvg-status="live" group-title="Culture",Ost West 24
 http://stream.mcquack.net/455/index.m3u8
 #EXTINF:-1 tvg-id="OTV.hr" tvg-country="HR" tvg-language="Croatian" tvg-logo="https://i.imgur.com/67zVdu2.png" tvg-status="down" group-title="News",OTV
@@ -748,7 +748,7 @@ http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/72.m3u8
 #EXTINF:-1 tvg-id="UPNOW.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://papaji.freetvindia.com/media/channels/Upnow.png" tvg-status="live" group-title="News",UP NOW
 http://45.122.122.61:8080/UPNOW/video.m3u8
 #EXTINF:-1 tvg-id="USATODAY.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/37K0AZX.png" tvg-status="live" group-title="News",USA TODAY
-https://a-cdn.klowdtv.com/live3/usatoday_720p/playlist.m3u8
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00731-gannettcoinc-usatodaynews-plex/playlist.m3u8
 #EXTINF:-1 tvg-id="VinhLongTV1.vn" tvg-country="VN" tvg-language="Vietnamese" tvg-logo="https://i.imgur.com/5YFsqPx.png" tvg-status="live" group-title="News",Vinh Long TV 1
 https://dethich.pw/thvl1/index.m3u8
 #EXTINF:-1 tvg-id="VIPNews.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_VIP_NEWS/images/LOGO_HD/image.png" tvg-status="down" group-title="News",VIP News
