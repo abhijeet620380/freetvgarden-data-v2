@@ -1,8 +1,16 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="5Plus.il" tvg-country="IL" tvg-language="Hebrew" tvg-logo="https://i.imgur.com/L3RA9Lv.png" tvg-status="down" group-title="Sports",5Plus
-http://89.33.29.115:8080/sportplus/index.m3u8
-#EXTINF:-1 tvg-id="5Stars.il" tvg-country="IL" tvg-language="Hebrew" tvg-logo="https://i.imgur.com/IQtAKIa.png" tvg-status="down" group-title="Sports",5Stars
-http://89.33.29.115:8080/IL_5Stars/index.m3u8
+#EXTINF:-1 tvg-id="5Gold.il" tvg-country="IL" tvg-language="Hebrew" tvg-logo="https://i.imgur.com/zFLRfXh.png" tvg-status="live" group-title="Sports",5Gold
+https://r.il.cdn-redge.media/livehls/oil/freetv/live/sport_5_gold/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="5Live.il" tvg-country="IL" tvg-language="Hebrew" tvg-logo="https://i.imgur.com/0yr3yvd.png" tvg-status="live" group-title="Sports",5Live
+https://r.il.cdn-redge.media/livehls/oil/freetv/live/sport_5_live/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="5Plus.il" tvg-country="IL" tvg-language="Hebrew" tvg-logo="https://i.imgur.com/L3RA9Lv.png" tvg-status="live" group-title="Sports",5Plus
+https://r.il.cdn-redge.media/livehls/oil/freetv/live/sport_5_plus/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="5Sport.il" tvg-country="IL" tvg-language="Hebrew" tvg-logo="https://i.imgur.com/dRVsB89.png" tvg-native-name="ספורט 5" tvg-status="live" group-title="Sports",5Sport
+https://r.il.cdn-redge.media/livehls/oil/freetv/live/sport_5/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="5Sport4K.il" tvg-country="IL" tvg-language="Hebrew" tvg-logo="https://i.imgur.com/Msfhpqd.png" tvg-status="live" group-title="Sports",5Sport 4K
+https://r.il.cdn-redge.media/livehls/oil/freetv/live/sport_5_4k_avc/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="5Stars.il" tvg-country="IL" tvg-language="Hebrew" tvg-logo="https://i.imgur.com/IQtAKIa.png" tvg-status="live" group-title="Sports",5Stars
+https://r.il.cdn-redge.media/livehls/oil/freetv/live/sport_5_starz/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="famelack-bxBN5jknhS0mp6" tvg-country="IL" tvg-language="Hebrew" tvg-logo="" tvg-status="live" group-title="General",Angel TV Hebrew
 https://janya-digimix.akamaized.net/vglive-sk-150533/hebrew/ngrp:angelhebrew_all/playlist.m3u8
 #EXTINF:-1 tvg-id="famelack-OxqDpNnYgAPFde" tvg-country="IL" tvg-language="Hebrew" tvg-logo="https://i.imgur.com/eFM3bTq.png" tvg-native-name="ערוץ 13" tvg-status="live" group-title="General",Channel 13
