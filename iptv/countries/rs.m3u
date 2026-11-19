@@ -3,11 +3,11 @@
 http://telekomsrbije.com:2095/play/lhpjmkfVyhON1JAiZCx7vmRdlEHaaMaQAQw3LRAakpnghBMtR57sXXgLEXZF8gVD
 #EXTINF:-1 tvg-id="BelleAmie.rs" tvg-country="RS" tvg-language="Serbian" tvg-logo="https://i.imgur.com/tOlN5Rz.png" tvg-status="down" group-title="General",Belle Amie
 http://92.60.238.10:1935/live/belleamie/playlist.m3u8
-#EXTINF:-1 tvg-id="famelack-hXfBIFtewHiUsg" tvg-country="RS" tvg-language="Serbian" tvg-logo="https://i.imgur.com/LdeA1Cn.png" tvg-status="live" group-title="General",DM Sat
+#EXTINF:-1 tvg-id="famelack-hXfBIFtewHiUsg" tvg-country="RS" tvg-language="Serbian" tvg-logo="https://i.imgur.com/LdeA1Cn.png" tvg-native-name="ДМ Сат" tvg-status="live" group-title="General",DM Sat
 https://shift03.isp.bg/DMSat/index.m3u8
 #EXTINF:-1 tvg-id="EDUTV.rs" tvg-country="RS" tvg-language="Serbian" tvg-logo="https://i.imgur.com/NE48DJb.png" tvg-native-name="ЕДУ ТВ" tvg-status="down" group-title="Education",EDU TV
 https://5aa64ca8b95b8.streamlock.net:4443/edutv/edutelevizija/playlist.m3u8
-#EXTINF:-1 tvg-id="IDJTV.rs" tvg-country="RS" tvg-language="Serbian" tvg-logo="https://i.imgur.com/btvyrzr.png" tvg-status="live" group-title="General",IDJTV
+#EXTINF:-1 tvg-id="IDJTV.rs" tvg-country="RS" tvg-language="Serbian" tvg-logo="https://i.imgur.com/btvyrzr.png" tvg-status="live" group-title="Music",IDJTV
 https://best-str.umn.cdn.united.cloud/stream?channel=idjhd&p=In$trum300na765ta&player=m3u8&sp=idjtv&stream=hp1400&u=idjtv
 #EXTINF:-1 tvg-id="InformerTV.rs" tvg-country="RS" tvg-language="Serbian" tvg-logo="https://i.imgur.com/9wdEHRf.png" tvg-native-name="Информер ТВ" tvg-status="live" group-title="News",Informer TV
 https://edge-rs-01.maksnet.tv/informertv-secure/web/playlist.m3u8
@@ -15,7 +15,7 @@ https://edge-rs-01.maksnet.tv/informertv-secure/web/playlist.m3u8
 http://213.91.179.28:8000/play/a03n
 #EXTINF:-1 tvg-id="NarodnaTV.rs" tvg-country="RS" tvg-language="Serbian" tvg-logo="https://i.imgur.com/dua57HD.png" tvg-status="down" group-title="General",Narodna TV
 https://edge8.pink.rs/narodnatv/index.m3u8
-#EXTINF:-1 tvg-id="Nova.rs" tvg-country="RS" tvg-language="Serbian" tvg-logo="https://i.imgur.com/sU8UPPY.png" tvg-status="live" group-title="General",Nova
+#EXTINF:-1 tvg-id="Nova.rs" tvg-country="RS" tvg-language="Serbian" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2c/Nova_RS_2023.svg/revision/latest" tvg-status="live" group-title="General",Nova
 https://best-str.umn.cdn.united.cloud/stream?channel=novashd&p=n0v43!23t001&player=m3u8&sp=novas&stream=hp7000&u=novas
 #EXTINF:-1 tvg-id="NovosadskaTV.rs" tvg-country="RS" tvg-language="Serbian" tvg-logo="https://i.imgur.com/s0SCAeV.png" tvg-native-name="Новосадска ТВ" tvg-status="live" group-title="General",Novosadska TV
 https://live.novosadska.tv/hls/mystream.m3u8
@@ -69,7 +69,7 @@ mmsh://212.200.255.151/rtv1
 mmsh://212.200.255.151/rtv2
 #EXTINF:-1 tvg-id="RTVBap.rs" tvg-country="RS" tvg-language="Serbian" tvg-logo="https://i.imgur.com/TBAtPH6.png" tvg-native-name="РТВ Бап" tvg-status="down" group-title="General",RTV Bap
 https://53be5ef2d13aa.streamlock.net/rtvbap/uzivo/playlist.m3u8
-#EXTINF:-1 tvg-id="famelack-QFj91xyZtAKSLQ" tvg-country="RS" tvg-language="Serbian" tvg-logo="https://i.imgur.com/NpyRVyC.png" tvg-status="live" group-title="General",RTV Novi Pazar
+#EXTINF:-1 tvg-id="famelack-QFj91xyZtAKSLQ" tvg-country="RS" tvg-language="Serbian" tvg-logo="https://i.imgur.com/NpyRVyC.png" tvg-native-name="РТВ Нови Пазар" tvg-status="live" group-title="General",RTV Novi Pazar
 https://tv.rtvnp.rs/stream.m3u8
 #EXTINF:-1 tvg-id="SandzakTV.rs" tvg-country="RS" tvg-language="Serbian" tvg-logo="https://i.imgur.com/lm9Fgsp.png" tvg-native-name="Санџак ТВ" tvg-status="live" group-title="General",Sandzak TV
 https://streaming.iptv.nextfiber.rs/nxt004/master.m3u8
@@ -81,7 +81,7 @@ https://53be5ef2d13aa.streamlock.net/soskanalplus/soskanalplus.stream/playlist.m
 https://peer2.tdiradio.com/static/streaming-playlists/hls/8f5d84ce-e8ac-4109-9975-9665f5605557/master.m3u8
 #EXTINF:-1 tvg-id="TopTV.rs" tvg-country="RS" tvg-language="Serbian" tvg-logo="https://i.imgur.com/UJqbKEC.png" tvg-status="down" group-title="Music",Top TV
 http://82.165.71.58:8081/TopTV/live/playlist.m3u8
-#EXTINF:-1 tvg-id="TVDugaPlus.rs" tvg-country="RS" tvg-language="Serbian" tvg-logo="https://i.imgur.com/qZV3JW5.png" tvg-status="down" group-title="Music",TV Duga+
+#EXTINF:-1 tvg-id="TVDugaPlus.rs" tvg-country="RS" tvg-language="Serbian" tvg-logo="https://i.imgur.com/qZV3JW5.png" tvg-native-name="ТВ Дуга+" tvg-status="down" group-title="Music",TV Duga+
 http://109.92.29.10:1935/tvduga/tvduga/playlist.m3u8
 #EXTINF:-1 tvg-id="famelack-QBnvi3VHR0xXL2" tvg-country="RS" tvg-language="Serbian" tvg-logo="https://i.imgur.com/XzAYOFK.png" tvg-native-name="ТВ Храм" tvg-status="live" group-title="General",TV Hram
 https://vod1.laki.eu/live/hram/index.m3u8
