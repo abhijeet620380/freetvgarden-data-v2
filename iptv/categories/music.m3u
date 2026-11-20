@@ -258,7 +258,7 @@ https://r.eu.cdn-redge.media/livehls/oeu/mt/live/melody/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="Mezzo.fr" tvg-country="FR" tvg-language="English" tvg-logo="https://i.imgur.com/auNdGeW.png" tvg-status="down" group-title="Music",Mezzo
 http://92.180.26.103/stream/62/index.m3u8
 #EXTINF:-1 tvg-id="MezzoLive.fr" tvg-country="FR" tvg-language="English" tvg-logo="https://i.imgur.com/H9ytKPN.png" tvg-status="live" group-title="Music",Mezzo Live
-http://45.84.187.172:3001/udp/239.10.10.76:5000
+http://stream.mcquack.net/276/index.m3u8
 #EXTINF:-1 tvg-id="MiMusicaHits.us" tvg-country="US" tvg-language="Spanish" tvg-logo="https://i.imgur.com/z9MlLFL.png" tvg-status="down" group-title="Music",Mi Musica Hits
 http://38.188.186.47:4000/play/a04n/index.m3u8
 #EXTINF:-1 tvg-id="MiMusicaPopular.us" tvg-country="US" tvg-language="Spanish" tvg-logo="https://i.imgur.com/auW6Ve1.png" tvg-status="live" group-title="Music",Mi Musica Popular
@@ -439,8 +439,6 @@ rtmp://live.restream.io/pull/play_320121_94512612fd0e084bd284
 https://rotana.hibridcdn.net/rotananet/khaleejiya_net-7Y83PP5adWixDF93/playlist.m3u8
 #EXTINF:-1 tvg-id="RotanaMusic.sa" tvg-country="SA" tvg-language="Arabic" tvg-logo="https://i.imgur.com/2zFQbQi.png" tvg-status="down" group-title="Music",Rotana Music
 https://rotana.hibridcdn.net/rotananet/music_net-7Y83PP5adWixDF93/playlist.m3u8
-#EXTINF:-1 tvg-id="RTSMuzika.rs" tvg-country="RS" tvg-language="Serbian" tvg-logo="https://i.imgur.com/n8p11NI.png" tvg-native-name="РТС Музика" tvg-status="down" group-title="Music",RTS Muzika
-https://de1.dstv.cx/RTSMuzika/index.m3u8
 #EXTINF:-1 tvg-id="RTVGlasDrine.ba" tvg-country="BA" tvg-language="Bosnian" tvg-logo="https://i.imgur.com/9NgxOdb.png" tvg-status="down" group-title="General",RTV Glas Drine
 http://glasdrine.cutuk.net:8081/433ssdsw/GlasDrineSD/playlist.m3u8
 #EXTINF:-1 tvg-id="RumbaTV.co" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/WtVpWwI.png" tvg-status="live" group-title="Music",Rumba TV
@@ -495,18 +493,16 @@ https://5f700d5b2c46f.streamlock.net/thecabinn/thecabinn/playlist.m3u8
 https://tmf-nl-nl.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-hls-aes128-yourchannels-10-restreaming/bitok/eyJzdGlkIjoiMzUzNGNiZTAtNWY4MS00ZmU4LWE1NGYtYjgyMjJmMTM3ZmZjIiwibWt0IjoibmwiLCJjaCI6IjEwIiwicHRmIjo1fQ%3D%3D/mpgmedia/TMF/TMF_NL/TMF_NL.m3u8
 #EXTINF:-1 tvg-id="TopLatinoTV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/VRl8nPZ.png" tvg-status="live" group-title="Music",Top Latino TV
 http://38.87.224.20:2220/play/a02b/index.m3u8
-#EXTINF:-1 tvg-id="TopTV.rs" tvg-country="RS" tvg-language="Serbian" tvg-logo="https://i.imgur.com/UJqbKEC.png" tvg-status="down" group-title="Music",Top TV
-http://82.165.71.58:8081/TopTV/live/playlist.m3u8
 #EXTINF:-1 tvg-id="TopEstradaTV.mk" tvg-country="MK" tvg-language="Albanian" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQu5Regf9pPTMfNnFdU23otlXsvGzUmjsuHxfYaTdrWwA&s" tvg-status="live" group-title="Music",TopEstrada TV
 http://live.topestrada.com/live/topestrada/playlist.m3u8
 #EXTINF:-1 tvg-id="Totovision.gt" tvg-country="GT" tvg-language="Spanish" tvg-logo="https://totovision.net/wp-content/uploads/2022/05/cropped-LOGO-PAGINA-22.png" tvg-status="down" group-title="Music",Totovision
 https://cdn.streamhispanatv.net:3652/live/totovisiongtlive.m3u8
-#EXTINF:-1 tvg-id="TraceIvoire.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/W2l3rVx.png" tvg-status="down" group-title="Music",Trace Ivoire
+#EXTINF:-1 tvg-id="TraceIvoire.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/W2l3rVx.png" tvg-status="live" group-title="Music",Trace Ivoire
 https://channels.trace.plus/Traceprod/TRACE_IVOIRE_hd/index.m3u8
 #EXTINF:-1 tvg-id="TraceLatina.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/CUVAi4u.png" tvg-status="live" group-title="Music",Trace Latina
-https://amg01131-tracetv-amg01131c3-stirr-us-4391.playouts.now.amagi.tv/playlist.m3u8
+https://channels.trace.plus/Traceprod/LATINA_hd/index.m3u8
 #EXTINF:-1 tvg-id="TraceUrban.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/DISTROTV/LIVECHANNEL/6669893cbac4421ebc53368b/images/logo_20231219_223537_68.png" tvg-status="live" group-title="Music",Trace Urban
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01131-tracetv-traceurbanit-samsungit/playlist.m3u8
+https://channels.trace.plus/Traceprod/URBAN_AFRIC_FR_hd/index.m3u8
 #EXTINF:-1 tvg-id="TraditionalTV.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.ibb.co/G5bNH48/Traditional-TV-HD.png" tvg-status="live" group-title="Music",Traditional TV
 http://83.103.149.75:8085/udp/239.30.0.9:4000
 #EXTINF:-1 tvg-id="TropicalMoonCumbiaTV.pa" tvg-country="PA" tvg-language="Spanish" tvg-logo="https://i.imgur.com/jL1kLyS.png" tvg-status="down" group-title="Music",Tropical Moon Cumbia TV
@@ -521,8 +517,8 @@ https://ssh101.bozztv.com/ssh101/rtvarberia4/playlist.m3u8
 https://ssh101.bozztv.com/ssh101/rtvarberiaretro/playlist.m3u8
 #EXTINF:-1 tvg-id="TvCarigso.bo" tvg-country="BO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/nhg1uM9.png" tvg-status="live" group-title="Music",Tv Carigso
 https://183.giatvcdn.com/ssh101/ssh101/carigsotv2026/playlist.m3u8
-#EXTINF:-1 tvg-id="TVDugaPlus.rs" tvg-country="RS" tvg-language="Serbian" tvg-logo="https://i.imgur.com/qZV3JW5.png" tvg-native-name="ТВ Дуга+" tvg-status="down" group-title="Music",TV Duga+
-http://109.92.29.10:1935/tvduga/tvduga/playlist.m3u8
+#EXTINF:-1 tvg-id="TVDugaPlus.rs" tvg-country="RS" tvg-language="Serbian" tvg-logo="https://i.imgur.com/qZV3JW5.png" tvg-native-name="ТВ Дуга+" tvg-status="live" group-title="Music",TV Duga+
+http://135.125.238.20:8080/memfs/6c06b323-a7db-443a-a75f-b745da6ca308.m3u8
 #EXTINF:-1 tvg-id="TVRodina.bg" tvg-country="BG" tvg-language="Bulgarian" tvg-logo="" tvg-native-name="ТВ Родина" tvg-status="live" group-title="Music",TV Rodina
 https://shift03.isp.bg/RodinaTV/index.m3u8
 #EXTINF:-1 tvg-id="TVONENicaragua.ni" tvg-country="NI" tvg-language="Spanish" tvg-logo="https://i.imgur.com/FNk6rdz.png" tvg-status="down" group-title="Music",TVONE Nicaragua
@@ -536,11 +532,11 @@ https://stream.ottlive.co.in/utvtamil/index.m3u8
 #EXTINF:-1 tvg-id="VallenatoInternacional.us" tvg-country="US" tvg-language="Spanish" tvg-logo="https://i.imgur.com/rVKroNW.png" tvg-status="down" group-title="Music",Vallenato Internacional
 https://59a564764e2b6.streamlock.net/vallenato/vallenatom/playlist.m3u8
 #EXTINF:-1 tvg-id="VantageClassic.ee" tvg-country="EE" tvg-language="English" tvg-logo="https://vantagetv.ee/vantage_classic.png" tvg-status="live" group-title="Music",Vantage Classic
-https://hls.vantagetv.ee/vclassic_stream/index.m3u8
+https://cdn-backup.lulzy.eu/vclassic_stream/index.m3u8
 #EXTINF:-1 tvg-id="VantageDance.ee" tvg-country="EE" tvg-language="English" tvg-logo="https://vantagetv.ee/vantage_dance.png" tvg-status="live" group-title="Music",Vantage Dance
-https://hls.vantagetv.ee/vdance_stream/main_stream.m3u8
+https://cdn-backup.lulzy.eu/vdance_stream/index.m3u8
 #EXTINF:-1 tvg-id="VantageMusic.ee" tvg-country="EE" tvg-language="English" tvg-logo="https://vantagetv.ee/vantage_music.png" tvg-status="live" group-title="Music",Vantage Music
-https://hls.vantagetv.ee/vmusic_stream/main_stream.m3u8
+https://cdn-backup.lulzy.eu/vmusic_stream/index.m3u8
 #EXTINF:-1 tvg-id="VantageRock.ee" tvg-country="EE" tvg-language="English" tvg-logo="https://vantagetv.ee/vantage_rock.png" tvg-status="live" group-title="Music",Vantage Rock
 https://hls.vantagetv.ee/vrock_stream/index.m3u8
 #EXTINF:-1 tvg-id="Vevo70s.us" tvg-country="US" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/5f32f26bcd8aea00071240e5/featuredImage.jpg" tvg-status="live" group-title="Music",Vevo '70s

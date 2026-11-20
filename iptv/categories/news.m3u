@@ -225,6 +225,8 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/cnew
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/cnews-prime-dm.m3u8
 #EXTINF:-1 tvg-id="CNN.us" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/960px-CNN.svg.png" tvg-status="live" group-title="News",CNN
 http://212.5.144.156:8080/cnn/index.m3u8
+#EXTINF:-1 tvg-id="CNNHeadlines.us" tvg-country="US" tvg-language="English" tvg-logo="https://provider-static.plex.tv/epg/cms/production/de3851fb-9598-4d13-8e03-f421418c9b5b/CNN_Headlines_ChannelLogo_Dark_1500x1000_2025_-_Grace_Hartwig.png" tvg-status="live" group-title="News",CNN Headlines
+https://amg01918-cnnus-amg01918c1-vizio-us-1813.playouts.now.amagi.tv/playlist/amg01918-cnnus-cnnheadlines-vizious/playlist.m3u8
 #EXTINF:-1 tvg-id="CNNIndonesia.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/CNN_Indonesia_logo_%282023%29.svg" tvg-status="live" group-title="News",CNN Indonesia
 https://video.detik.com/livecnn/smil:cnntv/chunklist_w268557525_b384000_sleng.m3u8
 #EXTINF:-1 tvg-id="CNNInternational.us" tvg-country="US" tvg-language="English" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/CNN-International-Logo.svg/960px-CNN-International-Logo.svg.png" tvg-status="live" group-title="News",CNN International
@@ -399,6 +401,8 @@ http://103.250.28.74:8000/play/a00r/index.m3u8
 https://htvint.mada.ps/kolalnas/index.m3u8
 #EXTINF:-1 tvg-id="KompasTV.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://i.imgur.com/bD6UHeZ.png" tvg-status="down" group-title="News",Kompas TV
 https://op-group1-swiftservehd-1.dens.tv/h/h234/index.m3u8
+#EXTINF:-1 tvg-id="KurirTV.rs" tvg-country="RS" tvg-language="Serbian" tvg-logo="https://i.imgur.com/HBPnUD5.png" tvg-native-name="Курир телевизија" tvg-status="live" group-title="News",Kurir TV
+https://static.am.mediaoutcast.com/storage/nQJnjJkO/nQJnjJkO/stream/O68x4o8g/720p/720p.m3u8
 #EXTINF:-1 tvg-id="Kyiv.ua" tvg-country="UA" tvg-language="Ukrainian" tvg-logo="https://i.imgur.com/TVuCY4N.png" tvg-native-name="Київ" tvg-status="live" group-title="News",Kyiv
 https://api-tv.ipnet.ua/api/v1/manifest/1293296300.m3u8
 #EXTINF:-1 tvg-id="LahoreRang.pk" tvg-country="PK" tvg-language="Urdu" tvg-logo="https://i.imgur.com/hglxHTa.png" tvg-status="down" group-title="News",Lahore Rang
@@ -417,6 +421,8 @@ https://stream-hls.castr.net/64490fcefe045f1b63012886/live_22d9a1f0c69c11ee94412
 https://aka-live1050.delivery.roku.com/eaf7d889-16e0-4c14-a299-a2932df9f467/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 tvg-id="LN247.ng" tvg-country="NG" tvg-language="English" tvg-logo="https://i.imgur.com/s6PUehQ.jpg" tvg-status="down" group-title="News",LN247
 https://go5lmb6oyawb-hls-live.5centscdn.com/station/3dfd3752af3d7aec5c53992c2da3a316.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="LocalNow.us" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/LocalNow_logo_2020.png/500px-LocalNow_logo_2020.png" tvg-status="live" group-title="News",Local Now
+https://localnow-vizio.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="LolweTV.ke" tvg-country="KE" tvg-language="English" tvg-logo="https://i.imgur.com/tjZ1cOP.png" tvg-status="down" group-title="News",Lolwe TV
 https://goliveafrica.media:9998/live/62580e144eb43/index.m3u8
 #EXTINF:-1 tvg-id="MNetInfo.mk" tvg-country="MK" tvg-language="Macedonian" tvg-logo="https://i.ibb.co/0fnY2cj/IMG-20230419-161527.jpg" tvg-status="live" group-title="News",M-Net Info
@@ -532,7 +538,7 @@ rtmp://95.67.11.153/klive/stream
 #EXTINF:-1 tvg-id="NRTTV.iq" tvg-country="IQ" tvg-language="Kurdish" tvg-logo="https://i.imgur.com/uGKGtbW.png" tvg-status="down" group-title="News",NRT TV
 https://media.streambrothers.com:1936/8226/8226/playlist.m3u8
 #EXTINF:-1 tvg-id="NTDTVEnglish.us" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/NTD_Logo_with_symbol.svg/960px-NTD_Logo_with_symbol.svg.png" tvg-status="live" group-title="News",NTD TV English
-https://amg17596-ntdtv-amg17596c1-rakuten-gb-6741.playouts.now.amagi.tv/playlist/amg17596-newtangdynastytelevision-ntdtv-rakutengb/playlist.m3u8
+https://ntd02.akamaized.net/NTD-UK/index.m3u8
 #EXTINF:-1 tvg-id="NWInfo.tg" tvg-country="TG" tvg-language="French" tvg-logo="https://i.imgur.com/UDEY91v.png" tvg-status="live" group-title="News",NW Info
 https://hls.newworldtv.com/nw-info/video/live.m3u8
 #EXTINF:-1 tvg-id="NWInfo2.tg" tvg-country="TG" tvg-language="English" tvg-logo="https://i.imgur.com/0W4GqFD.png" tvg-status="live" group-title="News",NW Info 2
@@ -633,7 +639,7 @@ https://streaming-live.rtp.pt/livetvhlsDVR/rtpnHDdvr.smil/playlist.m3u8
 https://rtsinfo-d.akamaized.net/out/v1/2b7ae2e1ba3f43c6aba15bced153baf5/index.m3u8
 #EXTINF:-1 tvg-id="RTSH24.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="https://i.imgur.com/H6tCoGW.png" tvg-status="down" group-title="News",RTSH 24
 http://178.33.11.6:8696/live/rtsh24/playlist.m3u8
-#EXTINF:-1 tvg-id="RTU.ec" tvg-country="EC" tvg-language="Spanish" tvg-logo="https://i.imgur.com/1OWvMP4.png" tvg-status="live" group-title="News",RTU
+#EXTINF:-1 tvg-id="RTU.ec" tvg-country="EC" tvg-language="Spanish" tvg-logo="https://i.imgur.com/1OWvMP4.png" tvg-status="down" group-title="News",RTU
 http://45.224.97.181:9999/RTU/index.m3u8
 #EXTINF:-1 tvg-id="Russia24.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Rossiya-24_Logo.svg/960px-Rossiya-24_Logo.svg.png" tvg-native-name="Россия-24" tvg-status="live" group-title="News",Russia-24
 https://live.smotrim.ru/vgtrk/0/russia24-hd/1080p.m3u8
@@ -761,6 +767,8 @@ https://live.vipnews24x7.co.in/vipnews24x7/d0dbe915091d400bd8ee7f27f0791303.sdp/
 https://dev.aftermind.xyz/edge-hls/unitrust/voulitv/index.m3u8?token=8TXWzhY3h6jrzqEqx
 #EXTINF:-1 tvg-id="VSHNews.pk" tvg-country="PK" tvg-language="English" tvg-logo="https://i.imgur.com/pmPZoYC.png" tvg-status="down" group-title="News",VSH News
 http://103.250.28.74:8000/play/a00w/index.m3u8
+#EXTINF:-1 tvg-id="WFTSTV321.us" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/WWAY_logo.png" tvg-status="live" group-title="News",WFTS-TV 32.1
+https://amg01438-amg01438c12-vizio-us-10904.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="WION.in" tvg-country="IN" tvg-language="English" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/ZEEDIGITAL/LIVECHANNEL/67ed357bd88a5f7a856b6fbb/images/LOGO/LOGO_14l9kmNae_WION-(2).png" tvg-status="live" group-title="News",WION
 http://vg-zeefta.akamaized.net/ptnr-yupptv/title-wion/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/20c3c0d9-0256-43fe-bca6-70fdd490b957/main.m3u8
 #EXTINF:-1 tvg-id="WPLG101.us" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/WPLG_Local_10_%282014%2C_without_ABC_logo%29.svg/500px-WPLG_Local_10_%282014%2C_without_ABC_logo%29.svg.png" tvg-status="live" group-title="News",WPLG 10.1

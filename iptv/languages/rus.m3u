@@ -1,10 +1,10 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="black.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/Q4A6ci4.png" tvg-status="live" group-title="Entertainment",.black
-http://s1.merlive.am/black/index.m3u8
+http://116.90.120.149:8000/play/a0ac/index.m3u8
 #EXTINF:-1 tvg-id="red.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/GET9Qut.png" tvg-status="live" group-title="Entertainment",.red
-http://178.134.1.158:8081/red/index.m3u8
+http://116.90.120.149:8000/play/a0an/index.m3u8
 #EXTINF:-1 tvg-id="scifi.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/nSSUHcg.png" tvg-status="live" group-title="Science",.sci-fi
-http://stream.mcquack.net/180/index.m3u8
+http://116.90.120.149:8000/play/a0ao/index.m3u8
 #EXTINF:-1 tvg-id="100NEWS.ua" tvg-country="UA" tvg-language="Russian" tvg-logo="https://i.imgur.com/bSXKdK5.png" tvg-status="live" group-title="News",100% NEWS
 http://85.238.112.40:8810/hls_sec/239.33.16.32-.m3u8
 #EXTINF:-1 tvg-id="15PlusMusic.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/kj21hwd.png" tvg-status="down" group-title="Music",15+ Music
@@ -555,7 +555,7 @@ http://31.148.48.15/O2_HD/index.m3u8
 http://85.238.112.40:8810/hls_sec/239.33.75.33-.m3u8
 #EXTINF:-1 tvg-id="famelack-skmeLVfBwTzGbY" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/Bj1jI7F.png" tvg-native-name="Охотник и рыболов" tvg-status="live" group-title="General",Ohotnik i rybolov
 https://stream8.cinerama.uz/1413/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="OkkoFutbol.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://xml-epgservice.cdnvideo.ru/EPGService/hs/xmldata/852f4b92-cae5-463e-aad6-cd8844c5a49/logo/8986.png" tvg-native-name="Okko Футбол" tvg-status="live" group-title="Sports",Okko Futbol
+#EXTINF:-1 tvg-id="OkkoFutbol.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://xml-epgservice.cdnvideo.ru/EPGService/hs/xmldata/852f4b92-cae5-463e-aad6-cd8844c5a49/logo/8986.png" tvg-native-name="Okko Футбол" tvg-status="down" group-title="Sports",Okko Futbol
 http://178.124.179.122:8080/Setanta1/index.m3u8
 #EXTINF:-1 tvg-id="OkkoPrajmSport.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/kQq5DMU.png" tvg-native-name="Okko Прайм Спорт" tvg-status="down" group-title="Sports",Okko Prajm Sport
 http://stream.mcquack.net/493/index.m3u8
@@ -727,6 +727,10 @@ https://cdn-dvr.ntv.ru/Skoraja_pomosh/index.m3u8
 https://stream.smotrim.ru/hls/fasttv05/playlist_3.m3u8
 #EXTINF:-1 tvg-id="famelack-orDXxZRC4vUyeM" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/dB3cJzO.png" tvg-native-name="Смотрим 100% Факты" tvg-status="live" group-title="General",Smotrim 100% Fakty
 https://stream.smotrim.ru/hls/fasttv06/playlist_3.m3u8
+#EXTINF:-1 tvg-id="Smotrim100Gorkogo.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://cdn.smotrim.ru/photobank/prod/large/156/126/56.jpg" tvg-native-name="Смотрим 100% Горького" tvg-status="live" group-title="Movies",Smotrim 100% Gorkogo
+https://stream.smotrim.ru/hls2/fasttv07/playlist_3.m3u8
+#EXTINF:-1 tvg-id="Smotrim100k1.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://cdn.smotrim.ru/photobank/prod/large/156/263/96.jpg" tvg-native-name="Смотрим 100% к 1" tvg-status="live" group-title="Entertainment",Smotrim 100% k 1
+https://stream.smotrim.ru/hls2/fasttv08/playlist_2.m3u8
 #EXTINF:-1 tvg-id="famelack-6UMqfCWAL6fJyw" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/aASNpKq.png" tvg-native-name="Смотрим 100% Классика" tvg-status="live" group-title="General",Smotrim 100% Klassika
 https://stream.smotrim.ru/hls/fasttv03/playlist_3.m3u8
 #EXTINF:-1 tvg-id="famelack-AEW5rUSukyBObX" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/4EFh0nu.png" tvg-native-name="Смотрим 100% Любовь" tvg-status="live" group-title="General",Smotrim 100% Lyubov
@@ -735,6 +739,8 @@ https://stream.smotrim.ru/hls/fasttv01/playlist_2.m3u8
 https://stream.smotrim.ru/hls/fasttv02/playlist_3.m3u8
 #EXTINF:-1 tvg-id="famelack-xmXphKZ88u1bWW" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/NEcqFse.png" tvg-native-name="Смотрим 100% Праздник" tvg-status="live" group-title="General",Smotrim 100% Prazdnik
 https://stream.smotrim.ru/hls/fasttv04/playlist_3.m3u8
+#EXTINF:-1 tvg-id="Smotrim100Talkshow.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://cdn.smotrim.ru/photobank/prod/large/156/431/82.jpg" tvg-native-name="Смотрим 100% Ток-шоу" tvg-status="live" group-title="Entertainment",Smotrim 100% Talk-show
+https://stream.smotrim.ru/hls2/fasttv09/playlist_3.m3u8
 #EXTINF:-1 tvg-id="famelack-XsDojCA8SLZ0wU" tvg-country="RU" tvg-language="Russian" tvg-logo="https://cdn-st3.smotrim.ru/vh/pictures/svg/444/241/8.svg" tvg-native-name="Смотрим Честный Детектив" tvg-status="live" group-title="General",Smotrim Chestnyy Detektiv
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="SochiLive.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://www.cableman.ru/sites/default/files/sochi_live.png" tvg-status="live" group-title="General",Sochi Live
@@ -822,7 +828,7 @@ http://31.148.5.241/kanal_19/index.m3u8
 #EXTINF:-1 tvg-id="TNTInternational.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/l0RGbRI.png" tvg-native-name="ТНТ International" tvg-status="down" group-title="Entertainment",TNT International
 http://91.228.35.249:8001/1:0:1:6a7:3138:13e:820000:0:0:0:
 #EXTINF:-1 tvg-id="TNT4.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/gBokU5i.png" tvg-native-name="ТНТ4" tvg-status="live" group-title="Entertainment",TNT4
-http://176.118.197.101/TNT4/index.m3u8
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8
 #EXTINF:-1 tvg-id="TNT4International.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/gBokU5i.png" tvg-native-name="ТНТ4 International" tvg-status="live" group-title="Entertainment",TNT4 International
 https://fs.uplink.kz/tnt4/mono.m3u8?token=onlinetv
 #EXTINF:-1 tvg-id="famelack-6yBLRoSzypIDNJ" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/ijA1zDw.png" tvg-native-name="ТНВ-Планета" tvg-status="live" group-title="General",TNV-Planet
