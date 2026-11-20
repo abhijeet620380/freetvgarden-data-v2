@@ -67,7 +67,7 @@ https://stmv2.voxtvhd.com.br/telefamilia/telefamilia/playlist.m3u8
 https://stream.canaltelesantiago.com:8000/play/TELESANTIAGO/index.m3u8
 #EXTINF:-1 tvg-id="CanalTRO.co" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/ZS5WTCd.png" tvg-status="live" group-title="General",Canal TRO
 http://181.78.82.130:8000/play/a0o1/index.m3u8
-#EXTINF:-1 tvg-id="CanalTROPlus.co" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/Vs1H6bK.png" tvg-status="live" group-title="Entertainment",Canal TRO +
+#EXTINF:-1 tvg-id="CanalTROPlus.co" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/Vs1H6bK.png" tvg-status="down" group-title="Entertainment",Canal TRO +
 https://liveingesta118.cdnmedia.tv/canaltro2live/smil:troplus.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="CanalTV3.co" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/pyeBDpg.jpeg" tvg-status="live" group-title="General",Canal TV3
 https://streaming.telenetdigital.net.co:8086/canal3tv/stream.m3u8
@@ -111,7 +111,7 @@ https://5fc584f3f19c9.streamlock.net/cristovision/videocristovision/playlist.m3u
 https://stmv3.voxtvhd.com.br/conex2/conex2/playlist.m3u8
 #EXTINF:-1 tvg-id="famelack-8MkrJaxHtTluMW" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/xG2apUG.jpeg" tvg-status="live" group-title="General",El Mundo del Campo
 https://movil.ejeserver.com/live/elmundodelcampo.m3u8
-#EXTINF:-1 tvg-id="EmisoraComunitaria1041FM.co" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/SQ79Wsb.png" tvg-status="live" group-title="General",Emisora Comunitaria 104.1 FM
+#EXTINF:-1 tvg-id="EmisoraComunitaria1041FM.co" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/SQ79Wsb.png" tvg-status="down" group-title="General",Emisora Comunitaria 104.1 FM
 https://104florencia.co/wp-admin/admin-ajax.php?action=frp_hls_proxy&url=https://streamyes.alsolnet.com/comunitariafm/live/playlist.m3u8
 #EXTINF:-1 tvg-id="EnlaceTelevision.co" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://cdn.colombia.com/canales/enlace-television-3301.jpg" tvg-status="live" group-title="General",Enlace Television
 http://181.78.12.119:16123/play/ch33/index.m3u8
@@ -203,11 +203,11 @@ https://sistemastr.tropicalmoonmedia.com/live/9E495C5FDA503D7F71037F2D2C5D3FA3/1
 https://backupmaxmedia.hvmultiplay.com/hls/stream4/supermusica.m3u8
 #EXTINF:-1 tvg-id="famelack-nBCtUGxdm8WZSP" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/2N9LCES.png" tvg-status="live" group-title="General",Suram TV
 https://us.streaminghd.cl/suramtv/index.m3u8
-#EXTINF:-1 tvg-id="TeleAmiga.co" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/gBZFZNv.png" tvg-status="live" group-title="Culture",Tele Amiga
+#EXTINF:-1 tvg-id="TeleAmiga.co" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/gBZFZNv.png" tvg-status="down" group-title="Culture",Tele Amiga
 http://200.122.223.13:55000/play/tele-amiga-ses-6/index.m3u8
 #EXTINF:-1 tvg-id="famelack-HgBlAsHZW8C65f" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/XHtpEfu.png" tvg-status="live" group-title="General",Tele Mocoa Canal 10
 https://live.amelbatv.co:81/telemocoalive/index.m3u8
-#EXTINF:-1 tvg-id="TeleVid.co" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/OZ4kiXP.png" tvg-status="live" group-title="Religious",Tele Vid
+#EXTINF:-1 tvg-id="TeleVid.co" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/OZ4kiXP.png" tvg-status="down" group-title="Religious",Tele Vid
 http://200.122.223.13:55000/play/a01n/index.m3u8
 #EXTINF:-1 tvg-id="Teleantioquia.co" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/qCVZdar.png" tvg-status="live" group-title="General",Teleantioquia
 http://138.121.15.230:9002/TELEANTIOQUIA/index.m3u8
@@ -217,7 +217,7 @@ http://200.122.223.13:55000/play/teleantioquia-go-tdt/index.m3u8
 http://138.121.15.230:9002/TELECAFE/index.m3u8
 #EXTINF:-1 tvg-id="Telecaribe.co" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/E35cXHt.png" tvg-status="live" group-title="General",Telecaribe
 http://138.121.15.230:9002/TELECARIBE/index.m3u8
-#EXTINF:-1 tvg-id="TelecaribePlus.co" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/su7Y5bC.png" tvg-status="live" group-title="General",Telecaribe Plus
+#EXTINF:-1 tvg-id="TelecaribePlus.co" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/su7Y5bC.png" tvg-status="down" group-title="General",Telecaribe Plus
 https://liveingesta118.cdnmedia.tv/telecaribetvlive/smil:rtmp02.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="famelack-NNAoypPSm0OCzN" tvg-country="CO" tvg-language="Islander Creole English" tvg-logo="https://i.imgur.com/aKHGRyk.png" tvg-status="live" group-title="General",Teleislas
 https://5ab772334c39c.streamlock.net/live-teleislas/teleislas/playlist.m3u8
