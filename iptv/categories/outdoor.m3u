@@ -10,7 +10,7 @@ http://102.129.186.182:81/cacciapesca/index.m3u8
 #EXTINF:-1 tvg-id="CanaldoCriador.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/k29So6X.png" tvg-status="down" group-title="Outdoor",Canal do Criador
 https://607d2a1a47b1f.streamlock.net/crur/smil:canaldocriador.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="CanalRural.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/w9R9IIX.png" tvg-status="live" group-title="Outdoor",Canal Rural
-http://170.83.49.66:8083/CANALRURALHD/index.m3u8
+http://186.219.52.187/canal_rural/index.m3u8
 #EXTINF:-1 tvg-id="CCTV17.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://i.imgur.com/jSQURxS.png" tvg-native-name="CCTV-17 农业农村" tvg-status="live" group-title="Outdoor",CCTV-17
 http://74.91.26.218:82/live/cctv17hd.m3u8
 #EXTINF:-1 tvg-id="ChacraTV.ar" tvg-country="AR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/gy7AEfO.png" tvg-status="down" group-title="Outdoor",Chacra TV
@@ -21,9 +21,9 @@ https://r.eu.cdn-redge.media/livehls/oeu/mt/live/chasse_et_peche/live.livx/playl
 https://lbgo.bozztv.com/ssh101/ssh101/verycoolfgr/playlist.m3u8
 #EXTINF:-1 tvg-id="CottageLife.ca" tvg-country="CA" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Cottage_Life_Logo.svg/960px-Cottage_Life_Logo.svg.png" tvg-status="down" group-title="Outdoor",Cottage Life
 http://185.246.209.113/CottageLife/index.m3u8
-#EXTINF:-1 tvg-id="Dikayaokhota.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/EOue13e.png" tvg-native-name="Дикая охота" tvg-status="live" group-title="Outdoor",Dikaya okhota
+#EXTINF:-1 tvg-id="Dikayaokhota.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/EOue13e.png" tvg-native-name="Дикая охота" tvg-status="down" group-title="Outdoor",Dikaya okhota
 http://stream.mcquack.net/274/index.m3u8
-#EXTINF:-1 tvg-id="Dikayarybalka.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/e3BFVgt.png" tvg-native-name="Дикая рыбалка" tvg-status="live" group-title="Outdoor",Dikaya rybalka
+#EXTINF:-1 tvg-id="Dikayarybalka.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/e3BFVgt.png" tvg-native-name="Дикая рыбалка" tvg-status="down" group-title="Outdoor",Dikaya rybalka
 http://stream.mcquack.net/275/index.m3u8
 #EXTINF:-1 tvg-id="FishTV.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://www.fishtv.com/public/site/images/logos/fishtv.svg" tvg-status="live" group-title="Outdoor",Fish TV
 http://170.83.16.50/FISH_TV/index.m3u8
@@ -53,7 +53,7 @@ https://linear-205.frequency.stream/dist/glewedtv/205/hls/master/playlist.m3u8
 https://freecast-lukentvlive.vgcdn.net/out/v1/a4f31f297fc5440f814bd2cffd77e689/index.m3u8
 #EXTINF:-1 tvg-id="Rybalkaiokhota.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://www.cableman.ru/sites/default/files/rybalka_i_ohota_int.png" tvg-native-name="Рыбалка и охота" tvg-status="live" group-title="Outdoor",Rybalka i okhota
 https://fs.uplink.kz/ohota_i_ribalka/index.m3u8?token=onlinetv2
-#EXTINF:-1 tvg-id="Rybolov.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/wJMTcFS.png" tvg-native-name="Рыболов" tvg-status="live" group-title="Outdoor",Rybolov
+#EXTINF:-1 tvg-id="Rybolov.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/wJMTcFS.png" tvg-native-name="Рыболов" tvg-status="down" group-title="Outdoor",Rybolov
 http://stream.mcquack.net/264/index.m3u8
 #EXTINF:-1 tvg-id="SpikeOutdoors.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/cdCD2A2.png" tvg-status="live" group-title="Outdoor",Spike Outdoors
 https://jmp2.uk/plu-5c393cad2de254456f7ef8c2.m3u8
@@ -61,7 +61,7 @@ https://jmp2.uk/plu-5c393cad2de254456f7ef8c2.m3u8
 http://170.83.16.50/TERRA_VIVA/index.m3u8
 #EXTINF:-1 tvg-id="TheFishingHuntingChannel.hu" tvg-country="HU" tvg-language="Czech" tvg-logo="https://i.imgur.com/KcTTnUA.png" tvg-status="live" group-title="Outdoor",The Fishing & Hunting Channel
 http://88.212.7.14/live/fishing_hun/index.m3u8
-#EXTINF:-1 tvg-id="Trofei.ua" tvg-country="UA" tvg-language="Ukrainian" tvg-logo="https://i.imgur.com/VDt4mKB.png" tvg-native-name="Трофей" tvg-status="live" group-title="Outdoor",Trofei
+#EXTINF:-1 tvg-id="Trofei.ua" tvg-country="UA" tvg-language="Ukrainian" tvg-logo="https://i.imgur.com/VDt4mKB.png" tvg-native-name="Трофей" tvg-status="down" group-title="Outdoor",Trofei
 http://stream.mcquack.net/357/index.m3u8
 #EXTINF:-1 tvg-id="TVAgro.co" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/9nzY7Ch.png" tvg-status="live" group-title="Outdoor",TVAgro
 http://190.61.47.54:8000/play/a01k/index.m3u8
