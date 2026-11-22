@@ -87,7 +87,7 @@ http://stream.mcquack.net/312/index.m3u8
 https://jmp2.uk/plu-5f779951372da90007fd45e8.m3u8
 #EXTINF:-1 tvg-id="ClubbingTV.us" tvg-country="US" tvg-language="German" tvg-logo="https://i.imgur.com/MyiA92q.png" tvg-status="live" group-title="Music",Clubbing TV
 https://a-cdn.klowdtv.com/live3/clubbingtv_720p/playlist.m3u8
-#EXTINF:-1 tvg-id="CMT.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/S7DOpdY.png" tvg-status="live" group-title="Music",CMT
+#EXTINF:-1 tvg-id="CMT.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/S7DOpdY.png" tvg-status="down" group-title="Music",CMT
 http://23.237.104.106:8080/USA_CMT/index.m3u8
 #EXTINF:-1 tvg-id="CMTEqualPlay.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/9ysjkkL.png" tvg-status="live" group-title="Music",CMT Equal Play
 https://jmp2.uk/plu-5f68f53eb1e5800007390bf8.m3u8
@@ -277,7 +277,7 @@ https://jmp2.uk/plu-6047fbdbbb776a0007e7f2ff.m3u8
 https://jmp2.uk/plu-66a01dcb8561260008b0a41d.m3u8
 #EXTINF:-1 tvg-id="MTVFlowLatino.us" tvg-country="US" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/62b218fc511d4b00070ddc0c/colorLogoSVG.svg" tvg-status="live" group-title="Music",MTV Flow Latino
 https://jmp2.uk/plu-62b218fc511d4b00070ddc0c.m3u8
-#EXTINF:-1 tvg-id="MTVLive.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/3UByLqb.png" tvg-status="live" group-title="Music",MTV Live
+#EXTINF:-1 tvg-id="MTVLive.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/3UByLqb.png" tvg-status="down" group-title="Music",MTV Live
 http://23.237.104.106:8080/USA_MTV_LIVE/index.m3u8
 #EXTINF:-1 tvg-id="MTVSpankinNew.us" tvg-country="US" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/6541010f770cf1000866be98/colorLogoSVG.svg" tvg-status="live" group-title="Music",MTV Spankin' New
 https://jmp2.uk/plu-6541010f770cf1000866be98.m3u8
@@ -532,11 +532,11 @@ https://stream.ottlive.co.in/utvtamil/index.m3u8
 #EXTINF:-1 tvg-id="VallenatoInternacional.us" tvg-country="US" tvg-language="Spanish" tvg-logo="https://i.imgur.com/rVKroNW.png" tvg-status="down" group-title="Music",Vallenato Internacional
 https://59a564764e2b6.streamlock.net/vallenato/vallenatom/playlist.m3u8
 #EXTINF:-1 tvg-id="VantageClassic.ee" tvg-country="EE" tvg-language="English" tvg-logo="https://vantagetv.ee/vantage_classic.png" tvg-status="live" group-title="Music",Vantage Classic
-https://cdn-backup.lulzy.eu/vclassic_stream/index.m3u8
+https://hls.vantagetv.ee/vclassic_stream/index.m3u8
 #EXTINF:-1 tvg-id="VantageDance.ee" tvg-country="EE" tvg-language="English" tvg-logo="https://vantagetv.ee/vantage_dance.png" tvg-status="live" group-title="Music",Vantage Dance
-https://cdn-backup.lulzy.eu/vdance_stream/index.m3u8
+https://hls.vantagetv.ee/vdance_stream/main_stream.m3u8
 #EXTINF:-1 tvg-id="VantageMusic.ee" tvg-country="EE" tvg-language="English" tvg-logo="https://vantagetv.ee/vantage_music.png" tvg-status="live" group-title="Music",Vantage Music
-https://cdn-backup.lulzy.eu/vmusic_stream/index.m3u8
+https://hls.vantagetv.ee/vmusic_stream/main_stream.m3u8
 #EXTINF:-1 tvg-id="VantageRock.ee" tvg-country="EE" tvg-language="English" tvg-logo="https://vantagetv.ee/vantage_rock.png" tvg-status="live" group-title="Music",Vantage Rock
 https://hls.vantagetv.ee/vrock_stream/index.m3u8
 #EXTINF:-1 tvg-id="Vevo70s.us" tvg-country="US" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/5f32f26bcd8aea00071240e5/featuredImage.jpg" tvg-status="live" group-title="Music",Vevo '70s
@@ -557,7 +557,7 @@ https://jmp2.uk/plu-5da0d83f66c9700009b96d0e.m3u8
 https://d2hdqrshyzxswl.cloudfront.net/Vevo_Retro_Rock.m3u8
 #EXTINF:-1 tvg-id="VevoTrueSchoolHipHop.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/owUXUih.png" tvg-status="live" group-title="Music",Vevo True School Hip-Hop
 https://jmp2.uk/plu-61d4c2817a823d00070ba53e.m3u8
-#EXTINF:-1 tvg-id="VH1.us" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/960px-VH1_logonew.svg.png" tvg-status="live" group-title="Music",VH1
+#EXTINF:-1 tvg-id="VH1.us" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/960px-VH1_logonew.svg.png" tvg-status="down" group-title="Music",VH1
 http://23.237.104.106:8080/USA_VH1/index.m3u8
 #EXTINF:-1 tvg-id="VideoRola.it" tvg-country="IT" tvg-language="Italian" tvg-logo="https://i.imgur.com/9w54eVy.png" tvg-status="down" group-title="Music",Video Rola
 https://d3b2epqdk0p7vd.cloudfront.net/out/v1/8a448b5e16384af4a3c8146a7b049c32/index.m3u8
