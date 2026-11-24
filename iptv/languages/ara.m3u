@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-id="2M.ma" tvg-country="MA" tvg-language="Arabic" tvg-logo="https://i.imgur.com/PJYTfHi.png" tvg-native-name="2M وطني" tvg-status="live" group-title="General",2M
 http://185.9.2.18/chid_218/index.m3u8
 #EXTINF:-1 tvg-id="2MMonde.ma" tvg-country="MA" tvg-language="Arabic" tvg-logo="https://i.imgur.com/MvpntzA.png" tvg-status="live" group-title="General",2M Monde
-https://d2qh3gh0k5vp3v.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n6pess5lwbghr/2M_ES.m3u8
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/2m_monde/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="famelack-Dr2osQPfWJgNWP" tvg-country="MA" tvg-language="Arabic" tvg-logo="" tvg-status="live" group-title="General",2M Monde +1
 https://d2qh3gh0k5vp3v.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n6pess5lwbghr/2M_ES.m3u8
 #EXTINF:-1 tvg-id="AbdulmajeedAbdullah.sa" tvg-country="SA" tvg-language="Arabic" tvg-logo="https://assets.mbcmood.com/channels/1720184087Abdullah%20Majeed%20Abdullah%20banner.png" tvg-native-name="عبدالمجيد عبدالله" tvg-status="live" group-title="Music",Abdulmajeed Abdullah
@@ -311,6 +311,8 @@ https://tv.elyssatv.com/live/master.m3u8
 https://jmc-live.ercdn.net/eritreatv/eritreatv.m3u8
 #EXTINF:-1 tvg-id="Fairuz.sa" tvg-country="SA" tvg-language="Arabic" tvg-logo="https://shahid.mbc.net/mediaObject/f809d51c-e83d-43c9-8236-78731c2216ad?type=png" tvg-native-name="فيروز" tvg-status="live" group-title="Music",Fairuz
 https://shd-amg-fast.edgenextcdn.net/tx029/playlist.m3u8
+#EXTINF:-1 tvg-id="FajerTV1.ps" tvg-country="PS" tvg-language="Arabic" tvg-logo="https://i.imgur.com/1xERxmB.png" tvg-status="live" group-title="General",Fajer TV 1
+https://e.siar.us/live/ozfest.m3u8
 #EXTINF:-1 tvg-id="famelack-foEVFoZwWIxidj" tvg-country="PS" tvg-language="Arabic" tvg-logo="https://i.imgur.com/6B3Cims.png" tvg-status="live" group-title="General",Falastini TV
 https://rp.tactivemedia.com/palestiniantv_source/live/playlist.m3u8
 #EXTINF:-1 tvg-id="famelack-S9vpRWeeHUeMAA" tvg-country="FR" tvg-language="Arabic" tvg-logo="" tvg-status="live" group-title="General",France 24 Arabic
@@ -595,12 +597,12 @@ https://hlspackager.akamaized.net/live/DB/ROJAVA_HD/HLS/ROJAVA_HD.m3u8
 https://hlspackager.akamaized.net/live/DB/RONAHI_TV/HLS/RONAHI_TV.m3u8
 #EXTINF:-1 tvg-id="RotanaCinemaEgypt.eg" tvg-country="EG" tvg-language="Arabic" tvg-logo="https://i.imgur.com/dGlKoLW.png" tvg-native-name="روتانا سينما مصر" tvg-status="down" group-title="Movies",Rotana Cinema Egypt
 https://rotana.hibridcdn.net/rotananet/cinemamasr_net-7Y83PP5adWixDF93/playlist.m3u8
-#EXTINF:-1 tvg-id="RotanaCinemaKSA.sa" tvg-country="SA" tvg-language="Arabic" tvg-logo="https://i.imgur.com/pGgp38I.png" tvg-native-name="روتانا سينما السعودية" tvg-status="down" group-title="Movies",Rotana Cinema KSA
-https://rotana.hibridcdn.net/rotananet/cinema_net-7Y83PP5adWixDF93/playlist.m3u8
-#EXTINF:-1 tvg-id="RotanaClassic.sa" tvg-country="SA" tvg-language="Arabic" tvg-logo="https://i.imgur.com/pMMUvkt.png" tvg-native-name="روتانا كلاسيك" tvg-status="down" group-title="Classic",Rotana Classic
-https://rotana.hibridcdn.net/rotananet/classical_net-7Y83PP5adWixDF93/playlist.m3u8
-#EXTINF:-1 tvg-id="RotanaClip.sa" tvg-country="SA" tvg-language="Arabic" tvg-logo="https://i.imgur.com/nhREk0o.png" tvg-native-name="روتانا كليب" tvg-status="down" group-title="General",Rotana Clip
-https://rotana.hibridcdn.net/rotananet/clip_net-7Y83PP5adWixDF93/playlist.m3u8
+#EXTINF:-1 tvg-id="RotanaCinemaKSA.sa" tvg-country="SA" tvg-language="Arabic" tvg-logo="https://i.imgur.com/pGgp38I.png" tvg-native-name="روتانا سينما السعودية" tvg-status="live" group-title="Movies",Rotana Cinema KSA
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/rotana_cinema/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="RotanaClassic.sa" tvg-country="SA" tvg-language="Arabic" tvg-logo="https://i.imgur.com/pMMUvkt.png" tvg-native-name="روتانا كلاسيك" tvg-status="live" group-title="Classic",Rotana Classic
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/rotana_classic/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="RotanaClip.sa" tvg-country="SA" tvg-language="Arabic" tvg-logo="https://i.imgur.com/nhREk0o.png" tvg-native-name="روتانا كليب" tvg-status="live" group-title="General",Rotana Clip
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/rotana_clip/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="RotanaComedy.sa" tvg-country="SA" tvg-language="Arabic" tvg-logo="https://i.imgur.com/IlT8U6S.png" tvg-native-name="روتانا كوميدي" tvg-status="down" group-title="Comedy",Rotana Comedy
 https://rotana.hibridcdn.net/rotananet/comedy_net-7Y83PP5adWixDF93/playlist.m3u8
 #EXTINF:-1 tvg-id="RotanaDrama.sa" tvg-country="SA" tvg-language="Arabic" tvg-logo="https://i.imgur.com/btnhPjZ.png" tvg-native-name="روتانا دراما" tvg-status="down" group-title="Series",Rotana Drama
@@ -609,8 +611,8 @@ https://rotana.hibridcdn.net/rotananet/drama_net-7Y83PP5adWixDF93/playlist.m3u8
 rtmp://live.restream.io/pull/play_320121_94512612fd0e084bd284
 #EXTINF:-1 tvg-id="RotanaKhalijia.sa" tvg-country="SA" tvg-language="Arabic" tvg-logo="https://i.imgur.com/6HMluzv.png" tvg-native-name="روتانا خليجية" tvg-status="down" group-title="Music",Rotana Khalijia
 https://rotana.hibridcdn.net/rotananet/khaleejiya_net-7Y83PP5adWixDF93/playlist.m3u8
-#EXTINF:-1 tvg-id="RotanaMusic.sa" tvg-country="SA" tvg-language="Arabic" tvg-logo="https://i.imgur.com/2zFQbQi.png" tvg-status="down" group-title="Music",Rotana Music
-https://rotana.hibridcdn.net/rotananet/music_net-7Y83PP5adWixDF93/playlist.m3u8
+#EXTINF:-1 tvg-id="RotanaMusic.sa" tvg-country="SA" tvg-language="Arabic" tvg-logo="https://i.imgur.com/2zFQbQi.png" tvg-status="live" group-title="Music",Rotana Music
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/rotana_music/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="RotanaRadioJordanStudio.jo" tvg-country="JO" tvg-language="Arabic" tvg-logo="https://i.imgur.com/xGDjlp5.png" tvg-status="live" group-title="General",Rotana Radio Jordan Studio
 http://45.63.116.205/hls/stream1.m3u8
 #EXTINF:-1 tvg-id="RotanaTarabJordanCityView.jo" tvg-country="JO" tvg-language="Arabic" tvg-logo="https://i.imgur.com/NjgOBts.png" tvg-status="live" group-title="General",Rotana Tarab Jordan City View
@@ -626,7 +628,7 @@ https://cdn3.wowza.com/1/YStGZlJRdktzZkdK/VXROZWNW/hls/live/playlist.m3u8
 #EXTINF:-1 tvg-id="famelack-FisH1US2wvGJGI" tvg-country="MR" tvg-language="Arabic" tvg-logo="https://i.imgur.com/pnzWYwT.png" tvg-native-name="صحراء 24" tvg-status="live" group-title="General",Sahara 24
 https://live.saharamedias.net:3317/live/shara24live.m3u8
 #EXTINF:-1 tvg-id="SamarraTV.iq" tvg-country="IQ" tvg-language="Arabic" tvg-logo="https://i.imgur.com/7uQoIXi.png" tvg-native-name="قناة سامراء الفضائية" tvg-status="down" group-title="General",Samarra TV
-https://live.bradosti.net/live/samaraweb_playlist.m3u8
+https://live.samarra.tv/samarra/ngrp:live_abr/playlist.m3u8
 #EXTINF:-1 tvg-id="famelack-m0RI6HqHFeSa3t" tvg-country="CY" tvg-language="Arabic" tvg-logo="https://i.imgur.com/BzDjQeQ.png" tvg-status="live" group-title="General",Sat 7 Arabic
 https://svs.itworkscdn.net/sat7arabiclive/sat7arabic.smil/playlist_dvr.m3u8
 #EXTINF:-1 tvg-id="famelack-jeM871QPFywzzg" tvg-country="CY" tvg-language="Arabic" tvg-logo="https://i.imgur.com/M0ik0i2.png" tvg-status="live" group-title="General",Sat 7 Kids

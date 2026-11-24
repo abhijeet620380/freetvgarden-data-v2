@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="ARB24.az" tvg-country="AZ" tvg-language="Azerbaijani" tvg-logo="https://i.imgur.com/mtvIFyq.png" tvg-status="live" group-title="News",ARB 24
-https://operativmm.az/tvs/arb24/stream/index.m3u8
-#EXTINF:-1 tvg-id="ARBGunes.az" tvg-country="AZ" tvg-language="Azerbaijani" tvg-logo="https://i.imgur.com/dSg7KUK.png" tvg-status="live" group-title="Kids",ARB Gunes
-http://185.118.50.218/arbgunesh/video.m3u8
+https://az.tvstream.az/hls/stream5/stream.m3u8
 #EXTINF:-1 tvg-id="famelack-UuxAvZJ7qbOfux" tvg-country="AZ" tvg-language="Azerbaijani" tvg-logo="https://www.ayaztv.com/storage/assets/site_logo.png" tvg-status="live" group-title="General",Ayaz TV
 https://janya-ayaztv.vgcdn.net/ptnr-WebApp/title-Ayaz_TV/v1/vglive-sk-934820/main.m3u8
 #EXTINF:-1 tvg-id="famelack-qza0cF55H7P2sc" tvg-country="CA" tvg-language="Azerbaijani" tvg-logo="https://i.imgur.com/di3XX5L.png" tvg-status="live" group-title="General",Az Star TV
@@ -21,13 +19,31 @@ https://www.youtube-nocookie.com/embed/FeIHmzo9pR0
 http://185.118.50.218/cbc/video.m3u8
 #EXTINF:-1 tvg-id="CBCSport.az" tvg-country="AZ" tvg-language="Azerbaijani" tvg-logo="https://i.imgur.com/3mEdjuq.png" tvg-status="down" group-title="Sports",CBC Sport
 https://cbcsports-live.lg.mncdn.com/cbcsports_live/cbcsports/playlist.m3u8
+#EXTINF:-1 tvg-id="DunyaTV.az" tvg-country="AZ" tvg-language="Azerbaijani" tvg-logo="" tvg-status="live" group-title="General",Dunya TV
+http://185.118.50.218/dunyatv/video.m3u8
 #EXTINF:-1 tvg-id="famelack-B5yE0mrBECzUCL" tvg-country="AZ" tvg-language="Azerbaijani" tvg-logo="https://i.imgur.com/tTlokZ2.png" tvg-status="live" group-title="General",EL TV
 https://live.eltv.az/live/eltv/playlist.m3u8
 #EXTINF:-1 tvg-id="famelack-RbFsdWUryTQQLF" tvg-country="US" tvg-language="Azerbaijani" tvg-logo="https://i.imgur.com/2ZnQazl.png" tvg-status="live" group-title="General",GunAz TV
 https://tv.gunaz.tv/hls/live.m3u8
+#EXTINF:-1 tvg-id="IctimaiTV.az" tvg-country="AZ" tvg-language="Azerbaijani" tvg-logo="https://i.imgur.com/HzY4VMo.png" tvg-status="live" group-title="General",Ictimai TV
+https://live.itv.az/itv.m3u8
 #EXTINF:-1 tvg-id="famelack-itLokaJAiNkQNU" tvg-country="AZ" tvg-language="Azerbaijani" tvg-logo="https://raw.githubusercontent.com/songwenhui239/Songwenhui239/refs/heads/main/Kanal%20S.png" tvg-status="live" group-title="General",Kanal S
 https://lives.atv.az:5443/KANAL-S/streams/kanals.m3u8
+#EXTINF:-1 tvg-id="KapazTV.az" tvg-country="AZ" tvg-language="Azerbaijani" tvg-logo="https://upload.wikimedia.org/wikipedia/az/thumb/3/3e/K%C9%99p%C9%99z_TV_%282019-h.h.%29.png/500px-K%C9%99p%C9%99z_TV_%282019-h.h.%29.png" tvg-status="live" group-title="News",Kapaz TV
+http://85.132.78.122:8050/hls/stream/index.m3u8
 #EXTINF:-1 tvg-id="famelack-BBI8YUriXrMPZH" tvg-country="AZ" tvg-language="Azerbaijani" tvg-logo="https://www.knmusictv.com/wp-content/uploads/2026/01/LOGO2112.png" tvg-status="live" group-title="General",KN Music TV
 https://cdn4.yayin.com.tr/kntv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="famelack-IANMk04rMlqc8y" tvg-country="AZ" tvg-language="Azerbaijani" tvg-logo="" tvg-status="live" group-title="General",MAX TV
 https://cdn4.yayin.com.tr/maxtv/video.m3u8
+#EXTINF:-1 tvg-id="MedeniyyetTV.az" tvg-country="AZ" tvg-language="Azerbaijani" tvg-logo="https://i.imgur.com/PlvaDIa.png" tvg-status="live" group-title="Culture",Medeniyyet TV
+http://185.32.44.154/medeniyyet/index.m3u8
+#EXTINF:-1 tvg-id="RealTV.az" tvg-country="AZ" tvg-language="Azerbaijani" tvg-logo="https://i.imgur.com/e2KFL0R.png" tvg-status="live" group-title="General",Real TV
+http://185.118.50.218/realtv/video.m3u8
+#EXTINF:-1 tvg-id="SesTV.az" tvg-country="AZ" tvg-language="Azerbaijani" tvg-logo="https://static-media.streema.com/media/cache/3e/fb/3efb133741549123233a38b37113c293.jpg" tvg-status="live" group-title="General",Ses TV
+http://145.239.37.125:20458/maksimtv/maksimtv/chunklist_w1215296059.m3u8
+#EXTINF:-1 tvg-id="ShowPlusTV.az" tvg-country="AZ" tvg-language="Azerbaijani" tvg-logo="https://i.imgur.com/Je2DGSG.jpg" tvg-status="live" group-title="Entertainment",Show Plus TV
+https://rtmp.showplus.tv/hls/myshow.m3u8
+#EXTINF:-1 tvg-id="SpaceTV.az" tvg-country="AZ" tvg-language="Azerbaijani" tvg-logo="https://i.imgur.com/ufvVQJH.png" tvg-status="live" group-title="General",Space TV
+https://az.tvstream.az/hls/stream8/stream.m3u8
+#EXTINF:-1 tvg-id="XezerTV.az" tvg-country="AZ" tvg-language="Azerbaijani" tvg-logo="" tvg-status="live" group-title="General",Xezer TV
+https://xezer.tvstream.az/hls/stream/main_stream.m3u8
