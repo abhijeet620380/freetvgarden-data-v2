@@ -262,7 +262,7 @@ https://install.akctvcontrol.com/speed/broadcast/140/desktop-playlist.m3u8
 #EXTINF:-1 tvg-id="famelack-9AD6u4Yk5fWFfS" tvg-country="US" tvg-language="Arabic" tvg-logo="https://i.imgur.com/M8ZuzeB.png" tvg-status="live" group-title="General",Al Hayat TV
 https://cdn3.wowza.com/5/OE5HREpIcEkySlNT/alhayat-live/ngrp:livestream_all/playlist.m3u8
 #EXTINF:-1 tvg-id="AlHorreyaTV.us" tvg-country="US" tvg-language="Arabic" tvg-logo="https://i.imgur.com/EK75DMJ.png" tvg-native-name="قناة الحرية" tvg-status="live" group-title="Religious",Al Horreya TV
-http://media.smc-host.com:1935/alhorreya.tv/mp4:alhorreya3/playlist.m3u8
+http://media.smc-host.com:1935/alhorreya.tv/alhorreya.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="AlFadyTV.us" tvg-country="US" tvg-language="Arabic" tvg-logo="https://i.imgur.com/7L0l0iY.png" tvg-status="live" group-title="Religious",Al-Fady TV
 https://5d658d7e9f562.streamlock.net/alfadytv.tv/alfadytv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="AlMahdiTV.us" tvg-country="US" tvg-language="Persian" tvg-logo="https://i.imgur.com/S1YM83i.png" tvg-status="live" group-title="Religious",Al-Mahdi TV
@@ -322,7 +322,7 @@ http://41.205.93.154/AMC/index.m3u8
 #EXTINF:-1 tvg-id="AMCenEspanol.us" tvg-country="US" tvg-language="Spanish" tvg-logo="https://i.imgur.com/L1h6W5Q.png" tvg-status="live" group-title="Entertainment",AMC en Espanol
 https://amc-amcespanol-1-us.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="AMCLatinAmerica.us" tvg-country="US" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png" tvg-status="live" group-title="Movies",AMC Latin America
-http://170.83.49.66:8083/AMCHD/index.m3u8
+http://138.121.15.230:9002/AMC/index.m3u8
 #EXTINF:-1 tvg-id="AMCSeriesLatinAmerica.us" tvg-country="US" tvg-language="Spanish" tvg-logo="https://amc-series.s3.amazonaws.com/menu/hbfen1Gom0_k1cyqi7rw4-amc-series-train-w.png" tvg-status="live" group-title="Series",AMC Series Latin America
 http://45.171.64.30:6060/play/a005/index.m3u8
 #EXTINF:-1 tvg-id="famelack-xcUkg7UZiNSkId" tvg-country="US" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="General",AMC Series Latin America Panregional
@@ -1633,7 +1633,7 @@ https://d6dg3ebeih71x.cloudfront.net/Gravitas_Movies.m3u8
 https://a-cdn.klowdtv.com/live2/greattv_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="famelack-8VqOWopKnmyvig" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/WE0cRXR.png" tvg-status="live" group-title="General",Greater Love TV
 https://rpn.bozztv.com/dvrfl04/itv04019/index.m3u8
-#EXTINF:-1 tvg-id="GreensboroTV.us" tvg-country="US" tvg-language="English" tvg-logo="" tvg-status="down" group-title="Legislative",Greensboro TV
+#EXTINF:-1 tvg-id="GreensboroTV.us" tvg-country="US" tvg-language="English" tvg-logo="" tvg-status="live" group-title="Legislative",Greensboro TV
 https://lin12.isilive.ca/live/greensboro/GTN/index.m3u8
 #EXTINF:-1 tvg-id="GritXtra.us" tvg-country="US" tvg-language="English" tvg-logo="https://provider-static.plex.tv/epg/cms/production/dbbb9bca-0b08-43b5-a0e7-715df9a6dbfd/_ChannelLogo_1500x1000.png" tvg-status="live" group-title="Entertainment",Grit Xtra
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-gritxtra-tablo/playlist.m3u8
@@ -1750,7 +1750,7 @@ https://d1klo92zvoj2of.cloudfront.net/v1/aenetworks_hoarders_1/samsungheadend_us
 #EXTINF:-1 tvg-id="HogansHeroes.us" tvg-country="US" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/68939e206727ec919bb39061/colorLogoSVG_1757523506525.svg" tvg-status="live" group-title="Classic",Hogan's Heroes
 https://jmp2.uk/plu-68939e206727ec919bb39061.m3u8
 #EXTINF:-1 tvg-id="HolaTVLatinAmerica.us" tvg-country="US" tvg-language="Spanish" tvg-logo="https://i.imgur.com/i0Qexxd.png" tvg-status="live" group-title="Entertainment",Hola! TV Latin America
-http://168.196.127.137:6001/play/a03q/index.m3u8
+http://15.204.246.24:8080/HOLATVHD/index.m3u8
 #EXTINF:-1 tvg-id="famelack-clfEOjWiZp0Ii6" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/oVNjFoj.png" tvg-status="live" group-title="General",HollyWire
 https://bozztv.com/hwotta/playlist/playlist.m3u8
 #EXTINF:-1 tvg-id="famelack-Vtr3HBEloexH0v" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/IdGNIoB.png" tvg-status="live" group-title="General",Home.Made.Nation
@@ -2386,7 +2386,7 @@ https://jmp2.uk/plu-68b9b0dbf9cf3d7cb9f56d88.m3u8
 #EXTINF:-1 tvg-id="MTVJovenseMaes.us" tvg-country="US" tvg-language="Portuguese" tvg-logo="https://images.pluto.tv/channels/620fdc7d8a36fc000710e3ba/colorLogoSVG.svg" tvg-status="live" group-title="Entertainment",MTV Jovens e Maes
 https://jmp2.uk/plu-620fdc7d8a36fc000710e3ba.m3u8
 #EXTINF:-1 tvg-id="MTVLatinAmerica.us" tvg-country="US" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/960px-MTV_2021_%28brand_version%29.svg.png" tvg-status="live" group-title="Entertainment",MTV Latin America
-https://streaming.onnethn.com/MTV/playlist.m3u8
+http://15.204.246.24:8080/MTVHD/index.m3u8
 #EXTINF:-1 tvg-id="famelack-bdMQX2BCZexBtf" tvg-country="US" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="General",MTV Latin America Panregional
 https://streaming.onnethn.com/MTV/playlist.m3u8
 #EXTINF:-1 tvg-id="MTVPlutoTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/5f1212fb81e85c00077ae9ef/colorLogoSVG_1759263028928.svg" tvg-status="live" group-title="Entertainment",MTV Pluto TV

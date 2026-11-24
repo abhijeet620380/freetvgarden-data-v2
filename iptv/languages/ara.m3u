@@ -44,7 +44,7 @@ https://cdn3.wowza.com/5/OE5HREpIcEkySlNT/alhayat-live/ngrp:livestream_all/playl
 #EXTINF:-1 tvg-id="famelack-2iEMu7y7Pfmad9" tvg-country="UK" tvg-language="Arabic" tvg-logo="https://i.imgur.com/UjOxwdd.png" tvg-native-name="قناة الحوار" tvg-status="live" group-title="General",Al Hiwar TV
 https://mn-nl.mncdn.com/alhiwar_live/smil:alhiwar.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="AlHorreyaTV.us" tvg-country="US" tvg-language="Arabic" tvg-logo="https://i.imgur.com/EK75DMJ.png" tvg-native-name="قناة الحرية" tvg-status="live" group-title="Religious",Al Horreya TV
-http://media.smc-host.com:1935/alhorreya.tv/mp4:alhorreya3/playlist.m3u8
+http://media.smc-host.com:1935/alhorreya.tv/alhorreya.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="famelack-ccusPPeyj6EtkB" tvg-country="IQ" tvg-language="Arabic" tvg-logo="https://i.imgur.com/8qQouTW.jpg" tvg-native-name="العراقيّة" tvg-status="live" group-title="General",Al Iraqia
 https://imn-live.esite-lab.com/hls/iraqia-general.m3u8
 #EXTINF:-1 tvg-id="famelack-IbE1EyU5igXIWS" tvg-country="IQ" tvg-language="Arabic" tvg-logo="https://i.imgur.com/feQTXeZ.jpg" tvg-status="live" group-title="General",Al Iraqia News
@@ -273,7 +273,7 @@ https://edge13.vedge.infomaniak.com/livecast/ik:chadatv/manifest.m3u8
 https://live.channel8.com/Channel8-Kurdish/index.fmp4.m3u8
 #EXTINF:-1 tvg-id="famelack-o4YWqt8qnKLyde" tvg-country="LB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/U9z8WBY.png" tvg-status="live" group-title="General",Charity TV
 https://652930de05533.streamlock.net/live/ngrp:livestream_all/playlist.m3u8
-#EXTINF:-1 tvg-id="CNA.dz" tvg-country="DZ" tvg-language="Arabic" tvg-logo="https://i.imgur.com/Ki3ySUE.png" tvg-status="live" group-title="Religious",CNA
+#EXTINF:-1 tvg-id="CNA.dz" tvg-country="DZ" tvg-language="Arabic" tvg-logo="https://i.imgur.com/Ki3ySUE.png" tvg-status="down" group-title="Religious",CNA
 https://live.creacast.com/cna/stream/playlist.m3u8
 #EXTINF:-1 tvg-id="famelack-URU3r9PZvWBdLZ" tvg-country="AE" tvg-language="Arabic" tvg-logo="" tvg-status="live" group-title="General",CNBC Arabia
 https://www.youtube-nocookie.com/embed/OLbqCS3OrPM
@@ -627,7 +627,7 @@ https://rt-arb.rttv.com/dvr/rtarab/playlist.m3u8
 https://cdn3.wowza.com/1/YStGZlJRdktzZkdK/VXROZWNW/hls/live/playlist.m3u8
 #EXTINF:-1 tvg-id="famelack-FisH1US2wvGJGI" tvg-country="MR" tvg-language="Arabic" tvg-logo="https://i.imgur.com/pnzWYwT.png" tvg-native-name="صحراء 24" tvg-status="live" group-title="General",Sahara 24
 https://live.saharamedias.net:3317/live/shara24live.m3u8
-#EXTINF:-1 tvg-id="SamarraTV.iq" tvg-country="IQ" tvg-language="Arabic" tvg-logo="https://i.imgur.com/7uQoIXi.png" tvg-native-name="قناة سامراء الفضائية" tvg-status="down" group-title="General",Samarra TV
+#EXTINF:-1 tvg-id="SamarraTV.iq" tvg-country="IQ" tvg-language="Arabic" tvg-logo="https://i.imgur.com/7uQoIXi.png" tvg-native-name="قناة سامراء الفضائية" tvg-status="live" group-title="General",Samarra TV
 https://live.samarra.tv/samarra/ngrp:live_abr/playlist.m3u8
 #EXTINF:-1 tvg-id="famelack-m0RI6HqHFeSa3t" tvg-country="CY" tvg-language="Arabic" tvg-logo="https://i.imgur.com/BzDjQeQ.png" tvg-status="live" group-title="General",Sat 7 Arabic
 https://svs.itworkscdn.net/sat7arabiclive/sat7arabic.smil/playlist_dvr.m3u8
