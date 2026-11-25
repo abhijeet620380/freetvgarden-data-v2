@@ -3,7 +3,7 @@
   "offer": {
     "text": "Anyone can book a slot",
     "button": "Show more",
-    "more": "**Promote your website, app, product, YouTube channel or social media page** to FreeTV Garden visitors.\n\n• 5 positions, each in Small, Medium or Large size = **15 slots**. Every slot is booked on its own.\n• Prices start at **₹9** for 24 hours in India (from **$1 USD** worldwide).\n• Pick any free slot, choose how many days you want, and send your request on Telegram or Email.\n• No payment now — we confirm availability and the final price first.\n• If a slot is booked, you can book it for the next free date.",
+    "more": "**Promote your website, app, product, YouTube channel or social media page** to FreeTV Garden visitors.\n\n• 5 positions, each in Small, Medium or Large size = **15 slots**. Every slot is booked on its own.\n• Prices start at **₹9** for 24 hours in India (from **$1 USD** worldwide).\n• Pick any available slot, choose how many days you want, and send your request on Telegram or Email.\n• No payment now — we confirm availability and the final price first.\n• If a slot is booked, you can book it for the next free date.",
     "price": "₹9",
     "priceNote": "for 24 hr",
     "priceUSD": "$1"
@@ -113,7 +113,7 @@
       "label": "Ad",
       "messageLabel": "Advertise",
       "title": "Advertise here",
-      "text": "This slot is free. Promote your website, app or channel here.",
+      "text": "This slot is available. Promote your website, app or channel here.",
       "button": "Book this slot",
       "size": "small"
     },
@@ -141,7 +141,7 @@
     },
     "free": {
       "_help": "FREE PERIOD. on:true = every slot shows FREE and booking is free. It switches itself OFF after the 'until' date (prices and normal booking come back). maxDays = longest free booking per request (0 = no limit). Set on:false to stop it earlier.",
-      "on": true,
+      "on": false,
       "until": "2027-02-28",
       "maxDays": 7,
       "badge": "🎁 FREE launch offer — advertise free, no payment",
