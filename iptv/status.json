@@ -1361,7 +1361,7 @@
     "native_name": "",
     "country": "KZ",
     "source": "iptv-org",
-    "status": "live",
+    "status": "down",
     "url": "https://fs.uplink.kz/24KZ/mono.m3u8?token=onlinetv",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/24KZ_logo.svg/1280px-24KZ_logo.svg.png",
     "group": "News",
@@ -1601,7 +1601,7 @@
     "native_name": "31 канал",
     "country": "KZ",
     "source": "iptv-org",
-    "status": "live",
+    "status": "down",
     "url": "http://stream.mcquack.net/388/index.m3u8",
     "logo": "https://31.kz/noimage.png",
     "group": "General",
@@ -1819,6 +1819,42 @@
     "source": "iptv-org",
     "status": "down",
     "url": "https://liveingesta318.cdnmedia.tv/101weblive/smil:antequera.smil/playlist.m3u8",
+    "logo": "https://i.imgur.com/GzI3RC4.png",
+    "group": "General",
+    "language": "Spanish"
+  },
+  {
+    "id": "101tvCadiz.es",
+    "name": "101tv Cadiz",
+    "native_name": "",
+    "country": "ES",
+    "source": "iptv-org",
+    "status": "live",
+    "url": "https://liveingesta318.cdnmedia.tv/101weblive/smil:CADIZ.smil/playlist.m3u8",
+    "logo": "https://i.imgur.com/GzI3RC4.png",
+    "group": "General",
+    "language": "Spanish"
+  },
+  {
+    "id": "101tvMalaga.es",
+    "name": "101tv Malaga",
+    "native_name": "",
+    "country": "ES",
+    "source": "iptv-org",
+    "status": "live",
+    "url": "https://liveingesta318.cdnmedia.tv/101televisionlive/smil:malagaott.smil/playlist.m3u8",
+    "logo": "https://i.imgur.com/GzI3RC4.png",
+    "group": "News",
+    "language": "Spanish"
+  },
+  {
+    "id": "101tvSevilla.es",
+    "name": "101tv Sevilla",
+    "native_name": "",
+    "country": "ES",
+    "source": "iptv-org",
+    "status": "live",
+    "url": "https://liveingesta318.cdnmedia.tv/101televisionlive/smil:sevillaott.smil/playlist.m3u8",
     "logo": "https://i.imgur.com/GzI3RC4.png",
     "group": "General",
     "language": "Spanish"
@@ -2566,6 +2602,18 @@
     "logo": "https://i.imgur.com/BrW7gk8.png",
     "group": "News",
     "language": "English"
+  },
+  {
+    "id": "ABCNews.in",
+    "name": "ABC News",
+    "native_name": "",
+    "country": "IN",
+    "source": "iptv-org",
+    "status": "live",
+    "url": "https://stream.ottlive.co.in/abcnews/index.m3u8",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/ABC_News.png",
+    "group": "News",
+    "language": "Hindi"
   },
   {
     "id": "ABCNewsLive1.us",
@@ -3917,7 +3965,7 @@
     "native_name": "",
     "country": "CI",
     "source": "iptv-org",
-    "status": "down",
+    "status": "live",
     "url": "https://streamtv.cmediahosthosting.net:3836/live/myafroculturelive.m3u8",
     "logo": "https://i.imgur.com/bjaZ3kO.png",
     "group": "Culture",
@@ -5117,7 +5165,7 @@
     "native_name": "",
     "country": "ID",
     "source": "iptv-org",
-    "status": "live",
+    "status": "down",
     "url": "https://tv.aliman.id/aliman/live.m3u8",
     "logo": "https://i.imgur.com/Qj1EFf1.png",
     "group": "Religious",
@@ -5681,7 +5729,7 @@
     "native_name": "",
     "country": "KZ",
     "source": "iptv-org",
-    "status": "live",
+    "status": "down",
     "url": "https://fs.uplink.kz/almaty/mono.m3u8?token=onlinetv",
     "logo": "https://i.imgur.com/OFobQkI.png",
     "group": "General",
@@ -6450,7 +6498,7 @@
     "country": "UK",
     "source": "iptv-org",
     "status": "live",
-    "url": "http://213.91.179.28:8000/play/a0by",
+    "url": "http://212.70.131.37:8000/play/a05k",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png",
     "group": "Movies",
     "language": "English"
@@ -9269,7 +9317,7 @@
     "native_name": "",
     "country": "KZ",
     "source": "iptv-org",
-    "status": "live",
+    "status": "down",
     "url": "http://stream.mcquack.net/28/index.m3u8",
     "logo": "https://i.imgur.com/j4HfVK0.png",
     "group": "General",
@@ -9449,7 +9497,7 @@
     "native_name": "",
     "country": "KZ",
     "source": "iptv-org",
-    "status": "live",
+    "status": "down",
     "url": "https://fs.uplink.kz/atameken/mono.m3u8?token=onlinetv",
     "logo": "https://i.imgur.com/CfRvm8i.png",
     "group": "Business",
@@ -10313,7 +10361,7 @@
     "native_name": "Авто24",
     "country": "RU",
     "source": "iptv-org",
-    "status": "live",
+    "status": "down",
     "url": "http://stream.mcquack.net/78/index.m3u8",
     "logo": "https://i.imgur.com/GXSXmN2.png",
     "group": "Auto",
@@ -13769,7 +13817,7 @@
     "native_name": "",
     "country": "RU",
     "source": "iptv-org",
-    "status": "live",
+    "status": "down",
     "url": "https://fs.uplink.kz/big_planet/mono.m3u8?token=onlinetv",
     "logo": "https://i.imgur.com/wyuqWTR.png",
     "group": "General",
@@ -15318,7 +15366,7 @@
     "country": "RU",
     "source": "iptv-org",
     "status": "live",
-    "url": "http://194.143.148.28:8080/RT_DOC/index.m3u8",
+    "url": "http://178.134.1.158:8081/BRIDGE/index.m3u8",
     "logo": "https://i.imgur.com/qYObfrG.png",
     "group": "Music",
     "language": "Russian"
@@ -15329,7 +15377,7 @@
     "native_name": "",
     "country": "RU",
     "source": "iptv-org",
-    "status": "live",
+    "status": "down",
     "url": "http://5.188.159.128:8070/Bridge_TV_Classic/index.m3u8",
     "logo": "https://i.imgur.com/JJTQq81.png",
     "group": "Classic",
@@ -17118,7 +17166,7 @@
     "country": "MX",
     "source": "iptv-org",
     "status": "live",
-    "url": "http://45.5.118.152:8000/play/a03i/index.m3u8",
+    "url": "http://45.181.87.106/CANAL5HD/index.m3u8",
     "logo": "https://i.imgur.com/cBC2Jre.png",
     "group": "General",
     "language": "Spanish"
@@ -17880,6 +17928,18 @@
     "language": "Spanish"
   },
   {
+    "id": "Canal13Chiquimula.gt",
+    "name": "Canal 13 Chiquimula",
+    "native_name": "",
+    "country": "GT",
+    "source": "iptv-org",
+    "status": "live",
+    "url": "https://www.tl.com.gt/live.php?file=0.m3u8",
+    "logo": "https://www.tl.com.gt/assets/tlcom.jpg",
+    "group": "General",
+    "language": "Spanish"
+  },
+  {
     "id": "famelack-tkEITU2bEZ7qMi",
     "name": "Canal 13 Esquipulas",
     "native_name": "",
@@ -18041,7 +18101,7 @@
     "native_name": "",
     "country": "SV",
     "source": "iptv-org",
-    "status": "down",
+    "status": "live",
     "url": "https://vdo.tecnoservix.stream:3007/live/canal15zamoranolive.m3u8",
     "logo": "https://i.imgur.com/op13ujg.png",
     "group": "General",
@@ -19554,7 +19614,7 @@
     "country": "BR",
     "source": "iptv-org",
     "status": "live",
-    "url": "http://186.219.52.187/canal_rural/index.m3u8",
+    "url": "http://170.83.49.66:8083/CANALRURALHD/index.m3u8",
     "logo": "https://i.imgur.com/w9R9IIX.png",
     "group": "Outdoor",
     "language": "Portuguese"
@@ -20417,7 +20477,7 @@
     "native_name": "Карусель International",
     "country": "RU",
     "source": "iptv-org",
-    "status": "live",
+    "status": "down",
     "url": "https://fs.uplink.kz/karusel/mono.m3u8?token=onlinetv",
     "logo": "https://i.imgur.com/DnlngRZ.png",
     "group": "Kids",
@@ -21226,6 +21286,18 @@
     "logo": "https://i.imgur.com/c6hm03f.png",
     "group": "General",
     "language": "Spanish"
+  },
+  {
+    "id": "CCNET.in",
+    "name": "CC NET",
+    "native_name": "",
+    "country": "IN",
+    "source": "iptv-org",
+    "status": "live",
+    "url": "https://live.skystream.in/live/ccnet7082/index.m3u8",
+    "logo": "https://play-lh.googleusercontent.com/q5iULjQ59LU1X_ExM6aKYQk64fouGbzBtdKTgNSgO8sHdGfTcgcbIaunns9pATnwu2ttBpAm-DftDzV6u-ClJg8",
+    "group": "Entertainment",
+    "language": "Undetermined"
   },
   {
     "id": "CCPlutoTV.de",
@@ -22170,7 +22242,7 @@
     "country": "RU",
     "source": "iptv-org",
     "status": "live",
-    "url": "https://river-3-370.rtbcdn.ru/stream/genetta-316.m9.rutube.ru/60Ro5OWl7WWOswbVMQlqFw/1795975765/c6f66b644424c117f41e48062719ceed/576p_stream.m3u8",
+    "url": "http://tele2dvrnat01-02.cdnvideo.ru:80/stream/NAT_EKB1/hls/1024x576@2024/playlist.m3u8",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/0/00/Channel4_logo.jpg",
     "group": "General",
     "language": "Russian"
@@ -22265,7 +22337,7 @@
     "native_name": "Жетінші арна",
     "country": "KZ",
     "source": "iptv-org",
-    "status": "live",
+    "status": "down",
     "url": "http://stream.mcquack.net/27/index.m3u8",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Logo_Seven_Channel.png",
     "group": "General",
@@ -22482,7 +22554,7 @@
     "country": "RU",
     "source": "iptv-org",
     "status": "live",
-    "url": "https://12channel.bonus-tv.ru/cdn/12channel_blackout/playlist.m3u8",
+    "url": "https://12channel.bonus-tv.ru/cdn/12channel/playlist.m3u8",
     "logo": "https://i.imgur.com/OA9hm6e.png",
     "group": "General",
     "language": "Russian"
@@ -22673,7 +22745,7 @@
     "native_name": "Первый СНГ",
     "country": "RU",
     "source": "iptv-org",
-    "status": "live",
+    "status": "down",
     "url": "https://fs.uplink.kz/perviy_kanal_sng/mono.m3u8?token=onlinetv",
     "logo": "https://i.imgur.com/RUSX0rX.png",
     "group": "General",
@@ -22685,7 +22757,7 @@
     "native_name": "Первый канал Евразия",
     "country": "KZ",
     "source": "iptv-org",
-    "status": "live",
+    "status": "down",
     "url": "https://fs.uplink.kz/perviy_kanal_evrasia/mono.m3u8?token=onlinetv",
     "logo": "https://i.imgur.com/vm5sJHP.png",
     "group": "General",
@@ -25614,7 +25686,7 @@
     "country": "US",
     "source": "iptv-org",
     "status": "live",
-    "url": "https://tvsen6.aynaott.com/cnn/index.m3u8",
+    "url": "http://212.5.144.156:8080/cnn/index.m3u8",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/960px-CNN.svg.png",
     "group": "News",
     "language": "English"
@@ -28626,7 +28698,7 @@
     "country": "DE",
     "source": "iptv-org",
     "status": "live",
-    "url": "https://vmttv.dpdns.org/tv360?id=davinci-hd",
+    "url": "https://freem3u.xyz/api/live/play.m3u8?vid=214",
     "logo": "https://i.imgur.com/iBx7K1M.png",
     "group": "Education",
     "language": "Indonesian"
@@ -29717,7 +29789,7 @@
     "native_name": "",
     "country": "AR",
     "source": "iptv-org",
-    "status": "live",
+    "status": "down",
     "url": "http://158.172.155.130:8000/play/a09y/index.m3u8",
     "logo": "https://i.imgur.com/THk9ARS.png",
     "group": "Sports",
@@ -30264,18 +30336,6 @@
     "language": "Portuguese"
   },
   {
-    "id": "Digi4K.ro",
-    "name": "Digi 4K",
-    "native_name": "",
-    "country": "RO",
-    "source": "iptv-org",
-    "status": "live",
-    "url": "https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/5928.m3u8",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/5/57/DIGI_4K.jpg",
-    "group": "General",
-    "language": "Romanian"
-  },
-  {
     "id": "Digi24.ro",
     "name": "Digi 24",
     "native_name": "",
@@ -30285,6 +30345,18 @@
     "url": "https://edge-ar.rcs-rds.ro/digi24ar/index.m3u8",
     "logo": "https://i.imgur.com/qmRnD0M.png",
     "group": "News",
+    "language": "Romanian"
+  },
+  {
+    "id": "DigiSport1.ro",
+    "name": "Digi Sport 1",
+    "native_name": "",
+    "country": "RO",
+    "source": "iptv-org",
+    "status": "live",
+    "url": "https://rundle.tv/proxy5.php?src=https%3A%2F%2Fkuruk1.xn--okq6e.shop%2Fkuk1%2Fusergendx419snx12kdgwqrnd.m3u8",
+    "logo": "https://i.imgur.com/5zMxDYq.png",
+    "group": "Sports",
     "language": "Romanian"
   },
   {
@@ -30858,7 +30930,7 @@
     "country": "BG",
     "source": "iptv-org",
     "status": "live",
-    "url": "http://87.120.179.187:8000/play/a010",
+    "url": "http://213.91.179.28:8000/play/a059",
     "logo": "https://i.imgur.com/UxrAiAe.png",
     "group": "Kids",
     "language": "Bulgarian"
@@ -30922,18 +30994,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg",
     "group": "Kids",
     "language": "Japanese"
-  },
-  {
-    "id": "DisneyChannel.nl",
-    "name": "Disney Channel",
-    "native_name": "",
-    "country": "NL",
-    "source": "iptv-org",
-    "status": "down",
-    "url": "https://lb.iptvnetwork.net/ls28/10014/playlist.m3u8",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg",
-    "group": "Kids",
-    "language": "Dutch"
   },
   {
     "id": "DisneyChannel.pl",
@@ -31782,7 +31842,7 @@
     "country": "RU",
     "source": "iptv-org",
     "status": "live",
-    "url": "http://88.212.15.50/live/test_dom_kino_premium/playlist.m3u8",
+    "url": "http://stream.mcquack.net/108/index.m3u8",
     "logo": "https://i.imgur.com/rJpQtvK.png",
     "group": "Movies",
     "language": "Russian"
@@ -31854,7 +31914,7 @@
     "country": "VN",
     "source": "iptv-org",
     "status": "live",
-    "url": "https://tv.vietanhtv.top/vieon/vieon.php?id=dong-nai-3",
+    "url": "https://dethich.pw/dongnai3/index.m3u8",
     "logo": "https://i.imgur.com/6P39BiA.png",
     "group": "General",
     "language": "Vietnamese"
@@ -32182,6 +32242,18 @@
     "logo": "https://play-lh.googleusercontent.com/P1gCOSlZjwEzxi6wy4zcvqYwBf6SdTXiGhnuIAIW8lNu9Ka-v28vXz2vUFqwFXQH6mCeFkQdphJVjYK0Qj30hQ=w240-h480-rw",
     "group": "Entertainment",
     "language": "Malayalam"
+  },
+  {
+    "id": "DrisyaNewsPala.in",
+    "name": "Drisya News Pala",
+    "native_name": "",
+    "country": "IN",
+    "source": "iptv-org",
+    "status": "live",
+    "url": "https://live.skystream.in/live/DrisyaPala2924/index.m3u8",
+    "logo": "https://play-lh.googleusercontent.com/9HetsKoBEAixDgC6P9kKuy7EqiPmd2wUewuaD0-DuDbBxrHmQPTGIsc6DtZd5nmj5pod-mHLlIWJMOFlsC0XPWA",
+    "group": "Entertainment",
+    "language": "Undetermined"
   },
   {
     "id": "DrisyaTV.in",
@@ -35694,7 +35766,7 @@
     "country": "IN",
     "source": "iptv-org",
     "status": "live",
-    "url": "https://cc-szivnms4rlah6.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-szivnms4rlah6/WWBI/Amagi/ETV_Music_IN/playlist.m3u8",
+    "url": "https://jmp2.uk/stvp-IN4900002RV",
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/ETVBeats1.png",
     "group": "Music",
     "language": "Telugu"
@@ -35718,7 +35790,7 @@
     "country": "IN",
     "source": "iptv-org",
     "status": "live",
-    "url": "https://cc-wie8j8y69d2uy.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-wie8j8y69d2uy/WWBI/Amagi/ETV_Comedy_IN/playlist.m3u8",
+    "url": "https://cc-wie8j8y69d2uy.akamaized.net/WWBI/Amagi/ETV_Comedy_IN/playlist.m3u8",
     "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN4900003U3_20251106T195117SQUARE.png",
     "group": "Comedy",
     "language": "Telugu"
@@ -35730,7 +35802,7 @@
     "country": "IN",
     "source": "iptv-org",
     "status": "live",
-    "url": "https://cc-uyh1ow5zouoio.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-uyh1ow5zouoio/WWBI/Amagi/ETV_Josh_IN/playlist.m3u8",
+    "url": "https://cc-uyh1ow5zouoio.akamaized.net/WWBI/Amagi/ETV_Josh_IN/playlist.m3u8",
     "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN4900004LP_20250811T033452SQUARE.png",
     "group": "Entertainment",
     "language": "Telugu"
@@ -36066,7 +36138,7 @@
     "country": "FR",
     "source": "iptv-org",
     "status": "live",
-    "url": "https://acb6ca89.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmxheHhUVi1ldV9FdXJvbmV3c0l0YWxpYW5vX0hMUw/playlist.m3u8",
+    "url": "https://cdn-euronews.akamaized.net/live/eds/euronews-it/25085/index.m3u8",
     "logo": "https://provider-static.plex.tv/epg/cms/production/ca19114a-f498-4ac3-bade-257fb304e0be/ITLogo_Euronews_stacked_white_on_italien_1500x1000whtrdx2.png",
     "group": "News",
     "language": "Italian"
@@ -36214,18 +36286,6 @@
     "logo": "https://static.wikia.nocookie.net/logopedia/images/d/da/Eurosport_3_2022.svg/revision/latest?cb=20220418054130",
     "group": "Sports",
     "language": "Polish"
-  },
-  {
-    "id": "Eurosport4K.fr",
-    "name": "Eurosport 4K",
-    "native_name": "",
-    "country": "FR",
-    "source": "iptv-org",
-    "status": "live",
-    "url": "https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/5449.m3u8",
-    "logo": "https://web02.antik.sk/assets/img/channels/645a85b97a8257d6702639d6e540fe5b.svg",
-    "group": "Sports",
-    "language": "Russian"
   },
   {
     "id": "Eurosport4KCzechia.cz",
@@ -36438,7 +36498,7 @@
     "country": "US",
     "source": "iptv-org",
     "status": "live",
-    "url": "https://cdn3.wowza.com/1/ZVBYYXFLLzE0c3NC/Qk1FMURC/hls/live/playlist.m3u8",
+    "url": "https://mumt05.tangotv.in/87NeALx2EWTN/index.m3u8",
     "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c8/EWTN_Logo_and_Wordmark_%282016%29.svg/960px-EWTN_Logo_and_Wordmark_%282016%29.svg.png",
     "group": "Religious",
     "language": "English"
@@ -36689,7 +36749,7 @@
     "native_name": "",
     "country": "RU",
     "source": "iptv-org",
-    "status": "live",
+    "status": "down",
     "url": "http://46.32.176.50/extremesport/index.m3u8",
     "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f0/Extreme_Sports_Channel.svg/960px-Extreme_Sports_Channel.svg.png",
     "group": "Sports",
@@ -39137,7 +39197,7 @@
     "native_name": "Пятница! International",
     "country": "RU",
     "source": "iptv-org",
-    "status": "live",
+    "status": "down",
     "url": "https://fs.uplink.kz/bolshaya_pyatnica/mono.m3u8?token=onlinetv",
     "logo": "https://i.imgur.com/N2z3EZC.png",
     "group": "Entertainment",
@@ -42965,7 +43025,7 @@
     "native_name": "",
     "country": "IN",
     "source": "iptv-org",
-    "status": "down",
+    "status": "live",
     "url": "https://7mbd4ogkr3gx-hls-live.wmncdn.net/harvestusa/d57ffba6564caea2fee3f4085f19a098.sdp/playlist.m3u8",
     "logo": "",
     "group": "Religious",
@@ -44076,6 +44136,18 @@
     "language": "English"
   },
   {
+    "id": "History.ro",
+    "name": "History",
+    "native_name": "",
+    "country": "RO",
+    "source": "iptv-org",
+    "status": "live",
+    "url": "http://91.235.165.117:8001/play/a08t/index.m3u8",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png",
+    "group": "Documentary",
+    "language": "Romanian"
+  },
+  {
     "id": "History.si",
     "name": "History",
     "native_name": "",
@@ -44682,7 +44754,7 @@
     "country": "US",
     "source": "iptv-org",
     "status": "live",
-    "url": "http://15.204.246.24:8080/HOLATVHD/index.m3u8",
+    "url": "http://168.196.127.137:6001/play/a03q/index.m3u8",
     "logo": "https://i.imgur.com/i0Qexxd.png",
     "group": "Entertainment",
     "language": "Spanish"
@@ -45060,6 +45132,18 @@
     "language": "Ukrainian"
   },
   {
+    "id": "HoraTV.ro",
+    "name": "Hora TV",
+    "native_name": "",
+    "country": "RO",
+    "source": "iptv-org",
+    "status": "live",
+    "url": "http://91.235.165.117:8001/play/a02f/index.m3u8",
+    "logo": "https://i.imgur.com/YwNxANn.png",
+    "group": "Culture",
+    "language": "Romanian"
+  },
+  {
     "id": "famelack-15L4sc0nAB1Pwq",
     "name": "Hornbill TV",
     "native_name": "",
@@ -45354,7 +45438,7 @@
     "country": "VN",
     "source": "iptv-org",
     "status": "live",
-    "url": "https://dethich.pw/htv1/index.m3u8",
+    "url": "https://freem3u.xyz/api/live/play.m3u8?vid=190",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/HTV1.png/960px-HTV1.png",
     "group": "General",
     "language": "Vietnamese"
@@ -45402,7 +45486,7 @@
     "country": "VN",
     "source": "iptv-org",
     "status": "live",
-    "url": "https://dethich.pw/htv3/index.m3u8",
+    "url": "https://freem3u.xyz/api/live/play.m3u8?vid=192",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/6/65/HTV3-2018.png",
     "group": "Series",
     "language": "Vietnamese"
@@ -45438,7 +45522,7 @@
     "country": "VN",
     "source": "iptv-org",
     "status": "live",
-    "url": "https://dethich.pw/htv7/index.m3u8",
+    "url": "https://freem3u.xyz/api/live/play.m3u8?vid=193",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/c0/HTV7_logo.webp",
     "group": "General",
     "language": "Vietnamese"
@@ -45450,7 +45534,7 @@
     "country": "VN",
     "source": "iptv-org",
     "status": "live",
-    "url": "https://dethich.pw/htv9/index.m3u8",
+    "url": "https://freem3u.xyz/api/live/play.m3u8?vid=194",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/b/bf/HTV9_logo.webp",
     "group": "News",
     "language": "Vietnamese"
@@ -46740,6 +46824,18 @@
     "language": "English"
   },
   {
+    "id": "IN24News.in",
+    "name": "IN 24 News",
+    "native_name": "",
+    "country": "IN",
+    "source": "iptv-org",
+    "status": "live",
+    "url": "https://stream.ottlive.co.in/in24news/index.m3u8",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/in24news.png",
+    "group": "News",
+    "language": "Hindi"
+  },
+  {
     "id": "InazumaEleven.us",
     "name": "Inazuma Eleven",
     "native_name": "",
@@ -46793,7 +46889,7 @@
     "native_name": "Индия",
     "country": "RU",
     "source": "iptv-org",
-    "status": "live",
+    "status": "down",
     "url": "https://fs.uplink.kz/india/mono.m3u8?token=onlinetv",
     "logo": "https://i.imgur.com/xDVcDOc.png",
     "group": "Entertainment",
@@ -48209,7 +48305,7 @@
     "native_name": "История",
     "country": "RU",
     "source": "iptv-org",
-    "status": "live",
+    "status": "down",
     "url": "https://fs.uplink.kz/istoriya/mono.m3u8?token=onlinetv",
     "logo": "https://i.imgur.com/eEjPail.png",
     "group": "Documentary",
@@ -49529,7 +49625,7 @@
     "native_name": "",
     "country": "ID",
     "source": "iptv-org",
-    "status": "down",
+    "status": "live",
     "url": "https://stream.jogjatv.co.id/jtvlive/stream/index.m3u8",
     "logo": "https://static.wikia.nocookie.net/logopedia/images/4/40/Jogjatvnew.png",
     "group": "General",
@@ -49758,7 +49854,7 @@
     "country": "BR",
     "source": "iptv-org",
     "status": "live",
-    "url": "http://186.219.52.187/jp_news/index.m3u8",
+    "url": "http://170.83.49.66:8083/JOVEMPANNEWSHD/index.m3u8",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Jovem_Pan_logo_2018.svg/960px-Jovem_Pan_logo_2018.svg.png",
     "group": "News",
     "language": "Portuguese"
@@ -49818,7 +49914,7 @@
     "country": "ID",
     "source": "iptv-org",
     "status": "live",
-    "url": "http://122.248.43.242:1935/JTVMADIUN/_definst_/myStream/playlist.m3u8",
+    "url": "http://122.248.43.242:1935/JTVKEDIRI/_definst_/myStream/playlist.m3u8",
     "logo": "https://i.imgur.com/mIDWIQk.png",
     "group": "General",
     "language": "Indonesian"
@@ -50074,6 +50170,18 @@
     "logo": "https://i.imgur.com/NMhydr5.png",
     "group": "General",
     "language": "Ukrainian"
+  },
+  {
+    "id": "K7KeralamChannel.in",
+    "name": "K7 Keralam Channel",
+    "native_name": "",
+    "country": "IN",
+    "source": "iptv-org",
+    "status": "live",
+    "url": "https://live.skystream.in/live/keralam2742/index.m3u8",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9HJ1d-xOsWKg7ZYyU7algdOhJspVrXQUvQnCxqKfsrw&s=10",
+    "group": "Entertainment",
+    "language": "Undetermined"
   },
   {
     "id": "K19.at",
@@ -50910,7 +51018,7 @@
     "country": "IN",
     "source": "iptv-org",
     "status": "live",
-    "url": "https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/d0f1a078-3293-4f87-80ac-34cff3279b0d/index.m3u8",
+    "url": "https://stream.ottlive.co.in/newsbeatkarnataka/index.m3u8",
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/newsbeatkarnataka.png",
     "group": "News",
     "language": "Kannada"
@@ -51449,7 +51557,7 @@
     "native_name": "Хабар",
     "country": "KZ",
     "source": "iptv-org",
-    "status": "live",
+    "status": "down",
     "url": "https://fs.uplink.kz/habar/mono.m3u8?token=onlinetv",
     "logo": "https://i.imgur.com/upZ0Cuu.png",
     "group": "General",
@@ -51545,7 +51653,7 @@
     "native_name": "",
     "country": "RU",
     "source": "iptv-org",
-    "status": "live",
+    "status": "down",
     "url": "http://stream.mcquack.net/178/index.m3u8",
     "logo": "https://i.imgur.com/pwxT0ON.png",
     "group": "Sports",
@@ -51833,7 +51941,7 @@
     "native_name": "КиноБоевик",
     "country": "KZ",
     "source": "iptv-org",
-    "status": "live",
+    "status": "down",
     "url": "https://fs.uplink.kz/kinoboevik/mono.m3u8?token=onlinetv",
     "logo": "https://kt.server-img.lfstrm.tv/images/channel_logos/logo_66b351f01f828dca40d006b3.png",
     "group": "Movies",
@@ -51869,7 +51977,7 @@
     "native_name": "Кинокомедия",
     "country": "RU",
     "source": "iptv-org",
-    "status": "live",
+    "status": "down",
     "url": "http://stream.mcquack.net/265/index.m3u8",
     "logo": "https://i.imgur.com/dVjtth0.png",
     "group": "Comedy",
@@ -51953,7 +52061,7 @@
     "native_name": "Киносемья",
     "country": "RU",
     "source": "iptv-org",
-    "status": "live",
+    "status": "down",
     "url": "http://stream.mcquack.net/170/index.m3u8",
     "logo": "https://i.imgur.com/4BF5VeK.png",
     "group": "Movies",
@@ -52013,7 +52121,7 @@
     "native_name": "Киноужас",
     "country": "RU",
     "source": "iptv-org",
-    "status": "live",
+    "status": "down",
     "url": "http://s1.merlive.am/Kinoujas/index.m3u8",
     "logo": "https://i.imgur.com/mAcAAQF.png",
     "group": "Movies",
@@ -53346,7 +53454,7 @@
     "country": "ES",
     "source": "iptv-org",
     "status": "live",
-    "url": "https://rtvelivestream.rtve.es/rtvesec/la1/la1_main_dvr.m3u8",
+    "url": "https://ztnr.rtve.es/ztnr/1688877.m3u8",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/La_1_UHD_Logo_2026.svg/960px-La_1_UHD_Logo_2026.svg.png",
     "group": "General",
     "language": "Spanish"
@@ -54149,7 +54257,7 @@
     "native_name": "Лапки Live",
     "country": "RU",
     "source": "iptv-org",
-    "status": "live",
+    "status": "down",
     "url": "https://fs.uplink.kz/lapki_live/mono.m3u8?token=onlinetv",
     "logo": "https://lapki.live/lapki_og.png",
     "group": "General",
@@ -54917,7 +55025,7 @@
     "native_name": "",
     "country": "CH",
     "source": "iptv-org",
-    "status": "live",
+    "status": "down",
     "url": "http://livevideo.infomaniak.com/streaming/livecast/naxoo/playlist.m3u8",
     "logo": "https://i.imgur.com/6ijbSTr.png",
     "group": "News",
@@ -56028,6 +56136,18 @@
     "language": "Dutch"
   },
   {
+    "id": "LokmatBharat.in",
+    "name": "Lokmat Bharat",
+    "native_name": "",
+    "country": "IN",
+    "source": "iptv-org",
+    "status": "live",
+    "url": "https://stream.ottlive.co.in/lokmatbharat/index.m3u8",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/lokmatbharat.png",
+    "group": "News",
+    "language": "Hindi"
+  },
+  {
     "id": "famelack-VXP5lL9k6DpCj1",
     "name": "Lokshahi News",
     "native_name": "",
@@ -56862,7 +56982,7 @@
     "country": "FR",
     "source": "iptv-org",
     "status": "live",
-    "url": "https://n-5-2.eu.cdn-redge.media/livehls/oeu/mt/live/m6_fr/live.livx/playlist.m3u8",
+    "url": "http://99.27.51.147:8080/M6/index.m3u8",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Logo_M6_%282020%2C_fond_clair%29.svg/1280px-Logo_M6_%282020%2C_fond_clair%29.svg.png",
     "group": "Entertainment",
     "language": "French"
@@ -58517,7 +58637,7 @@
     "native_name": "Матч! Планета",
     "country": "RU",
     "source": "iptv-org",
-    "status": "live",
+    "status": "down",
     "url": "http://s1.merlive.am/matchplaneta/index.m3u8",
     "logo": "https://i.imgur.com/vhyMb9D.png",
     "group": "Sports",
@@ -59386,6 +59506,18 @@
     "logo": "https://i.imgur.com/IFGXK6u.png",
     "group": "General",
     "language": "German"
+  },
+  {
+    "id": "mditv.ro",
+    "name": "mditv",
+    "native_name": "",
+    "country": "RO",
+    "source": "iptv-org",
+    "status": "live",
+    "url": "http://91.235.165.117:8001/play/a01p/index.m3u8",
+    "logo": "https://mditv.ro/wp-content/uploads/2025/02/LOGO_MDITV-3.png",
+    "group": "General",
+    "language": "Romanian"
   },
   {
     "id": "MDL.fr",
@@ -61061,7 +61193,7 @@
     "native_name": "Мировое кино",
     "country": "KZ",
     "source": "iptv-org",
-    "status": "live",
+    "status": "down",
     "url": "https://fs.uplink.kz/mirovoe_kino/mono.m3u8?token=onlinetv",
     "logo": "https://tele2.server-img.lfstrm.tv/images/channel_logos/logo_65c24031d8bec399a7aa2226.png",
     "group": "Movies",
@@ -62141,7 +62273,7 @@
     "native_name": "Мосфильм Золотая коллекция",
     "country": "RU",
     "source": "iptv-org",
-    "status": "live",
+    "status": "down",
     "url": "http://31.222.235.15/mosfilm/index.m3u8",
     "logo": "https://i.imgur.com/95Y8jb6.png",
     "group": "Movies",
@@ -62405,7 +62537,7 @@
     "native_name": "Моя Планета",
     "country": "RU",
     "source": "iptv-org",
-    "status": "live",
+    "status": "down",
     "url": "http://stream.mcquack.net/124/index.m3u8",
     "logo": "https://i.imgur.com/uIiAdBv.png",
     "group": "Outdoor",
@@ -63210,7 +63342,7 @@
     "country": "US",
     "source": "iptv-org",
     "status": "live",
-    "url": "http://15.204.246.24:8080/MTVHD/index.m3u8",
+    "url": "https://streaming.onnethn.com/MTV/playlist.m3u8",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/960px-MTV_2021_%28brand_version%29.svg.png",
     "group": "Entertainment",
     "language": "Spanish"
@@ -63881,7 +64013,7 @@
     "native_name": "Мужское кино",
     "country": "RU",
     "source": "iptv-org",
-    "status": "live",
+    "status": "down",
     "url": "http://stream.mcquack.net/107/index.m3u8",
     "logo": "https://i.imgur.com/8RN3tQC.png",
     "group": "Movies",
@@ -65081,7 +65213,7 @@
     "native_name": "",
     "country": "PL",
     "source": "iptv-org",
-    "status": "live",
+    "status": "down",
     "url": "http://92.114.85.87:8010/play/a005/index.m3u8",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/960px-National_Geographic_Wild_logo.svg.png",
     "group": "Documentary",
@@ -65345,7 +65477,7 @@
     "native_name": "",
     "country": "MX",
     "source": "iptv-org",
-    "status": "down",
+    "status": "live",
     "url": "https://live.iplanay.gob.mx/hls/nayarittv.m3u8",
     "logo": "https://i.imgur.com/aZCTkjU.jpg",
     "group": "General",
@@ -65782,6 +65914,18 @@
     "logo": "https://i.imgur.com/nvNW8G7.png",
     "group": "General",
     "language": "Greek"
+  },
+  {
+    "id": "NEBharat24.in",
+    "name": "NE Bharat24",
+    "native_name": "",
+    "country": "IN",
+    "source": "iptv-org",
+    "status": "live",
+    "url": "https://stream.ottlive.co.in/nebharat24/index.m3u8",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/NE_Bharat24.png",
+    "group": "News",
+    "language": "Assamese"
   },
   {
     "id": "famelack-rW8dm4MTBacJXv",
@@ -66453,6 +66597,18 @@
     "url": "https://n18syndication.akamaized.net/bpk-tv/News18_UP_Uttarakhand_NW18_MOB/output01/master.m3u8",
     "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NEWS18_UTTAR_PRADESH_UTTARAKHAND/images/LOGO_HD/image.png",
     "group": "General",
+    "language": "Hindi"
+  },
+  {
+    "id": "News21.in",
+    "name": "News 21",
+    "native_name": "",
+    "country": "IN",
+    "source": "iptv-org",
+    "status": "live",
+    "url": "https://stream.ottlive.co.in/news21/index.m3u8",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/News_21.png",
+    "group": "News",
     "language": "Hindi"
   },
   {
@@ -67433,8 +67589,8 @@
     "native_name": "",
     "country": "SG",
     "source": "iptv-org",
-    "status": "down",
-    "url": "http://103.253.74.210:7070/stream/117/index.m3u8",
+    "status": "live",
+    "url": "http://103.165.207.108:8000/play/a00v/index.m3u8",
     "logo": "https://i.imgur.com/E84jnP8.png",
     "group": "Kids",
     "language": "English"
@@ -67498,6 +67654,18 @@
     "logo": "https://images.pluto.tv/channels/5d8d08395f39465da6fb3ec4/colorLogoSVG.svg",
     "group": "Kids",
     "language": "English"
+  },
+  {
+    "id": "NickelodeonFlanders.be",
+    "name": "Nickelodeon Flanders",
+    "native_name": "",
+    "country": "BE",
+    "source": "iptv-org",
+    "status": "live",
+    "url": "http://93.92.17.139:9981/stream/channelid/788918401?profile=pass",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/960px-Nickelodeon_2009_logo.svg.png",
+    "group": "Kids",
+    "language": "Dutch"
   },
   {
     "id": "NickelodeonJunior.fr",
@@ -67632,6 +67800,18 @@
     "language": "Polish"
   },
   {
+    "id": "NickJr.ro",
+    "name": "Nick Jr.",
+    "native_name": "",
+    "country": "RO",
+    "source": "iptv-org",
+    "status": "live",
+    "url": "http://91.235.165.117:8001/play/a038/index.m3u8",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_(outline).svg/960px-Nick_Jr._logo_2023_(outline).svg.png",
+    "group": "Kids",
+    "language": "English"
+  },
+  {
     "id": "famelack-RdBj6vEFVhj28o",
     "name": "Nick Jr.",
     "native_name": "",
@@ -67664,6 +67844,18 @@
     "status": "down",
     "url": "http://103.253.74.210:7070/stream/116/index.m3u8",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_(outline).svg/960px-Nick_Jr._logo_2023_(outline).svg.png",
+    "group": "Kids",
+    "language": "English"
+  },
+  {
+    "id": "NickJrClub.au",
+    "name": "Nick Jr Club",
+    "native_name": "",
+    "country": "AU",
+    "source": "iptv-org",
+    "status": "live",
+    "url": "https://i.mjh.nz/.r/10-nick-jr.m3u8",
+    "logo": "https://images.pluto.tv/channels/5f121460b73ac6000719fbaf/colorLogoPNG_1748348856602.png",
     "group": "Kids",
     "language": "English"
   },
@@ -67760,6 +67952,18 @@
     "status": "live",
     "url": "https://i.mjh.nz/.r/10-nicktoons-90s.m3u8",
     "logo": "https://images.pluto.tv/channels/64805525536e0c0008a19ca8/colorLogoSVG.svg",
+    "group": "Kids",
+    "language": "English"
+  },
+  {
+    "id": "NickToons.au",
+    "name": "NickToons",
+    "native_name": "",
+    "country": "AU",
+    "source": "iptv-org",
+    "status": "live",
+    "url": "https://i.mjh.nz/.r/10-nicktoons.m3u8",
+    "logo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Nicktoons_Logo_2023.svg/1920px-Nicktoons_Logo_2023.svg.png",
     "group": "Kids",
     "language": "English"
   },
@@ -68238,7 +68442,7 @@
     "country": "UK",
     "source": "iptv-org",
     "status": "live",
-    "url": "https://amg02784-amg02784c1-distrotv-us-3394.playouts.now.amagi.tv/playlist/amg02784-nollyafricafast-nollyafricahd-distrotvus/playlist.m3u8",
+    "url": "https://amg02784-amg02784c2-amgplt0002.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg02784-amg02784c2-amgplt0002/playlist.m3u8",
     "logo": "https://i.imgur.com/IxtGpti.png",
     "group": "Movies",
     "language": "English"
@@ -69365,7 +69569,7 @@
     "native_name": "НТК",
     "country": "KZ",
     "source": "iptv-org",
-    "status": "live",
+    "status": "down",
     "url": "http://stream.mcquack.net/389/index.m3u8",
     "logo": "https://i.imgur.com/hHSCH4L.png",
     "group": "General",
@@ -69582,7 +69786,7 @@
     "country": "RU",
     "source": "iptv-org",
     "status": "live",
-    "url": "https://cdn.ntv.ru/th_hit/playlist.m3u8",
+    "url": "http://178.134.1.158:8081/ntvhit/index.m3u8",
     "logo": "https://i.imgur.com/FfKBvz5.png",
     "group": "Series",
     "language": "Russian"
@@ -71262,7 +71466,7 @@
     "country": "MT",
     "source": "iptv-org",
     "status": "live",
-    "url": "http://80.79.6.221:25461/smash/public/21",
+    "url": "https://2-fss-1.streamhoster.com/pl_148/201830-1293592-1/playlist.m3u8",
     "logo": "https://i.imgur.com/UPlfzFx.png",
     "group": "General",
     "language": "Maltese"
@@ -73938,7 +74142,7 @@
     "country": "US",
     "source": "iptv-org",
     "status": "live",
-    "url": "https://jukin-peopleareawesome-2-au.samsung.wurl.tv/playlist.m3u8",
+    "url": "https://3ab76e42.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X1Blb3BsZUFyZUF3ZXNvbWVfSExT/playlist.m3u8",
     "logo": "https://i.imgur.com/MsIx7Ax.png",
     "group": "Entertainment",
     "language": "English"
@@ -74034,7 +74238,7 @@
     "country": "US",
     "source": "iptv-org",
     "status": "live",
-    "url": "https://jmp2.uk/plu-6197086891ddd4000739941a.m3u8",
+    "url": "https://jmp2.uk/plu-63e20bd160bc8f0008b4c949.m3u8",
     "logo": "https://images.pluto.tv/channels/63e20bd160bc8f0008b4c949/colorLogoSVG.svg",
     "group": "Series",
     "language": "English"
@@ -80808,6 +81012,18 @@
     "language": "Polish"
   },
   {
+    "id": "Pulse24.in",
+    "name": "Pulse 24",
+    "native_name": "",
+    "country": "IN",
+    "source": "iptv-org",
+    "status": "live",
+    "url": "https://stream.ottlive.co.in/pulse24news/index.m3u8",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Pulse_24.png",
+    "group": "News",
+    "language": "Hindi"
+  },
+  {
     "id": "famelack-fmocYbtQ1fFZhn",
     "name": "Pulse95 Radio",
     "native_name": "",
@@ -83862,7 +84078,7 @@
     "country": "IT",
     "source": "iptv-org",
     "status": "live",
-    "url": "http://team-tv.co:81/rai4/index.m3u8",
+    "url": "https://mediapolisevent.rai.it/relinker/relinkerServlet.htm?cont=746966",
     "logo": "https://i.imgur.com/sEY21rg.png",
     "group": "General",
     "language": "Italian"
@@ -84678,7 +84894,7 @@
     "country": "ID",
     "source": "iptv-org",
     "status": "live",
-    "url": "http://202.150.172.59/RCTIHD/index.m3u8",
+    "url": "https://rplus.inisemar.my.id/rcti.m3u8",
     "logo": "https://i.imgur.com/iLFx8ia.png",
     "group": "General",
     "language": "Indonesian"
@@ -85218,7 +85434,7 @@
     "country": "BR",
     "source": "iptv-org",
     "status": "live",
-    "url": "http://186.219.52.187/cnt/index.m3u8",
+    "url": "http://170.83.49.66:8083/REDECNTHD/index.m3u8",
     "logo": "https://i.imgur.com/jcasAmw.png",
     "group": "General",
     "language": "Portuguese"
@@ -86345,7 +86561,7 @@
     "native_name": "",
     "country": "ID",
     "source": "iptv-org",
-    "status": "down",
+    "status": "live",
     "url": "http://122.248.43.242:1935/RIAUTV/_definst_/myStream/playlist.m3u8",
     "logo": "https://i.imgur.com/1g8FtJi.png",
     "group": "General",
@@ -87354,7 +87570,7 @@
     "country": "RU",
     "source": "iptv-org",
     "status": "live",
-    "url": "https://wisewatchoott.wiseplayout.com/RT/master.m3u8",
+    "url": "http://212.5.144.156:8080/rt/index.m3u8",
     "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_RT/images/LOGO_HD/image.png",
     "group": "News",
     "language": "English"
@@ -88110,7 +88326,7 @@
     "country": "BO",
     "source": "iptv-org",
     "status": "live",
-    "url": "http://190.181.61.93:8000/play/a00n/index.m3u8",
+    "url": "https://rtp.noxun.net/hls480/stream2.m3u8",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/1/14/Rtpbolivia2021.png",
     "group": "General",
     "language": "Spanish"
@@ -88230,7 +88446,7 @@
     "country": "RU",
     "source": "iptv-org",
     "status": "live",
-    "url": "https://streaming.televizor-24-tochka.ru/live/211.m3u8",
+    "url": "https://stream.smotrim.ru/hls/planeta_rtr_asia/playlist.m3u8?entity=channel&id=511&sign=d1fe06cd922b67e412719536998fa43d",
     "logo": "https://i.imgur.com/T42cuYx.png",
     "group": "General",
     "language": "Russian"
@@ -92082,7 +92298,7 @@
     "country": "BR",
     "source": "iptv-org",
     "status": "live",
-    "url": "http://186.219.52.187/sesc_tv/index.m3u8",
+    "url": "http://170.83.49.66:8083/SESCTVHD/index.m3u8",
     "logo": "https://i.imgur.com/Mu8O6CV.png",
     "group": "General",
     "language": "Portuguese"
@@ -92598,7 +92814,7 @@
     "country": "RU",
     "source": "iptv-org",
     "status": "live",
-    "url": "http://46.53.200.153:7777/play/Shanson_TV/index.m3u8",
+    "url": "http://catchup.videoline.ru/shanson/index.m3u8",
     "logo": "https://i.imgur.com/Fk4sd8t.png",
     "group": "Music",
     "language": "Russian"
@@ -94722,7 +94938,7 @@
     "country": "PY",
     "source": "iptv-org",
     "status": "live",
-    "url": "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/113.m3u8",
+    "url": "https://tv.mitvparaguay.com/hls?device_id=dev-461bff6d-cacc-48ea-94b8-02271afb3525&id=snt",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/a/af/SNT_LOGO.jpg",
     "group": "General",
     "language": "Spanish"
@@ -94901,8 +95117,8 @@
     "native_name": "",
     "country": "BO",
     "source": "iptv-org",
-    "status": "down",
-    "url": "http://190.211.140.91:8081/SVTranscoder/SOLTVabr.stream/playlist.m3u8",
+    "status": "live",
+    "url": "https://edge.enhdtv.com/soltv/index.m3u8",
     "logo": "https://i.imgur.com/2m8PVpA.png",
     "group": "General",
     "language": "Spanish"
@@ -95214,7 +95430,7 @@
     "country": "IN",
     "source": "iptv-org",
     "status": "live",
-    "url": "https://drk6xq0vhn.gpcdn.net/hls/set_max_m4fb8dz2wp6kr9s_720/index.m3u8",
+    "url": "https://rangdhonulive.samiulislamabhi.workers.dev/sonyMAXhd/tracks-v1a1/mono.ts.m3u8",
     "logo": "https://dtil.tmsimg.com/assets/s159098_ld_h15_aa.png?lock=720x540",
     "group": "Movies",
     "language": "Hindi"
@@ -96461,7 +96677,7 @@
     "native_name": "",
     "country": "KZ",
     "source": "iptv-org",
-    "status": "live",
+    "status": "down",
     "url": "https://fs.uplink.kz/sport+/mono.m3u8?token=onlinetv",
     "logo": "https://i.imgur.com/vIV7x6n.png",
     "group": "Sports",
@@ -96718,6 +96934,18 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Logo_SRF_info.svg/960px-Logo_SRF_info.svg.png",
     "group": "General",
     "language": "German"
+  },
+  {
+    "id": "SristiTV.in",
+    "name": "Sristi TV",
+    "native_name": "",
+    "country": "IN",
+    "source": "iptv-org",
+    "status": "live",
+    "url": "https://stream.ottlive.co.in/sristitv/index.m3u8",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Sristi_TV.png",
+    "group": "General",
+    "language": "Bengali"
   },
   {
     "id": "famelack-0cfFq7pSzUjjN2",
@@ -97349,7 +97577,7 @@
     "native_name": "",
     "country": "RU",
     "source": "iptv-org",
-    "status": "live",
+    "status": "down",
     "url": "https://fs.uplink.kz/start_world/mono.m3u8?token=onlinetv",
     "logo": "https://images.iptv.rt.ru/images/d6iist8mifeailfopupg.png",
     "group": "Movies",
@@ -100296,6 +100524,18 @@
     "language": "Russian"
   },
   {
+    "id": "TaraTV.in",
+    "name": "Tara TV",
+    "native_name": "",
+    "country": "IN",
+    "source": "iptv-org",
+    "status": "live",
+    "url": "https://stream.ottlive.co.in/taratv/index.m3u8",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Tara_TV.png",
+    "group": "News",
+    "language": "Bengali"
+  },
+  {
     "id": "TarimaTV.do",
     "name": "Tarima TV",
     "native_name": "",
@@ -100494,7 +100734,7 @@
     "country": "US",
     "source": "iptv-org",
     "status": "live",
-    "url": "https://a-cdn.klowdtv.com/live3/tbn_720p/playlist.m3u8",
+    "url": "http://212.5.144.156:8080/tbn/index.m3u8",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/TBN_logo_2015.jpg/960px-TBN_logo_2015.jpg",
     "group": "Religious",
     "language": "English"
@@ -101251,7 +101491,7 @@
     "source": "iptv-org",
     "status": "live",
     "url": "https://cdn.streamingcpanel.com:3327/live/teleazullive.m3u8",
-    "logo": "https://imgur.com/a/cU7MHiu.jpg",
+    "logo": "https://i.imgur.com/MR127FE.jpeg",
     "group": "General",
     "language": "Spanish"
   },
@@ -105840,6 +106080,18 @@
     "language": "Hungarian"
   },
   {
+    "id": "TLC.ro",
+    "name": "TLC",
+    "native_name": "",
+    "country": "RO",
+    "source": "iptv-org",
+    "status": "live",
+    "url": "http://91.235.165.117:8001/play/a08f/index.m3u8",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/960px-TLC_Logo.svg.png",
+    "group": "Lifestyle",
+    "language": "Romanian"
+  },
+  {
     "id": "TLCLatinAmerica.us",
     "name": "TLC Latin America",
     "native_name": "",
@@ -105978,7 +106230,7 @@
     "country": "FR",
     "source": "iptv-org",
     "status": "live",
-    "url": "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/tmc_fr/live.livx/playlist.m3u8",
+    "url": "http://tv.streambox.fr/live/testlivestream/testlivestream/13.m3u8",
     "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/5/54/TMC_logo.svg/960px-TMC_logo.svg.png",
     "group": "General",
     "language": "French"
@@ -106073,7 +106325,7 @@
     "native_name": "",
     "country": "AR",
     "source": "iptv-org",
-    "status": "live",
+    "status": "down",
     "url": "http://158.172.155.130:8000/play/a0dp/index.m3u8",
     "logo": "https://i.imgur.com/vFwPhPS.png",
     "group": "News",
@@ -106193,7 +106445,7 @@
     "native_name": "ТНТ4 International",
     "country": "RU",
     "source": "iptv-org",
-    "status": "live",
+    "status": "down",
     "url": "https://fs.uplink.kz/tnt4/mono.m3u8?token=onlinetv",
     "logo": "https://i.imgur.com/gBokU5i.png",
     "group": "Entertainment",
@@ -106218,7 +106470,7 @@
     "country": "US",
     "source": "iptv-org",
     "status": "live",
-    "url": "https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8",
+    "url": "http://212.5.144.156/tnt/index.m3u8",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/960px-TNT_Logo_2016.svg.png",
     "group": "General",
     "language": "English"
@@ -106653,6 +106905,18 @@
     "url": "https://amg01329-otterainc-toongoggles-samsungau-ad-4c.amagi.tv/playlist/amg01329-otterainc-toongoggles-samsungau/playlist.m3u8",
     "logo": "https://i.imgur.com/JMnxswq.png",
     "group": "Kids",
+    "language": "English"
+  },
+  {
+    "id": "TooroTV.ug",
+    "name": "Tooro TV",
+    "native_name": "",
+    "country": "UG",
+    "source": "iptv-org",
+    "status": "live",
+    "url": "https://media.hydeinnovations.com/Tooro_TV-srt/index.m3u8",
+    "logo": "https://i.imgur.com/2bwPHgZ.png",
+    "group": "General",
     "language": "English"
   },
   {
@@ -107484,6 +107748,18 @@
     "language": "Russian"
   },
   {
+    "id": "TravelMix4K.ro",
+    "name": "Travel Mix 4K",
+    "native_name": "",
+    "country": "RO",
+    "source": "iptv-org",
+    "status": "live",
+    "url": "http://91.235.165.117:8001/play/a08c/index.m3u8",
+    "logo": "https://i.imgur.com/Ga0bjZP.png",
+    "group": "Travel",
+    "language": "Romanian"
+  },
+  {
     "id": "famelack-lYU8MwJ7rLlvO8",
     "name": "Travel Mix",
     "native_name": "",
@@ -108281,8 +108557,8 @@
     "native_name": "",
     "country": "BD",
     "source": "iptv-org",
-    "status": "down",
-    "url": "https://tvsen5.aynaott.com/TnMn5kZz8aLm/index.m3u8",
+    "status": "live",
+    "url": "https://rangdhonulive.samiulislamabhi.workers.dev/TSportsSD/tracks-v1a1/mono.ts.m3u8",
     "logo": "https://i.imgur.com/2JzlorD.png",
     "group": "Sports",
     "language": "Bengali"
@@ -108342,7 +108618,7 @@
     "country": "MX",
     "source": "iptv-org",
     "status": "live",
-    "url": "http://45.5.118.152:8000/play/a08n/index.m3u8",
+    "url": "https://streaming.alwaysdata.net/tudn.php",
     "logo": "https://i.imgur.com/oT5CAvd.png",
     "group": "General",
     "language": "Spanish"
@@ -108389,7 +108665,7 @@
     "native_name": "",
     "country": "KZ",
     "source": "iptv-org",
-    "status": "live",
+    "status": "down",
     "url": "https://fs.uplink.kz/turan_tv/mono.m3u8?token=onlinetv",
     "logo": "https://i.imgur.com/VagTPMo.png",
     "group": "General",
@@ -110430,7 +110706,7 @@
     "country": "NG",
     "source": "iptv-org",
     "status": "live",
-    "url": "https://tvce.gridpapaservers.com/TVCSEPT/ngrp:myStream_all/playlist.m3u8",
+    "url": "http://212.5.144.156:8080/tvc/index.m3u8",
     "logo": "https://i.imgur.com/ReV8R5S.png",
     "group": "General",
     "language": "English"
@@ -112974,7 +113250,7 @@
     "country": "CL",
     "source": "iptv-org",
     "status": "live",
-    "url": "http://15.204.246.24:8080/TVNHD/index.m3u8",
+    "url": "http://45.173.231.22:8000/play/a06l/index.m3u8",
     "logo": "https://i.imgur.com/3FKZHL4.png",
     "group": "General",
     "language": "Spanish"
@@ -114066,7 +114342,7 @@
     "country": "BR",
     "source": "iptv-org",
     "status": "live",
-    "url": "http://186.219.52.187/ratimbum/index.m3u8",
+    "url": "http://170.83.49.66:8083/TVRATIMBUMHD/index.m3u8",
     "logo": "https://i.imgur.com/JIQwz0w.png",
     "group": "General",
     "language": "Portuguese"
@@ -116454,7 +116730,7 @@
     "country": "US",
     "source": "iptv-org",
     "status": "live",
-    "url": "https://lukentvlive.vgcdn.net/v1/master/cef183924f24adfa3d5d7601c3a17769082c0c2b/UnbeatenSports-v2/playlist.m3u8",
+    "url": "https://d1t5afz6qed3xk.cloudfront.net/Unbeaten.m3u8",
     "logo": "https://i.imgur.com/LmkNt3v.png",
     "group": "Sports",
     "language": "English"
@@ -116501,7 +116777,7 @@
     "native_name": "",
     "country": "LB",
     "source": "iptv-org",
-    "status": "down",
+    "status": "live",
     "url": "https://cdn.catiacast.video/abr/9436b5ab3c1171ab04a59af11951292f/playlist.m3u8",
     "logo": "",
     "group": "News",
@@ -117336,18 +117612,6 @@
     "language": "English"
   },
   {
-    "id": "famelack-lCGm4msWtl1OQW",
-    "name": "UTV",
-    "native_name": "",
-    "country": "RO",
-    "source": "famelack",
-    "status": "live",
-    "url": "https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/714.m3u8",
-    "logo": "https://i.imgur.com/aBdz9IT.png",
-    "group": "General",
-    "language": "Romanian"
-  },
-  {
     "id": "UTVAfrica.ng",
     "name": "UTV Africa",
     "native_name": "",
@@ -117576,6 +117840,18 @@
     "language": "Turkish"
   },
   {
+    "id": "VandeBharatNews.in",
+    "name": "Vande Bharat News",
+    "native_name": "",
+    "country": "IN",
+    "source": "iptv-org",
+    "status": "live",
+    "url": "https://stream.ottlive.co.in/vandebharatnews/index.m3u8",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Vande_Bharat.png",
+    "group": "News",
+    "language": "Hindi"
+  },
+  {
     "id": "famelack-A7LdOy3OF3CcNr",
     "name": "Vanitha TV",
     "native_name": "",
@@ -117594,7 +117870,7 @@
     "country": "EE",
     "source": "iptv-org",
     "status": "live",
-    "url": "https://hls.vantagetv.ee/vclassic_stream/index.m3u8",
+    "url": "https://cdn-backup.lulzy.eu/vclassic_stream/index.m3u8",
     "logo": "https://vantagetv.ee/vantage_classic.png",
     "group": "Music",
     "language": "English"
@@ -117618,7 +117894,7 @@
     "country": "EE",
     "source": "iptv-org",
     "status": "live",
-    "url": "https://hls.vantagetv.ee/vmusic_stream/main_stream.m3u8",
+    "url": "https://cdn-backup.lulzy.eu/vmusic_stream/index.m3u8",
     "logo": "https://vantagetv.ee/vantage_music.png",
     "group": "Music",
     "language": "English"
@@ -119214,7 +119490,7 @@
     "country": "VN",
     "source": "iptv-org",
     "status": "live",
-    "url": "https://dethich.pw/thvl2/index.m3u8",
+    "url": "https://1011154949.vnns.net/CDN-FPT02/THVL2-HD-1080p/playlist.m3u8",
     "logo": "https://i.imgur.com/iluoazf.png",
     "group": "Culture",
     "language": "Vietnamese"
@@ -120318,7 +120594,7 @@
     "country": "VN",
     "source": "iptv-org",
     "status": "live",
-    "url": "https://dethich.pw/vtv1/index.m3u8",
+    "url": "https://luuchieu.truyenhinhso.vn/media/live/C90B082632CD4A75F4B3EDB3/index.m3u8",
     "logo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Logo_VTV1_-_%C4%90%C3%A0i_Truy%E1%BB%81n_h%C3%ACnh_Vi%E1%BB%87t_Nam.svg/960px-Logo_VTV1_-_%C4%90%C3%A0i_Truy%E1%BB%81n_h%C3%ACnh_Vi%E1%BB%87t_Nam.svg.png",
     "group": "General",
     "language": "Vietnamese"
@@ -120773,7 +121049,7 @@
     "native_name": "",
     "country": "PR",
     "source": "iptv-org",
-    "status": "live",
+    "status": "down",
     "url": "https://wapa.hostless.app/WAPA-TV-4-2.m3u8",
     "logo": "https://i.imgur.com/5WNBFmp.png",
     "group": "Sports",
@@ -120826,6 +121102,18 @@
     "logo": "https://static.wikia.nocookie.net/logopedia/images/c/c7/WarnerTV_2021.svg/revision/latest/scale-to-width-down/1000?cb=20230818123400",
     "group": "Movies",
     "language": "Czech"
+  },
+  {
+    "id": "WarnerTV.ro",
+    "name": "Warner TV",
+    "native_name": "",
+    "country": "RO",
+    "source": "iptv-org",
+    "status": "live",
+    "url": "http://91.235.165.117:8001/play/a08h/index.m3u8",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/960px-Warner2018LA.png",
+    "group": "Movies",
+    "language": "English"
   },
   {
     "id": "WarnerTVAsia.us",
@@ -121650,7 +121938,7 @@
     "country": "US",
     "source": "iptv-org",
     "status": "live",
-    "url": "https://tvsen5.aynaott.com/willowhd/index.m3u8",
+    "url": "http://tvsen5.aynascope.net/willowhd/index.m3u8",
     "logo": "https://i.imgur.com/v7nSm7M.png",
     "group": "Sports",
     "language": "English"
@@ -122446,114 +122734,6 @@
     "logo": "https://i.imgur.com/JJw1Ndc.png",
     "group": "General",
     "language": "Kazakh"
-  },
-  {
-    "id": "famelack-WuVh2mfRifOUP1",
-    "name": "XITE 90's Throwback",
-    "native_name": "",
-    "country": "US",
-    "source": "famelack",
-    "status": "live",
-    "url": "https://d284aawtm5vi48.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fjdfi2br1jtq7/XITE_90s_Throwback.m3u8",
-    "logo": "https://i.imgur.com/vwpOzuz.png",
-    "group": "General",
-    "language": "English"
-  },
-  {
-    "id": "XITE.nl",
-    "name": "XITE",
-    "native_name": "",
-    "country": "NL",
-    "source": "iptv-org",
-    "status": "live",
-    "url": "https://xite-rakuten.amagi.tv/playlist.m3u8",
-    "logo": "https://i.imgur.com/jxuwGRi.png",
-    "group": "Music",
-    "language": "Dutch"
-  },
-  {
-    "id": "XITEClassicCountry.nl",
-    "name": "XITE Classic Country",
-    "native_name": "",
-    "country": "NL",
-    "source": "iptv-org",
-    "status": "live",
-    "url": "https://jmp2.uk/plu-623b92a2ccefed0007b1db48.m3u8",
-    "logo": "https://provider-static.plex.tv/epg/cms/production/511ebc88-a7f7-4f6d-85ff-38c849bbb4a3/xiteclassiccountry_logo_light_-_Arlette_FiranRDX.png",
-    "group": "Music",
-    "language": "English"
-  },
-  {
-    "id": "XITEHits.nl",
-    "name": "XITE Hits",
-    "native_name": "",
-    "country": "NL",
-    "source": "iptv-org",
-    "status": "live",
-    "url": "https://d726x48n2pd5h.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-skxr1pazhltvp/XITE_Hits.m3u8",
-    "logo": "https://provider-static.plex.tv/epg/cms/production/b79c1102-0a7d-4310-a0df-6cbe6fb660e2/xitehits_logo_WHITE_-_Arlette_FiranRDX2.png",
-    "group": "Music",
-    "language": "English"
-  },
-  {
-    "id": "XITEJustChill.nl",
-    "name": "XITE Just Chill",
-    "native_name": "",
-    "country": "NL",
-    "source": "iptv-org",
-    "status": "live",
-    "url": "https://dvnftgdlbnemm.cloudfront.net/XITE_Just_Chill.m3u8",
-    "logo": "https://provider-static.plex.tv/epg/cms/production/927dd614-017d-49dd-9eb9-0ed79d09084e/xitejustchill_logo_light_-_Arlette_FiranRDX.png",
-    "group": "Music",
-    "language": "English"
-  },
-  {
-    "id": "famelack-2qfIZHWq1X2El7",
-    "name": "XITE Nuevo Latino",
-    "native_name": "",
-    "country": "US",
-    "source": "famelack",
-    "status": "live",
-    "url": "https://d3bsgqzbpkrvbb.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-w288eaw03izg1/XITE_Nuevo_Latino.m3u8",
-    "logo": "https://i.imgur.com/2qyl2y3.png",
-    "group": "General",
-    "language": "Portuguese"
-  },
-  {
-    "id": "famelack-SEl1ifpNBzGggm",
-    "name": "XITE Reggae Vibes",
-    "native_name": "",
-    "country": "NL",
-    "source": "famelack",
-    "status": "live",
-    "url": "https://dw2m7yrngfg8c.cloudfront.net/XITE_Reggae_Vibes.m3u8",
-    "logo": "https://provider-static.plex.tv/epg/cms/production/c7506335-967f-46a9-917a-2a35475cd96c/xitereggaevibes_logo_light_-_Arlette_FiranRDX.png",
-    "group": "General",
-    "language": "English"
-  },
-  {
-    "id": "XITERockxMetal.nl",
-    "name": "XITE Rock x Metal",
-    "native_name": "",
-    "country": "NL",
-    "source": "iptv-org",
-    "status": "live",
-    "url": "https://amg01243-xite-amg01243c21-tcl-us-6483.playouts.now.amagi.tv/playlist.m3u8",
-    "logo": "https://provider-static.plex.tv/epg/cms/production/40b11283-ff2c-4bf3-93a0-3448e10f2b2c/xiterockxmetal_logo_light_-_Arlette_FiranRDX.png",
-    "group": "Music",
-    "language": "English"
-  },
-  {
-    "id": "famelack-kxIDxj1bfR8Ii1",
-    "name": "XITE Siempre Latino",
-    "native_name": "",
-    "country": "US",
-    "source": "famelack",
-    "status": "live",
-    "url": "https://d1xc25jm9e0l4b.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-xplkt8i7m24dc/XITE_Siempre_Latino.m3u8",
-    "logo": "https://i.imgur.com/bwmIEgG.png",
-    "group": "General",
-    "language": "Portuguese"
   },
   {
     "id": "famelack-53B4roOe9CYOhE",
@@ -141384,6 +141564,18 @@
     "language": "Spanish"
   },
   {
+    "id": "famelack-lCGm4msWtl1OQW",
+    "name": "UTV",
+    "native_name": "",
+    "country": "RO",
+    "source": "famelack",
+    "status": "live",
+    "url": "https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/714.m3u8",
+    "logo": "https://i.imgur.com/aBdz9IT.png",
+    "group": "General",
+    "language": "Romanian"
+  },
+  {
     "id": "famelack-HVdEMkaLsWHdoq",
     "name": "UTY News 24h",
     "native_name": "",
@@ -142728,6 +142920,18 @@
     "language": ""
   },
   {
+    "id": "famelack-WuVh2mfRifOUP1",
+    "name": "XITE 90's Throwback",
+    "native_name": "",
+    "country": "US",
+    "source": "famelack",
+    "status": "live",
+    "url": "https://d284aawtm5vi48.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fjdfi2br1jtq7/XITE_90s_Throwback.m3u8",
+    "logo": "https://i.imgur.com/vwpOzuz.png",
+    "group": "General",
+    "language": "English"
+  },
+  {
     "id": "famelack-5Jk6hJApUbv5Aq",
     "name": "XITE 90s Throwback",
     "native_name": "",
@@ -142810,6 +143014,42 @@
     "logo": "",
     "group": "General",
     "language": "English"
+  },
+  {
+    "id": "famelack-2qfIZHWq1X2El7",
+    "name": "XITE Nuevo Latino",
+    "native_name": "",
+    "country": "US",
+    "source": "famelack",
+    "status": "live",
+    "url": "https://d3bsgqzbpkrvbb.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-w288eaw03izg1/XITE_Nuevo_Latino.m3u8",
+    "logo": "https://i.imgur.com/2qyl2y3.png",
+    "group": "General",
+    "language": "Portuguese"
+  },
+  {
+    "id": "famelack-SEl1ifpNBzGggm",
+    "name": "XITE Reggae Vibes",
+    "native_name": "",
+    "country": "NL",
+    "source": "famelack",
+    "status": "live",
+    "url": "https://dw2m7yrngfg8c.cloudfront.net/XITE_Reggae_Vibes.m3u8",
+    "logo": "https://provider-static.plex.tv/epg/cms/production/c7506335-967f-46a9-917a-2a35475cd96c/xitereggaevibes_logo_light_-_Arlette_FiranRDX.png",
+    "group": "General",
+    "language": "English"
+  },
+  {
+    "id": "famelack-kxIDxj1bfR8Ii1",
+    "name": "XITE Siempre Latino",
+    "native_name": "",
+    "country": "US",
+    "source": "famelack",
+    "status": "live",
+    "url": "https://d1xc25jm9e0l4b.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-xplkt8i7m24dc/XITE_Siempre_Latino.m3u8",
+    "logo": "https://i.imgur.com/bwmIEgG.png",
+    "group": "General",
+    "language": "Portuguese"
   },
   {
     "id": "famelack-ofazP0ZT911Zqk",
