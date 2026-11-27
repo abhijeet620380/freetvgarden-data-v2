@@ -15,9 +15,9 @@ https://stream8.cinerama.uz/1267/tracks-v1a1/mono.m3u8
 https://www.youtube-nocookie.com/embed/mWkb-BLcGAY
 #EXTINF:-1 tvg-id="2x2.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2x2_TV_Logo.svg/1920px-2x2_TV_Logo.svg.png" tvg-native-name="Дважды два" tvg-status="live" group-title="Entertainment",2x2
 http://176.118.197.101/2x2/index.m3u8
-#EXTINF:-1 tvg-id="312Kino.kg" tvg-country="KG" tvg-language="Russian" tvg-logo="https://i.ibb.co/3m9LrLj/k7gIibH.png" tvg-native-name="312 Кино" tvg-status="live" group-title="Movies",312 Kino
+#EXTINF:-1 tvg-id="312Kino.kg" tvg-country="KG" tvg-language="Russian" tvg-logo="https://i.ibb.co/3m9LrLj/k7gIibH.png" tvg-native-name="312 Кино" tvg-status="down" group-title="Movies",312 Kino
 http://176.126.166.43:1935/live/312kino/playlist.m3u8
-#EXTINF:-1 tvg-id="312TV.kg" tvg-country="KG" tvg-language="Russian" tvg-logo="https://i.ibb.co/S6sZvqk/iLSGi6c.png" tvg-native-name="312 ТВ" tvg-status="live" group-title="Entertainment",312 TV
+#EXTINF:-1 tvg-id="312TV.kg" tvg-country="KG" tvg-language="Russian" tvg-logo="https://i.ibb.co/S6sZvqk/iLSGi6c.png" tvg-native-name="312 ТВ" tvg-status="down" group-title="Entertainment",312 TV
 http://176.126.166.43:1935/live/312musik/playlist.m3u8
 #EXTINF:-1 tvg-id="360.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/VTJqdoX.png" tvg-status="live" group-title="General",360°
 https://cdn-evacoder-tv.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/index.m3u8
@@ -108,7 +108,7 @@ http://s7.merlive.am/BoxTV/index.m3u8
 #EXTINF:-1 tvg-id="Bollywood.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/YLQRnXt.png" tvg-status="live" group-title="Movies",Bollywood
 http://176.118.197.101/Bollywood_HD/index.m3u8
 #EXTINF:-1 tvg-id="BRIDGE.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/qYObfrG.png" tvg-status="live" group-title="Music",BRIDGE
-http://194.143.148.28:8080/RT_DOC/index.m3u8
+http://178.134.1.158:8081/BRIDGE/index.m3u8
 #EXTINF:-1 tvg-id="BRIDGEClassic.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/JJTQq81.png" tvg-status="down" group-title="Classic",BRIDGE Classic
 http://5.188.159.128:8070/Bridge_TV_Classic/index.m3u8
 #EXTINF:-1 tvg-id="BRIDGEDance.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://bridgemusic.ru/s/img/channels/dance-white.svg" tvg-status="live" group-title="Music",BRIDGE Dance
@@ -146,7 +146,7 @@ https://bl.rutube.ru/livestream/c9e26bf5c003fd8d477200065ca1a05f/index.m3u8?e=20
 #EXTINF:-1 tvg-id="Channel12.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/OA9hm6e.png" tvg-native-name="12 канал" tvg-status="live" group-title="General",Channel 12
 https://12channel.bonus-tv.ru/cdn/12channel/playlist.m3u8
 #EXTINF:-1 tvg-id="Channel4.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/Channel4_logo.jpg" tvg-native-name="Четвёртый канал" tvg-status="live" group-title="General",Channel 4
-http://tele2dvrnat01-02.cdnvideo.ru:80/stream/NAT_EKB1/hls/1024x576@2024/playlist.m3u8
+https://river-3-370.rtbcdn.ru/stream/genetta-316.m9.rutube.ru/60Ro5OWl7WWOswbVMQlqFw/1795975765/c6f66b644424c117f41e48062719ceed/576p_stream.m3u8
 #EXTINF:-1 tvg-id="Channel5.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/5-tv_logo_%282023%29.svg/960px-5-tv_logo_%282023%29.svg.png" tvg-native-name="Пятый канал" tvg-status="live" group-title="General",Channel 5
 http://31.148.5.241/kanal_5/index.m3u8
 #EXTINF:-1 tvg-id="Channel5International.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/8VKc2Ya.png" tvg-native-name="Пятый International" tvg-status="live" group-title="General",Channel 5 International
@@ -570,7 +570,7 @@ http://s7.merlive.am/ntvstil/index.m3u8
 #EXTINF:-1 tvg-id="NTVVitrina.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/NTV_logo_2003.svg/1280px-NTV_logo_2003.svg.png" tvg-native-name="НТВ Витрина" tvg-status="live" group-title="General",NTV Vitrina
 https://cdn.ntv.ru/vitrina/index.m3u8
 #EXTINF:-1 tvg-id="NTVHit.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/FfKBvz5.png" tvg-native-name="НТВ-Хит" tvg-status="live" group-title="Series",NTV-Hit
-http://s7.merlive.am/ntvxit/index.m3u8
+http://178.134.1.158:8081/ntvhit/index.m3u8
 #EXTINF:-1 tvg-id="O.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/pDc665V.png" tvg-native-name="О!" tvg-status="live" group-title="Kids",O!
 http://88.212.15.50/live/test_telekanal_o/playlist.m3u8
 #EXTINF:-1 tvg-id="famelack-3aVcjaCk9E1yIS" tvg-country="UZ" tvg-language="Russian" tvg-logo="https://i.imgur.com/QUIIhTD.png" tvg-status="live" group-title="General",O'zbekiston
@@ -672,7 +672,7 @@ http://s7.merlive.am/rtgtv/index.m3u8
 #EXTINF:-1 tvg-id="RTN.us" tvg-country="US" tvg-language="Russian" tvg-logo="https://i.imgur.com/jjUzuLV.png" tvg-status="down" group-title="General",RTN
 http://4.59.210.197:8815/udp/127.0.0.1:6002
 #EXTINF:-1 tvg-id="RTRPlaneta.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/T42cuYx.png" tvg-native-name="РТР-Планета" tvg-status="live" group-title="General",RTR-Planeta
-https://streaming.televizor-24-tochka.ru/live/211.m3u8
+https://stream.smotrim.ru/hls/planeta_rtr_asia/playlist.m3u8?entity=channel&id=511&sign=d1fe06cd922b67e412719536998fa43d
 #EXTINF:-1 tvg-id="RTVi.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/1AEhXyS.png" tvg-status="live" group-title="General",RTVi
 https://shift03.isp.bg/RTVi/index.m3u8
 #EXTINF:-1 tvg-id="famelack-umGNcTv4RDojAI" tvg-country="US" tvg-language="Russian" tvg-logo="https://www.einpresswire.com/image/large/960869/logo-rtvi-us.png#676x536" tvg-status="live" group-title="General",RTVi US
@@ -890,7 +890,7 @@ https://bl.rutube.ru/livestream/91815da4edb167b5bd617bae490e57da/index.m3u8?e=20
 #EXTINF:-1 tvg-id="famelack-uBZeu6AwVshM7Q" tvg-country="MD" tvg-language="Russian" tvg-logo="https://i.imgur.com/6p4weSK.png" tvg-native-name="ТСВ" tvg-status="live" group-title="General",TSV
 https://tsv.md/stream/hls/tsv-online/index.m3u8
 #EXTINF:-1 tvg-id="TV21.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/nSmSnH6.png" tvg-native-name="ТВ 21" tvg-status="live" group-title="Movies",TV 21
-http://s7.merlive.am/21TV/index.m3u8
+http://178.134.1.158:8081/TVXXI/index.m3u8
 #EXTINF:-1 tvg-id="TV21International.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://ibb.co/BH6CZx3K" tvg-status="live" group-title="Movies",TV 21 International
 http://46.53.200.153:7777/play/TV-21M/index.m3u8
 #EXTINF:-1 tvg-id="famelack-0hiQdgKd6nMh6h" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/vLpm8tN.png" tvg-status="live" group-title="General",TV BRICS Russian

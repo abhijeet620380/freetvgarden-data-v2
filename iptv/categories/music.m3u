@@ -62,7 +62,7 @@ https://tvboom.ro/live-tv/live.m3u8
 #EXTINF:-1 tvg-id="BOXTV.bg" tvg-country="BG" tvg-language="Bulgarian" tvg-logo="https://i.imgur.com/swFzesA.png" tvg-status="live" group-title="Music",BOX TV
 http://213.91.179.28:8000/play/a0an
 #EXTINF:-1 tvg-id="BRIDGE.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/qYObfrG.png" tvg-status="live" group-title="Music",BRIDGE
-http://194.143.148.28:8080/RT_DOC/index.m3u8
+http://178.134.1.158:8081/BRIDGE/index.m3u8
 #EXTINF:-1 tvg-id="BRIDGEClassic.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/JJTQq81.png" tvg-status="down" group-title="Classic",BRIDGE Classic
 http://5.188.159.128:8070/Bridge_TV_Classic/index.m3u8
 #EXTINF:-1 tvg-id="BRIDGEDance.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://bridgemusic.ru/s/img/channels/dance-white.svg" tvg-status="live" group-title="Music",BRIDGE Dance
@@ -274,7 +274,7 @@ https://r.eu.cdn-redge.media/livehls/oeu/mt/live/melody/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="Mezzo.fr" tvg-country="FR" tvg-language="English" tvg-logo="https://i.imgur.com/auNdGeW.png" tvg-status="live" group-title="Music",Mezzo
 http://s7.merlive.am/Mezzo/index.m3u8
 #EXTINF:-1 tvg-id="MezzoLive.fr" tvg-country="FR" tvg-language="English" tvg-logo="https://i.imgur.com/H9ytKPN.png" tvg-status="live" group-title="Music",Mezzo Live
-http://45.84.187.172:3001/udp/239.10.10.76:5000
+http://stream.mcquack.net/276/index.m3u8
 #EXTINF:-1 tvg-id="MiMusicaHits.us" tvg-country="US" tvg-language="Spanish" tvg-logo="https://i.imgur.com/z9MlLFL.png" tvg-status="down" group-title="Music",Mi Musica Hits
 http://38.188.186.47:4000/play/a04n/index.m3u8
 #EXTINF:-1 tvg-id="MiMusicaPopular.us" tvg-country="US" tvg-language="Spanish" tvg-logo="https://i.imgur.com/auW6Ve1.png" tvg-status="live" group-title="Music",Mi Musica Popular
@@ -539,8 +539,6 @@ https://alpha.tv.online.tm/hls/ch005.m3u8
 https://ssh101.bozztv.com/ssh101/rtvarberia4/playlist.m3u8
 #EXTINF:-1 tvg-id="TVArberiaRetroHits.xk" tvg-country="XK" tvg-language="Albanian" tvg-logo="https://i.imgur.com/zLRzyVS.png" tvg-status="down" group-title="Music",TV Arberia Retro Hits
 https://ssh101.bozztv.com/ssh101/rtvarberiaretro/playlist.m3u8
-#EXTINF:-1 tvg-id="TVCAJUIWEB.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://github.com/user-attachments/assets/e7af691d-0d31-4576-a1eb-bcf85507c891" tvg-status="live" group-title="General",TV CAJUI WEB
-https://cdn.live.br1.jmvstream.com/webtv/tvcajui/playlist/playlist.m3u8
 #EXTINF:-1 tvg-id="TvCarigso.bo" tvg-country="BO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/nhg1uM9.png" tvg-status="live" group-title="Music",Tv Carigso
 https://183.giatvcdn.com/ssh101/ssh101/carigsotv2026/playlist.m3u8
 #EXTINF:-1 tvg-id="TVDugaPlus.rs" tvg-country="RS" tvg-language="Serbian" tvg-logo="https://i.imgur.com/qZV3JW5.png" tvg-native-name="ТВ Дуга+" tvg-status="live" group-title="Music",TV Duga+
