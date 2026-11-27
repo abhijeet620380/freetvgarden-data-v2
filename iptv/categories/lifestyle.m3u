@@ -37,9 +37,9 @@ http://74.91.26.218:82/live/cctv12hd.m3u8
 http://38.75.136.137:98/gslb/dsdqpub/wsjk.m3u8?auth=testpub
 #EXTINF:-1 tvg-id="CCTVWomensFashion.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://i.imgur.com/FVbP0aP.png" tvg-native-name="CCTV-女性时尚" tvg-status="live" group-title="Lifestyle",CCTV-Women's Fashion
 http://38.75.136.137:98/gslb/dsdqpub/nxss.m3u8?auth=testpub
-#EXTINF:-1 tvg-id="CodeFashionTV.bg" tvg-country="BG" tvg-language="Bulgarian" tvg-logo="https://i.imgur.com/mVc2g64.png" tvg-status="down" group-title="Lifestyle",Code Fashion TV
+#EXTINF:-1 tvg-id="CodeFashionTV.bg" tvg-country="BG" tvg-language="Bulgarian" tvg-logo="https://i.imgur.com/mVc2g64.png" tvg-status="live" group-title="Lifestyle",Code Fashion TV
 https://cdn2.invivo.bg/Codefashion_5500/index.m3u8
-#EXTINF:-1 tvg-id="CodeHealthTV.bg" tvg-country="BG" tvg-language="Bulgarian" tvg-logo="https://i.imgur.com/NXBMzGV.png" tvg-status="down" group-title="Lifestyle",Code Health TV
+#EXTINF:-1 tvg-id="CodeHealthTV.bg" tvg-country="BG" tvg-language="Bulgarian" tvg-logo="https://i.imgur.com/NXBMzGV.png" tvg-status="live" group-title="Lifestyle",Code Health TV
 https://cdn2.invivo.bg/codehealth_test/index.m3u8
 #EXTINF:-1 tvg-id="CottageLife.ca" tvg-country="CA" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Cottage_Life_Logo.svg/960px-Cottage_Life_Logo.svg.png" tvg-status="down" group-title="Outdoor",Cottage Life
 http://185.246.209.113/CottageLife/index.m3u8
@@ -81,6 +81,8 @@ https://video1.getstreamhosting.com:1936/8056/8056/playlist.m3u8
 https://iptv01.eurocable.co.hu/EC-HANGULATTV/index.m3u8
 #EXTINF:-1 tvg-id="HGTV.hu" tvg-country="HU" tvg-language="Hungarian" tvg-logo="https://i.imgur.com/KMcR9z9.png" tvg-status="live" group-title="Lifestyle",HGTV
 http://88.212.7.14/live/hgtv_hun/index.m3u8
+#EXTINF:-1 tvg-id="HGTV.ro" tvg-country="RO" tvg-language="English" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8f/HGTV_2015_Blue.svg/revision/latest?cb=20170704124128" tvg-status="live" group-title="Lifestyle",HGTV
+https://rundle.tv/proxy5.php?src=https://thor1.syndula001.cfd/hgtivi/usergenx3kly4rnd.m3u8
 #EXTINF:-1 tvg-id="HGTVAsia.us" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/960px-HGTV_US_Logo_2015.svg.png" tvg-status="live" group-title="Lifestyle",HGTV Asia
 https://freem3u.xyz/api/live/play.m3u8?vid=99
 #EXTINF:-1 tvg-id="HGTVLatinAmerica.us" tvg-country="US" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/960px-HGTV_US_Logo_2015.svg.png" tvg-status="live" group-title="Lifestyle",HGTV Latin America
@@ -109,6 +111,8 @@ https://jmp2.uk/plu-63e3b33e8795f300087e6a46.m3u8
 https://live77cdn2.antenaplay.ro/live2_fast/ch1/stream.m3u8
 #EXTINF:-1 tvg-id="Nova.es" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/Vx1F4o5.png" tvg-status="down" group-title="Lifestyle",Nova
 https://ignac16.github.io/voxel-tv-streams/nova.mpd
+#EXTINF:-1 tvg-id="NTVStilzhizn.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/10294/logo_256.webp" tvg-native-name="НТВ Стиль жизни" tvg-status="live" group-title="Lifestyle",NTV Stil zhizn
+http://s7.merlive.am/ntvstil/index.m3u8
 #EXTINF:-1 tvg-id="OWN.us" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/OWN_2011_logo.svg/960px-OWN_2011_logo.svg.png" tvg-status="live" group-title="Lifestyle",OWN
 http://23.237.104.106:8080/USA_OWN/index.m3u8
 #EXTINF:-1 tvg-id="PlutoTVCocina.de" tvg-country="DE" tvg-language="Spanish" tvg-logo="https://images.pluto.tv/channels/5f1acdaa8ba90f0007d5e760/colorLogoSVG.svg" tvg-status="live" group-title="Cooking",Pluto TV Cocina
@@ -169,8 +173,8 @@ http://103.253.74.210:7070/stream/108/index.m3u8
 http://88.212.15.50/live/test_parpika_tv_sd_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id="TVPaprika.hu" tvg-country="HU" tvg-language="Hungarian" tvg-logo="https://i.imgur.com/KLpZIS6.png" tvg-status="live" group-title="Lifestyle",TV Paprika
 http://88.212.7.14/live/parpika_hun/index.m3u8
-#EXTINF:-1 tvg-id="TVPaprika.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/3fuXBHT.png" tvg-status="down" group-title="Lifestyle",TV Paprika
-https://galandriel1.thobias11.cfd/papi/usergendxs3jk0s9nd.m3u8
+#EXTINF:-1 tvg-id="TVPaprika.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/3fuXBHT.png" tvg-status="live" group-title="Lifestyle",TV Paprika
+https://rundle.tv/proxy5.php?src=https://galandriel1.thobias001.cfd/papi/usergendxs3jk0s9nd.m3u8
 #EXTINF:-1 tvg-id="TV3Life.lv" tvg-country="LV" tvg-language="Latvian" tvg-logo="https://i.imgur.com/Tm8hj45.png" tvg-status="down" group-title="Lifestyle",TV3 Life
 http://stream.mcquack.net/373/index.m3u8
 #EXTINF:-1 tvg-id="TV5MondeStyle.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/cwC7Q2V.png" tvg-status="live" group-title="Lifestyle",TV5Monde Style

@@ -418,7 +418,7 @@ https://stream.sen-gt.com/Mbacke/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="LouisLaBrocante.us" tvg-country="US" tvg-language="French" tvg-logo="https://i.imgur.com/I1w7rFb.png" tvg-status="live" group-title="Series",Louis La Brocante
 https://jmp2.uk/plu-5f8ed6d569d2d4000864a976.m3u8
 #EXTINF:-1 tvg-id="M6.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Logo_M6_%282020%2C_fond_clair%29.svg/1280px-Logo_M6_%282020%2C_fond_clair%29.svg.png" tvg-status="live" group-title="Entertainment",M6
-https://n-5-2.eu.cdn-redge.media/livehls/oeu/mt/live/m6_fr/live.livx/playlist.m3u8
+http://99.27.51.147:8080/M6/index.m3u8
 #EXTINF:-1 tvg-id="M6Music.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/68/M6music-95cde0867d.svg/revision/latest?cb=20200412210630" tvg-status="live" group-title="Music",M6 Music
 https://r.eu.cdn-redge.media/livehls/oeu/mt/live/m6_music_hits/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="famelack-QxPzLGnZPWA96s" tvg-country="GP" tvg-language="French" tvg-logo="https://i.imgur.com/spGg1CZ.png" tvg-status="live" group-title="General",Madras FM TV
@@ -435,8 +435,8 @@ https://www.youtube-nocookie.com/embed/5ARTNKq49WY
 https://cdn.katapy.io/cache/stream/katapytv/dieu/playlist.m3u8
 #EXTINF:-1 tvg-id="MCMTop.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/EVtWQLd.png" tvg-status="down" group-title="Music",MCM Top
 http://185.228.163.146:8000/play/a00g/index.m3u8
-#EXTINF:-1 tvg-id="MCMTop.ru" tvg-country="RU" tvg-language="French" tvg-logo="https://i.imgur.com/EVtWQLd.png" tvg-status="down" group-title="Music",MCM Top
-http://46.32.176.50/mcmtop/index.m3u8
+#EXTINF:-1 tvg-id="MCMTop.ru" tvg-country="RU" tvg-language="French" tvg-logo="https://i.imgur.com/EVtWQLd.png" tvg-status="live" group-title="Music",MCM Top
+http://s7.merlive.am/vipserial/index.m3u8
 #EXTINF:-1 tvg-id="MDL.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/REN30bx.png" tvg-status="live" group-title="General",MDL
 http://tv.mondeduloisir.fr:1935/tixtv/smil:web.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="famelack-mDkV0A2XCu8rjT" tvg-country="MA" tvg-language="French" tvg-logo="https://i.imgur.com/a20DHnj.png" tvg-native-name="مدي آن تي في" tvg-status="live" group-title="General",Medi1TV Afrique
@@ -483,11 +483,11 @@ https://r.eu.cdn-redge.media/livehls/oeu/mt/live/novo_19/live.livx/playlist.m3u8
 https://test.946985.filegear-sg.me/proxy/a23981548880f405
 #EXTINF:-1 tvg-id="famelack-TXUC0mu2fNdDhw" tvg-country="CI" tvg-language="French" tvg-logo="https://i.imgur.com/qqLXdHz.png" tvg-status="live" group-title="General",NTV
 https://strhlslb01.streamakaci.tv/str_ntv_ntv/str_ntv_ntv_multi/playlist.m3u8
-#EXTINF:-1 tvg-id="NWEconomie.tg" tvg-country="TG" tvg-language="French" tvg-logo="https://i.imgur.com/OmlFQa8.png" tvg-status="live" group-title="Business",NW Economie
+#EXTINF:-1 tvg-id="NWEconomie.tg" tvg-country="TG" tvg-language="French" tvg-logo="https://i.imgur.com/OmlFQa8.png" tvg-status="down" group-title="Business",NW Economie
 https://hls.newworldtv.com/nw-economie/video/live.m3u8
-#EXTINF:-1 tvg-id="NWInfo.tg" tvg-country="TG" tvg-language="French" tvg-logo="https://i.imgur.com/UDEY91v.png" tvg-status="live" group-title="News",NW Info
+#EXTINF:-1 tvg-id="NWInfo.tg" tvg-country="TG" tvg-language="French" tvg-logo="https://i.imgur.com/UDEY91v.png" tvg-status="down" group-title="News",NW Info
 https://hls.newworldtv.com/nw-info/video/live.m3u8
-#EXTINF:-1 tvg-id="NWMagazine.tg" tvg-country="TG" tvg-language="French" tvg-logo="https://i.imgur.com/RZNJZYN.png" tvg-status="live" group-title="Entertainment",NW Magazine
+#EXTINF:-1 tvg-id="NWMagazine.tg" tvg-country="TG" tvg-language="French" tvg-logo="https://i.imgur.com/RZNJZYN.png" tvg-status="down" group-title="Entertainment",NW Magazine
 https://hls.newworldtv.com/nw-magazine/video/live.m3u8
 #EXTINF:-1 tvg-id="OneNationTV.sn" tvg-country="SN" tvg-language="French" tvg-logo="https://i.imgur.com/RGHbkZU.png" tvg-status="down" group-title="Culture",One Nation TV
 https://endour.net/hls/One_nationtv/index.m3u8
@@ -782,13 +782,13 @@ http://23.133.220.149/Unis_TV/index.m3u8
 #EXTINF:-1 tvg-id="TV5MondeAfrica.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/0N64Ddn.png" tvg-status="live" group-title="General",TV5Monde Africa
 http://5.9.121.178/tv5monde/index.m3u8
 #EXTINF:-1 tvg-id="TV5MondeAsia.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/2f/TV5Monde_2025.png/revision/latest?cb=20251019134025&path-prefix=vi" tvg-status="live" group-title="General",TV5Monde Asia
-http://54.37.19.157/TV5MONDE/index.m3u8
+https://freem3u.xyz/api/live/play.m3u8?vid=9852
 #EXTINF:-1 tvg-id="famelack-2gvbHx7OrU70G2" tvg-country="FR" tvg-language="French" tvg-logo="https://psi.tv5monde.com/media/static/default/lives/tv5monde-chef.png" tvg-status="live" group-title="General",TV5MONDE Chefs
 https://tvf-tv5ch.otteravision.com/tvf/tv5ch/tv5ch.m3u8
 #EXTINF:-1 tvg-id="TV5MondeEurope.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/rPAbMSu.png" tvg-status="live" group-title="General",TV5Monde Europe
-https://hls01ns.antenaplay.ro/hls/tv5-monde-europe-sd/index.m3u8
+https://ert-ucdn.broadpeak-aas.com/bpk-tv/TV5/default/index.m3u8
 #EXTINF:-1 tvg-id="TV5MondeFranceBelgiumSwitzerlandMonaco.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/WmRbudc.png" tvg-status="live" group-title="General",TV5Monde France Belgium Switzerland Monaco
-https://n-5-2.eu.cdn-redge.media/livehls/oeu/mt/live/tv5_monde_fbs/live.livx/playlist.m3u8
+https://ott.tv5monde.com/Content/HLS/Live/channel(fbs)/variant.m3u8
 #EXTINF:-1 tvg-id="TV5MondeInfo.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/AJx5Fy2.png" tvg-status="live" group-title="News",TV5Monde Info
 http://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L4/b21193ce/2ee2c40a.isml/.m3u8
 #EXTINF:-1 tvg-id="TV5MondeLatinAmerica.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/x8rjGhp.png" tvg-status="down" group-title="General",TV5Monde Latin America

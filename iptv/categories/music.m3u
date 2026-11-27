@@ -31,7 +31,7 @@ https://adriaapp.b-cdn.net/1080p/index.m3u8
 https://albportal.net/albkanalemusic.m3u8
 #EXTINF:-1 tvg-id="AlegriaTV.bo" tvg-country="BO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/MIBZ2pZ.png" tvg-status="down" group-title="Music",Alegria TV
 https://lbgo.bozztv.com/ssh101/ssh101/confirmatv/playlist.m3u8
-#EXTINF:-1 tvg-id="AllegroHD.ar" tvg-country="AR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/bRH34Rn.png" tvg-status="live" group-title="Music",Allegro HD
+#EXTINF:-1 tvg-id="AllegroHD.ar" tvg-country="AR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/bRH34Rn.png" tvg-status="down" group-title="Music",Allegro HD
 http://158.172.155.130:8000/play/a0dn/index.m3u8
 #EXTINF:-1 tvg-id="AlternaTV.ar" tvg-country="AR" tvg-language="Spanish" tvg-logo="https://tv.alterna.ar/alternatv.png" tvg-status="live" group-title="Music",AlternaTV
 https://tv.alterna.ar/stream/hls/live.m3u8
@@ -49,6 +49,8 @@ http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
 https://arymusik.aryzap.com/3fd38b2c62d0c3bbd74aedabb533c03a/6459fa78/v1/01847ac7a4930b8ed5aa6ed04aba/01847ac8f5f70b8ed5aa6ed04abd/main.m3u8
 #EXTINF:-1 tvg-id="ATNMusic.bd" tvg-country="BD" tvg-language="Bengali" tvg-logo="https://www.jagobd.com/wp-content/uploads/2015/12/atnmusic.jpg?x50681" tvg-status="down" group-title="Music",ATN Music
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnmusic.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="BalcanMusicTV.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d4/Balcan_Music_TV.svg/revision/latest?cb=20220815201215" tvg-status="live" group-title="Music",Balcan Music TV
+https://rundle.tv/proxy5.php?src=https://arwen1.panaka001.cfd/balkmus/usergenko4x0g.m3u8
 #EXTINF:-1 tvg-id="Bandamax.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/4DfnOTA.png" tvg-status="live" group-title="Music",Bandamax
 http://181.78.106.127:5000/play/ca064/index.m3u8
 #EXTINF:-1 tvg-id="BelRTL.be" tvg-country="BE" tvg-language="French" tvg-logo="https://i.imgur.com/0DUprIW.png" tvg-status="down" group-title="Music",Bel RTL
@@ -60,7 +62,7 @@ https://tvboom.ro/live-tv/live.m3u8
 #EXTINF:-1 tvg-id="BOXTV.bg" tvg-country="BG" tvg-language="Bulgarian" tvg-logo="https://i.imgur.com/swFzesA.png" tvg-status="live" group-title="Music",BOX TV
 http://213.91.179.28:8000/play/a0an
 #EXTINF:-1 tvg-id="BRIDGE.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/qYObfrG.png" tvg-status="live" group-title="Music",BRIDGE
-http://178.134.1.158:8081/BRIDGE/index.m3u8
+http://194.143.148.28:8080/RT_DOC/index.m3u8
 #EXTINF:-1 tvg-id="BRIDGEClassic.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/JJTQq81.png" tvg-status="down" group-title="Classic",BRIDGE Classic
 http://5.188.159.128:8070/Bridge_TV_Classic/index.m3u8
 #EXTINF:-1 tvg-id="BRIDGEDance.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://bridgemusic.ru/s/img/channels/dance-white.svg" tvg-status="live" group-title="Music",BRIDGE Dance
@@ -68,7 +70,7 @@ https://bridgemedia-hls.cdnvideo.ru/hls/live/6aff09f290affe00013a80a9/720p.m3u8
 #EXTINF:-1 tvg-id="BRIDGEDeluxe.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/EazL8w7.png" tvg-status="down" group-title="Music",BRIDGE Deluxe
 http://stream.mcquack.net/92/index.m3u8
 #EXTINF:-1 tvg-id="BRIDGEHits.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/sIW9oR4.png" tvg-status="live" group-title="Music",BRIDGE Hits
-http://5.188.159.128:8070/Bridge_TV_Hits/index.m3u8
+http://s7.merlive.am/BRIDGETV/index.m3u8
 #EXTINF:-1 tvg-id="BRIDGEJazz.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://bridgemusic.ru/s/img/channels/jazz-white.svg" tvg-status="live" group-title="Music",BRIDGE Jazz
 https://bridgemedia-hls.cdnvideo.ru/hls/live/6aff0a0390affe00013a80aa/720p.m3u8
 #EXTINF:-1 tvg-id="BRIDGERap.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://bridgemusic.ru/s/img/channels/rap-logo-dark.svg" tvg-status="live" group-title="Music",BRIDGE Rap
@@ -259,8 +261,8 @@ http://149.100.11.235:8080/Mazzika/index.m3u8
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-mood/78367bf48ccdba501d0d014a10c21031/index.m3u8
 #EXTINF:-1 tvg-id="MCMTop.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/EVtWQLd.png" tvg-status="down" group-title="Music",MCM Top
 http://185.228.163.146:8000/play/a00g/index.m3u8
-#EXTINF:-1 tvg-id="MCMTop.ru" tvg-country="RU" tvg-language="French" tvg-logo="https://i.imgur.com/EVtWQLd.png" tvg-status="down" group-title="Music",MCM Top
-http://46.32.176.50/mcmtop/index.m3u8
+#EXTINF:-1 tvg-id="MCMTop.ru" tvg-country="RU" tvg-language="French" tvg-logo="https://i.imgur.com/EVtWQLd.png" tvg-status="live" group-title="Music",MCM Top
+http://s7.merlive.am/vipserial/index.m3u8
 #EXTINF:-1 tvg-id="MedMuzik.tr" tvg-country="TR" tvg-language="Kurdish" tvg-logo="https://i.imgur.com/gtUFmCD.png" tvg-status="live" group-title="Music",Med Muzik
 http://54.36.110.140/live3/live3.m3u8
 #EXTINF:-1 tvg-id="MegaBox.ni" tvg-country="NI" tvg-language="Spanish" tvg-logo="https://i.imgur.com/JqaW7Ei.png" tvg-status="down" group-title="Music",MegaBox
@@ -269,8 +271,8 @@ https://hdbox.chunklistv.com/live?stream=megabox
 https://ext.cdn.nashnet.tv/228.0.2.214/index.m3u8
 #EXTINF:-1 tvg-id="Melody.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/9GVyQ6x.png" tvg-status="live" group-title="Music",Melody
 https://r.eu.cdn-redge.media/livehls/oeu/mt/live/melody/live.livx/playlist.m3u8
-#EXTINF:-1 tvg-id="Mezzo.fr" tvg-country="FR" tvg-language="English" tvg-logo="https://i.imgur.com/auNdGeW.png" tvg-status="down" group-title="Music",Mezzo
-http://92.180.26.103/stream/62/index.m3u8
+#EXTINF:-1 tvg-id="Mezzo.fr" tvg-country="FR" tvg-language="English" tvg-logo="https://i.imgur.com/auNdGeW.png" tvg-status="live" group-title="Music",Mezzo
+http://s7.merlive.am/Mezzo/index.m3u8
 #EXTINF:-1 tvg-id="MezzoLive.fr" tvg-country="FR" tvg-language="English" tvg-logo="https://i.imgur.com/H9ytKPN.png" tvg-status="live" group-title="Music",Mezzo Live
 http://45.84.187.172:3001/udp/239.10.10.76:5000
 #EXTINF:-1 tvg-id="MiMusicaHits.us" tvg-country="US" tvg-language="Spanish" tvg-logo="https://i.imgur.com/z9MlLFL.png" tvg-status="down" group-title="Music",Mi Musica Hits
@@ -299,6 +301,8 @@ https://jmp2.uk/plu-62b218fc511d4b00070ddc0c.m3u8
 https://jmp2.uk/plu-6541010f770cf1000866be98.m3u8
 #EXTINF:-1 tvg-id="Music.kg" tvg-country="KG" tvg-language="Kirghiz" tvg-logo="https://www.utrk.kg/img/stream/45.png" tvg-native-name="Музыка" tvg-status="down" group-title="Music",Music
 https://st2.mediabay.tv/KG_KTRK-Muzika/index.m3u8
+#EXTINF:-1 tvg-id="MusicBox.vn" tvg-country="VN" tvg-language="Vietnamese" tvg-logo="https://i.ibb.co/cSHpm7qf/Music-Box.webp" tvg-status="live" group-title="Music",Music Box
+http://antm.dynu.net:14285/rtp/232.84.3.144:9588
 #EXTINF:-1 tvg-id="MusicBoxBrazil.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/CDPCF2X.png" tvg-status="live" group-title="Music",Music Box Brazil
 http://170.83.49.66:8083/MUSICBOXBRASILHD/index.m3u8
 #EXTINF:-1 tvg-id="MusicBoxClassic.cz" tvg-country="CZ" tvg-language="English" tvg-logo="https://musicboxclassic.com/music_box_classic_logo.png" tvg-status="live" group-title="Music",Music Box Classic
@@ -335,7 +339,7 @@ https://streams.adapto.kz/hls/live/muzzone/main_stream.m3u8
 https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
 #EXTINF:-1 tvg-id="NHBollyRaga.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://i.ibb.co/BKB9mv1K/NH-Bolly-Raga.png" tvg-status="live" group-title="Music",NH BollyRaga
 https://jmp2.uk/stvp-IN460001373
-#EXTINF:-1 tvg-id="NogoumFMTV.eg" tvg-country="EG" tvg-language="Arabic" tvg-logo="https://i.imgur.com/krp3kgv.png" tvg-status="live" group-title="Music",NogoumFMTV
+#EXTINF:-1 tvg-id="NogoumFMTV.eg" tvg-country="EG" tvg-language="Arabic" tvg-logo="https://i.imgur.com/krp3kgv.png" tvg-status="down" group-title="Music",NogoumFMTV
 https://nogoumtv.nrpstream.com/hls/stream.m3u8
 #EXTINF:-1 tvg-id="NorocTV.md" tvg-country="MD" tvg-language="Romanian" tvg-logo="https://i.imgur.com/XvYqpqG.png" tvg-status="live" group-title="Music",Noroc TV
 https://media.noroc.tv/noroc/bitrate_1080p.m3u8
@@ -347,8 +351,8 @@ https://stmv5.samcast.com.br/nasciparacantartv/nasciparacantartv/playlist.m3u8
 http://tv.nrg91.gr:1935/onweb/live/master.m3u8
 #EXTINF:-1 tvg-id="NRJHits.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/2xDVwOh.png" tvg-status="down" group-title="Music",NRJ Hits
 https://test.946985.filegear-sg.me/proxy/a23981548880f405
-#EXTINF:-1 tvg-id="o2tv.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/CM6z7fA.png" tvg-native-name="о2тв" tvg-status="down" group-title="Music",o2tv
-http://31.148.48.15/O2_HD/index.m3u8
+#EXTINF:-1 tvg-id="o2tv.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/CM6z7fA.png" tvg-native-name="о2тв" tvg-status="live" group-title="Music",o2tv
+http://s7.merlive.am/o2tv/index.m3u8
 #EXTINF:-1 tvg-id="OckoGold.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.imgur.com/nrWNyLc.jpg" tvg-status="live" group-title="Music",Ocko Gold
 https://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist.m3u8
 #EXTINF:-1 tvg-id="OndambientalTV.co" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/u5804Au.jpg" tvg-status="down" group-title="Music",Ondambiental TV
@@ -559,7 +563,7 @@ https://hls.vantagetv.ee/vclassic_stream/index.m3u8
 https://hls.vantagetv.ee/vdance_stream/main_stream.m3u8
 #EXTINF:-1 tvg-id="VantageMusic.ee" tvg-country="EE" tvg-language="English" tvg-logo="https://vantagetv.ee/vantage_music.png" tvg-status="live" group-title="Music",Vantage Music
 https://hls.vantagetv.ee/vmusic_stream/main_stream.m3u8
-#EXTINF:-1 tvg-id="VantageRock.ee" tvg-country="EE" tvg-language="English" tvg-logo="https://vantagetv.ee/vantage_rock.png" tvg-status="live" group-title="Music",Vantage Rock
+#EXTINF:-1 tvg-id="VantageRock.ee" tvg-country="EE" tvg-language="English" tvg-logo="https://vantagetv.ee/vantage_rock.png" tvg-status="down" group-title="Music",Vantage Rock
 https://hls.vantagetv.ee/vrock_stream/index.m3u8
 #EXTINF:-1 tvg-id="Verba.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://bridgemusic.ru/s/img/channels/verba-white.svg" tvg-native-name="Верба" tvg-status="live" group-title="Music",Verba
 https://bridgemedia-hls.cdnvideo.ru/hls/live/6aff0d0f81d78600017e02c1/720p.m3u8
