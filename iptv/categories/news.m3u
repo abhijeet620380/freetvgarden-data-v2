@@ -121,6 +121,8 @@ https://operativmm.az/tvs/arb24/stream/index.m3u8
 https://api-tv.ipnet.ua/api/v1/manifest/2118742632.m3u8
 #EXTINF:-1 tvg-id="ASTV.tr" tvg-country="TR" tvg-language="Turkish" tvg-logo="https://asset.artidijitalmedya.com/image/188x188/channels/v1/logo_13.png" tvg-status="live" group-title="News",AS TV
 https://live.artidijitalmedya.com/artidijital_astv/astv/playlist.m3u8
+#EXTINF:-1 tvg-id="AtlanticoTelevision.es" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/JB5QkAw.png" tvg-status="live" group-title="News",Atlantico Television
+https://live.atlanticotelevision.com/hls/hi/index.m3u8
 #EXTINF:-1 tvg-id="ATVPlus.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/56/ATV%2B_logo_2020.png" tvg-status="live" group-title="News",ATV+
 http://45.171.108.253:8888/ATV/index.m3u8
 #EXTINF:-1 tvg-id="AznewsTV.se" tvg-country="SE" tvg-language="Azerbaijani" tvg-logo="https://i.imgur.com/Kw17XfP.png" tvg-status="down" group-title="News",Aznews TV
@@ -230,7 +232,7 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/cnew
 #EXTINF:-1 tvg-id="CNEWSPRIME.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://www.cnews.fr/themes/cnews/img/cnews-prime.png" tvg-status="live" group-title="News",CNEWS PRIME
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/cnews-prime-dm.m3u8
 #EXTINF:-1 tvg-id="CNN.us" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/960px-CNN.svg.png" tvg-status="live" group-title="News",CNN
-https://tvsen6.aynaott.com/cnn/index.m3u8
+http://212.5.144.156:8080/cnn/index.m3u8
 #EXTINF:-1 tvg-id="CNNHeadlines.us" tvg-country="US" tvg-language="English" tvg-logo="https://provider-static.plex.tv/epg/cms/production/de3851fb-9598-4d13-8e03-f421418c9b5b/CNN_Headlines_ChannelLogo_Dark_1500x1000_2025_-_Grace_Hartwig.png" tvg-status="live" group-title="News",CNN Headlines
 https://amg01918-cnnus-amg01918c1-vizio-us-1813.playouts.now.amagi.tv/playlist/amg01918-cnnus-cnnheadlines-vizious/playlist.m3u8
 #EXTINF:-1 tvg-id="CNNIndonesia.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/CNN_Indonesia_logo_%282023%29.svg" tvg-status="live" group-title="News",CNN Indonesia
@@ -429,15 +431,15 @@ http://livevideo.infomaniak.com/streaming/livecast/naxoo/playlist.m3u8
 https://stream-hls.castr.net/64490fcefe045f1b63012886/live_22d9a1f0c69c11ee9441219c2cc6d61f/index.fmp4.m3u8
 #EXTINF:-1 tvg-id="LiveNOWfromFOX.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/1JnyzHv.png" tvg-status="live" group-title="News",LiveNOW from FOX
 https://aka-live1050.delivery.roku.com/eaf7d889-16e0-4c14-a299-a2932df9f467/t2-origin/out/v1/live.m3u8
-#EXTINF:-1 tvg-id="LN247.ng" tvg-country="NG" tvg-language="English" tvg-logo="https://i.imgur.com/s6PUehQ.jpg" tvg-status="down" group-title="News",LN247
-https://go5lmb6oyawb-hls-live.5centscdn.com/station/3dfd3752af3d7aec5c53992c2da3a316.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="LN247.ng" tvg-country="NG" tvg-language="English" tvg-logo="https://i.imgur.com/s6PUehQ.jpg" tvg-status="live" group-title="News",LN247
+https://vcpout-lw-wdc-01-sp.ceflixcdn.com/ln247/stream6/playlist.m3u8
 #EXTINF:-1 tvg-id="LocalNow.us" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/LocalNow_logo_2020.png/500px-LocalNow_logo_2020.png" tvg-status="live" group-title="News",Local Now
 https://localnow-vizio.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="LokmatBharat.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/lokmatbharat.png" tvg-status="live" group-title="News",Lokmat Bharat
 https://stream.ottlive.co.in/lokmatbharat/index.m3u8
 #EXTINF:-1 tvg-id="LolweTV.ke" tvg-country="KE" tvg-language="English" tvg-logo="https://i.imgur.com/tjZ1cOP.png" tvg-status="live" group-title="News",Lolwe TV
 https://goliveafrica.media:9998/live/62580e144eb43/index.m3u8
-#EXTINF:-1 tvg-id="MNetInfo.mk" tvg-country="MK" tvg-language="Macedonian" tvg-logo="https://i.ibb.co/0fnY2cj/IMG-20230419-161527.jpg" tvg-status="down" group-title="News",M-Net Info
+#EXTINF:-1 tvg-id="MNetInfo.mk" tvg-country="MK" tvg-language="Macedonian" tvg-logo="https://i.ibb.co/0fnY2cj/IMG-20230419-161527.jpg" tvg-status="live" group-title="News",M-Net Info
 https://live.mnet.mk/hls/mnet-info.m3u8
 #EXTINF:-1 tvg-id="M1.hu" tvg-country="HU" tvg-language="Hungarian" tvg-logo="https://i.imgur.com/r4tgKZK.png" tvg-status="live" group-title="News",M1
 http://88.212.7.14/live/test_m_1_hungary_1200_atk/playlist.m3u8
@@ -461,6 +463,8 @@ http://15.204.196.147:22880/MEGANOTICIA-MEGAMEDIA-EE.UU-PROVEEDOR/video.m3u8
 https://g4wlkqp8l23a-hls-live.5centscdn.com/MerejaTV/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="Metro1News.pk" tvg-country="PK" tvg-language="Urdu" tvg-logo="https://i.imgur.com/qD9cj27.jpg" tvg-status="down" group-title="News",Metro1 News
 http://103.250.28.74:8000/play/a04u/index.m3u8
+#EXTINF:-1 tvg-id="MirameTV.es" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/LK4pLgT.png" tvg-status="live" group-title="News",Mirame TV
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=13696&live=1
 #EXTINF:-1 tvg-id="MongolianNewsChannel.mn" tvg-country="MN" tvg-language="Mongolian" tvg-logo="https://www.mongolsat.mn/assets/img/channel/25.png" tvg-status="live" group-title="News",Mongolian News Channel
 https://cdn4.skygo.mn/live/disk1/MNCTV/DASH-FTA/MNCTV.mpd
 #EXTINF:-1 tvg-id="MTVUutiset.fi" tvg-country="FI" tvg-language="Finnish" tvg-logo="https://i.imgur.com/ZO8ShOK.png" tvg-status="down" group-title="News",MTV Uutiset
@@ -534,12 +538,12 @@ https://amg01076-lightning-amg01076c5-rakuten-us-1788.playouts.now.amagi.tv/play
 #EXTINF:-1 tvg-id="NH.nl" tvg-country="NL" tvg-language="Dutch" tvg-logo="https://i.imgur.com/SPkK4md.png" tvg-status="live" group-title="General",NH
 https://takeoff.jetstre.am/?account=nhnieuws&file=live&output=playlist.m3u8&protocol=https&service=wowza&type=live
 #EXTINF:-1 tvg-id="NHKWorldJapan.jp" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBOS3oZsG3YZoxF4qvBSiwVII1KbfdMrMHMg&s" tvg-status="live" group-title="News",NHK World-Japan
-https://freem3u.xyz/api/live/play.m3u8?vid=106
+http://170.83.16.50/NHK_WORLD/index.m3u8
 #EXTINF:-1 tvg-id="NKTVBangla.in" tvg-country="IN" tvg-language="Bengali" tvg-logo="https://www.nktvbangla.com/wp-content/uploads/2023/09/WhatsApp-Image-2023-09-12-at-2.59.18-PM.jpg" tvg-status="live" group-title="News",NK TV Bangla
 https://mumt05.tangotv.in/87NeALx2NKTVPLUSBANGLA/index.m3u8
 #EXTINF:-1 tvg-id="NonStopBharat.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nonstop-bharat-in.png" tvg-status="live" group-title="News",Non Stop Bharat
 https://mumt07.tangotv.in/zHjX9OFlCHAUKASTV/index.m3u8
-#EXTINF:-1 tvg-id="Noticias16.do" tvg-country="DO" tvg-language="Spanish" tvg-logo="" tvg-status="down" group-title="News",Noticias 16
+#EXTINF:-1 tvg-id="Noticias16.do" tvg-country="DO" tvg-language="Spanish" tvg-logo="" tvg-status="live" group-title="News",Noticias 16
 https://edge.essastream.com/noticias16/playlist.m3u8
 #EXTINF:-1 tvg-id="NoticiasRCN.co" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/FMX4QCM.png" tvg-status="live" group-title="News",Noticias RCN
 https://jmp2.uk/plu-67d9b0ebc290c9499046e88f.m3u8
@@ -646,7 +650,7 @@ https://rt-fra.rttv.com/dvr/rtfrance/playlist.m3u8
 #EXTINF:-1 tvg-id="RTHKTV35.hk" tvg-country="HK" tvg-language="English" tvg-logo="https://i.imgur.com/FQmNKDS.png" tvg-native-name="港台電視35" tvg-status="down" group-title="News",RTHK TV 35
 https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/master.m3u8
 #EXTINF:-1 tvg-id="RTPNoticias.pt" tvg-country="PT" tvg-language="Portuguese" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/rtpnoticias_2026.png" tvg-status="live" group-title="News",RTP Noticias
-https://streaming-live.rtp.pt/livetvhlsDVR/rtpnHDdvr.smil/playlist.m3u8
+https://streaming-live.rtp.pt/livetvhlsDVR/rtpndvr.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="RTSInfo.ch" tvg-country="CH" tvg-language="French" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/switzerland/rts-info-ch.png" tvg-status="down" group-title="News",RTS Info
 https://rtsinfo-d.akamaized.net/out/v1/2b7ae2e1ba3f43c6aba15bced153baf5/index.m3u8
 #EXTINF:-1 tvg-id="RTSH24.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="https://i.imgur.com/H6tCoGW.png" tvg-status="down" group-title="News",RTSH 24
